@@ -1,9 +1,9 @@
-; Version: 202504110212
+; Version: 202504110313
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40514
-; Last modified: 2025-04-11T02:12:36+0000
+; Entries: 40530
+; Last modified: 2025-04-11T03:13:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744336803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744340403 86400 3600 604800 30
  NS localhost.
 007moms.com CNAME .
 *.007moms.com CNAME .
@@ -223,6 +223,8 @@ $TTL 30
 *.1mei.live CNAME .
 1passforallsites.com CNAME .
 *.1passforallsites.com CNAME .
+1plus1tv.com CNAME .
+*.1plus1tv.com CNAME .
 1plus1tv.ru CNAME .
 *.1plus1tv.ru CNAME .
 1pondo.com CNAME .
@@ -6919,6 +6921,8 @@ collegesexgames.com CNAME .
 *.collegesexgames.com CNAME .
 colliderporn.com CNAME .
 *.colliderporn.com CNAME .
+collishop.be CNAME .
+*.collishop.be CNAME .
 colochas.com CNAME .
 *.colochas.com CNAME .
 comdotcdn.com CNAME .
@@ -9155,6 +9159,8 @@ enjoyfuck.com CNAME .
 *.enjoyfuck.com CNAME .
 enjoyx.com CNAME .
 *.enjoyx.com CNAME .
+entangada.com CNAME .
+*.entangada.com CNAME .
 entensity.net CNAME .
 *.entensity.net CNAME .
 entrainchat.it CNAME .
@@ -10995,6 +11001,8 @@ flingster.com CNAME .
 *.flingster.com CNAME .
 flingunited.co.uk CNAME .
 *.flingunited.co.uk CNAME .
+flirt-spiel.de CNAME .
+*.flirt-spiel.de CNAME .
 flirt4free.com CNAME .
 *.flirt4free.com CNAME .
 flirt888.com CNAME .
@@ -11271,6 +11279,8 @@ free-xxx-tubes.com CNAME .
 *.free-xxx-tubes.com CNAME .
 free-xxx-videos.me CNAME .
 *.free-xxx-videos.me CNAME .
+free.bg CNAME .
+*.free.bg CNAME .
 free.hr CNAME .
 *.free.hr CNAME .
 free.nf CNAME .
@@ -15555,6 +15565,8 @@ hungangels.com CNAME .
 *.hungangels.com CNAME .
 hunhentai.com CNAME .
 *.hunhentai.com CNAME .
+hunk-ch.com CNAME .
+*.hunk-ch.com CNAME .
 hunqz.com CNAME .
 *.hunqz.com CNAME .
 hunsex.hu CNAME .
@@ -17393,6 +17405,8 @@ javtsunami.com CNAME .
 *.javtsunami.com CNAME .
 javtube.com CNAME .
 *.javtube.com CNAME .
+javtxt.com CNAME .
+*.javtxt.com CNAME .
 javunited2.com CNAME .
 *.javunited2.com CNAME .
 javunitedxxx.com CNAME .
@@ -18061,8 +18075,6 @@ kekma.net CNAME .
 *.kekma.net CNAME .
 kekporn.com CNAME .
 *.kekporn.com CNAME .
-kelasbintang.fun CNAME .
-*.kelasbintang.fun CNAME .
 kellymadison.com CNAME .
 *.kellymadison.com CNAME .
 kellymadisonmedia.com CNAME .
@@ -27203,6 +27215,8 @@ prava1.com CNAME .
 *.prava1.com CNAME .
 prava112b.com CNAME .
 *.prava112b.com CNAME .
+prava112j.com CNAME .
+*.prava112j.com CNAME .
 prava112l.com CNAME .
 *.prava112l.com CNAME .
 prava112m.com CNAME .
@@ -35329,6 +35343,8 @@ usasexguide.nl CNAME .
 *.usasexguide.nl CNAME .
 usasexguide.online CNAME .
 *.usasexguide.online CNAME .
+usatini.com CNAME .
+*.usatini.com CNAME .
 use-application-dns.net CNAME .
 *.use-application-dns.net CNAME .
 uselessjunk.com CNAME .
