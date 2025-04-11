@@ -1,9 +1,9 @@
-; Version: 202504111908
+; Version: 202504112009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 88048
-; Last modified: 2025-04-11T19:08:31+0000
+; Last modified: 2025-04-11T20:09:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744398003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744401603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -25743,8 +25743,6 @@ d26adrx9c3n0mq.cloudfront.net CNAME .
 *.d26adrx9c3n0mq.cloudfront.net CNAME .
 d26e5rmb2qzuo3.cloudfront.net CNAME .
 *.d26e5rmb2qzuo3.cloudfront.net CNAME .
-d26e83b697.com CNAME .
-*.d26e83b697.com CNAME .
 d26p9ecwyy9zqv.cloudfront.net CNAME .
 *.d26p9ecwyy9zqv.cloudfront.net CNAME .
 d26us1doo6mh7f.cloudfront.net CNAME .
@@ -26609,8 +26607,6 @@ d3d52lhoy0sh2w.cloudfront.net CNAME .
 *.d3d52lhoy0sh2w.cloudfront.net CNAME .
 d3d54j7si4woql.cloudfront.net CNAME .
 *.d3d54j7si4woql.cloudfront.net CNAME .
-d3d7a0q05k6bvz.cloudfront.net CNAME .
-*.d3d7a0q05k6bvz.cloudfront.net CNAME .
 d3d9gb3ic8fsgg.cloudfront.net CNAME .
 *.d3d9gb3ic8fsgg.cloudfront.net CNAME .
 d3d9pt4go32tk8.cloudfront.net CNAME .
@@ -44429,6 +44425,8 @@ jc1.dayfund.com.cn CNAME .
 *.jc1.dayfund.com.cn CNAME .
 jc32arlvqpv8.com CNAME .
 *.jc32arlvqpv8.com CNAME .
+jcafpiaqjoh.com CNAME .
+*.jcafpiaqjoh.com CNAME .
 jclrwjceymgec.com CNAME .
 *.jclrwjceymgec.com CNAME .
 jcosjpir.com CNAME .
@@ -51177,6 +51175,8 @@ mempoonsoftoow.net CNAME .
 *.mempoonsoftoow.net CNAME .
 menacehabit.com CNAME .
 *.menacehabit.com CNAME .
+menacesdisced.com CNAME .
+*.menacesdisced.com CNAME .
 menacing-awareness.pro CNAME .
 *.menacing-awareness.pro CNAME .
 menews.org CNAME .
@@ -54265,8 +54265,6 @@ newscode.me CNAME .
 *.newscode.me CNAME .
 newsformuse.com CNAME .
 *.newsformuse.com CNAME .
-newsfortoday2.xyz CNAME .
-*.newsfortoday2.xyz CNAME .
 newsforyourmood.com CNAME .
 *.newsforyourmood.com CNAME .
 newsfrompluto.com CNAME .
@@ -57525,6 +57523,8 @@ ouvrefth.shop CNAME .
 *.ouvrefth.shop CNAME .
 ouweessougleji.net CNAME .
 *.ouweessougleji.net CNAME .
+ouwfrfxixetxuu.com CNAME .
+*.ouwfrfxixetxuu.com CNAME .
 ouzosbesiren.com CNAME .
 *.ouzosbesiren.com CNAME .
 ov.yahoo.co.jp CNAME .
@@ -58119,6 +58119,8 @@ paludicrapped.shop CNAME .
 *.paludicrapped.shop CNAME .
 paluinho.cloud CNAME .
 *.paluinho.cloud CNAME .
+pamcallets.shop CNAME .
+*.pamcallets.shop CNAME .
 pampergloriafable.com CNAME .
 *.pampergloriafable.com CNAME .
 pamperseparate.com CNAME .
@@ -76097,8 +76099,6 @@ thecoreadv.com CNAME .
 *.thecoreadv.com CNAME .
 theefiwu.net CNAME .
 *.theefiwu.net CNAME .
-theehouho.xyz CNAME .
-*.theehouho.xyz CNAME .
 theekedgleamed.com CNAME .
 *.theekedgleamed.com CNAME .
 theepsie.com CNAME .
@@ -87189,8 +87189,6 @@ ytru4.pro CNAME .
 *.ytru4.pro CNAME .
 yttompthree.com CNAME .
 *.yttompthree.com CNAME .
-ytuooivmv.xyz CNAME .
-*.ytuooivmv.xyz CNAME .
 ytzihf.com CNAME .
 *.ytzihf.com CNAME .
 yu0123456.com CNAME .
@@ -87613,6 +87611,8 @@ zidojrol.com CNAME .
 *.zidojrol.com CNAME .
 ziggingantlid.com CNAME .
 *.ziggingantlid.com CNAME .
+zigoulraugnechu.net CNAME .
+*.zigoulraugnechu.net CNAME .
 zigzag.vn CNAME .
 *.zigzag.vn CNAME .
 zigzagrowy.com CNAME .
