@@ -1,9 +1,9 @@
-; Version: 202504112009
+; Version: 202504112139
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88048
-; Last modified: 2025-04-11T20:09:05+0000
+; Entries: 88042
+; Last modified: 2025-04-11T21:39:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744401603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744405204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31131,8 +31131,6 @@ e3202e1cad.com CNAME .
 *.e3202e1cad.com CNAME .
 e3b36d8f06.69de27b955.com CNAME .
 *.e3b36d8f06.69de27b955.com CNAME .
-e437040a9a.com CNAME .
-*.e437040a9a.com CNAME .
 e459.kcci.com CNAME .
 *.e459.kcci.com CNAME .
 e46ece0a18.com CNAME .
@@ -53745,8 +53743,6 @@ naughtybureau.com CNAME .
 *.naughtybureau.com CNAME .
 naughtynotice.pro CNAME .
 *.naughtynotice.pro CNAME .
-naulme.info CNAME .
-*.naulme.info CNAME .
 naumezeephovy.net CNAME .
 *.naumezeephovy.net CNAME .
 naupsakiwhy.com CNAME .
@@ -57155,8 +57151,6 @@ osdjartaqnm.com CNAME .
 *.osdjartaqnm.com CNAME .
 osdmuxzag.com CNAME .
 *.osdmuxzag.com CNAME .
-osekwacuoxt.xyz CNAME .
-*.osekwacuoxt.xyz CNAME .
 osfrjut.com CNAME .
 *.osfrjut.com CNAME .
 osfultrbriolenai.info CNAME .
