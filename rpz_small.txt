@@ -1,9 +1,9 @@
-; Version: 202504111509
+; Version: 202504111609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87860
-; Last modified: 2025-04-11T15:09:52+0000
+; Entries: 87850
+; Last modified: 2025-04-11T16:09:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744383603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744387203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1257,8 +1257,6 @@ $TTL 30
 *.2pc6q54ga.de CNAME .
 2qj7mq3w4uxe.com CNAME .
 *.2qj7mq3w4uxe.com CNAME .
-2qy9zm.cn CNAME .
-*.2qy9zm.cn CNAME .
 2rb5hh5t6.de CNAME .
 *.2rb5hh5t6.de CNAME .
 2rbda.icu CNAME .
@@ -10049,8 +10047,6 @@ amongassessment.com CNAME .
 *.amongassessment.com CNAME .
 amongnemesesquadrant.com CNAME .
 *.amongnemesesquadrant.com CNAME .
-amongqueue.com CNAME .
-*.amongqueue.com CNAME .
 amongremember.com CNAME .
 *.amongremember.com CNAME .
 amongstbestrew.top CNAME .
@@ -46273,8 +46269,6 @@ krkstrk.com CNAME .
 *.krkstrk.com CNAME .
 kronosoolites.top CNAME .
 *.kronosoolites.top CNAME .
-kronosspell.com CNAME .
-*.kronosspell.com CNAME .
 kropka.onet.pl CNAME .
 *.kropka.onet.pl CNAME .
 krqmfmh.com CNAME .
@@ -63011,8 +63005,6 @@ qgxlldywbcfrjoj.com CNAME .
 *.qgxlldywbcfrjoj.com CNAME .
 qhdhtd.com CNAME .
 *.qhdhtd.com CNAME .
-qhdtlgthqqovcw.xyz CNAME .
-*.qhdtlgthqqovcw.xyz CNAME .
 qheose.xyz CNAME .
 *.qheose.xyz CNAME .
 qhogcyoqrl.com CNAME .
@@ -75205,8 +75197,6 @@ tartarsharped.com CNAME .
 *.tartarsharped.com CNAME .
 tartator.com CNAME .
 *.tartator.com CNAME .
-tartlyabamp.com CNAME .
-*.tartlyabamp.com CNAME .
 tarvardsusyseinpou.info CNAME .
 *.tarvardsusyseinpou.info CNAME .
 tarybabottega.com CNAME .
