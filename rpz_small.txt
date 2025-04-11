@@ -1,9 +1,9 @@
-; Version: 202504111309
+; Version: 202504111409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87882
-; Last modified: 2025-04-11T13:09:58+0000
+; Entries: 87866
+; Last modified: 2025-04-11T14:09:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744376403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744380003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1705,8 +1705,6 @@ $TTL 30
 *.42ce2b0955.com CNAME .
 42d9c0e6fb.com CNAME .
 *.42d9c0e6fb.com CNAME .
-42dbd09587.com CNAME .
-*.42dbd09587.com CNAME .
 42jdbcb.de CNAME .
 *.42jdbcb.de CNAME .
 43113977.xyz CNAME .
@@ -12555,8 +12553,6 @@ armisticediscrepancyswine.com CNAME .
 *.armisticediscrepancyswine.com CNAME .
 armoryassembly.com CNAME .
 *.armoryassembly.com CNAME .
-armoursviolino.com CNAME .
-*.armoursviolino.com CNAME .
 armpitoriginally.com CNAME .
 *.armpitoriginally.com CNAME .
 army.delivery CNAME .
@@ -34547,8 +34543,6 @@ feintelbowsburglar.com CNAME .
 *.feintelbowsburglar.com CNAME .
 feistyhelicopter.com CNAME .
 *.feistyhelicopter.com CNAME .
-feistymountain.com CNAME .
-*.feistymountain.com CNAME .
 fejla.com CNAME .
 *.fejla.com CNAME .
 felidae.mmm.page CNAME .
@@ -40105,8 +40099,6 @@ hdbtop.com CNAME .
 *.hdbtop.com CNAME .
 hddcode.com CNAME .
 *.hddcode.com CNAME .
-hdoditwa.xyz CNAME .
-*.hdoditwa.xyz CNAME .
 hdogyhefdq.com CNAME .
 *.hdogyhefdq.com CNAME .
 hdsrc-a.akamaihd.net CNAME .
@@ -67561,8 +67553,6 @@ saddlecooperation.com CNAME .
 *.saddlecooperation.com CNAME .
 sadobeanalytics.geico.com CNAME .
 *.sadobeanalytics.geico.com CNAME .
-sadrettinnow.com CNAME .
-*.sadrettinnow.com CNAME .
 safebrowsdv.com CNAME .
 *.safebrowsdv.com CNAME .
 safeglimmerlongitude.com CNAME .
@@ -74505,8 +74495,6 @@ syndication.link5a.com CNAME .
 *.syndication.link5a.com CNAME .
 syndication.link5c.com CNAME .
 *.syndication.link5c.com CNAME .
-syndication.linkfryn.com CNAME .
-*.syndication.linkfryn.com CNAME .
 syndication.linkwitt.com CNAME .
 *.syndication.linkwitt.com CNAME .
 syndication.ouzads.com CNAME .
@@ -77243,8 +77231,6 @@ tp2p.kg.qq.com CNAME .
 *.tp2p.kg.qq.com CNAME .
 tpbid.com CNAME .
 *.tpbid.com CNAME .
-tpciqzm.com CNAME .
-*.tpciqzm.com CNAME .
 tpcserve.com CNAME .
 *.tpcserve.com CNAME .
 tpi-app.herokuapp.com CNAME .
@@ -87869,8 +87855,6 @@ zyfnbl.xyz CNAME .
 *.zyfnbl.xyz CNAME .
 zygoticroud.shop CNAME .
 *.zygoticroud.shop CNAME .
-zygousgauby.com CNAME .
-*.zygousgauby.com CNAME .
 zykumw.com CNAME .
 *.zykumw.com CNAME .
 zylizz.xyz CNAME .
