@@ -1,9 +1,9 @@
-; Version: 202504111110
+; Version: 202504111209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87906
-; Last modified: 2025-04-11T11:10:28+0000
+; Entries: 87900
+; Last modified: 2025-04-11T12:09:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744369203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744372803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11631,8 +11631,6 @@ anywaypossible.com CNAME .
 *.anywaypossible.com CNAME .
 anywaysreives.com CNAME .
 *.anywaysreives.com CNAME .
-anywhereconvince.com CNAME .
-*.anywhereconvince.com CNAME .
 anzabboktk.com CNAME .
 *.anzabboktk.com CNAME .
 ao-freegeoip.herokuapp.com CNAME .
@@ -34333,8 +34331,6 @@ fawnnaresh.com CNAME .
 *.fawnnaresh.com CNAME .
 faxqaaawyb.com CNAME .
 *.faxqaaawyb.com CNAME .
-faykitturn.live CNAME .
-*.faykitturn.live CNAME .
 fazanppq.com CNAME .
 *.fazanppq.com CNAME .
 fb-plus.com CNAME .
@@ -79665,8 +79661,6 @@ typical-hub.com CNAME .
 *.typical-hub.com CNAME .
 typiccor.com CNAME .
 *.typiccor.com CNAME .
-typiconrices.com CNAME .
-*.typiconrices.com CNAME .
 typojesuit.com CNAME .
 *.typojesuit.com CNAME .
 tyqwjh23d.com CNAME .
