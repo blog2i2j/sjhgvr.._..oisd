@@ -1,9 +1,9 @@
-; Version: 202504111009
+; Version: 202504111110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87912
-; Last modified: 2025-04-11T10:09:53+0000
+; Entries: 87906
+; Last modified: 2025-04-11T11:10:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744365603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744369203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12191,8 +12191,6 @@ approved.website CNAME .
 *.approved.website CNAME .
 approvelongestrepel.com CNAME .
 *.approvelongestrepel.com CNAME .
-approvewordingcashier.com CNAME .
-*.approvewordingcashier.com CNAME .
 approximatecaloriegallon.com CNAME .
 *.approximatecaloriegallon.com CNAME .
 apps-pbd.ctraffic.io CNAME .
@@ -53155,8 +53153,6 @@ my-rudderjolly.com CNAME .
 *.my-rudderjolly.com CNAME .
 my.007moms.com CNAME .
 *.my.007moms.com CNAME .
-my.shymilftube.com CNAME .
-*.my.shymilftube.com CNAME .
 my.toruftuiov.com CNAME .
 *.my.toruftuiov.com CNAME .
 my03.com CNAME .
@@ -79709,8 +79705,6 @@ tzvpn.site CNAME .
 *.tzvpn.site CNAME .
 tzyzlow.cn CNAME .
 *.tzyzlow.cn CNAME .
-tzyzspbvfvnck.site CNAME .
-*.tzyzspbvfvnck.site CNAME .
 u-oxmzhuo.tech CNAME .
 *.u-oxmzhuo.tech CNAME .
 u.btserve.com CNAME .
