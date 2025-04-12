@@ -1,9 +1,9 @@
-; Version: 202504120809
+; Version: 202504120908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87930
-; Last modified: 2025-04-12T08:09:12+0000
+; Entries: 87912
+; Last modified: 2025-04-12T09:08:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744444803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744448403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1657,8 +1657,6 @@ $TTL 30
 *.40ceexln7929.com CNAME .
 40cg.com CNAME .
 *.40cg.com CNAME .
-40hardcore.galleryprogram.com CNAME .
-*.40hardcore.galleryprogram.com CNAME .
 4111ae9ec0.com CNAME .
 *.4111ae9ec0.com CNAME .
 41206396.xyz CNAME .
@@ -20605,8 +20603,6 @@ chivalrouscalmlymexican.com CNAME .
 *.chivalrouscalmlymexican.com CNAME .
 chiverlogical.shop CNAME .
 *.chiverlogical.shop CNAME .
-chivoagrie.net CNAME .
-*.chivoagrie.net CNAME .
 chl7rysobc3ol6xla.com CNAME .
 *.chl7rysobc3ol6xla.com CNAME .
 chloredenpia.shop CNAME .
@@ -40737,8 +40733,6 @@ himekingrow.com CNAME .
 *.himekingrow.com CNAME .
 himgta.com CNAME .
 *.himgta.com CNAME .
-himhedrankslo.xyz CNAME .
-*.himhedrankslo.xyz CNAME .
 himosteg.xyz CNAME .
 *.himosteg.xyz CNAME .
 himtothesieg.org CNAME .
@@ -42801,8 +42795,6 @@ imtwjwoasak.com CNAME .
 *.imtwjwoasak.com CNAME .
 imuhmgptdoae.com CNAME .
 *.imuhmgptdoae.com CNAME .
-imvjcds.com CNAME .
-*.imvjcds.com CNAME .
 imyanmarads.com CNAME .
 *.imyanmarads.com CNAME .
 imydreamsauknd.com CNAME .
@@ -45957,8 +45949,6 @@ kkfdajrsqehl.com CNAME .
 *.kkfdajrsqehl.com CNAME .
 kkieeoxcjpqah.vip CNAME .
 *.kkieeoxcjpqah.vip CNAME .
-kklfbucxmylnbdv.xyz CNAME .
-*.kklfbucxmylnbdv.xyz CNAME .
 kkmacsqsbf.info CNAME .
 *.kkmacsqsbf.info CNAME .
 kkqcnrk.com CNAME .
@@ -59337,8 +59327,6 @@ phovaiksou.net CNAME .
 *.phovaiksou.net CNAME .
 phpad.cqnews.net CNAME .
 *.phpad.cqnews.net CNAME .
-phqxvlwud.com CNAME .
-*.phqxvlwud.com CNAME .
 phraa-lby.com CNAME .
 *.phraa-lby.com CNAME .
 phsism.com CNAME .
@@ -78937,8 +78925,6 @@ tricemortal.com CNAME .
 *.tricemortal.com CNAME .
 tricklesmartdiscourage.com CNAME .
 *.tricklesmartdiscourage.com CNAME .
-trickvealwagon.com CNAME .
-*.trickvealwagon.com CNAME .
 trickycelery.com CNAME .
 *.trickycelery.com CNAME .
 trickynationalityturn.com CNAME .
@@ -82561,8 +82547,6 @@ vpxxolmxyaludyr.com CNAME .
 *.vpxxolmxyaludyr.com CNAME .
 vpxzunvaldxcp.world CNAME .
 *.vpxzunvaldxcp.world CNAME .
-vpydjogaytpg.xyz CNAME .
-*.vpydjogaytpg.xyz CNAME .
 vqbzpv.xyz CNAME .
 *.vqbzpv.xyz CNAME .
 vqfumxea.com CNAME .
@@ -83581,8 +83565,6 @@ wejeestuze.net CNAME .
 *.wejeestuze.net CNAME .
 wel-wel-fie.com CNAME .
 *.wel-wel-fie.com CNAME .
-welbljlvmmyzw.top CNAME .
-*.welbljlvmmyzw.top CNAME .
 welcomeneat.pro CNAME .
 *.welcomeneat.pro CNAME .
 welcomevaliant.com CNAME .
