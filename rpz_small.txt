@@ -1,9 +1,9 @@
-; Version: 202504121109
+; Version: 202504121209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87886
-; Last modified: 2025-04-12T11:09:09+0000
+; Entries: 87872
+; Last modified: 2025-04-12T12:09:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744455603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744459203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7927,8 +7927,6 @@ advantagespire.com CNAME .
 *.advantagespire.com CNAME .
 advard.com CNAME .
 *.advard.com CNAME .
-advariant.com CNAME .
-*.advariant.com CNAME .
 advast.sibnet.ru CNAME .
 *.advast.sibnet.ru CNAME .
 adventory.com CNAME .
@@ -21637,8 +21635,6 @@ cloudimagesa.com CNAME .
 *.cloudimagesa.com CNAME .
 cloudimagesb.com CNAME .
 *.cloudimagesb.com CNAME .
-cloudlogobox.com CNAME .
-*.cloudlogobox.com CNAME .
 cloudmetrics.xenforo.com CNAME .
 *.cloudmetrics.xenforo.com CNAME .
 cloudpsh.top CNAME .
@@ -21857,8 +21853,6 @@ cobblercohog.com CNAME .
 *.cobblercohog.com CNAME .
 coblesrondel.shop CNAME .
 *.coblesrondel.shop CNAME .
-cobourgvenging.com CNAME .
-*.cobourgvenging.com CNAME .
 cobwebcomprehension.com CNAME .
 *.cobwebcomprehension.com CNAME .
 cobwebhauntedallot.com CNAME .
@@ -41759,8 +41753,6 @@ hwhqbjhrqekbvh.com CNAME .
 *.hwhqbjhrqekbvh.com CNAME .
 hwnojj.xyz CNAME .
 *.hwnojj.xyz CNAME .
-hwof.info CNAME .
-*.hwof.info CNAME .
 hwpnocpctu.com CNAME .
 *.hwpnocpctu.com CNAME .
 hwtadf.icu CNAME .
@@ -54587,8 +54579,6 @@ no2veeamggaseber.com CNAME .
 *.no2veeamggaseber.com CNAME .
 noa.yahoo.com CNAME .
 *.noa.yahoo.com CNAME .
-noafechu.xyz CNAME .
-*.noafechu.xyz CNAME .
 noapeveety.top CNAME .
 *.noapeveety.top CNAME .
 noapsovochu.net CNAME .
@@ -59831,8 +59821,6 @@ pjjpp.com CNAME .
 *.pjjpp.com CNAME .
 pjkyxrd15e.ru CNAME .
 *.pjkyxrd15e.ru CNAME .
-pjojddwlppfah.xyz CNAME .
-*.pjojddwlppfah.xyz CNAME .
 pjqchcfwtw.com CNAME .
 *.pjqchcfwtw.com CNAME .
 pjsos.xyz CNAME .
@@ -75949,8 +75937,6 @@ theadultcompany.biz CNAME .
 *.theadultcompany.biz CNAME .
 theapple.site CNAME .
 *.theapple.site CNAME .
-thebainpushtu.com CNAME .
-*.thebainpushtu.com CNAME .
 thebestgame2020.com CNAME .
 *.thebestgame2020.com CNAME .
 thebestoffersintheweb.com CNAME .
