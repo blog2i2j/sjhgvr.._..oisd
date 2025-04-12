@@ -1,9 +1,9 @@
-; Version: 202504121008
+; Version: 202504121109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87896
-; Last modified: 2025-04-12T10:08:27+0000
+; Entries: 87886
+; Last modified: 2025-04-12T11:09:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744452003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744455603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17191,8 +17191,6 @@ bottlescharitygrowth.com CNAME .
 *.bottlescharitygrowth.com CNAME .
 bottleselement.com CNAME .
 *.bottleselement.com CNAME .
-bottlesgarage.com CNAME .
-*.bottlesgarage.com CNAME .
 bottlestonightapp.com CNAME .
 *.bottlestonightapp.com CNAME .
 bottlestrivingtarget.com CNAME .
@@ -46481,8 +46479,6 @@ kxdxsbyomyuim.rocks CNAME .
 *.kxdxsbyomyuim.rocks CNAME .
 kxiaruornurfb.tech CNAME .
 *.kxiaruornurfb.tech CNAME .
-kxjanwkatrixltf.xyz CNAME .
-*.kxjanwkatrixltf.xyz CNAME .
 kxnggkh2nj.com CNAME .
 *.kxnggkh2nj.com CNAME .
 kxshyo.com CNAME .
@@ -49401,8 +49397,6 @@ ltvutlyu.icu CNAME .
 *.ltvutlyu.icu CNAME .
 lu2.luyouwang.com CNAME .
 *.lu2.luyouwang.com CNAME .
-lubbardstrouds.com CNAME .
-*.lubbardstrouds.com CNAME .
 lubowitz.biz CNAME .
 *.lubowitz.biz CNAME .
 lubricantexaminer.com CNAME .
@@ -73551,8 +73545,6 @@ straitchangeless.com CNAME .
 *.straitchangeless.com CNAME .
 strakesimians.shop CNAME .
 *.strakesimians.shop CNAME .
-strakvad.com CNAME .
-*.strakvad.com CNAME .
 strangineer.info CNAME .
 *.strangineer.info CNAME .
 strangineersalyl.org CNAME .
@@ -74841,8 +74833,6 @@ tableinactionflint.com CNAME .
 *.tableinactionflint.com CNAME .
 tablerquods.shop CNAME .
 *.tablerquods.shop CNAME .
-tablhtwrkoo.xyz CNAME .
-*.tablhtwrkoo.xyz CNAME .
 tablinarovers.top CNAME .
 *.tablinarovers.top CNAME .
 tabloidwept.com CNAME .
