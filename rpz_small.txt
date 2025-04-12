@@ -1,9 +1,9 @@
-; Version: 202504112308
+; Version: 202504120010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88028
-; Last modified: 2025-04-11T23:08:00+0000
+; Entries: 88010
+; Last modified: 2025-04-12T00:10:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744412403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744416004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15429,8 +15429,6 @@ beam.telex.hu CNAME .
 *.beam.telex.hu CNAME .
 beamanalytics.b-cdn.net CNAME .
 *.beamanalytics.b-cdn.net CNAME .
-beamincrease.com CNAME .
-*.beamincrease.com CNAME .
 beamobserver.com CNAME .
 *.beamobserver.com CNAME .
 beap-bc.yahoo.com CNAME .
@@ -15501,8 +15499,6 @@ bebusyforgot.shop CNAME .
 *.bebusyforgot.shop CNAME .
 becamedevelopfailure.com CNAME .
 *.becamedevelopfailure.com CNAME .
-becamesprinkle.com CNAME .
-*.becamesprinkle.com CNAME .
 bechatotan.com CNAME .
 *.bechatotan.com CNAME .
 becketcoffee.com CNAME .
@@ -37803,8 +37799,6 @@ gixeedsute.net CNAME .
 *.gixeedsute.net CNAME .
 gixiluros.com CNAME .
 *.gixiluros.com CNAME .
-gixtgaieap.xyz CNAME .
-*.gixtgaieap.xyz CNAME .
 gizokraijaw.net CNAME .
 *.gizokraijaw.net CNAME .
 gjapplog.uc.cn CNAME .
@@ -44727,8 +44721,6 @@ jjthmis.com CNAME .
 *.jjthmis.com CNAME .
 jk4lmrf2.de CNAME .
 *.jk4lmrf2.de CNAME .
-jkbewmebyqbob.top CNAME .
-*.jkbewmebyqbob.top CNAME .
 jkha742.xyz CNAME .
 *.jkha742.xyz CNAME .
 jklpy.com CNAME .
@@ -56729,8 +56721,6 @@ opclumbcuqze.com CNAME .
 *.opclumbcuqze.com CNAME .
 opcnflku.com CNAME .
 *.opcnflku.com CNAME .
-opdh.cn CNAME .
-*.opdh.cn CNAME .
 opdomains.space CNAME .
 *.opdomains.space CNAME .
 opdxpycrizuq.com CNAME .
@@ -57423,8 +57413,6 @@ outils.worldoo.info CNAME .
 *.outils.worldoo.info CNAME .
 outils2.worldoo.info CNAME .
 *.outils2.worldoo.info CNAME .
-outkisslahuli.com CNAME .
-*.outkisslahuli.com CNAME .
 outlapdawn.live CNAME .
 *.outlapdawn.live CNAME .
 outlayomnipresentdream.com CNAME .
@@ -62771,8 +62759,6 @@ pushtrust.com CNAME .
 *.pushtrust.com CNAME .
 pushub.net CNAME .
 *.pushub.net CNAME .
-pushup.wtf CNAME .
-*.pushup.wtf CNAME .
 pushwhy.com CNAME .
 *.pushwhy.com CNAME .
 pushyconsequence.com CNAME .
@@ -63071,8 +63057,6 @@ qcerujcajnme.com CNAME .
 *.qcerujcajnme.com CNAME .
 qchmlmtkpbswf.buzz CNAME .
 *.qchmlmtkpbswf.buzz CNAME .
-qckeumrwft.xyz CNAME .
-*.qckeumrwft.xyz CNAME .
 qclruwltqxojpo.com CNAME .
 *.qclruwltqxojpo.com CNAME .
 qctop.com CNAME .
@@ -86813,8 +86797,6 @@ yhorw.rocks CNAME .
 *.yhorw.rocks CNAME .
 yhutou.xyz CNAME .
 *.yhutou.xyz CNAME .
-yicixvmgmhpvbcl.xyz CNAME .
-*.yicixvmgmhpvbcl.xyz CNAME .
 yiddiquitejuk.com CNAME .
 *.yiddiquitejuk.com CNAME .
 yield-op-idsync.live.streamtheworld.com CNAME .
