@@ -1,9 +1,9 @@
-; Version: 202504122009
+; Version: 202504122109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87910
-; Last modified: 2025-04-12T20:09:55+0000
+; Entries: 87888
+; Last modified: 2025-04-12T21:09:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744488004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744491604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11909,8 +11909,6 @@ apiv4.subiz.com CNAME .
 *.apiv4.subiz.com CNAME .
 apl.headlines.pw CNAME .
 *.apl.headlines.pw CNAME .
-apl373.me CNAME .
-*.apl373.me CNAME .
 apm-log-upload-os.hoyoverse.com CNAME .
 *.apm-log-upload-os.hoyoverse.com CNAME .
 apm.yahoo.co.jp CNAME .
@@ -16561,8 +16559,6 @@ blessingsome.com CNAME .
 *.blessingsome.com CNAME .
 bleua.ecefibwja.xyz CNAME .
 *.bleua.ecefibwja.xyz CNAME .
-blewwhence.com CNAME .
-*.blewwhence.com CNAME .
 blg-1216lb.com CNAME .
 *.blg-1216lb.com CNAME .
 blindnessmisty.com CNAME .
@@ -38625,8 +38621,6 @@ gp.zaiyunli.cn CNAME .
 *.gp.zaiyunli.cn CNAME .
 gpcrn.com CNAME .
 *.gpcrn.com CNAME .
-gpfaquowxnaum.xyz CNAME .
-*.gpfaquowxnaum.xyz CNAME .
 gpibcoogfb.com CNAME .
 *.gpibcoogfb.com CNAME .
 gpjwludjwldi.com CNAME .
@@ -39125,8 +39119,6 @@ growingtotallycandied.com CNAME .
 *.growingtotallycandied.com CNAME .
 growjav11.fun CNAME .
 *.growjav11.fun CNAME .
-growlingmortgage.com CNAME .
-*.growlingmortgage.com CNAME .
 grown-inpp-code.com CNAME .
 *.grown-inpp-code.com CNAME .
 growngame.life CNAME .
@@ -45339,8 +45331,6 @@ jzplabcvvy.com CNAME .
 *.jzplabcvvy.com CNAME .
 jzqbyykbrrbkq.top CNAME .
 *.jzqbyykbrrbkq.top CNAME .
-jzqbyykjorqkq.top CNAME .
-*.jzqbyykjorqkq.top CNAME .
 jzqscvqlgasxh.buzz CNAME .
 *.jzqscvqlgasxh.buzz CNAME .
 jztwidpixa.icu CNAME .
@@ -45537,8 +45527,6 @@ kbadkxocv.com CNAME .
 *.kbadkxocv.com CNAME .
 kbao7755.de CNAME .
 *.kbao7755.de CNAME .
-kbbwgbqmu.xyz CNAME .
-*.kbbwgbqmu.xyz CNAME .
 kbexos.xyz CNAME .
 *.kbexos.xyz CNAME .
 kbjn-sibltg.icu CNAME .
@@ -47507,8 +47495,6 @@ liaoptse.net CNAME .
 *.liaoptse.net CNAME .
 liarcram.com CNAME .
 *.liarcram.com CNAME .
-liasingmyxopod.com CNAME .
-*.liasingmyxopod.com CNAME .
 libedgolart.com CNAME .
 *.libedgolart.com CNAME .
 libellousstaunch.com CNAME .
@@ -53623,8 +53609,6 @@ narkalignevil.com CNAME .
 *.narkalignevil.com CNAME .
 narrwhenas.top CNAME .
 *.narrwhenas.top CNAME .
-narwatiosqg.xyz CNAME .
-*.narwatiosqg.xyz CNAME .
 narwhal.bounty.studio CNAME .
 *.narwhal.bounty.studio CNAME .
 narwhal.quickbudget.xyz CNAME .
@@ -54615,8 +54599,6 @@ noapsovochu.net CNAME .
 *.noapsovochu.net CNAME .
 noarefocoush.com CNAME .
 *.noarefocoush.com CNAME .
-noaviphesh.net CNAME .
-*.noaviphesh.net CNAME .
 noawanincreasein.com CNAME .
 *.noawanincreasein.com CNAME .
 noblelevityconcrete.com CNAME .
@@ -57463,8 +57445,6 @@ outwingullom.com CNAME .
 *.outwingullom.com CNAME .
 outwitridiculousresume.com CNAME .
 *.outwitridiculousresume.com CNAME .
-outwoodeuropa.com CNAME .
-*.outwoodeuropa.com CNAME .
 ouveedaiz.net CNAME .
 *.ouveedaiz.net CNAME .
 ouvertrenewed.com CNAME .
@@ -82585,8 +82565,6 @@ vrvxovgj.xyz CNAME .
 *.vrvxovgj.xyz CNAME .
 vry9.destinia.com CNAME .
 *.vry9.destinia.com CNAME .
-vs-api.voodoo-tech.io CNAME .
-*.vs-api.voodoo-tech.io CNAME .
 vs3.com CNAME .
 *.vs3.com CNAME .
 vsdiz.xyz CNAME .
