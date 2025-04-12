@@ -1,9 +1,9 @@
-; Version: 202504121409
+; Version: 202504121509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87844
-; Last modified: 2025-04-12T14:09:24+0000
+; Entries: 87840
+; Last modified: 2025-04-12T15:09:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744466403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744470003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -40013,8 +40013,6 @@ haychalk.com CNAME .
 *.haychalk.com CNAME .
 hayforkminbu.com CNAME .
 *.hayforkminbu.com CNAME .
-haymowsrakily.com CNAME .
-*.haymowsrakily.com CNAME .
 hazanuttriazo.life CNAME .
 *.hazanuttriazo.life CNAME .
 hazelhideous.com CNAME .
@@ -72691,8 +72689,6 @@ statistic-data.com CNAME .
 *.statistic-data.com CNAME .
 statistic.audima.co CNAME .
 *.statistic.audima.co CNAME .
-statistic.date CNAME .
-*.statistic.date CNAME .
 statisticresearch.com CNAME .
 *.statisticresearch.com CNAME .
 statistics-vov2.vov.vn CNAME .
