@@ -1,9 +1,9 @@
-; Version: 202504121209
+; Version: 202504121309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87872
-; Last modified: 2025-04-12T12:09:01+0000
+; Entries: 87854
+; Last modified: 2025-04-12T13:09:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744459203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744462803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2657,8 +2657,6 @@ $TTL 30
 *.821a5b6b9e.363caab0ae.com CNAME .
 822dbd57ea.298b7571af.com CNAME .
 *.822dbd57ea.298b7571af.com CNAME .
-8231e5c33a.com CNAME .
-*.8231e5c33a.com CNAME .
 828af6b8ce.com CNAME .
 *.828af6b8ce.com CNAME .
 82c39cef22.0a3036d0e7.com CNAME .
@@ -22991,8 +22989,6 @@ coochig.com CNAME .
 *.coochig.com CNAME .
 coocomall.com CNAME .
 *.coocomall.com CNAME .
-coodleborstal.com CNAME .
-*.coodleborstal.com CNAME .
 cooeyeddarbs.com CNAME .
 *.cooeyeddarbs.com CNAME .
 coogoanu.net CNAME .
@@ -28239,8 +28235,6 @@ demonstrationtimer.com CNAME .
 *.demonstrationtimer.com CNAME .
 demonstudent.com CNAME .
 *.demonstudent.com CNAME .
-demopage.me CNAME .
-*.demopage.me CNAME .
 demosesoverate.top CNAME .
 *.demosesoverate.top CNAME .
 demosingang.website CNAME .
@@ -35299,8 +35293,6 @@ fkllodaa.com CNAME .
 *.fkllodaa.com CNAME .
 fkodq.com CNAME .
 *.fkodq.com CNAME .
-fkourazirop.shop CNAME .
-*.fkourazirop.shop CNAME .
 fkpnpucrfrckq.com CNAME .
 *.fkpnpucrfrckq.com CNAME .
 fkrkkmxsqeb5bj9r.s3.amazonaws.com CNAME .
@@ -40405,8 +40397,6 @@ herodiessujed.org CNAME .
 *.herodiessujed.org CNAME .
 heroinalerttactical.com CNAME .
 *.heroinalerttactical.com CNAME .
-heroismgrime.com CNAME .
-*.heroismgrime.com CNAME .
 heromainland.com CNAME .
 *.heromainland.com CNAME .
 heron.joel.is CNAME .
@@ -42157,8 +42147,6 @@ idescargarapk.com CNAME .
 *.idescargarapk.com CNAME .
 idhad.com CNAME .
 *.idhad.com CNAME .
-idhaiafq.com CNAME .
-*.idhaiafq.com CNAME .
 idiafix.com CNAME .
 *.idiafix.com CNAME .
 idiothungryensue.com CNAME .
@@ -58597,8 +58585,6 @@ pc2ads.ru CNAME .
 *.pc2ads.ru CNAME .
 pc3.vanmoof.com CNAME .
 *.pc3.vanmoof.com CNAME .
-pc5ads.com CNAME .
-*.pc5ads.com CNAME .
 pcapp-data-collect.youku.com CNAME .
 *.pcapp-data-collect.youku.com CNAME .
 pcash.imlive.com CNAME .
@@ -73767,8 +73753,6 @@ subduegrape.com CNAME .
 *.subduegrape.com CNAME .
 subfun.uiiumovie.fun CNAME .
 *.subfun.uiiumovie.fun CNAME .
-subheroalgores.com CNAME .
-*.subheroalgores.com CNAME .
 subjectamazement.com CNAME .
 *.subjectamazement.com CNAME .
 subjectsfaintly.com CNAME .
@@ -82533,8 +82517,6 @@ vrilledsummat.shop CNAME .
 *.vrilledsummat.shop CNAME .
 vrime.xyz CNAME .
 *.vrime.xyz CNAME .
-vrmocsxdmcwbi.fun CNAME .
-*.vrmocsxdmcwbi.fun CNAME .
 vroomedbedroll.shop CNAME .
 *.vroomedbedroll.shop CNAME .
 vrqdzfzzlyalb.space CNAME .
