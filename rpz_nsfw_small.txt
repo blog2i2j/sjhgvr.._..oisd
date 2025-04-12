@@ -1,9 +1,9 @@
-; Version: 202504120112
+; Version: 202504120211
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40916
-; Last modified: 2025-04-12T01:12:13+0000
+; Entries: 40932
+; Last modified: 2025-04-12T02:11:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744419603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744423203 86400 3600 604800 30
  NS localhost.
 007moms.com CNAME .
 *.007moms.com CNAME .
@@ -5297,6 +5297,8 @@ breeding.zone CNAME .
 *.breeding.zone CNAME .
 breedme.com CNAME .
 *.breedme.com CNAME .
+brianspage.com CNAME .
+*.brianspage.com CNAME .
 bride.ru CNAME .
 *.bride.ru CNAME .
 brides4love.com CNAME .
@@ -5439,6 +5441,8 @@ buscoamor.mx CNAME .
 *.buscoamor.mx CNAME .
 busenladies.de CNAME .
 *.busenladies.de CNAME .
+busexpress.bg CNAME .
+*.busexpress.bg CNAME .
 bushdvd.com CNAME .
 *.bushdvd.com CNAME .
 bussyhunter.com CNAME .
@@ -5571,6 +5575,8 @@ caketeen18.com CNAME .
 *.caketeen18.com CNAME .
 calcinhamolhada.com.br CNAME .
 *.calcinhamolhada.com.br CNAME .
+calcinhasusadas.com.br CNAME .
+*.calcinhasusadas.com.br CNAME .
 calexotics.com CNAME .
 *.calexotics.com CNAME .
 calinemoi.com CNAME .
@@ -17313,6 +17319,8 @@ javhay.to CNAME .
 *.javhay.to CNAME .
 javhay1.com CNAME .
 *.javhay1.com CNAME .
+javhd.at CNAME .
+*.javhd.at CNAME .
 javhd.bio CNAME .
 *.javhd.bio CNAME .
 javhd.com CNAME .
@@ -21043,6 +21051,8 @@ milpasiones.com CNAME .
 *.milpasiones.com CNAME .
 mindmix.ru CNAME .
 *.mindmix.ru CNAME .
+minet.club CNAME .
+*.minet.club CNAME .
 minet.vip CNAME .
 *.minet.vip CNAME .
 mingky.net CNAME .
@@ -23991,6 +24001,8 @@ pantydeal.com CNAME .
 *.pantydeal.com CNAME .
 pantyhosejobs.com CNAME .
 *.pantyhosejobs.com CNAME .
+pantyhoseme.com CNAME .
+*.pantyhoseme.com CNAME .
 pantyhosescreen.com CNAME .
 *.pantyhosescreen.com CNAME .
 panu.live CNAME .
@@ -24157,6 +24169,8 @@ peliculasxnxx.com CNAME .
 *.peliculasxnxx.com CNAME .
 peliculasxxx.gratis CNAME .
 *.peliculasxxx.gratis CNAME .
+pelisplus.today CNAME .
+*.pelisplus.today CNAME .
 pelisxporno.net CNAME .
 *.pelisxporno.net CNAME .
 pelisxxx.me CNAME .
@@ -35173,6 +35187,8 @@ tubexxxx.com CNAME .
 *.tubexxxx.com CNAME .
 tubezaur.com CNAME .
 *.tubezaur.com CNAME .
+tubezz.net CNAME .
+*.tubezz.net CNAME .
 tubezzz.net CNAME .
 *.tubezzz.net CNAME .
 tubixe.com CNAME .
