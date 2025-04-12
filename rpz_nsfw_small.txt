@@ -1,9 +1,9 @@
-; Version: 202504120612
+; Version: 202504120712
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41012
-; Last modified: 2025-04-12T06:12:02+0000
+; Entries: 41024
+; Last modified: 2025-04-12T07:12:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744437603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744441203 86400 3600 604800 30
  NS localhost.
 007moms.com CNAME .
 *.007moms.com CNAME .
@@ -10129,6 +10129,8 @@ facefuckingporn.com CNAME .
 *.facefuckingporn.com CNAME .
 faceinhole.com CNAME .
 *.faceinhole.com CNAME .
+faceparty.com CNAME .
+*.faceparty.com CNAME .
 facesittingporn.net CNAME .
 *.facesittingporn.net CNAME .
 facesittube.com CNAME .
@@ -13477,6 +13479,8 @@ green.porn CNAME .
 *.green.porn CNAME .
 greenapk.app CNAME .
 *.greenapk.app CNAME .
+gridhost.com CNAME .
+*.gridhost.com CNAME .
 grigtube.com CNAME .
 *.grigtube.com CNAME .
 grinderboy.com CNAME .
@@ -23469,6 +23473,8 @@ omaporno.net CNAME .
 *.omaporno.net CNAME .
 omaporno.pics CNAME .
 *.omaporno.pics CNAME .
+omarxnxx.com CNAME .
+*.omarxnxx.com CNAME .
 omasex.com CNAME .
 *.omasex.com CNAME .
 omasex.tv CNAME .
@@ -30425,6 +30431,8 @@ sexfullmovies.com CNAME .
 *.sexfullmovies.com CNAME .
 sexfun.nl CNAME .
 *.sexfun.nl CNAME .
+sexgaigoi.net CNAME .
+*.sexgaigoi.net CNAME .
 sexgaigoi.org CNAME .
 *.sexgaigoi.org CNAME .
 sexgainhatban.com CNAME .
@@ -33295,6 +33303,8 @@ tamilsexyvideo.online CNAME .
 *.tamilsexyvideo.online CNAME .
 tamilstories69.com CNAME .
 *.tamilstories69.com CNAME .
+tamilyogi.sx CNAME .
+*.tamilyogi.sx CNAME .
 tamtam.chat CNAME .
 *.tamtam.chat CNAME .
 tangablitzer.com CNAME .
@@ -39651,6 +39661,8 @@ xxxengine.net CNAME .
 *.xxxengine.net CNAME .
 xxxever.com CNAME .
 *.xxxever.com CNAME .
+xxxfanke.com CNAME .
+*.xxxfanke.com CNAME .
 xxxfap.me CNAME .
 *.xxxfap.me CNAME .
 xxxfetish.tube CNAME .
