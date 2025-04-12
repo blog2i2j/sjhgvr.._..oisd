@@ -1,9 +1,9 @@
-; Version: 202504121509
+; Version: 202504121609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87840
-; Last modified: 2025-04-12T15:09:11+0000
+; Entries: 87822
+; Last modified: 2025-04-12T16:09:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744470003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744473603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4311,8 +4311,6 @@ accommodateabject.com CNAME .
 *.accommodateabject.com CNAME .
 accommodateyours.com CNAME .
 *.accommodateyours.com CNAME .
-accommodatingremindauntie.com CNAME .
-*.accommodatingremindauntie.com CNAME .
 accommodatingspygenetically.com CNAME .
 *.accommodatingspygenetically.com CNAME .
 accommodationsubsided.com CNAME .
@@ -22987,8 +22985,6 @@ cooeyeddarbs.com CNAME .
 *.cooeyeddarbs.com CNAME .
 coogoanu.net CNAME .
 *.coogoanu.net CNAME .
-coogumak.com CNAME .
-*.coogumak.com CNAME .
 coohaiwhoonol.net CNAME .
 *.coohaiwhoonol.net CNAME .
 coohauwhob.net CNAME .
@@ -37855,8 +37851,6 @@ glaultoa.com CNAME .
 *.glaultoa.com CNAME .
 glaurtas.com CNAME .
 *.glaurtas.com CNAME .
-glaussogira.xyz CNAME .
-*.glaussogira.xyz CNAME .
 glauthew.net CNAME .
 *.glauthew.net CNAME .
 glazedugra.com CNAME .
@@ -43561,8 +43555,6 @@ iodinedulylisten.com CNAME .
 *.iodinedulylisten.com CNAME .
 iodineprudishlysubtly.com CNAME .
 *.iodineprudishlysubtly.com CNAME .
-iodinsbezette.com CNAME .
-*.iodinsbezette.com CNAME .
 iodolruddock.com CNAME .
 *.iodolruddock.com CNAME .
 iofferphoto.com CNAME .
@@ -46095,8 +46087,6 @@ koalaups.com CNAME .
 *.koalaups.com CNAME .
 koanewhaideeb.com CNAME .
 *.koanewhaideeb.com CNAME .
-koaphestoaglouw.net CNAME .
-*.koaphestoaglouw.net CNAME .
 koaphoocouph.net CNAME .
 *.koaphoocouph.net CNAME .
 koapsout.com CNAME .
@@ -63887,8 +63877,6 @@ rapidhits.net CNAME .
 *.rapidhits.net CNAME .
 rapidnewscraze.com CNAME .
 *.rapidnewscraze.com CNAME .
-rapingdistil.com CNAME .
-*.rapingdistil.com CNAME .
 rapmqouaqpmir.com CNAME .
 *.rapmqouaqpmir.com CNAME .
 rapolok.com CNAME .
@@ -73247,8 +73235,6 @@ sternlythese.com CNAME .
 *.sternlythese.com CNAME .
 steroidbazaarbalance.com CNAME .
 *.steroidbazaarbalance.com CNAME .
-steropestreaks.com CNAME .
-*.steropestreaks.com CNAME .
 stertordorab.com CNAME .
 *.stertordorab.com CNAME .
 stevesmovies.com CNAME .
@@ -81291,8 +81277,6 @@ vapjcusfua.com CNAME .
 *.vapjcusfua.com CNAME .
 vaqykqeoeaywm.top CNAME .
 *.vaqykqeoeaywm.top CNAME .
-variabilityproducing.com CNAME .
-*.variabilityproducing.com CNAME .
 variablespestvex.com CNAME .
 *.variablespestvex.com CNAME .
 variationsradio.com CNAME .
@@ -83595,8 +83579,6 @@ wfijsc.xyz CNAME .
 *.wfijsc.xyz CNAME .
 wfjkzgbcjnezi.fun CNAME .
 *.wfjkzgbcjnezi.fun CNAME .
-wflgiultfaqop.com CNAME .
-*.wflgiultfaqop.com CNAME .
 wfodwkk.com CNAME .
 *.wfodwkk.com CNAME .
 wfredir.net CNAME .
