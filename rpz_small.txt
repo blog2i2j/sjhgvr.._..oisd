@@ -1,9 +1,9 @@
-; Version: 202504122240
+; Version: 202504122308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87864
-; Last modified: 2025-04-12T22:40:50+0000
+; Entries: 87856
+; Last modified: 2025-04-12T23:08:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744495204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744498803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -54147,8 +54147,6 @@ news-place1.xyz CNAME .
 *.news-place1.xyz CNAME .
 news-portals1.xyz CNAME .
 *.news-portals1.xyz CNAME .
-news-site1.xyz CNAME .
-*.news-site1.xyz CNAME .
 news-universe1.xyz CNAME .
 *.news-universe1.xyz CNAME .
 news-weekend1.xyz CNAME .
@@ -55593,8 +55591,6 @@ obouckie.com CNAME .
 *.obouckie.com CNAME .
 obqaxzon.com CNAME .
 *.obqaxzon.com CNAME .
-obrom.xyz CNAME .
-*.obrom.xyz CNAME .
 obsedelathed.com CNAME .
 *.obsedelathed.com CNAME .
 observationsolution.top CNAME .
@@ -69119,8 +69115,6 @@ sfdsplvyphk.com CNAME .
 *.sfdsplvyphk.com CNAME .
 sffsdvc.com CNAME .
 *.sffsdvc.com CNAME .
-sfile.top CNAME .
-*.sfile.top CNAME .
 sfixretarum.com CNAME .
 *.sfixretarum.com CNAME .
 sfp.safe.baidu.com CNAME .
@@ -72953,8 +72947,6 @@ stats.mituyu.com CNAME .
 *.stats.mituyu.com CNAME .
 stats.mpthemes.net CNAME .
 *.stats.mpthemes.net CNAME .
-stats.myserverhome.de CNAME .
-*.stats.myserverhome.de CNAME .
 stats.nebula.fi CNAME .
 *.stats.nebula.fi CNAME .
 stats.netbopdev.co.uk CNAME .
