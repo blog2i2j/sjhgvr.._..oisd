@@ -1,9 +1,9 @@
-; Version: 202504120108
+; Version: 202504120207
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88006
-; Last modified: 2025-04-12T01:08:22+0000
+; Entries: 87996
+; Last modified: 2025-04-12T02:07:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744419603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744423203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13971,8 +13971,6 @@ axislogger.appspot.com CNAME .
 *.axislogger.appspot.com CNAME .
 axjndvucr.com CNAME .
 *.axjndvucr.com CNAME .
-axkwmsivme.com CNAME .
-*.axkwmsivme.com CNAME .
 axlikeoedipus.shop CNAME .
 *.axlikeoedipus.shop CNAME .
 axmocklwa.com CNAME .
@@ -20479,8 +20477,6 @@ cheerysavouryridge.com CNAME .
 *.cheerysavouryridge.com CNAME .
 cheerysequelhoax.com CNAME .
 *.cheerysequelhoax.com CNAME .
-cheesoulairs.xyz CNAME .
-*.cheesoulairs.xyz CNAME .
 cheesydrinks.com CNAME .
 *.cheesydrinks.com CNAME .
 cheesyreinsplanets.com CNAME .
@@ -23087,8 +23083,6 @@ cookypense.shop CNAME .
 *.cookypense.shop CNAME .
 cool.gaygo.tv CNAME .
 *.cool.gaygo.tv CNAME .
-cool.tubous.com CNAME .
-*.cool.tubous.com CNAME .
 coolemailnames.com CNAME .
 *.coolemailnames.com CNAME .
 coolerclaimer.click CNAME .
@@ -67171,8 +67165,6 @@ rvvmynjd.love CNAME .
 *.rvvmynjd.love CNAME .
 rvxmlj.icu CNAME .
 *.rvxmlj.icu CNAME .
-rvxo.cn CNAME .
-*.rvxo.cn CNAME .
 rw.marchex.io CNAME .
 *.rw.marchex.io CNAME .
 rwdjrn.icu CNAME .
@@ -70125,8 +70117,6 @@ sjsabb.com CNAME .
 *.sjsabb.com CNAME .
 sjtactic.com CNAME .
 *.sjtactic.com CNAME .
-sjyopqzzyrbji.com CNAME .
-*.sjyopqzzyrbji.com CNAME .
 sk.fapnow.xxx CNAME .
 *.sk.fapnow.xxx CNAME .
 sk.faptor.com CNAME .
