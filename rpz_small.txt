@@ -1,9 +1,9 @@
-; Version: 202504120010
+; Version: 202504120108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88010
-; Last modified: 2025-04-12T00:10:02+0000
+; Entries: 88006
+; Last modified: 2025-04-12T01:08:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744416004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744419603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -66981,8 +66981,6 @@ rubyforcedprovidence.com CNAME .
 *.rubyforcedprovidence.com CNAME .
 rubylife.go2cloud.org CNAME .
 *.rubylife.go2cloud.org CNAME .
-ruckingefs.com CNAME .
-*.ruckingefs.com CNAME .
 rucmpbccrgbewma.com CNAME .
 *.rucmpbccrgbewma.com CNAME .
 rudderleisurelyobstinate.com CNAME .
@@ -85293,8 +85291,6 @@ xctoquhnalqgn.vip CNAME .
 *.xctoquhnalqgn.vip CNAME .
 xcuffrzha.com CNAME .
 *.xcuffrzha.com CNAME .
-xcxbqohm.xyz CNAME .
-*.xcxbqohm.xyz CNAME .
 xdfrdcuiug.com CNAME .
 *.xdfrdcuiug.com CNAME .
 xdgelyt.com CNAME .
