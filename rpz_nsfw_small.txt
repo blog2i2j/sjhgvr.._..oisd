@@ -1,9 +1,9 @@
-; Version: 202504130012
+; Version: 202504130111
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41320
-; Last modified: 2025-04-13T00:12:58+0000
+; Entries: 41328
+; Last modified: 2025-04-13T01:11:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744502404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744506003 86400 3600 604800 30
  NS localhost.
 007moms.com CNAME .
 *.007moms.com CNAME .
@@ -787,6 +787,8 @@ $TTL 30
 *.8coins.ru CNAME .
 8freeporn.com CNAME .
 *.8freeporn.com CNAME .
+8fuckmilf.com CNAME .
+*.8fuckmilf.com CNAME .
 8kcosplay.com CNAME .
 *.8kcosplay.com CNAME .
 8kpornvids.com CNAME .
@@ -8109,8 +8111,6 @@ desipornmovies.cc CNAME .
 *.desipornmovies.cc CNAME .
 desipornphoto.com CNAME .
 *.desipornphoto.com CNAME .
-desipornset.com CNAME .
-*.desipornset.com CNAME .
 desipornvideo.cc CNAME .
 *.desipornvideo.cc CNAME .
 desipornx.mobi CNAME .
@@ -12933,6 +12933,8 @@ gertibaldi.com CNAME .
 *.gertibaldi.com CNAME .
 gertstir.ru CNAME .
 *.gertstir.ru CNAME .
+gesext.de CNAME .
+*.gesext.de CNAME .
 getaporno.com CNAME .
 *.getaporno.com CNAME .
 getasex.com CNAME .
@@ -23975,6 +23977,8 @@ opjav.com CNAME .
 *.opjav.com CNAME .
 oporno.net CNAME .
 *.oporno.net CNAME .
+oppai-doga.info CNAME .
+*.oppai-doga.info CNAME .
 oppai.stream CNAME .
 *.oppai.stream CNAME .
 oppaiman.com CNAME .
@@ -27333,6 +27337,8 @@ pornspan.com CNAME .
 *.pornspan.com CNAME .
 pornsprivate.com CNAME .
 *.pornsprivate.com CNAME .
+pornssexy.com CNAME .
+*.pornssexy.com CNAME .
 pornstar-scenes.com CNAME .
 *.pornstar-scenes.com CNAME .
 pornstar.gallery CNAME .
@@ -29163,6 +29169,8 @@ repicsx.com CNAME .
 *.repicsx.com CNAME .
 reprint-kh.com CNAME .
 *.reprint-kh.com CNAME .
+rerape.com CNAME .
+*.rerape.com CNAME .
 rerola.com CNAME .
 *.rerola.com CNAME .
 resao.com CNAME .
@@ -35171,8 +35179,6 @@ tryasianporn.com CNAME .
 *.tryasianporn.com CNAME .
 trybdsmporn.com CNAME .
 *.trybdsmporn.com CNAME .
-tryboobs.com CNAME .
-*.tryboobs.com CNAME .
 trydildo.net CNAME .
 *.trydildo.net CNAME .
 tryfansme.com CNAME .
@@ -36675,6 +36681,8 @@ vilevideos.com CNAME .
 *.vilevideos.com CNAME .
 villa-venezia-trier.de CNAME .
 *.villa-venezia-trier.de CNAME .
+villa-venezia.de CNAME .
+*.villa-venezia.de CNAME .
 villageporno.com CNAME .
 *.villageporno.com CNAME .
 villagesexvideos.com CNAME .
