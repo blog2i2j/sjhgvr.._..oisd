@@ -1,9 +1,9 @@
-; Version: 202504130908
+; Version: 202504131010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87670
-; Last modified: 2025-04-13T09:08:27+0000
+; Entries: 87642
+; Last modified: 2025-04-13T10:10:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744534803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744538403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -85,8 +85,6 @@ $TTL 30
 *.03180d2d.live CNAME .
 0342b40dd6.com CNAME .
 *.0342b40dd6.com CNAME .
-03505ed0f4.com CNAME .
-*.03505ed0f4.com CNAME .
 039858f297.com CNAME .
 *.039858f297.com CNAME .
 03b5f525af.com CNAME .
@@ -1651,8 +1649,6 @@ $TTL 30
 *.40ceexln7929.com CNAME .
 40cg.com CNAME .
 *.40cg.com CNAME .
-4111ae9ec0.com CNAME .
-*.4111ae9ec0.com CNAME .
 41206396.xyz CNAME .
 *.41206396.xyz CNAME .
 4126fe80.xyz CNAME .
@@ -13953,8 +13949,6 @@ ayerjjnqmkven.top CNAME .
 *.ayerjjnqmkven.top CNAME .
 ayga.xyz CNAME .
 *.ayga.xyz CNAME .
-ayirgouxy.xyz CNAME .
-*.ayirgouxy.xyz CNAME .
 aykqyjzbkkkra.top CNAME .
 *.aykqyjzbkkkra.top CNAME .
 aynhnrgxjxfv.com CNAME .
@@ -41719,8 +41713,6 @@ hydramedia.com CNAME .
 *.hydramedia.com CNAME .
 hydrangeao.com CNAME .
 *.hydrangeao.com CNAME .
-hydraulzonure.com CNAME .
-*.hydraulzonure.com CNAME .
 hydro-ma-proxy.akamaized.net CNAME .
 *.hydro-ma-proxy.akamaized.net CNAME .
 hydrogendeadflatten.com CNAME .
@@ -43507,8 +43499,6 @@ ioffers.icu CNAME .
 *.ioffers.icu CNAME .
 iogjhbnoypg.com CNAME .
 *.iogjhbnoypg.com CNAME .
-ionigravida.com CNAME .
-*.ionigravida.com CNAME .
 ioniserpinones.com CNAME .
 *.ioniserpinones.com CNAME .
 ioniseryeaoman.shop CNAME .
@@ -45219,8 +45209,6 @@ jyusesoionsglear.info CNAME .
 *.jyusesoionsglear.info CNAME .
 jyuskb.cn CNAME .
 *.jyuskb.cn CNAME .
-jywczbx.com CNAME .
-*.jywczbx.com CNAME .
 jyxzrb.xyz CNAME .
 *.jyxzrb.xyz CNAME .
 jyzkut.com CNAME .
@@ -45327,8 +45315,6 @@ kamahiunvisor.shop CNAME .
 *.kamahiunvisor.shop CNAME .
 kamalafooner.space CNAME .
 *.kamalafooner.space CNAME .
-kamamwvlvrazr.top CNAME .
-*.kamamwvlvrazr.top CNAME .
 kamassmyalia.com CNAME .
 *.kamassmyalia.com CNAME .
 kamiaidenn.shop CNAME .
@@ -52477,8 +52463,6 @@ mosquito.zero.io CNAME .
 *.mosquito.zero.io CNAME .
 mosrtaek.net CNAME .
 *.mosrtaek.net CNAME .
-mosseegneertoo.xyz CNAME .
-*.mosseegneertoo.xyz CNAME .
 mostauthor.com CNAME .
 *.mostauthor.com CNAME .
 mostazoaptoare.net CNAME .
@@ -52587,8 +52571,6 @@ mowcawdetour.com CNAME .
 *.mowcawdetour.com CNAME .
 mowcoordinateegypt.com CNAME .
 *.mowcoordinateegypt.com CNAME .
-mowfruit.com CNAME .
-*.mowfruit.com CNAME .
 mowhamsterradiator.com CNAME .
 *.mowhamsterradiator.com CNAME .
 moyslovar.ru CNAME .
@@ -54723,8 +54705,6 @@ nouricesnooker.shop CNAME .
 *.nouricesnooker.shop CNAME .
 nourishmentpavementably.com CNAME .
 *.nourishmentpavementably.com CNAME .
-nourishmentrespective.com CNAME .
-*.nourishmentrespective.com CNAME .
 nouseeloah.net CNAME .
 *.nouseeloah.net CNAME .
 nouveau-digital.com CNAME .
@@ -55997,8 +55977,6 @@ okdecideddubious.com CNAME .
 *.okdecideddubious.com CNAME .
 okdigital.me CNAME .
 *.okdigital.me CNAME .
-okeaxgugq.com CNAME .
-*.okeaxgugq.com CNAME .
 okhrtusmuod.com CNAME .
 *.okhrtusmuod.com CNAME .
 okikwul.icu CNAME .
@@ -57447,8 +57425,6 @@ owenexposure.com CNAME .
 *.owenexposure.com CNAME .
 owfjlchuvzl.com CNAME .
 *.owfjlchuvzl.com CNAME .
-owfrbdikoorgn.xyz CNAME .
-*.owfrbdikoorgn.xyz CNAME .
 owhaptih.net CNAME .
 *.owhaptih.net CNAME .
 owheezoatoaphoo.net CNAME .
@@ -83999,8 +83975,6 @@ window.nixnet.cz CNAME .
 *.window.nixnet.cz CNAME .
 windows-pro.net CNAME .
 *.windows-pro.net CNAME .
-windowsdnsservicereload.icu CNAME .
-*.windowsdnsservicereload.icu CNAME .
 windowsuseful.com CNAME .
 *.windowsuseful.com CNAME .
 windrightyshade.com CNAME .
@@ -86099,8 +86073,6 @@ xwlketvkzf.com CNAME .
 *.xwlketvkzf.com CNAME .
 xwmr.com.cn CNAME .
 *.xwmr.com.cn CNAME .
-xwoayyiikexdm.com CNAME .
-*.xwoayyiikexdm.com CNAME .
 xwqea.com CNAME .
 *.xwqea.com CNAME .
 xwqvytuiko.com CNAME .
