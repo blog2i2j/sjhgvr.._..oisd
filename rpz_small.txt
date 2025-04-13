@@ -1,9 +1,9 @@
-; Version: 202504131609
+; Version: 202504131709
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87564
-; Last modified: 2025-04-13T16:09:35+0000
+; Entries: 87560
+; Last modified: 2025-04-13T17:09:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744560004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744563603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -44987,8 +44987,6 @@ jtegqwmjfxu.site CNAME .
 *.jtegqwmjfxu.site CNAME .
 jthotb.icu CNAME .
 *.jthotb.icu CNAME .
-jtiasfkkg.xyz CNAME .
-*.jtiasfkkg.xyz CNAME .
 jtoozbadsxm.com CNAME .
 *.jtoozbadsxm.com CNAME .
 jtp.expressen.se CNAME .
@@ -60211,8 +60209,6 @@ polarcdn-terrax.com CNAME .
 *.polarcdn-terrax.com CNAME .
 polaris.zijieapi.com CNAME .
 *.polaris.zijieapi.com CNAME .
-polarisleptera.com CNAME .
-*.polarisleptera.com CNAME .
 polarmobile.com CNAME .
 *.polarmobile.com CNAME .
 polaronveldt.guru CNAME .
