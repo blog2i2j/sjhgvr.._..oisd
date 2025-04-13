@@ -1,9 +1,9 @@
-; Version: 202504131410
+; Version: 202504131509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87592
-; Last modified: 2025-04-13T14:10:06+0000
+; Entries: 87574
+; Last modified: 2025-04-13T15:09:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744552804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744556404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14983,8 +14983,6 @@ bat.bing.net CNAME .
 *.bat.bing.net CNAME .
 bat.heelix.be CNAME .
 *.bat.heelix.be CNAME .
-bat17.gimmeporn.xyz CNAME .
-*.bat17.gimmeporn.xyz CNAME .
 batanwqwo.com CNAME .
 *.batanwqwo.com CNAME .
 bataviforsee.com CNAME .
@@ -17553,8 +17551,6 @@ broadsview.site CNAME .
 *.broadsview.site CNAME .
 brocardcored.com CNAME .
 *.brocardcored.com CNAME .
-brocode1s.com CNAME .
-*.brocode1s.com CNAME .
 brocode2s.com CNAME .
 *.brocode2s.com CNAME .
 brocode3s.com CNAME .
@@ -49051,8 +49047,6 @@ louse.shredit.app CNAME .
 *.louse.shredit.app CNAME .
 louse.sigle.io CNAME .
 *.louse.sigle.io CNAME .
-louseflippantsettle.com CNAME .
-*.louseflippantsettle.com CNAME .
 lousefodgel.com CNAME .
 *.lousefodgel.com CNAME .
 loushoafie.net CNAME .
@@ -49303,8 +49297,6 @@ luhhcodutax.com CNAME .
 *.luhhcodutax.com CNAME .
 lukeexposure.com CNAME .
 *.lukeexposure.com CNAME .
-lukizeiasn.xyz CNAME .
-*.lukizeiasn.xyz CNAME .
 lukyday.xyz CNAME .
 *.lukyday.xyz CNAME .
 luloffer.com CNAME .
@@ -61773,8 +61765,6 @@ psomtenga.net CNAME .
 *.psomtenga.net CNAME .
 psonstrentie.info CNAME .
 *.psonstrentie.info CNAME .
-psoopirdifty.xyz CNAME .
-*.psoopirdifty.xyz CNAME .
 psoorgou.com CNAME .
 *.psoorgou.com CNAME .
 psoorsen.com CNAME .
@@ -68457,8 +68447,6 @@ selwrite.com CNAME .
 *.selwrite.com CNAME .
 semasu.net CNAME .
 *.semasu.net CNAME .
-semblanceindulgebellamy.com CNAME .
-*.semblanceindulgebellamy.com CNAME .
 semenaonline.sk CNAME .
 *.semenaonline.sk CNAME .
 semhgk.xyz CNAME .
@@ -69695,8 +69683,6 @@ sinkboxphantic.com CNAME .
 *.sinkboxphantic.com CNAME .
 sinkfaster.com CNAME .
 *.sinkfaster.com CNAME .
-sinkingswap.com CNAME .
-*.sinkingswap.com CNAME .
 sinmufar.com CNAME .
 *.sinmufar.com CNAME .
 sinnerobtrusive.com CNAME .
@@ -75691,8 +75677,6 @@ theapple.site CNAME .
 *.theapple.site CNAME .
 thebestgame2020.com CNAME .
 *.thebestgame2020.com CNAME .
-thebestoffersintheweb.com CNAME .
-*.thebestoffersintheweb.com CNAME .
 thebtrads.top CNAME .
 *.thebtrads.top CNAME .
 thebugs.ws CNAME .
@@ -82077,8 +82061,6 @@ voicepeaches.com CNAME .
 *.voicepeaches.com CNAME .
 voicepythons.shop CNAME .
 *.voicepythons.shop CNAME .
-voicevegetable.com CNAME .
-*.voicevegetable.com CNAME .
 vokut.com CNAME .
 *.vokut.com CNAME .
 volatintptr.com CNAME .
