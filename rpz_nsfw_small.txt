@@ -1,9 +1,9 @@
-; Version: 202504130312
+; Version: 202504130412
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41376
-; Last modified: 2025-04-13T03:12:09+0000
+; Entries: 41388
+; Last modified: 2025-04-13T04:12:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744513203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744516803 86400 3600 604800 30
  NS localhost.
 007moms.com CNAME .
 *.007moms.com CNAME .
@@ -3111,6 +3111,8 @@ avminny.com CNAME .
 *.avminny.com CNAME .
 avn.com CNAME .
 *.avn.com CNAME .
+avonly.net CNAME .
+*.avonly.net CNAME .
 avple.tv CNAME .
 *.avple.tv CNAME .
 avpockiehd.com CNAME .
@@ -3321,6 +3323,8 @@ babiporno.com CNAME .
 *.babiporno.com CNAME .
 babiporono.com CNAME .
 *.babiporono.com CNAME .
+babki.mobi CNAME .
+*.babki.mobi CNAME .
 baboooms.com CNAME .
 *.baboooms.com CNAME .
 babosas.com CNAME .
@@ -4395,6 +4399,8 @@ bigassz.com CNAME .
 *.bigassz.com CNAME .
 bigazart.net CNAME .
 *.bigazart.net CNAME .
+bigbangempire.com CNAME .
+*.bigbangempire.com CNAME .
 bigbigtits.com CNAME .
 *.bigbigtits.com CNAME .
 bigblackbootywatchers.com CNAME .
@@ -19531,6 +19537,8 @@ listcrawler.com CNAME .
 *.listcrawler.com CNAME .
 listcrawler.eu CNAME .
 *.listcrawler.eu CNAME .
+lite.gallery CNAME .
+*.lite.gallery CNAME .
 literotica.com CNAME .
 *.literotica.com CNAME .
 littlecaprice-dreams.com CNAME .
@@ -36933,6 +36941,8 @@ vlxx.tw CNAME .
 *.vlxx.tw CNAME .
 vlxx69.us CNAME .
 *.vlxx69.us CNAME .
+vlxxcom69.pro CNAME .
+*.vlxxcom69.pro CNAME .
 vlxxhot.com CNAME .
 *.vlxxhot.com CNAME .
 vlxxhot.net CNAME .
@@ -39403,8 +39413,6 @@ xvideos15.com CNAME .
 *.xvideos15.com CNAME .
 xvideos18.blog.br CNAME .
 *.xvideos18.blog.br CNAME .
-xvideos18.mobi CNAME .
-*.xvideos18.mobi CNAME .
 xvideos1z.net CNAME .
 *.xvideos1z.net CNAME .
 xvideos2.com CNAME .
@@ -40185,6 +40193,8 @@ xxxmom.pro CNAME .
 *.xxxmom.pro CNAME .
 xxxmom.su CNAME .
 *.xxxmom.su CNAME .
+xxxmov.co CNAME .
+*.xxxmov.co CNAME .
 xxxmovies.life CNAME .
 *.xxxmovies.life CNAME .
 xxxmovies.su CNAME .
@@ -41013,6 +41023,8 @@ youwu.lol CNAME .
 *.youwu.lol CNAME .
 youx.xxx CNAME .
 *.youx.xxx CNAME .
+youxxtube.com CNAME .
+*.youxxtube.com CNAME .
 youxxx.cc CNAME .
 *.youxxx.cc CNAME .
 ypmate.com CNAME .
