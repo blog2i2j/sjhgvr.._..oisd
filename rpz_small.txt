@@ -1,9 +1,9 @@
-; Version: 202504122308
+; Version: 202504130009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87856
-; Last modified: 2025-04-12T23:08:22+0000
+; Entries: 87838
+; Last modified: 2025-04-13T00:09:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744498803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744502404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3665,8 +3665,6 @@ a91e9c75f8.com CNAME .
 *.a91e9c75f8.com CNAME .
 a9529eca57.100b57dcae.com CNAME .
 *.a9529eca57.100b57dcae.com CNAME .
-a9684972c2.com CNAME .
-*.a9684972c2.com CNAME .
 a9ae7df45f.com CNAME .
 *.a9ae7df45f.com CNAME .
 a9o.youlikeboys.com CNAME .
@@ -13873,8 +13871,6 @@ awooshimtay.net CNAME .
 *.awooshimtay.net CNAME .
 awpcrpu.com CNAME .
 *.awpcrpu.com CNAME .
-awpgnhnewonyq.xyz CNAME .
-*.awpgnhnewonyq.xyz CNAME .
 awprt.com CNAME .
 *.awprt.com CNAME .
 awptjmp.com CNAME .
@@ -21879,8 +21875,6 @@ coconutsoftenedput.com CNAME .
 *.coconutsoftenedput.com CNAME .
 cocoonelectronicsconfined.com CNAME .
 *.cocoonelectronicsconfined.com CNAME .
-coctwomp.com CNAME .
-*.coctwomp.com CNAME .
 cod.bitrec.com CNAME .
 *.cod.bitrec.com CNAME .
 cod.governmentaladvisory.com CNAME .
@@ -22587,8 +22581,6 @@ conenectedithcons.org CNAME .
 *.conenectedithcons.org CNAME .
 conestreshow.com CNAME .
 *.conestreshow.com CNAME .
-confabureas.com CNAME .
-*.confabureas.com CNAME .
 confe.dc.oppomobile.com CNAME .
 *.confe.dc.oppomobile.com CNAME .
 confectioneryconnected.com CNAME .
@@ -36149,8 +36141,6 @@ frenchhypotheticallysubquery.com CNAME .
 *.frenchhypotheticallysubquery.com CNAME .
 frenghiacred.com CNAME .
 *.frenghiacred.com CNAME .
-frequencyfeelhoneymoon.com CNAME .
-*.frequencyfeelhoneymoon.com CNAME .
 frequentagentlicense.com CNAME .
 *.frequentagentlicense.com CNAME .
 frequentimpatient.com CNAME .
@@ -39163,8 +39153,6 @@ grurducuze.com CNAME .
 *.grurducuze.com CNAME .
 grushoungy.com CNAME .
 *.grushoungy.com CNAME .
-grusianmebos.com CNAME .
-*.grusianmebos.com CNAME .
 grutauvoomtoard.net CNAME .
 *.grutauvoomtoard.net CNAME .
 grutsokucaiftoa.com CNAME .
@@ -45767,8 +45755,6 @@ kiksajex.com CNAME .
 *.kiksajex.com CNAME .
 killconvincing.com CNAME .
 *.killconvincing.com CNAME .
-killerrubacknowledge.com CNAME .
-*.killerrubacknowledge.com CNAME .
 killigwessel.shop CNAME .
 *.killigwessel.shop CNAME .
 killstudyingoperative.com CNAME .
@@ -61061,8 +61047,6 @@ precariousgrumpy.com CNAME .
 *.precariousgrumpy.com CNAME .
 precedelaxative.com CNAME .
 *.precedelaxative.com CNAME .
-precious-type.pro CNAME .
-*.precious-type.pro CNAME .
 preciouswornspectacle.com CNAME .
 *.preciouswornspectacle.com CNAME .
 precipitationepisodevanished.com CNAME .
@@ -70897,8 +70881,6 @@ soremetropolitan.com CNAME .
 *.soremetropolitan.com CNAME .
 sorghumfranger.com CNAME .
 *.sorghumfranger.com CNAME .
-soriteshumble.com CNAME .
-*.soriteshumble.com CNAME .
 soritespary.com CNAME .
 *.soritespary.com CNAME .
 sorngrunch.com CNAME .
