@@ -1,9 +1,9 @@
-; Version: 202504131109
+; Version: 202504131226
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87624
-; Last modified: 2025-04-13T11:09:13+0000
+; Entries: 87614
+; Last modified: 2025-04-13T12:26:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744542003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744545603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33725,8 +33725,6 @@ ezexfzek.com CNAME .
 *.ezexfzek.com CNAME .
 ezjhhapcoe.com CNAME .
 *.ezjhhapcoe.com CNAME .
-ezkeidkanjmvya.com CNAME .
-*.ezkeidkanjmvya.com CNAME .
 ezmob.com CNAME .
 *.ezmob.com CNAME .
 ezsbhlpchu.com CNAME .
@@ -47487,8 +47485,6 @@ lilyrealitycourthouse.com CNAME .
 *.lilyrealitycourthouse.com CNAME .
 limberkilnman.cam CNAME .
 *.limberkilnman.cam CNAME .
-limbievireos.com CNAME .
-*.limbievireos.com CNAME .
 limboduty.com CNAME .
 *.limboduty.com CNAME .
 limbrooms.com CNAME .
@@ -54513,8 +54509,6 @@ nonerr.com CNAME .
 *.nonerr.com CNAME .
 nonesleepbridle.com CNAME .
 *.nonesleepbridle.com CNAME .
-nonestolesantes.com CNAME .
-*.nonestolesantes.com CNAME .
 nongrayrestis.com CNAME .
 *.nongrayrestis.com CNAME .
 nonseertoux.net CNAME .
@@ -55507,8 +55501,6 @@ occupiedpace.com CNAME .
 *.occupiedpace.com CNAME .
 occurclaimed.com CNAME .
 *.occurclaimed.com CNAME .
-occurdefrost.com CNAME .
-*.occurdefrost.com CNAME .
 ocean.gigatron.rs CNAME .
 *.ocean.gigatron.rs CNAME .
 oceksodragi.net CNAME .
@@ -81371,8 +81363,6 @@ veritrol.com CNAME .
 *.veritrol.com CNAME .
 vermisrequite.click CNAME .
 *.vermisrequite.click CNAME .
-verninchange.com CNAME .
-*.verninchange.com CNAME .
 vernongermanessence.com CNAME .
 *.vernongermanessence.com CNAME .
 vernonspurtrash.com CNAME .
