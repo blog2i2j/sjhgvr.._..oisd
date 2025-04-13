@@ -1,9 +1,9 @@
-; Version: 202504130009
+; Version: 202504130108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87838
-; Last modified: 2025-04-13T00:09:12+0000
+; Entries: 87804
+; Last modified: 2025-04-13T01:08:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744502404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744506003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -929,8 +929,6 @@ $TTL 30
 *.222aa333bb.com CNAME .
 224cc86d.xyz CNAME .
 *.224cc86d.xyz CNAME .
-22b664d9ce.com CNAME .
-*.22b664d9ce.com CNAME .
 22blqkmkg.de CNAME .
 *.22blqkmkg.de CNAME .
 22c29c62b3.com CNAME .
@@ -9983,8 +9981,6 @@ amjllwbovlyba.top CNAME .
 *.amjllwbovlyba.top CNAME .
 amjoltiktor.com CNAME .
 *.amjoltiktor.com CNAME .
-amjsiksirkh.com CNAME .
-*.amjsiksirkh.com CNAME .
 amkxihjuvo.com CNAME .
 *.amkxihjuvo.com CNAME .
 aml.valuecommerce.com CNAME .
@@ -10117,8 +10113,6 @@ amunfezanttor.com CNAME .
 *.amunfezanttor.com CNAME .
 amung.us CNAME .
 *.amung.us CNAME .
-amused-ground.com CNAME .
-*.amused-ground.com CNAME .
 amuseer.com CNAME .
 *.amuseer.com CNAME .
 amusementchillyforce.com CNAME .
@@ -28601,8 +28595,6 @@ dg9sw33hxt5i7.cloudfront.net CNAME .
 *.dg9sw33hxt5i7.cloudfront.net CNAME .
 dgafgadsgkjg.top CNAME .
 *.dgafgadsgkjg.top CNAME .
-dgaxrjj0jwpwp.cloudfront.net CNAME .
-*.dgaxrjj0jwpwp.cloudfront.net CNAME .
 dgcollector.evidon.com CNAME .
 *.dgcollector.evidon.com CNAME .
 dggaenaawxe8z.cloudfront.net CNAME .
@@ -32739,8 +32731,6 @@ escgjyxnxbktf.one CNAME .
 *.escgjyxnxbktf.one CNAME .
 escortlist.pro CNAME .
 *.escortlist.pro CNAME .
-escuagefoggish.click CNAME .
-*.escuagefoggish.click CNAME .
 esculicturbans.com CNAME .
 *.esculicturbans.com CNAME .
 escy55gxubl6.com CNAME .
@@ -35817,8 +35807,6 @@ formingclayease.com CNAME .
 *.formingclayease.com CNAME .
 formismagiustor.com CNAME .
 *.formismagiustor.com CNAME .
-formismseventh.com CNAME .
-*.formismseventh.com CNAME .
 formsassistanceclassy.com CNAME .
 *.formsassistanceclassy.com CNAME .
 formteddy.com CNAME .
@@ -38307,8 +38295,6 @@ gobettygo.com CNAME .
 *.gobettygo.com CNAME .
 gobetweencomment.com CNAME .
 *.gobetweencomment.com CNAME .
-gobicyice.com CNAME .
-*.gobicyice.com CNAME .
 gobitta.info CNAME .
 *.gobitta.info CNAME .
 gobletauxiliary.com CNAME .
@@ -39699,8 +39685,6 @@ haithalaneroid.com CNAME .
 *.haithalaneroid.com CNAME .
 haitingshospi.info CNAME .
 *.haitingshospi.info CNAME .
-haixomz.xyz CNAME .
-*.haixomz.xyz CNAME .
 hajecurie.shop CNAME .
 *.hajecurie.shop CNAME .
 hajilijnemo.com CNAME .
@@ -42215,8 +42199,6 @@ ifdmuggdky.com CNAME .
 *.ifdmuggdky.com CNAME .
 ifdnzact.com CNAME .
 *.ifdnzact.com CNAME .
-ifefashionismscold.com CNAME .
-*.ifefashionismscold.com CNAME .
 ifigent.com CNAME .
 *.ifigent.com CNAME .
 ifjbtjf.com CNAME .
@@ -49691,8 +49673,6 @@ lzljxgqazegmr.space CNAME .
 *.lzljxgqazegmr.space CNAME .
 lzoasvofvzw.com CNAME .
 *.lzoasvofvzw.com CNAME .
-lzoefmqlgwv.com CNAME .
-*.lzoefmqlgwv.com CNAME .
 lzolanahk.com CNAME .
 *.lzolanahk.com CNAME .
 lzoorgpta.com CNAME .
@@ -51081,8 +51061,6 @@ mempoonsoftoow.net CNAME .
 *.mempoonsoftoow.net CNAME .
 menacehabit.com CNAME .
 *.menacehabit.com CNAME .
-menacesdisced.com CNAME .
-*.menacesdisced.com CNAME .
 menacing-awareness.pro CNAME .
 *.menacing-awareness.pro CNAME .
 menews.org CNAME .
@@ -55399,8 +55377,6 @@ oadsalsauck.net CNAME .
 *.oadsalsauck.net CNAME .
 oaftaijo.net CNAME .
 *.oaftaijo.net CNAME .
-oaghupha.xyz CNAME .
-*.oaghupha.xyz CNAME .
 oagnalsaftob.net CNAME .
 *.oagnalsaftob.net CNAME .
 oagnatch.com CNAME .
@@ -63055,8 +63031,6 @@ qhscsu.xyz CNAME .
 *.qhscsu.xyz CNAME .
 qhwyoat.com CNAME .
 *.qhwyoat.com CNAME .
-qiaoxz.xyz CNAME .
-*.qiaoxz.xyz CNAME .
 qibkkioqqw.com CNAME .
 *.qibkkioqqw.com CNAME .
 qibqiwczoojw.com CNAME .
@@ -63887,8 +63861,6 @@ rapaneaphoma.com CNAME .
 *.rapaneaphoma.com CNAME .
 rapfdf.xyz CNAME .
 *.rapfdf.xyz CNAME .
-raphanysteers.com CNAME .
-*.raphanysteers.com CNAME .
 raphidewakener.com CNAME .
 *.raphidewakener.com CNAME .
 rapidfoxengine.com CNAME .
@@ -64233,8 +64205,6 @@ reauksoffyrikm.com CNAME .
 *.reauksoffyrikm.com CNAME .
 reauthenticator.com CNAME .
 *.reauthenticator.com CNAME .
-rebelhaggard.com CNAME .
-*.rebelhaggard.com CNAME .
 rebellionnaturalconsonant.com CNAME .
 *.rebellionnaturalconsonant.com CNAME .
 rebindskayoes.com CNAME .
@@ -67763,8 +67733,6 @@ sancontr.com CNAME .
 *.sancontr.com CNAME .
 sanctioncurtain.com CNAME .
 *.sanctioncurtain.com CNAME .
-sanctuarylivestockcousins.com CNAME .
-*.sanctuarylivestockcousins.com CNAME .
 sandelf.com CNAME .
 *.sandelf.com CNAME .
 sandwich3452.fun CNAME .
@@ -82647,8 +82615,6 @@ vw1.gestimnogo.net CNAME .
 *.vw1.gestimnogo.net CNAME .
 vwagkipi.com CNAME .
 *.vwagkipi.com CNAME .
-vwchbsoukeq.xyz CNAME .
-*.vwchbsoukeq.xyz CNAME .
 vwioxxra.com CNAME .
 *.vwioxxra.com CNAME .
 vwonwkaqvq-a.global.ssl.fastly.net CNAME .
