@@ -1,9 +1,9 @@
-; Version: 202504132208
+; Version: 202504132339
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87562
-; Last modified: 2025-04-13T22:08:00+0000
+; Entries: 87540
+; Last modified: 2025-04-13T23:39:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744581603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744585203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5641,8 +5641,6 @@ adgebra.co.in CNAME .
 *.adgebra.co.in CNAME .
 adghndou0sdh.ru CNAME .
 *.adghndou0sdh.ru CNAME .
-adglaze.com CNAME .
-*.adglaze.com CNAME .
 adglobal.tech CNAME .
 *.adglobal.tech CNAME .
 adgoi.com CNAME .
@@ -13613,8 +13611,6 @@ avelozpranky.click CNAME .
 *.avelozpranky.click CNAME .
 avemariaas.vmrcommunications.com CNAME .
 *.avemariaas.vmrcommunications.com CNAME .
-avenaryconcent.com CNAME .
-*.avenaryconcent.com CNAME .
 avenuea.com CNAME .
 *.avenuea.com CNAME .
 avenueinvoke.com CNAME .
@@ -17409,8 +17405,6 @@ brecaqogx.com CNAME .
 *.brecaqogx.com CNAME .
 brechimys.shop CNAME .
 *.brechimys.shop CNAME .
-brechtembrowd.com CNAME .
-*.brechtembrowd.com CNAME .
 breechesbiddingratification.com CNAME .
 *.breechesbiddingratification.com CNAME .
 breechessteroidconsiderable.com CNAME .
@@ -31229,8 +31223,6 @@ eastergurgle.com CNAME .
 *.eastergurgle.com CNAME .
 eastfeukufu.info CNAME .
 *.eastfeukufu.info CNAME .
-eastfeukufunde.com CNAME .
-*.eastfeukufunde.com CNAME .
 eastrk-dn.com CNAME .
 *.eastrk-dn.com CNAME .
 eastrk-lg.com CNAME .
@@ -35999,8 +35991,6 @@ freebiesurveys.com CNAME .
 *.freebiesurveys.com CNAME .
 freecontent.date CNAME .
 *.freecontent.date CNAME .
-freecontent.live CNAME .
-*.freecontent.live CNAME .
 freecontent.stream CNAME .
 *.freecontent.stream CNAME .
 freeconverter.io CNAME .
@@ -36361,8 +36351,6 @@ furorshahdon.com CNAME .
 *.furorshahdon.com CNAME .
 furstraitsbrowse.com CNAME .
 *.furstraitsbrowse.com CNAME .
-furtheradmittedsickness.com CNAME .
-*.furtheradmittedsickness.com CNAME .
 furtherbasketballoverwhelming.com CNAME .
 *.furtherbasketballoverwhelming.com CNAME .
 furykms.com CNAME .
@@ -45377,8 +45365,6 @@ kbjn-sibltg.icu CNAME .
 *.kbjn-sibltg.icu CNAME .
 kbnmnl.com CNAME .
 *.kbnmnl.com CNAME .
-kbnujcqx.xyz CNAME .
-*.kbnujcqx.xyz CNAME .
 kbqihabjlufvf.club CNAME .
 *.kbqihabjlufvf.club CNAME .
 kbugxeslbjc8.com CNAME .
@@ -79189,8 +79175,6 @@ tuxbpnne.com CNAME .
 *.tuxbpnne.com CNAME .
 tvc.biphim.club CNAME .
 *.tvc.biphim.club CNAME .
-tvcnmti.top CNAME .
-*.tvcnmti.top CNAME .
 tver-metrics.streaks.jp CNAME .
 *.tver-metrics.streaks.jp CNAME .
 tvfeel.cc CNAME .
@@ -79683,8 +79667,6 @@ ugrarvy.com CNAME .
 *.ugrarvy.com CNAME .
 ugroocuw.net CNAME .
 *.ugroocuw.net CNAME .
-ugyyod.com CNAME .
-*.ugyyod.com CNAME .
 uh.nakanohito.jp CNAME .
 *.uh.nakanohito.jp CNAME .
 uhdokoq5ocmk.com CNAME .
@@ -81689,8 +81671,6 @@ viimself.com CNAME .
 *.viimself.com CNAME .
 viimult.com CNAME .
 *.viimult.com CNAME .
-viiphciz.com CNAME .
-*.viiphciz.com CNAME .
 viippugm.com CNAME .
 *.viippugm.com CNAME .
 viipular.com CNAME .
@@ -82703,8 +82683,6 @@ warsabnormality.com CNAME .
 *.warsabnormality.com CNAME .
 warscoltmarvellous.com CNAME .
 *.warscoltmarvellous.com CNAME .
-warselanlet.com CNAME .
-*.warselanlet.com CNAME .
 warumbistdusoarm.space CNAME .
 *.warumbistdusoarm.space CNAME .
 warwickgph.top CNAME .
