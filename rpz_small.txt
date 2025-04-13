@@ -1,9 +1,9 @@
-; Version: 202504130408
+; Version: 202504130508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87750
-; Last modified: 2025-04-13T04:08:13+0000
+; Entries: 87726
+; Last modified: 2025-04-13T05:08:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744516803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744520404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -987,8 +987,6 @@ $TTL 30
 *.2477april2024.com CNAME .
 2479april2024.com CNAME .
 *.2479april2024.com CNAME .
-247dbf848b.com CNAME .
-*.247dbf848b.com CNAME .
 247media.com CNAME .
 *.247media.com CNAME .
 2481april2024.com CNAME .
@@ -22531,8 +22529,6 @@ conclusionsmushyburn.com CNAME .
 *.conclusionsmushyburn.com CNAME .
 concord.systems CNAME .
 *.concord.systems CNAME .
-concoursegrope.com CNAME .
-*.concoursegrope.com CNAME .
 concrete-cabinet.pro CNAME .
 *.concrete-cabinet.pro CNAME .
 concreteapplauseinefficient.com CNAME .
@@ -38533,8 +38529,6 @@ gotwebsite1.com CNAME .
 *.gotwebsite1.com CNAME .
 gougerestrip.com CNAME .
 *.gougerestrip.com CNAME .
-gougesoury.com CNAME .
-*.gougesoury.com CNAME .
 gougewhenaus.net CNAME .
 *.gougewhenaus.net CNAME .
 gougligloupha.net CNAME .
@@ -44603,8 +44597,6 @@ jjthmis.com CNAME .
 *.jjthmis.com CNAME .
 jk4lmrf2.de CNAME .
 *.jk4lmrf2.de CNAME .
-jkajyrkqaoyjl.top CNAME .
-*.jkajyrkqaoyjl.top CNAME .
 jkha742.xyz CNAME .
 *.jkha742.xyz CNAME .
 jklpy.com CNAME .
@@ -45297,8 +45289,6 @@ kaayqbakmzrwy.top CNAME .
 *.kaayqbakmzrwy.top CNAME .
 kabakamarbles.top CNAME .
 *.kabakamarbles.top CNAME .
-kacqqepgoswftqg.xyz CNAME .
-*.kacqqepgoswftqg.xyz CNAME .
 kacukrunitsoo.net CNAME .
 *.kacukrunitsoo.net CNAME .
 kadam.net CNAME .
@@ -53627,8 +53617,6 @@ navigator.io CNAME .
 *.navigator.io CNAME .
 navrcholu.cz CNAME .
 *.navrcholu.cz CNAME .
-navvieslizard.com CNAME .
-*.navvieslizard.com CNAME .
 navvitstucuz.com CNAME .
 *.navvitstucuz.com CNAME .
 nawhaurgoas.com CNAME .
@@ -57555,8 +57543,6 @@ oxbbzxqfnv.com CNAME .
 *.oxbbzxqfnv.com CNAME .
 oxcash.com CNAME .
 *.oxcash.com CNAME .
-oxdpcmoajzrzbc.com CNAME .
-*.oxdpcmoajzrzbc.com CNAME .
 oxen.hillcountrytexas.com CNAME .
 *.oxen.hillcountrytexas.com CNAME .
 oxetoneagneaux.click CNAME .
@@ -65437,8 +65423,6 @@ rich1x.xyz CNAME .
 *.rich1x.xyz CNAME .
 richeighth.shop CNAME .
 *.richeighth.shop CNAME .
-richestlache.com CNAME .
-*.richestlache.com CNAME .
 richestplacid.com CNAME .
 *.richestplacid.com CNAME .
 richh.cn CNAME .
@@ -69545,8 +69529,6 @@ showybrief.pro CNAME .
 *.showybrief.pro CNAME .
 showyourevent.com CNAME .
 *.showyourevent.com CNAME .
-shpuzesoxyfhh.com CNAME .
-*.shpuzesoxyfhh.com CNAME .
 shredassortmentmood.com CNAME .
 *.shredassortmentmood.com CNAME .
 shredvealdone.com CNAME .
@@ -69721,8 +69703,6 @@ signingtherebyjeopardize.com CNAME .
 *.signingtherebyjeopardize.com CNAME .
 sihighlyrecom.xyz CNAME .
 *.sihighlyrecom.xyz CNAME .
-siiwptfum.xyz CNAME .
-*.siiwptfum.xyz CNAME .
 sijillshirvan.com CNAME .
 *.sijillshirvan.com CNAME .
 sikncs.com CNAME .
@@ -84639,8 +84619,6 @@ wrathyblesmol.com CNAME .
 *.wrathyblesmol.com CNAME .
 wrayagalma.top CNAME .
 *.wrayagalma.top CNAME .
-wreaksyolkier.com CNAME .
-*.wreaksyolkier.com CNAME .
 wreathabble.com CNAME .
 *.wreathabble.com CNAME .
 wreckonturr.info CNAME .
@@ -86621,8 +86599,6 @@ yldbt.com CNAME .
 *.yldbt.com CNAME .
 yldmgrimg.net CNAME .
 *.yldmgrimg.net CNAME .
-ylfmlahzmzsw.com CNAME .
-*.ylfmlahzmzsw.com CNAME .
 ylih6ftygq7.com CNAME .
 *.ylih6ftygq7.com CNAME .
 yllaris.com CNAME .
