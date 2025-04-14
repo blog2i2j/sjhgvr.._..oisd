@@ -1,9 +1,9 @@
-; Version: 202504140108
+; Version: 202504140208
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87506
-; Last modified: 2025-04-14T01:08:14+0000
+; Entries: 87482
+; Last modified: 2025-04-14T02:08:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744592404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744596003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12255,8 +12255,6 @@ aquentlytujim.com CNAME .
 *.aquentlytujim.com CNAME .
 aquila.aomg5bzv7.com CNAME .
 *.aquila.aomg5bzv7.com CNAME .
-aqwmbwmrrqqzm.top CNAME .
-*.aqwmbwmrrqqzm.top CNAME .
 aqxme-eorex.site CNAME .
 *.aqxme-eorex.site CNAME .
 ar.429men.com CNAME .
@@ -13933,8 +13931,6 @@ ayensexilic.com CNAME .
 *.ayensexilic.com CNAME .
 ayerbo.xhost.ro CNAME .
 *.ayerbo.xhost.ro CNAME .
-ayerjjnqmkven.top CNAME .
-*.ayerjjnqmkven.top CNAME .
 ayga.xyz CNAME .
 *.ayga.xyz CNAME .
 aykqyjzbkkkra.top CNAME .
@@ -19803,8 +19799,6 @@ cdrvrs.com CNAME .
 *.cdrvrs.com CNAME .
 cdsbnrs.com CNAME .
 *.cdsbnrs.com CNAME .
-cdtxegwndfduk.xyz CNAME .
-*.cdtxegwndfduk.xyz CNAME .
 cdunwi.xyz CNAME .
 *.cdunwi.xyz CNAME .
 cdvmgqs-ggh.tech CNAME .
@@ -22971,8 +22965,6 @@ coolestreactionstems.com CNAME .
 *.coolestreactionstems.com CNAME .
 coolherein.com CNAME .
 *.coolherein.com CNAME .
-cooliwoudol.net CNAME .
-*.cooliwoudol.net CNAME .
 cooljony.com CNAME .
 *.cooljony.com CNAME .
 coollyadmissibleclack.com CNAME .
@@ -28293,8 +28285,6 @@ descentsafestvanity.com CNAME .
 *.descentsafestvanity.com CNAME .
 descrepush.com CNAME .
 *.descrepush.com CNAME .
-described.work CNAME .
-*.described.work CNAME .
 descriptionheels.com CNAME .
 *.descriptionheels.com CNAME .
 descriptive-monitor.com CNAME .
@@ -29355,8 +29345,6 @@ dlvds9i67c60j.cloudfront.net CNAME .
 *.dlvds9i67c60j.cloudfront.net CNAME .
 dlxk2dj1h3e83.cloudfront.net CNAME .
 *.dlxk2dj1h3e83.cloudfront.net CNAME .
-dlxvhordcwtupf.xyz CNAME .
-*.dlxvhordcwtupf.xyz CNAME .
 dlyakleonarb.ru CNAME .
 *.dlyakleonarb.ru CNAME .
 dlyarecnew.me CNAME .
@@ -42461,8 +42449,6 @@ imgqmng.com CNAME .
 *.imgqmng.com CNAME .
 imgx.jampp.com CNAME .
 *.imgx.jampp.com CNAME .
-imiclick.org CNAME .
-*.imiclick.org CNAME .
 imidicsecular.com CNAME .
 *.imidicsecular.com CNAME .
 imitateupsettweak.com CNAME .
@@ -45191,8 +45177,6 @@ kaarheciqa.xyz CNAME .
 *.kaarheciqa.xyz CNAME .
 kaascypher.com CNAME .
 *.kaascypher.com CNAME .
-kaayqbakmzrwy.top CNAME .
-*.kaayqbakmzrwy.top CNAME .
 kabakamarbles.top CNAME .
 *.kabakamarbles.top CNAME .
 kacukrunitsoo.net CNAME .
@@ -53373,8 +53357,6 @@ naos.ink CNAME .
 *.naos.ink CNAME .
 napainsi.net CNAME .
 *.napainsi.net CNAME .
-naplpzlrgslcwj.com CNAME .
-*.naplpzlrgslcwj.com CNAME .
 narenrosrow.com CNAME .
 *.narenrosrow.com CNAME .
 narkalignevil.com CNAME .
@@ -64229,8 +64211,6 @@ reecasoabaiz.net CNAME .
 *.reecasoabaiz.net CNAME .
 reecegrita.com CNAME .
 *.reecegrita.com CNAME .
-reedbritingsynt.info CNAME .
-*.reedbritingsynt.info CNAME .
 reedpraised.com CNAME .
 *.reedpraised.com CNAME .
 reedsbullyingpastel.com CNAME .
@@ -73563,8 +73543,6 @@ sugs.m.sm.cn CNAME .
 *.sugs.m.sm.cn CNAME .
 suhelux.com CNAME .
 *.suhelux.com CNAME .
-suirtan.com CNAME .
-*.suirtan.com CNAME .
 suitedeteriorate.com CNAME .
 *.suitedeteriorate.com CNAME .
 suitedtack.com CNAME .
@@ -75931,8 +75909,6 @@ thrillignoringexalt.com CNAME .
 *.thrillignoringexalt.com CNAME .
 thrillstwinges.top CNAME .
 *.thrillstwinges.top CNAME .
-thriseds.com CNAME .
-*.thriseds.com CNAME .
 throatchanged.com CNAME .
 *.throatchanged.com CNAME .
 thronestartle.com CNAME .
