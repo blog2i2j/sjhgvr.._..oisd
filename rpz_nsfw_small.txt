@@ -1,9 +1,9 @@
-; Version: 202504140111
+; Version: 202504140211
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39124
-; Last modified: 2025-04-14T01:11:51+0000
+; Entries: 39154
+; Last modified: 2025-04-14T02:11:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744592404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744596003 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -481,6 +481,8 @@ $TTL 30
 *.3vids.com CNAME .
 3xchina.net CNAME .
 *.3xchina.net CNAME .
+3xindianporno.com CNAME .
+*.3xindianporno.com CNAME .
 3xnunglon.pro CNAME .
 *.3xnunglon.pro CNAME .
 3xpla.net CNAME .
@@ -1745,6 +1747,8 @@ amaminow.it CNAME .
 *.amaminow.it CNAME .
 amandahot.com CNAME .
 *.amandahot.com CNAME .
+amantesegreto.com CNAME .
+*.amantesegreto.com CNAME .
 amaporn.com CNAME .
 *.amaporn.com CNAME .
 amarotic.com CNAME .
@@ -8165,6 +8169,8 @@ doujins.com CNAME .
 *.doujins.com CNAME .
 doujinshell.com CNAME .
 *.doujinshell.com CNAME .
+doujinza.com CNAME .
+*.doujinza.com CNAME .
 douzin-q.com CNAME .
 *.douzin-q.com CNAME .
 downapp.com CNAME .
@@ -9093,6 +9099,8 @@ erotube.dk CNAME .
 *.erotube.dk CNAME .
 erovideochat.net CNAME .
 *.erovideochat.net CNAME .
+erovoice.us CNAME .
+*.erovoice.us CNAME .
 erowall.com CNAME .
 *.erowall.com CNAME .
 eroxxxvids.cc CNAME .
@@ -9877,8 +9885,6 @@ faproulette.co CNAME .
 *.faproulette.co CNAME .
 fapservice.com CNAME .
 *.fapservice.com CNAME .
-fapsexclips.com CNAME .
-*.fapsexclips.com CNAME .
 fapshots.com CNAME .
 *.fapshots.com CNAME .
 fapsly.com CNAME .
@@ -9925,6 +9931,8 @@ fat-woman.net CNAME .
 *.fat-woman.net CNAME .
 fatalmodel.com CNAME .
 *.fatalmodel.com CNAME .
+fatbuttp.com CNAME .
+*.fatbuttp.com CNAME .
 fatgranny.com CNAME .
 *.fatgranny.com CNAME .
 fatgrannytube.com CNAME .
@@ -11555,6 +11563,8 @@ gameson.pro CNAME .
 *.gameson.pro CNAME .
 gamespo18.com CNAME .
 *.gamespo18.com CNAME .
+gamigames.com CNAME .
+*.gamigames.com CNAME .
 gamingadlt.com CNAME .
 *.gamingadlt.com CNAME .
 gamkabu.com CNAME .
@@ -12113,6 +12123,8 @@ gertibaldi.com CNAME .
 *.gertibaldi.com CNAME .
 gertstir.ru CNAME .
 *.gertstir.ru CNAME .
+gesek.info CNAME .
+*.gesek.info CNAME .
 gesext.de CNAME .
 *.gesext.de CNAME .
 gesporn.com CNAME .
@@ -14231,6 +14243,8 @@ hookupplan.com CNAME .
 *.hookupplan.com CNAME .
 hookupranking.com CNAME .
 *.hookupranking.com CNAME .
+hookupresults.net CNAME .
+*.hookupresults.net CNAME .
 hookups.co.za CNAME .
 *.hookups.co.za CNAME .
 hookupschat.com CNAME .
@@ -17753,6 +17767,8 @@ kusadasiteksex.com CNAME .
 *.kusadasiteksex.com CNAME .
 kusowanka.com CNAME .
 *.kusowanka.com CNAME .
+kussladies.de CNAME .
+*.kussladies.de CNAME .
 kutahyaosb.com CNAME .
 *.kutahyaosb.com CNAME .
 kuumatmaturet.com CNAME .
@@ -19233,6 +19249,8 @@ marionescort.com CNAME .
 *.marionescort.com CNAME .
 marmarishaberleri.com CNAME .
 *.marmarishaberleri.com CNAME .
+marmeladies.com CNAME .
+*.marmeladies.com CNAME .
 marqueze.net CNAME .
 *.marqueze.net CNAME .
 marriedsex.net CNAME .
@@ -23295,6 +23313,8 @@ phimsexmup-a1.com CNAME .
 *.phimsexmup-a1.com CNAME .
 phimsexmy.site CNAME .
 *.phimsexmy.site CNAME .
+phimsexne.pro CNAME .
+*.phimsexne.pro CNAME .
 phimsexngon.info CNAME .
 *.phimsexngon.info CNAME .
 phimsexnhatbankhongche.org CNAME .
@@ -23345,6 +23365,8 @@ phimsexvietnam.co CNAME .
 *.phimsexvietnam.co CNAME .
 phimsexvietnam24h.com CNAME .
 *.phimsexvietnam24h.com CNAME .
+phimsexvietz.com CNAME .
+*.phimsexvietz.com CNAME .
 phimsexvkl.xyz CNAME .
 *.phimsexvkl.xyz CNAME .
 phimsexvn123.net CNAME .
@@ -23495,6 +23517,8 @@ pilluporno.com CNAME .
 *.pilluporno.com CNAME .
 pilluvideot.com CNAME .
 *.pilluvideot.com CNAME .
+pimpandhost.com CNAME .
+*.pimpandhost.com CNAME .
 pimpbunny.com CNAME .
 *.pimpbunny.com CNAME .
 pimproll.com CNAME .
@@ -24583,6 +24607,8 @@ pornhuts.one CNAME .
 *.pornhuts.one CNAME .
 pornhwa.me CNAME .
 *.pornhwa.me CNAME .
+pornhwa.pro CNAME .
+*.pornhwa.pro CNAME .
 pornici.monster CNAME .
 *.pornici.monster CNAME .
 pornicipornici.com CNAME .
@@ -27047,6 +27073,8 @@ r34.app CNAME .
 *.r34.app CNAME .
 r34anim.com CNAME .
 *.r34anim.com CNAME .
+r34comics.com CNAME .
+*.r34comics.com CNAME .
 r34porn.net CNAME .
 *.r34porn.net CNAME .
 rabbitfinder.com CNAME .
@@ -34191,6 +34219,8 @@ uuu.cam CNAME .
 *.uuu.cam CNAME .
 uviu.com CNAME .
 *.uviu.com CNAME .
+uvtix.com CNAME .
+*.uvtix.com CNAME .
 uw.hu CNAME .
 *.uw.hu CNAME .
 uwstart.nl CNAME .
