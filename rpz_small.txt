@@ -1,9 +1,9 @@
-; Version: 202504140308
+; Version: 202504140408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87460
-; Last modified: 2025-04-14T03:08:38+0000
+; Entries: 87432
+; Last modified: 2025-04-14T04:08:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744599603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744603204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -205,8 +205,6 @@ $TTL 30
 *.0e4256d4f1.com CNAME .
 0eab70c429.a567dda4c2.com CNAME .
 *.0eab70c429.a567dda4c2.com CNAME .
-0eade9dd8d.com CNAME .
-*.0eade9dd8d.com CNAME .
 0f269944ac.9c98029b1e.com CNAME .
 *.0f269944ac.9c98029b1e.com CNAME .
 0f3f317f1d.com CNAME .
@@ -8927,8 +8925,6 @@ aipofeem.net CNAME .
 *.aipofeem.net CNAME .
 aiqidwcfrm.com CNAME .
 *.aiqidwcfrm.com CNAME .
-aiquqqaadd.xyz CNAME .
-*.aiquqqaadd.xyz CNAME .
 airairgu.com CNAME .
 *.airairgu.com CNAME .
 airbillunset.shop CNAME .
@@ -27607,8 +27603,6 @@ dchyjb.xyz CNAME .
 *.dchyjb.xyz CNAME .
 dcinfos-cache.abtasty.com CNAME .
 *.dcinfos-cache.abtasty.com CNAME .
-dcjaefrbn.xyz CNAME .
-*.dcjaefrbn.xyz CNAME .
 dcjg1gv1px1h.cloudfront.net CNAME .
 *.dcjg1gv1px1h.cloudfront.net CNAME .
 dcjrrglrieycgj.com CNAME .
@@ -35681,8 +35675,6 @@ formatstock.com CNAME .
 *.formatstock.com CNAME .
 formayday.com CNAME .
 *.formayday.com CNAME .
-formedwrapped.com CNAME .
-*.formedwrapped.com CNAME .
 formerdisagreepectoral.com CNAME .
 *.formerdisagreepectoral.com CNAME .
 formerdrearybiopsy.com CNAME .
@@ -42173,8 +42165,6 @@ iistillstayherea.com CNAME .
 *.iistillstayherea.com CNAME .
 ijbaawqolrhpd.site CNAME .
 *.ijbaawqolrhpd.site CNAME .
-ijdcvctkalyb.xyz CNAME .
-*.ijdcvctkalyb.xyz CNAME .
 ijhweandthepe.info CNAME .
 *.ijhweandthepe.info CNAME .
 ijhxe.com CNAME .
@@ -44549,8 +44539,6 @@ joaphaufouy.net CNAME .
 *.joaphaufouy.net CNAME .
 joastaca.com CNAME .
 *.joastaca.com CNAME .
-joastoopsu.xyz CNAME .
-*.joastoopsu.xyz CNAME .
 joathath.com CNAME .
 *.joathath.com CNAME .
 joberopolicycr.com CNAME .
@@ -52885,8 +52873,6 @@ mvchallenges.s3-website-eu-west-1.amazonaws.com CNAME .
 *.mvchallenges.s3-website-eu-west-1.amazonaws.com CNAME .
 mvcngm.xyz CNAME .
 *.mvcngm.xyz CNAME .
-mvcnmtx.top CNAME .
-*.mvcnmtx.top CNAME .
 mvfmdfsvoq.com CNAME .
 *.mvfmdfsvoq.com CNAME .
 mvijuifysyjrz.rocks CNAME .
@@ -55883,8 +55869,6 @@ oktarnxtozis.com CNAME .
 *.oktarnxtozis.com CNAME .
 oktranhfyfa.com CNAME .
 *.oktranhfyfa.com CNAME .
-okvt.cn CNAME .
-*.okvt.cn CNAME .
 olaplog.smartmediarep.com CNAME .
 *.olaplog.smartmediarep.com CNAME .
 olayomad.com CNAME .
@@ -60341,8 +60325,6 @@ popunderz.com CNAME .
 *.popunderz.com CNAME .
 popup-static.unisender.com CNAME .
 *.popup-static.unisender.com CNAME .
-popup.egyup.com CNAME .
-*.popup.egyup.com CNAME .
 popup.msn.com CNAME .
 *.popup.msn.com CNAME .
 popup.sapoapps.vn CNAME .
@@ -75779,8 +75761,6 @@ thirty-good.lugg.com CNAME .
 *.thirty-good.lugg.com CNAME .
 thirtycabook.com CNAME .
 *.thirtycabook.com CNAME .
-this-park.com CNAME .
-*.this-park.com CNAME .
 thiscdn.com CNAME .
 *.thiscdn.com CNAME .
 thisiswaldo.com CNAME .
@@ -83169,8 +83149,6 @@ wenog.com CNAME .
 *.wenog.com CNAME .
 wensonk.com CNAME .
 *.wensonk.com CNAME .
-wenxue.weimeifan.net CNAME .
-*.wenxue.weimeifan.net CNAME .
 wenxue.youzhicn.com CNAME .
 *.wenxue.youzhicn.com CNAME .
 werbemanager.w24.at CNAME .
@@ -83565,8 +83543,6 @@ wickedhumankindbarrel.com CNAME .
 *.wickedhumankindbarrel.com CNAME .
 wickedwrests.com CNAME .
 *.wickedwrests.com CNAME .
-wicksoftzfiles.click CNAME .
-*.wicksoftzfiles.click CNAME .
 wicopymastery.com CNAME .
 *.wicopymastery.com CNAME .
 wideaplentyinsurance.com CNAME .
@@ -85863,8 +85839,6 @@ xveenk.com CNAME .
 *.xveenk.com CNAME .
 xvfyubhqjp.xyz CNAME .
 *.xvfyubhqjp.xyz CNAME .
-xvhgtyvpaav.xyz CNAME .
-*.xvhgtyvpaav.xyz CNAME .
 xviperonec.com CNAME .
 *.xviperonec.com CNAME .
 xvirelcdn.click CNAME .
@@ -86171,8 +86145,6 @@ yeesihighlyre.info CNAME .
 *.yeesihighlyre.info CNAME .
 yeesshh.com CNAME .
 *.yeesshh.com CNAME .
-yeggscuvette.com CNAME .
-*.yeggscuvette.com CNAME .
 yelads2.life CNAME .
 *.yelads2.life CNAME .
 yellowish-yesterday.pro CNAME .
