@@ -1,9 +1,9 @@
-; Version: 202504141212
+; Version: 202504141311
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39418
-; Last modified: 2025-04-14T12:12:20+0000
+; Entries: 39434
+; Last modified: 2025-04-14T13:11:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744632003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744635603 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -273,6 +273,8 @@ $TTL 30
 *.1xxx.tv CNAME .
 2018porn.pro CNAME .
 *.2018porn.pro CNAME .
+20vv.cc CNAME .
+*.20vv.cc CNAME .
 21naturals.com CNAME .
 *.21naturals.com CNAME .
 21sextreme.com CNAME .
@@ -2767,6 +2769,8 @@ asirimp3.com CNAME .
 *.asirimp3.com CNAME .
 ask4porn.cc CNAME .
 *.ask4porn.cc CNAME .
+askjeeves.com CNAME .
+*.askjeeves.com CNAME .
 askjolene.com CNAME .
 *.askjolene.com CNAME .
 aslust.com CNAME .
@@ -7097,6 +7101,8 @@ cxfakes.com CNAME .
 *.cxfakes.com CNAME .
 cyberns.net CNAME .
 *.cyberns.net CNAME .
+cyrillo.biz CNAME .
+*.cyrillo.biz CNAME .
 cytohistology.ru CNAME .
 *.cytohistology.ru CNAME .
 czechav.com CNAME .
@@ -12937,6 +12943,8 @@ haho.moe CNAME .
 *.haho.moe CNAME .
 haijiao.com CNAME .
 *.haijiao.com CNAME .
+hairstorynetwork.com CNAME .
+*.hairstorynetwork.com CNAME .
 hairyav.com CNAME .
 *.hairyav.com CNAME .
 hairycoochies.com CNAME .
@@ -25929,6 +25937,8 @@ pornotane.net CNAME .
 *.pornotane.net CNAME .
 pornotanja.com CNAME .
 *.pornotanja.com CNAME .
+pornotarado.com CNAME .
+*.pornotarado.com CNAME .
 pornotaran.com CNAME .
 *.pornotaran.com CNAME .
 pornotelegram.com CNAME .
@@ -32003,6 +32013,8 @@ talktome.com CNAME .
 *.talktome.com CNAME .
 talkwithstranger.com CNAME .
 *.talkwithstranger.com CNAME .
+talla.ua CNAME .
+*.talla.ua CNAME .
 tameuf.com CNAME .
 *.tameuf.com CNAME .
 tamil-porno.com CNAME .
@@ -33417,6 +33429,8 @@ transdoe.com CNAME .
 *.transdoe.com CNAME .
 transen.net CNAME .
 *.transen.net CNAME .
+transenklub.net CNAME .
+*.transenklub.net CNAME .
 transerotica.com CNAME .
 *.transerotica.com CNAME .
 transex1.cc CNAME .
@@ -36327,6 +36341,8 @@ xgif.cc CNAME .
 *.xgif.cc CNAME .
 xgifer.com CNAME .
 *.xgifer.com CNAME .
+xgirlbook.es CNAME .
+*.xgirlbook.es CNAME .
 xgirls.agency CNAME .
 *.xgirls.agency CNAME .
 xgirls.webcam CNAME .
