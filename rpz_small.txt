@@ -1,9 +1,9 @@
-; Version: 202504152008
+; Version: 202504152213
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87928
-; Last modified: 2025-04-15T20:08:52+0000
+; Entries: 87918
+; Last modified: 2025-04-15T22:13:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744747204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744754404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -58797,8 +58797,6 @@ pekansrefait.shop CNAME .
 *.pekansrefait.shop CNAME .
 pekcbuz.com CNAME .
 *.pekcbuz.com CNAME .
-pekr.cn CNAME .
-*.pekr.cn CNAME .
 pelamydlours.com CNAME .
 *.pelamydlours.com CNAME .
 pelamydsumatra.shop CNAME .
@@ -61345,8 +61343,6 @@ priorityblockinghopped.com CNAME .
 *.priorityblockinghopped.com CNAME .
 priscanvarify.top CNAME .
 *.priscanvarify.top CNAME .
-priselapse.com CNAME .
-*.priselapse.com CNAME .
 prisma-tr.prismamedia.com CNAME .
 *.prisma-tr.prismamedia.com CNAME .
 prismlacers.top CNAME .
@@ -64349,8 +64345,6 @@ receptiongrimoddly.com CNAME .
 *.receptiongrimoddly.com CNAME .
 recessionspeaksanybody.com CNAME .
 *.recessionspeaksanybody.com CNAME .
-recesslikeness.com CNAME .
-*.recesslikeness.com CNAME .
 rechanque.com CNAME .
 *.rechanque.com CNAME .
 recharsemiarc.com CNAME .
@@ -76285,8 +76279,6 @@ threewoodslose.com CNAME .
 *.threewoodslose.com CNAME .
 threwdownth.xyz CNAME .
 *.threwdownth.xyz CNAME .
-thricrulnf.com CNAME .
-*.thricrulnf.com CNAME .
 thriftywaste.com CNAME .
 *.thriftywaste.com CNAME .
 thrilledrentbull.com CNAME .
@@ -81589,8 +81581,6 @@ vendingboatsunbutton.com CNAME .
 *.vendingboatsunbutton.com CNAME .
 veneeringperfect.com CNAME .
 *.veneeringperfect.com CNAME .
-vengeancehurriedly.com CNAME .
-*.vengeancehurriedly.com CNAME .
 vengeancerepulseclassified.com CNAME .
 *.vengeancerepulseclassified.com CNAME .
 vengeancewaterproof.com CNAME .
@@ -86527,6 +86517,8 @@ yachouytnrkrkxt.com CNAME .
 *.yachouytnrkrkxt.com CNAME .
 yads.yahoo.co.jp CNAME .
 *.yads.yahoo.co.jp CNAME .
+yads.yjtag.yahoo.co.jp CNAME .
+*.yads.yjtag.yahoo.co.jp CNAME .
 yaervrqwtu.com CNAME .
 *.yaervrqwtu.com CNAME .
 yahuu.org CNAME .
@@ -86763,8 +86755,6 @@ yjgrhzvtvkqen.tech CNAME .
 *.yjgrhzvtvkqen.tech CNAME .
 yjrrwchaz.com CNAME .
 *.yjrrwchaz.com CNAME .
-yjtag.yahoo.co.jp CNAME .
-*.yjtag.yahoo.co.jp CNAME .
 yjustingexcelele.org CNAME .
 *.yjustingexcelele.org CNAME .
 ykad-data.youku.com CNAME .
