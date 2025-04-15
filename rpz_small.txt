@@ -1,9 +1,9 @@
-; Version: 202504151608
+; Version: 202504151708
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87870
-; Last modified: 2025-04-15T16:08:36+0000
+; Entries: 87856
+; Last modified: 2025-04-15T17:08:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744732804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744736403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3459,8 +3459,6 @@ a.wzu.com CNAME .
 *.a.wzu.com CNAME .
 a.xanga.com CNAME .
 *.a.xanga.com CNAME .
-a.xixiyishu.com CNAME .
-*.a.xixiyishu.com CNAME .
 a.xue126.com CNAME .
 *.a.xue126.com CNAME .
 a.xuezizhai.com CNAME .
@@ -4533,8 +4531,6 @@ acrebackcharacter.com CNAME .
 *.acrebackcharacter.com CNAME .
 acrelicenseblown.com CNAME .
 *.acrelicenseblown.com CNAME .
-acrepantherrecite.com CNAME .
-*.acrepantherrecite.com CNAME .
 acrh.be CNAME .
 *.acrh.be CNAME .
 acridbloatparticularly.com CNAME .
@@ -5741,8 +5737,6 @@ adimpact.com CNAME .
 *.adimpact.com CNAME .
 adincube.com CNAME .
 *.adincube.com CNAME .
-adinfuse.com CNAME .
-*.adinfuse.com CNAME .
 adinjector.net CNAME .
 *.adinjector.net CNAME .
 adinterax.com CNAME .
@@ -9381,8 +9375,6 @@ algat.intergoles.me CNAME .
 *.algat.intergoles.me CNAME .
 algerianembassy.co.in CNAME .
 *.algerianembassy.co.in CNAME .
-algg.site CNAME .
-*.algg.site CNAME .
 algo.creepingbrings.com CNAME .
 *.algo.creepingbrings.com CNAME .
 algodon.net CNAME .
@@ -21407,8 +21399,6 @@ clicks.tyuwq.com CNAME .
 *.clicks.tyuwq.com CNAME .
 clicks.uptownleads.com CNAME .
 *.clicks.uptownleads.com CNAME .
-clicks.wawlabs.com CNAME .
-*.clicks.wawlabs.com CNAME .
 clicks4tc.com CNAME .
 *.clicks4tc.com CNAME .
 clicksgear.com CNAME .
@@ -38967,8 +38957,6 @@ grexackugnee.net CNAME .
 *.grexackugnee.net CNAME .
 greystripe.com CNAME .
 *.greystripe.com CNAME .
-greysummergo.biz CNAME .
-*.greysummergo.biz CNAME .
 grf.easyhash.io CNAME .
 *.grf.easyhash.io CNAME .
 grfblurrer.top CNAME .
@@ -46469,8 +46457,6 @@ kwdflqos.com CNAME .
 *.kwdflqos.com CNAME .
 kweriod.top CNAME .
 *.kweriod.top CNAME .
-kwiydaw.com CNAME .
-*.kwiydaw.com CNAME .
 kwqmugaonqtqa.com CNAME .
 *.kwqmugaonqtqa.com CNAME .
 kwtmhuvkpmcsog.com CNAME .
