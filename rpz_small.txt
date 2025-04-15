@@ -1,9 +1,9 @@
-; Version: 202504151408
+; Version: 202504151508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87884
-; Last modified: 2025-04-15T14:08:22+0000
+; Entries: 87876
+; Last modified: 2025-04-15T15:08:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744725603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744729203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15257,8 +15257,6 @@ bdm.ye-su.cn CNAME .
 *.bdm.ye-su.cn CNAME .
 bdmjs.xywy.com CNAME .
 *.bdmjs.xywy.com CNAME .
-bdoyadtbxsy.com CNAME .
-*.bdoyadtbxsy.com CNAME .
 bdu.focus.cn CNAME .
 *.bdu.focus.cn CNAME .
 bdunion1.suxiazai.com CNAME .
@@ -23213,8 +23211,6 @@ cosponsorgarnetmorphing.com CNAME .
 *.cosponsorgarnetmorphing.com CNAME .
 costco-adbutler.com CNAME .
 *.costco-adbutler.com CNAME .
-costhandbookfolder.com CNAME .
-*.costhandbookfolder.com CNAME .
 costranchill.com CNAME .
 *.costranchill.com CNAME .
 costumefilmimport.com CNAME .
@@ -46625,8 +46621,6 @@ laborsmitanni.shop CNAME .
 *.laborsmitanni.shop CNAME .
 labourattention.com CNAME .
 *.labourattention.com CNAME .
-labourcucumberarena.com CNAME .
-*.labourcucumberarena.com CNAME .
 labourjavgg124.fun CNAME .
 *.labourjavgg124.fun CNAME .
 labtfeavcan.com CNAME .
@@ -81311,8 +81305,6 @@ vamqt.vip CNAME .
 *.vamqt.vip CNAME .
 vandalismundermineshock.com CNAME .
 *.vandalismundermineshock.com CNAME .
-vanderebony.pro CNAME .
-*.vanderebony.pro CNAME .
 vanderlisten.pro CNAME .
 *.vanderlisten.pro CNAME .
 vangsligulae.shop CNAME .
