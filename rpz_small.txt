@@ -1,9 +1,9 @@
-; Version: 202504150808
+; Version: 202504150908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87864
-; Last modified: 2025-04-15T08:08:15+0000
+; Entries: 87860
+; Last modified: 2025-04-15T09:08:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744704003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744707604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32167,8 +32167,6 @@ emediate.dk CNAME .
 *.emediate.dk CNAME .
 emediate.eu CNAME .
 *.emediate.eu CNAME .
-emediate.se CNAME .
-*.emediate.se CNAME .
 emerald.aomg5bzv7.com CNAME .
 *.emerald.aomg5bzv7.com CNAME .
 emeraldhecticteapot.com CNAME .
@@ -67981,8 +67979,6 @@ saymedia.com CNAME .
 *.saymedia.com CNAME .
 saymustif.live CNAME .
 *.saymustif.live CNAME .
-saysidewalk.com CNAME .
-*.saysidewalk.com CNAME .
 sb-hip-happy.ourservice.jp CNAME .
 *.sb-hip-happy.ourservice.jp CNAME .
 sb-stat1.com CNAME .
