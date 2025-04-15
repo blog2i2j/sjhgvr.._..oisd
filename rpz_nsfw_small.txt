@@ -1,9 +1,9 @@
-; Version: 202504151312
+; Version: 202504151412
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39790
-; Last modified: 2025-04-15T13:12:36+0000
+; Entries: 39798
+; Last modified: 2025-04-15T14:12:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744722003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744725603 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -6127,6 +6127,8 @@ chatib.us CNAME .
 *.chatib.us CNAME .
 chatovka.net CNAME .
 *.chatovka.net CNAME .
+chatpiccanti.com CNAME .
+*.chatpiccanti.com CNAME .
 chatplace.com CNAME .
 *.chatplace.com CNAME .
 chatplaza.com CNAME .
@@ -9797,6 +9799,8 @@ fanfox.net CNAME .
 *.fanfox.net CNAME .
 fangsung.com CNAME .
 *.fangsung.com CNAME .
+fanhaolou.com CNAME .
+*.fanhaolou.com CNAME .
 fanpix.net CNAME .
 *.fanpix.net CNAME .
 fans-here.com CNAME .
@@ -17703,6 +17707,8 @@ kenxxx.com CNAME .
 *.kenxxx.com CNAME .
 kenyaraha.com CNAME .
 *.kenyaraha.com CNAME .
+keptsecret.xxx CNAME .
+*.keptsecret.xxx CNAME .
 keralasex.name CNAME .
 *.keralasex.name CNAME .
 kesug.com CNAME .
@@ -24567,6 +24573,8 @@ pornbay.wtf CNAME .
 *.pornbay.wtf CNAME .
 pornbb.org CNAME .
 *.pornbb.org CNAME .
+pornbb.xyz CNAME .
+*.pornbb.xyz CNAME .
 pornbbs.info CNAME .
 *.pornbbs.info CNAME .
 pornbestiality.club CNAME .
