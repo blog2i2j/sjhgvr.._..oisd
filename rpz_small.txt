@@ -1,9 +1,9 @@
-; Version: 202504142307
+; Version: 202504150036
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87860
-; Last modified: 2025-04-14T23:07:55+0000
+; Entries: 87878
+; Last modified: 2025-04-15T00:36:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744671603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744675208 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9301,6 +9301,8 @@ alcoholcheckoccur.com CNAME .
 *.alcoholcheckoccur.com CNAME .
 alcroconawa.com CNAME .
 *.alcroconawa.com CNAME .
+alcyonchocard.com CNAME .
+*.alcyonchocard.com CNAME .
 aldik.com CNAME .
 *.aldik.com CNAME .
 aldo061.free.fr CNAME .
@@ -46253,6 +46255,8 @@ kotzzdwl.com CNAME .
 *.kotzzdwl.com CNAME .
 kougredafooca.net CNAME .
 *.kougredafooca.net CNAME .
+kouhoadousuni.net CNAME .
+*.kouhoadousuni.net CNAME .
 koukoku.red CNAME .
 *.koukoku.red CNAME .
 kousjcignye.com CNAME .
@@ -53099,6 +53103,8 @@ mustdealingfrustration.com CNAME .
 *.mustdealingfrustration.com CNAME .
 mustersvyrnwy.top CNAME .
 *.mustersvyrnwy.top CNAME .
+mutatesuet.com CNAME .
+*.mutatesuet.com CNAME .
 mutcheng.net CNAME .
 *.mutcheng.net CNAME .
 mutedsquare.com CNAME .
@@ -53457,6 +53463,8 @@ n49seircas7r.com CNAME .
 *.n49seircas7r.com CNAME .
 n4m5x60.com CNAME .
 *.n4m5x60.com CNAME .
+n4sredirect.com CNAME .
+*.n4sredirect.com CNAME .
 n55cpw.vip CNAME .
 *.n55cpw.vip CNAME .
 n55ylc001.vip CNAME .
@@ -56479,6 +56487,8 @@ ongastlya.com CNAME .
 *.ongastlya.com CNAME .
 ongoingverdictparalyzed.com CNAME .
 *.ongoingverdictparalyzed.com CNAME .
+oniflhctfubuql.com CNAME .
+*.oniflhctfubuql.com CNAME .
 onkafxtiqcu.com CNAME .
 *.onkafxtiqcu.com CNAME .
 onkavst.com CNAME .
@@ -59241,6 +59251,8 @@ phoasougrair.com CNAME .
 *.phoasougrair.com CNAME .
 phoawhoax.com CNAME .
 *.phoawhoax.com CNAME .
+phobicaraban.com CNAME .
+*.phobicaraban.com CNAME .
 phoceansteaks.top CNAME .
 *.phoceansteaks.top CNAME .
 phockukoagu.net CNAME .
@@ -62853,6 +62865,8 @@ pywhepteto.pro CNAME .
 *.pywhepteto.pro CNAME .
 pywymyplyg.com CNAME .
 *.pywymyplyg.com CNAME .
+pyxiscablese.com CNAME .
+*.pyxiscablese.com CNAME .
 pyxytj.icu CNAME .
 *.pyxytj.icu CNAME .
 pzd.rakuten.co.jp CNAME .
@@ -65955,6 +65969,8 @@ roledale.com CNAME .
 *.roledale.com CNAME .
 rollbackpop.com CNAME .
 *.rollbackpop.com CNAME .
+rolleychacker.top CNAME .
+*.rolleychacker.top CNAME .
 rollingwolvesforthcoming.com CNAME .
 *.rollingwolvesforthcoming.com CNAME .
 rollserver.xyz CNAME .
@@ -75973,6 +75989,8 @@ themeillogical.com CNAME .
 *.themeillogical.com CNAME .
 themeulterior.com CNAME .
 *.themeulterior.com CNAME .
+thempoorduts.com CNAME .
+*.thempoorduts.com CNAME .
 themselphenyls.com CNAME .
 *.themselphenyls.com CNAME .
 themselvessuit.com CNAME .
@@ -79615,8 +79633,6 @@ txtspjaorddrjqq.com CNAME .
 *.txtspjaorddrjqq.com CNAME .
 txumirk.com CNAME .
 *.txumirk.com CNAME .
-txvq.cn CNAME .
-*.txvq.cn CNAME .
 txykmuqzxjitf.space CNAME .
 *.txykmuqzxjitf.space CNAME .
 txzaazmdhtw.com CNAME .
@@ -85069,6 +85085,8 @@ xahttwmfmyji.com CNAME .
 *.xahttwmfmyji.com CNAME .
 xajibur.ru CNAME .
 *.xajibur.ru CNAME .
+xalawpqfa.com CNAME .
+*.xalawpqfa.com CNAME .
 xalienstreamx.com CNAME .
 *.xalienstreamx.com CNAME .
 xameleonads.com CNAME .
