@@ -1,9 +1,9 @@
-; Version: 202504150511
+; Version: 202504150611
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39666
-; Last modified: 2025-04-15T05:11:06+0000
+; Entries: 39672
+; Last modified: 2025-04-15T06:11:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744693203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744696803 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -17973,6 +17973,8 @@ ktkjmp.com CNAME .
 *.ktkjmp.com CNAME .
 ktzhk.com CNAME .
 *.ktzhk.com CNAME .
+kuav888.com CNAME .
+*.kuav888.com CNAME .
 kudosporn.com CNAME .
 *.kudosporn.com CNAME .
 kum.com CNAME .
@@ -22973,6 +22975,8 @@ openadultdirectory.com CNAME .
 *.openadultdirectory.com CNAME .
 openerotik.com CNAME .
 *.openerotik.com CNAME .
+openerotik.de CNAME .
+*.openerotik.de CNAME .
 opentgc.com CNAME .
 *.opentgc.com CNAME .
 opjav.com CNAME .
@@ -39121,6 +39125,8 @@ yoloselfie.com CNAME .
 *.yoloselfie.com CNAME .
 yona-yethuu.co.za CNAME .
 *.yona-yethuu.co.za CNAME .
+yoo7.com CNAME .
+*.yoo7.com CNAME .
 yoogirls.com CNAME .
 *.yoogirls.com CNAME .
 yoosex.top CNAME .
