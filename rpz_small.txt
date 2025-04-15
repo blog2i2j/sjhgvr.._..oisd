@@ -1,9 +1,9 @@
-; Version: 202504150107
+; Version: 202504150208
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87878
-; Last modified: 2025-04-15T01:07:38+0000
+; Entries: 87876
+; Last modified: 2025-04-15T02:08:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744678803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744682403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -44773,8 +44773,6 @@ jobfilletfortitude.com CNAME .
 *.jobfilletfortitude.com CNAME .
 jobfukectivetr.com CNAME .
 *.jobfukectivetr.com CNAME .
-jobmkewkzwrkb.top CNAME .
-*.jobmkewkzwrkb.top CNAME .
 jobs.educationweekjobs.co.uk CNAME .
 *.jobs.educationweekjobs.co.uk CNAME .
 jobsyndicate.com CNAME .
