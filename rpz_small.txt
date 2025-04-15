@@ -1,9 +1,9 @@
-; Version: 202504150507
+; Version: 202504150608
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87876
-; Last modified: 2025-04-15T05:07:41+0000
+; Entries: 87872
+; Last modified: 2025-04-15T06:08:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744693203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744696803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3789,8 +3789,6 @@ ab.4wank.com CNAME .
 *.ab.4wank.com CNAME .
 ab.blogs.es CNAME .
 *.ab.blogs.es CNAME .
-ab.cnbanbao.com CNAME .
-*.ab.cnbanbao.com CNAME .
 ab.cumhot.org CNAME .
 *.ab.cumhot.org CNAME .
 ab.fapnado.xxx CNAME .
@@ -75943,8 +75941,6 @@ thebugs.ws CNAME .
 *.thebugs.ws CNAME .
 thecarconnections.com CNAME .
 *.thecarconnections.com CNAME .
-thechleads.pro CNAME .
-*.thechleads.pro CNAME .
 thechoansa.com CNAME .
 *.thechoansa.com CNAME .
 thechronicles2.xyz CNAME .
