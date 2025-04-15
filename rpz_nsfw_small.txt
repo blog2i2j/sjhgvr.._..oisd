@@ -1,9 +1,9 @@
-; Version: 202504151212
+; Version: 202504151312
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39774
-; Last modified: 2025-04-15T12:12:04+0000
+; Entries: 39790
+; Last modified: 2025-04-15T13:12:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744718403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744722003 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -2177,6 +2177,8 @@ animeidhentai.com CNAME .
 *.animeidhentai.com CNAME .
 animelayer.ru CNAME .
 *.animelayer.ru CNAME .
+animember.net CNAME .
+*.animember.net CNAME .
 animemoon.me CNAME .
 *.animemoon.me CNAME .
 animemotivation.com CNAME .
@@ -5575,6 +5577,8 @@ camhub.cc CNAME .
 *.camhub.cc CNAME .
 camhub.tv CNAME .
 *.camhub.tv CNAME .
+camhub.world CNAME .
+*.camhub.world CNAME .
 camillaaraujo.net CNAME .
 *.camillaaraujo.net CNAME .
 camjoie.com CNAME .
@@ -6671,6 +6675,8 @@ collegerules.com CNAME .
 *.collegerules.com CNAME .
 colliderporn.com CNAME .
 *.colliderporn.com CNAME .
+collishop.be CNAME .
+*.collishop.be CNAME .
 com-porno.com CNAME .
 *.com-porno.com CNAME .
 comewithdaddy.com CNAME .
@@ -10363,6 +10369,8 @@ fiktok.com CNAME .
 *.fiktok.com CNAME .
 fileboomporn.com CNAME .
 *.fileboomporn.com CNAME .
+filecat.net CNAME .
+*.filecat.net CNAME .
 filehost.ro CNAME .
 *.filehost.ro CNAME .
 filesmonster.tv CNAME .
@@ -18237,6 +18245,8 @@ laufhaus-valentin.at CNAME .
 *.laufhaus-valentin.at CNAME .
 laufhaus-zeltweg.at CNAME .
 *.laufhaus-zeltweg.at CNAME .
+lavaplace.com CNAME .
+*.lavaplace.com CNAME .
 lavel.com.ua CNAME .
 *.lavel.com.ua CNAME .
 lavideodujourjetm.net CNAME .
@@ -25715,6 +25725,8 @@ pornofree.pro CNAME .
 *.pornofree.pro CNAME .
 pornogames.ru CNAME .
 *.pornogames.ru CNAME .
+pornogay.ovh CNAME .
+*.pornogay.ovh CNAME .
 pornogaylatino.com CNAME .
 *.pornogaylatino.com CNAME .
 pornogid.cc CNAME .
@@ -28945,6 +28957,8 @@ seksvideo1.net CNAME .
 *.seksvideo1.net CNAME .
 self-help-sexuality.com CNAME .
 *.self-help-sexuality.com CNAME .
+self-titledmag.com CNAME .
+*.self-titledmag.com CNAME .
 sellyourgf.com CNAME .
 *.sellyourgf.com CNAME .
 selvapacks.com CNAME .
@@ -39433,6 +39447,8 @@ yufap.com CNAME .
 *.yufap.com CNAME .
 yukleseks.org CNAME .
 *.yukleseks.org CNAME .
+yumatu.net CNAME .
+*.yumatu.net CNAME .
 yumuk.net CNAME .
 *.yumuk.net CNAME .
 yuotube.com CNAME .
