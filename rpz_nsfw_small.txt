@@ -1,9 +1,9 @@
-; Version: 202504142311
+; Version: 202504150039
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39576
-; Last modified: 2025-04-14T23:11:10+0000
+; Entries: 39586
+; Last modified: 2025-04-15T00:39:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744671603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744675208 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -3827,6 +3827,8 @@ belamionline.com CNAME .
 *.belamionline.com CNAME .
 belasdovale.com.br CNAME .
 *.belasdovale.com.br CNAME .
+beleggingsprofessionals.nl CNAME .
+*.beleggingsprofessionals.nl CNAME .
 bellacia.com.br CNAME .
 *.bellacia.com.br CNAME .
 belladasemana.com.br CNAME .
@@ -10987,6 +10989,8 @@ freematurechatrooms.com CNAME .
 *.freematurechatrooms.com CNAME .
 freemilfpics.com CNAME .
 *.freemilfpics.com CNAME .
+freenosignupporngames.com CNAME .
+*.freenosignupporngames.com CNAME .
 freenudecam365.com CNAME .
 *.freenudecam365.com CNAME .
 freenudegranny.com CNAME .
@@ -12759,6 +12763,8 @@ gpgbh.com.br CNAME .
 *.gpgbh.com.br CNAME .
 gpointestonia.com CNAME .
 *.gpointestonia.com CNAME .
+gportal.hu CNAME .
+*.gportal.hu CNAME .
 gprime.net CNAME .
 *.gprime.net CNAME .
 gptgirlfriend.online CNAME .
@@ -18545,6 +18551,8 @@ linkparty.info CNAME .
 *.linkparty.info CNAME .
 linkpc.net CNAME .
 *.linkpc.net CNAME .
+links.net CNAME .
+*.links.net CNAME .
 links2leaks.com CNAME .
 *.links2leaks.com CNAME .
 linksdegrupo.com CNAME .
@@ -31291,6 +31299,8 @@ someonesister.com CNAME .
 *.someonesister.com CNAME .
 someteme.com CNAME .
 *.someteme.com CNAME .
+somethingpositive.net CNAME .
+*.somethingpositive.net CNAME .
 somoscd.es CNAME .
 *.somoscd.es CNAME .
 sonalmitra.com CNAME .
