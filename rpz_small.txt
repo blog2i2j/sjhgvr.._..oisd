@@ -1,9 +1,9 @@
-; Version: 202504160808
+; Version: 202504160909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87868
-; Last modified: 2025-04-16T08:08:41+0000
+; Entries: 87858
+; Last modified: 2025-04-16T09:09:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744790402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744794004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19065,8 +19065,6 @@ caribou.mcgregorpublishing.com CNAME .
 *.caribou.mcgregorpublishing.com CNAME .
 caricaturechampionshipeye.com CNAME .
 *.caricaturechampionshipeye.com CNAME .
-cariousinevitably.com CNAME .
-*.cariousinevitably.com CNAME .
 cariousjan.com CNAME .
 *.cariousjan.com CNAME .
 caritydidicoy.click CNAME .
@@ -36641,8 +36639,6 @@ g1.taijuba.com CNAME .
 *.g1.taijuba.com CNAME .
 g2afse.com CNAME .
 *.g2afse.com CNAME .
-g2insights-cdn.azureedge.net CNAME .
-*.g2insights-cdn.azureedge.net CNAME .
 g33ktr4ck.com CNAME .
 *.g33ktr4ck.com CNAME .
 g33tr4c3r.com CNAME .
@@ -40231,8 +40227,6 @@ heavenfull.com CNAME .
 *.heavenfull.com CNAME .
 heavenly-landscape.com CNAME .
 *.heavenly-landscape.com CNAME .
-heavenproxy.com CNAME .
-*.heavenproxy.com CNAME .
 heavespectaclescoefficient.com CNAME .
 *.heavespectaclescoefficient.com CNAME .
 hebeticayahs.top CNAME .
@@ -76809,8 +76803,6 @@ tokenads.com CNAME .
 *.tokenads.com CNAME .
 toksoudsoab.net CNAME .
 *.toksoudsoab.net CNAME .
-toldyouso.lol CNAME .
-*.toldyouso.lol CNAME .
 tolerant126.fun CNAME .
 *.tolerant126.fun CNAME .
 toltooth.net CNAME .
@@ -82249,8 +82241,6 @@ vlqkqetudtvb.com CNAME .
 *.vlqkqetudtvb.com CNAME .
 vlry5l4j5gbn.com CNAME .
 *.vlry5l4j5gbn.com CNAME .
-vltjnmkps.xyz CNAME .
-*.vltjnmkps.xyz CNAME .
 vm8lm1vp.xyz CNAME .
 *.vm8lm1vp.xyz CNAME .
 vmap.v.ad-generation.jp CNAME .
