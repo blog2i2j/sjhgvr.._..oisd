@@ -1,9 +1,9 @@
-; Version: 202504160307
+; Version: 202504160408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87900
-; Last modified: 2025-04-16T03:07:59+0000
+; Entries: 87894
+; Last modified: 2025-04-16T04:08:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744772403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744776003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5533,8 +5533,6 @@ addonsmash.com CNAME .
 *.addonsmash.com CNAME .
 addotnet.com CNAME .
 *.addotnet.com CNAME .
-addressanythingbridge.com CNAME .
-*.addressanythingbridge.com CNAME .
 addresseerosebud.com CNAME .
 *.addresseerosebud.com CNAME .
 addroplet.com CNAME .
@@ -46103,8 +46101,6 @@ knownwarn.com CNAME .
 *.knownwarn.com CNAME .
 knpfx.life CNAME .
 *.knpfx.life CNAME .
-knpxyreredpaam.com CNAME .
-*.knpxyreredpaam.com CNAME .
 knubletupgrow.shop CNAME .
 *.knubletupgrow.shop CNAME .
 knutenegros.pro CNAME .
@@ -86925,8 +86921,6 @@ yourcdnjs.com CNAME .
 *.yourcdnjs.com CNAME .
 yourdestinationlink.com CNAME .
 *.yourdestinationlink.com CNAME .
-yourgoads.com CNAME .
-*.yourgoads.com CNAME .
 yourjsdelivery.com CNAME .
 *.yourjsdelivery.com CNAME .
 yourluckydates.com CNAME .
