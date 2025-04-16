@@ -1,9 +1,9 @@
-; Version: 202504160208
+; Version: 202504160307
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87904
-; Last modified: 2025-04-16T02:08:07+0000
+; Entries: 87900
+; Last modified: 2025-04-16T03:07:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744768804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744772403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7901,8 +7901,6 @@ advancingprobationhealthy.com CNAME .
 *.advancingprobationhealthy.com CNAME .
 advancingtheirs.com CNAME .
 *.advancingtheirs.com CNAME .
-advang.com CNAME .
-*.advang.com CNAME .
 advangelists.com CNAME .
 *.advangelists.com CNAME .
 advantage.digitalsunray.com CNAME .
@@ -19959,8 +19957,6 @@ ceesauchoodaph.net CNAME .
 *.ceesauchoodaph.net CNAME .
 ceethipt.com CNAME .
 *.ceethipt.com CNAME .
-ceezepegleze.xyz CNAME .
-*.ceezepegleze.xyz CNAME .
 cef7cb85aa.com CNAME .
 *.cef7cb85aa.com CNAME .
 cegloockoar.com CNAME .
