@@ -1,9 +1,9 @@
-; Version: 202504161213
+; Version: 202504161314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39972
-; Last modified: 2025-04-16T12:13:23+0000
+; Entries: 39980
+; Last modified: 2025-04-16T13:14:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744804804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744808404 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -81,6 +81,8 @@ $TTL 30
 *.12chats.com CNAME .
 12thblog.com CNAME .
 *.12thblog.com CNAME .
+13dl.me CNAME .
+*.13dl.me CNAME .
 141jav.com CNAME .
 *.141jav.com CNAME .
 141jj.com CNAME .
@@ -6343,6 +6345,8 @@ chibolitas.org CNAME .
 *.chibolitas.org CNAME .
 chicafruta.com CNAME .
 *.chicafruta.com CNAME .
+chicasasia.com CNAME .
+*.chicasasia.com CNAME .
 chicasdesnudas.xxx CNAME .
 *.chicasdesnudas.xxx CNAME .
 chichnhau.vip CNAME .
@@ -11033,6 +11037,8 @@ free-xxx-porn.org CNAME .
 *.free-xxx-porn.org CNAME .
 free-xxx-porno.net CNAME .
 *.free-xxx-porno.net CNAME .
+free.bg CNAME .
+*.free.bg CNAME .
 free.nf CNAME .
 *.free.nf CNAME .
 free18.net CNAME .
@@ -21453,6 +21459,8 @@ mylust.com CNAME .
 *.mylust.com CNAME .
 mym.fans CNAME .
 *.mym.fans CNAME .
+mym.news CNAME .
+*.mym.news CNAME .
 mymangacomics.com CNAME .
 *.mymangacomics.com CNAME .
 mymaral.com CNAME .
