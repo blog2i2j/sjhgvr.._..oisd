@@ -1,9 +1,9 @@
-; Version: 202504152308
+; Version: 202504160007
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87918
-; Last modified: 2025-04-15T23:08:32+0000
+; Entries: 87908
+; Last modified: 2025-04-16T00:07:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744758003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744761604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -22721,8 +22721,6 @@ conqueredallrightswell.com CNAME .
 *.conqueredallrightswell.com CNAME .
 conquereddestination.com CNAME .
 *.conquereddestination.com CNAME .
-conquerleaseholderwiggle.com CNAME .
-*.conquerleaseholderwiggle.com CNAME .
 conquestfashionedstatus.com CNAME .
 *.conquestfashionedstatus.com CNAME .
 conreyeanling.com CNAME .
@@ -29141,8 +29139,6 @@ dismissedsmoothlydo.com CNAME .
 *.dismissedsmoothlydo.com CNAME .
 dismisssalty.com CNAME .
 *.dismisssalty.com CNAME .
-disobediencecalculatormaiden.com CNAME .
-*.disobediencecalculatormaiden.com CNAME .
 disorderbenign.com CNAME .
 *.disorderbenign.com CNAME .
 disorderpublishrecords.com CNAME .
@@ -43747,8 +43743,6 @@ iqtest365.online CNAME .
 *.iqtest365.online CNAME .
 irate1x.xyz CNAME .
 *.irate1x.xyz CNAME .
-irbtwjy.com CNAME .
-*.irbtwjy.com CNAME .
 irbysdeepcy.com CNAME .
 *.irbysdeepcy.com CNAME .
 iredindeedeisasb.com CNAME .
@@ -60651,8 +60645,6 @@ populationencouragingunsuccessful.com CNAME .
 *.populationencouragingunsuccessful.com CNAME .
 populationstring.com CNAME .
 *.populationstring.com CNAME .
-popult.com CNAME .
-*.popult.com CNAME .
 popunder.bid CNAME .
 *.popunder.bid CNAME .
 popunder.ru CNAME .
@@ -74985,8 +74977,6 @@ tagging.swat.io CNAME .
 *.tagging.swat.io CNAME .
 taghaugh.com CNAME .
 *.taghaugh.com CNAME .
-tagloognain.xyz CNAME .
-*.tagloognain.xyz CNAME .
 tagman.britishairways.com CNAME .
 *.tagman.britishairways.com CNAME .
 tagmanager.yodobashi.com CNAME .
