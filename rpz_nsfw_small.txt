@@ -1,9 +1,9 @@
-; Version: 202504160311
+; Version: 202504160412
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40050
-; Last modified: 2025-04-16T03:11:46+0000
+; Entries: 40066
+; Last modified: 2025-04-16T04:12:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744772403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744776003 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -69,6 +69,8 @@ $TTL 30
 *.123av.com CNAME .
 123doujin.com CNAME .
 *.123doujin.com CNAME .
+123moviestv.net CNAME .
+*.123moviestv.net CNAME .
 123video.nl CNAME .
 *.123video.nl CNAME .
 124porno.net CNAME .
@@ -6701,6 +6703,8 @@ colegialasdeverdad.com CNAME .
 *.colegialasdeverdad.com CNAME .
 colegialasreales.com CNAME .
 *.colegialasreales.com CNAME .
+colitahentai.su CNAME .
+*.colitahentai.su CNAME .
 collarspace.com CNAME .
 *.collarspace.com CNAME .
 collectionofbestporn.com CNAME .
@@ -8201,6 +8205,8 @@ dommeteens.com CNAME .
 *.dommeteens.com CNAME .
 domminantdildo.com CNAME .
 *.domminantdildo.com CNAME .
+domoss.sk CNAME .
+*.domoss.sk CNAME .
 domporno.tv CNAME .
 *.domporno.tv CNAME .
 domywife.com CNAME .
@@ -15457,6 +15463,8 @@ iha.ee CNAME .
 *.iha.ee CNAME .
 ihaveporn2.com CNAME .
 *.ihaveporn2.com CNAME .
+ihentai.blog CNAME .
+*.ihentai.blog CNAME .
 ihentai.com CNAME .
 *.ihentai.com CNAME .
 ihentai.cx CNAME .
@@ -18813,6 +18821,8 @@ live-chat-models.com CNAME .
 *.live-chat-models.com CNAME .
 live-porn-sex-cam.com CNAME .
 *.live-porn-sex-cam.com CNAME .
+live173online.com CNAME .
+*.live173online.com CNAME .
 livebazoocam.com CNAME .
 *.livebazoocam.com CNAME .
 liveboycams.org CNAME .
@@ -28997,6 +29007,8 @@ scoreuniverse.com CNAME .
 *.scoreuniverse.com CNAME .
 scortrio.com CNAME .
 *.scortrio.com CNAME .
+scout69.com CNAME .
+*.scout69.com CNAME .
 scriptbin.works CNAME .
 *.scriptbin.works CNAME .
 scrolller.com CNAME .
@@ -29011,6 +29023,8 @@ sdep.fr CNAME .
 *.sdep.fr CNAME .
 sdescort.com CNAME .
 *.sdescort.com CNAME .
+sdtraff.com CNAME .
+*.sdtraff.com CNAME .
 se.video CNAME .
 *.se.video CNAME .
 se7en.ru CNAME .
@@ -36543,6 +36557,8 @@ worldgayp.com CNAME .
 *.worldgayp.com CNAME .
 worldlesbianp.com CNAME .
 *.worldlesbianp.com CNAME .
+worldlivetv.stream CNAME .
+*.worldlivetv.stream CNAME .
 worldmilfp.com CNAME .
 *.worldmilfp.com CNAME .
 worldnewp.com CNAME .
