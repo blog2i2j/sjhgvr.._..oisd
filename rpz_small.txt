@@ -1,9 +1,9 @@
-; Version: 202504160408
+; Version: 202504160508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87894
-; Last modified: 2025-04-16T04:08:06+0000
+; Entries: 87884
+; Last modified: 2025-04-16T05:08:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744776003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744779604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20495,8 +20495,6 @@ chestgoingpunch.com CNAME .
 *.chestgoingpunch.com CNAME .
 chestionar.ro CNAME .
 *.chestionar.ro CNAME .
-chetchen.net CNAME .
-*.chetchen.net CNAME .
 chetchoa.com CNAME .
 *.chetchoa.com CNAME .
 chethgentman.live CNAME .
@@ -31753,8 +31751,6 @@ eesidesukbeingaj.com CNAME .
 *.eesidesukbeingaj.com CNAME .
 eesnfoxhh.com CNAME .
 *.eesnfoxhh.com CNAME .
-eespekw.com CNAME .
-*.eespekw.com CNAME .
 eessoong.com CNAME .
 *.eessoong.com CNAME .
 eetazicmee.net CNAME .
@@ -37943,8 +37939,6 @@ gliceebe.xyz CNAME .
 *.gliceebe.xyz CNAME .
 glideimpulseregulate.com CNAME .
 *.glideimpulseregulate.com CNAME .
-gligheew.xyz CNAME .
-*.gligheew.xyz CNAME .
 gligoubsed.com CNAME .
 *.gligoubsed.com CNAME .
 glimpaid.net CNAME .
@@ -57399,8 +57393,6 @@ outlookabsorb.com CNAME .
 *.outlookabsorb.com CNAME .
 outlookads.live.com CNAME .
 *.outlookads.live.com CNAME .
-outlookreservebennet.com CNAME .
-*.outlookreservebennet.com CNAME .
 outnidorinoom.com CNAME .
 *.outnidorinoom.com CNAME .
 outnumberconnatetomato.com CNAME .
@@ -66687,8 +66679,6 @@ rtb-uswest.keenkale.com CNAME .
 *.rtb-uswest.keenkale.com CNAME .
 rtb-uswest.kremsondigital.com CNAME .
 *.rtb-uswest.kremsondigital.com CNAME .
-rtb-uswest.kubient.com CNAME .
-*.rtb-uswest.kubient.com CNAME .
 rtb-uswest.milkywase.com CNAME .
 *.rtb-uswest.milkywase.com CNAME .
 rtb-uswest.mobclixs.com CNAME .
