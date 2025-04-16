@@ -1,9 +1,9 @@
-; Version: 202504160608
+; Version: 202504160808
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87884
-; Last modified: 2025-04-16T06:08:49+0000
+; Entries: 87868
+; Last modified: 2025-04-16T08:08:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744783204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744790402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16217,8 +16217,6 @@ bigrourg.net CNAME .
 *.bigrourg.net CNAME .
 bigstoreminigames.space CNAME .
 *.bigstoreminigames.space CNAME .
-bihisvmtakx.xyz CNAME .
-*.bihisvmtakx.xyz CNAME .
 bihunekus.com CNAME .
 *.bihunekus.com CNAME .
 biirmjnw.icu CNAME .
@@ -31607,8 +31605,6 @@ edprivatedqualize.org CNAME .
 *.edprivatedqualize.org CNAME .
 edralintheirbrights.com CNAME .
 *.edralintheirbrights.com CNAME .
-edstevermotorie.com CNAME .
-*.edstevermotorie.com CNAME .
 edtheparllase.com CNAME .
 *.edtheparllase.com CNAME .
 edttmar.com CNAME .
@@ -36561,8 +36557,6 @@ fxmnba.com CNAME .
 *.fxmnba.com CNAME .
 fxnmjb.xyz CNAME .
 *.fxnmjb.xyz CNAME .
-fxnyhqcwsd.com CNAME .
-*.fxnyhqcwsd.com CNAME .
 fxpqcygxjib.com CNAME .
 *.fxpqcygxjib.com CNAME .
 fxstyle.net CNAME .
@@ -52077,8 +52071,6 @@ mninoq.xyz CNAME .
 *.mninoq.xyz CNAME .
 mnnmnn.com CNAME .
 *.mnnmnn.com CNAME .
-mnrz.cn CNAME .
-*.mnrz.cn CNAME .
 mntft.com CNAME .
 *.mntft.com CNAME .
 mnverylittlec.org CNAME .
@@ -57967,8 +57959,6 @@ paihfzqlznxdn.online CNAME .
 *.paihfzqlznxdn.online CNAME .
 paikoasa.tv CNAME .
 *.paikoasa.tv CNAME .
-painfullyconfession.com CNAME .
-*.painfullyconfession.com CNAME .
 painfullypenny.com CNAME .
 *.painfullypenny.com CNAME .
 painkillercontrivanceelk.com CNAME .
@@ -60271,8 +60261,6 @@ pmkez.tech CNAME .
 *.pmkez.tech CNAME .
 pmnyzf.icu CNAME .
 *.pmnyzf.icu CNAME .
-pmvwuxdlp.com CNAME .
-*.pmvwuxdlp.com CNAME .
 pmwofrq.icu CNAME .
 *.pmwofrq.icu CNAME .
 pmwwedke.com CNAME .
@@ -71317,8 +71305,6 @@ spatteramazeredundancy.com CNAME .
 *.spatteramazeredundancy.com CNAME .
 spdate.com CNAME .
 *.spdate.com CNAME .
-speakinchreprimand.com CNAME .
-*.speakinchreprimand.com CNAME .
 speakingimmediately.com CNAME .
 *.speakingimmediately.com CNAME .
 special-offers.online CNAME .
@@ -86777,8 +86763,6 @@ ymehnthakutyfor.com CNAME .
 *.ymehnthakutyfor.com CNAME .
 ymewsu.xyz CNAME .
 *.ymewsu.xyz CNAME .
-ymfmfkxytgxc.com CNAME .
-*.ymfmfkxytgxc.com CNAME .
 ymprove.gmx.net CNAME .
 *.ymprove.gmx.net CNAME .
 ymprove.web.de CNAME .
