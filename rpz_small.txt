@@ -1,9 +1,9 @@
-; Version: 202504161008
+; Version: 202504161208
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87856
-; Last modified: 2025-04-16T10:08:28+0000
+; Entries: 87846
+; Last modified: 2025-04-16T12:08:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744797603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744804804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19817,8 +19817,6 @@ cdnativepush.com CNAME .
 *.cdnativepush.com CNAME .
 cdnaz.win CNAME .
 *.cdnaz.win CNAME .
-cdncontentstorage.com CNAME .
-*.cdncontentstorage.com CNAME .
 cdnfimgs.com CNAME .
 *.cdnfimgs.com CNAME .
 cdnflex.me CNAME .
@@ -22697,8 +22695,6 @@ connectreadoasis.com CNAME .
 *.connectreadoasis.com CNAME .
 connecttoday.eu CNAME .
 *.connecttoday.eu CNAME .
-connext-cdn.azureedge.net CNAME .
-*.connext-cdn.azureedge.net CNAME .
 connextra.com CNAME .
 *.connextra.com CNAME .
 connotethembodyguard.com CNAME .
@@ -37091,8 +37087,6 @@ gdajuytgupptx.world CNAME .
 *.gdajuytgupptx.world CNAME .
 gdasaasnt.com CNAME .
 *.gdasaasnt.com CNAME .
-gddshvkrawod.com CNAME .
-*.gddshvkrawod.com CNAME .
 gdecording.info CNAME .
 *.gdecording.info CNAME .
 gdecordingholo.info CNAME .
@@ -39493,8 +39487,6 @@ guypane.com CNAME .
 *.guypane.com CNAME .
 guzdhs26.xyz CNAME .
 *.guzdhs26.xyz CNAME .
-gvypnjoucrsfep.com CNAME .
-*.gvypnjoucrsfep.com CNAME .
 gw.conversionsapigateway.com CNAME .
 *.gw.conversionsapigateway.com CNAME .
 gw2cddpt2hao.asia CNAME .
@@ -71671,8 +71663,6 @@ spy.epornleak.com CNAME .
 *.spy.epornleak.com CNAME .
 spy.sli.ce.it CNAME .
 *.spy.sli.ce.it CNAME .
-spygenix.xyz CNAME .
-*.spygenix.xyz CNAME .
 spyglass.octanime.net CNAME .
 *.spyglass.octanime.net CNAME .
 spyglass.reklon.net CNAME .
