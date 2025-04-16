@@ -1,9 +1,9 @@
-; Version: 202504161613
+; Version: 202504161713
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40020
-; Last modified: 2025-04-16T16:13:40+0000
+; Entries: 40036
+; Last modified: 2025-04-16T17:13:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744819203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744822803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -231,6 +231,8 @@ $TTL 30
 *.1hentai.org CNAME .
 1hoy.com CNAME .
 *.1hoy.com CNAME .
+1ka.com CNAME .
+*.1ka.com CNAME .
 1p30s.com CNAME .
 *.1p30s.com CNAME .
 1passforallsites.com CNAME .
@@ -8865,6 +8867,8 @@ elyziumvids.com CNAME .
 *.elyziumvids.com CNAME .
 emaporn.com CNAME .
 *.emaporn.com CNAME .
+emasex.com CNAME .
+*.emasex.com CNAME .
 embed-player.space CNAME .
 *.embed-player.space CNAME .
 embers.city CNAME .
@@ -11015,6 +11019,8 @@ freakmobmedia.com CNAME .
 *.freakmobmedia.com CNAME .
 freakydeakygifs.com CNAME .
 *.freakydeakygifs.com CNAME .
+freakygayporn.com CNAME .
+*.freakygayporn.com CNAME .
 freakyza.co.za CNAME .
 *.freakyza.co.za CNAME .
 frecherchat.com CNAME .
@@ -13195,6 +13201,8 @@ hairyav.com CNAME .
 *.hairyav.com CNAME .
 hairycoochies.com CNAME .
 *.hairycoochies.com CNAME .
+hairycuntgirls.com CNAME .
+*.hairycuntgirls.com CNAME .
 hairyerotica.com CNAME .
 *.hairyerotica.com CNAME .
 hairyfilm.com CNAME .
@@ -22459,6 +22467,8 @@ nsfwmonster.com CNAME .
 *.nsfwmonster.com CNAME .
 nsfwmonster.io CNAME .
 *.nsfwmonster.io CNAME .
+nsfwnudes.com CNAME .
+*.nsfwnudes.com CNAME .
 nsfwr34.com CNAME .
 *.nsfwr34.com CNAME .
 nsfwroom.com CNAME .
@@ -23225,6 +23235,8 @@ onvatrad.com CNAME .
 *.onvatrad.com CNAME .
 oohcams.com CNAME .
 *.oohcams.com CNAME .
+oohlala.be CNAME .
+*.oohlala.be CNAME .
 oohporno.com CNAME .
 *.oohporno.com CNAME .
 oolveri.com CNAME .
@@ -23413,6 +23425,8 @@ pabporn.com CNAME .
 *.pabporn.com CNAME .
 packdemujeres.com CNAME .
 *.packdemujeres.com CNAME .
+packs.gratis CNAME .
+*.packs.gratis CNAME .
 packs.link CNAME .
 *.packs.link CNAME .
 packs.xxx CNAME .
@@ -27019,6 +27033,8 @@ pornxp.quest CNAME .
 *.pornxp.quest CNAME .
 pornxp.sbs CNAME .
 *.pornxp.sbs CNAME .
+pornxp.site CNAME .
+*.pornxp.site CNAME .
 pornxp.stream CNAME .
 *.pornxp.stream CNAME .
 pornxp.top CNAME .
