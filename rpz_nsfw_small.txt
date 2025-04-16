@@ -1,9 +1,9 @@
-; Version: 202504152312
+; Version: 202504160011
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 39978
-; Last modified: 2025-04-15T23:12:19+0000
+; Entries: 39988
+; Last modified: 2025-04-16T00:11:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744758003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744761604 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -18991,6 +18991,8 @@ lontv.mobi CNAME .
 *.lontv.mobi CNAME .
 lontv.pro CNAME .
 *.lontv.pro CNAME .
+lookingforlocals.co.uk CNAME .
+*.lookingforlocals.co.uk CNAME .
 loopdasfamosas.com CNAME .
 *.loopdasfamosas.com CNAME .
 looporn.com CNAME .
@@ -24003,6 +24005,8 @@ picsets.org CNAME .
 *.picsets.org CNAME .
 picsgayporn.com CNAME .
 *.picsgayporn.com CNAME .
+picsninja.com CNAME .
+*.picsninja.com CNAME .
 picsporn.xxx CNAME .
 *.picsporn.xxx CNAME .
 picspornamateur.com CNAME .
@@ -24723,6 +24727,8 @@ pornbobo.com CNAME .
 *.pornbobo.com CNAME .
 pornboss.me CNAME .
 *.pornboss.me CNAME .
+pornbox.cc CNAME .
+*.pornbox.cc CNAME .
 pornbox.com CNAME .
 *.pornbox.com CNAME .
 pornbox.org CNAME .
@@ -26433,6 +26439,8 @@ pornozak.com CNAME .
 *.pornozak.com CNAME .
 pornozak.vip CNAME .
 *.pornozak.vip CNAME .
+pornozalupa.online CNAME .
+*.pornozalupa.online CNAME .
 pornozavod.cc CNAME .
 *.pornozavod.cc CNAME .
 pornozavod.top CNAME .
@@ -39127,6 +39135,8 @@ xxxvideoindian2.com CNAME .
 *.xxxvideoindian2.com CNAME .
 xxxvideok.com CNAME .
 *.xxxvideok.com CNAME .
+xxxvideomp4.com CNAME .
+*.xxxvideomp4.com CNAME .
 xxxvideor.com CNAME .
 *.xxxvideor.com CNAME .
 xxxvideorindia.pro CNAME .
