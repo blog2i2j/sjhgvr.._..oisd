@@ -1,9 +1,9 @@
-; Version: 202504171209
+; Version: 202504171319
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87926
-; Last modified: 2025-04-17T12:09:35+0000
+; Entries: 87920
+; Last modified: 2025-04-17T13:19:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744891204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744894804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -451,8 +451,6 @@ $TTL 30
 *.123movies.to CNAME .
 123sex.biz CNAME .
 *.123sex.biz CNAME .
-123w0w.com CNAME .
-*.123w0w.com CNAME .
 12aksss.xyz CNAME .
 *.12aksss.xyz CNAME .
 12cams.be CNAME .
@@ -55537,8 +55535,6 @@ oardilin.com CNAME .
 *.oardilin.com CNAME .
 oarsparttimeparent.com CNAME .
 *.oarsparttimeparent.com CNAME .
-oarssamgrandparents.com CNAME .
-*.oarssamgrandparents.com CNAME .
 oarswithdraw.com CNAME .
 *.oarswithdraw.com CNAME .
 oartauksak.net CNAME .
@@ -86247,8 +86243,6 @@ xtrackme.com CNAME .
 *.xtrackme.com CNAME .
 xtraserp.com CNAME .
 *.xtraserp.com CNAME .
-xtremeserve.xyz CNAME .
-*.xtremeserve.xyz CNAME .
 xtremetop100.com CNAME .
 *.xtremetop100.com CNAME .
 xtremeviewing.com CNAME .
