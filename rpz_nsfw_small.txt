@@ -1,9 +1,9 @@
-; Version: 202504171513
+; Version: 202504171612
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40402
-; Last modified: 2025-04-17T15:13:04+0000
+; Entries: 40412
+; Last modified: 2025-04-17T16:12:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744902004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744905604 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11421,6 +11421,8 @@ freevideo-freefoto.cz CNAME .
 *.freevideo-freefoto.cz CNAME .
 freevideo.cz CNAME .
 *.freevideo.cz CNAME .
+freevideo.eu CNAME .
+*.freevideo.eu CNAME .
 freevideo.to CNAME .
 *.freevideo.to CNAME .
 freeview.in CNAME .
@@ -23897,6 +23899,8 @@ penispictures.com CNAME .
 *.penispictures.com CNAME .
 peniszeigen.com CNAME .
 *.peniszeigen.com CNAME .
+pennynetwork.com CNAME .
+*.pennynetwork.com CNAME .
 pensamentodeprazer.com CNAME .
 *.pensamentodeprazer.com CNAME .
 penthouse.com CNAME .
@@ -29315,6 +29319,8 @@ secondlove.nl CNAME .
 *.secondlove.nl CNAME .
 secretarypics.com CNAME .
 *.secretarypics.com CNAME .
+secretbenefits.com CNAME .
+*.secretbenefits.com CNAME .
 secretclass.us CNAME .
 *.secretclass.us CNAME .
 secretdesires.ai CNAME .
@@ -34943,6 +34949,8 @@ tvali.net CNAME .
 *.tvali.net CNAME .
 tvari.net CNAME .
 *.tvari.net CNAME .
+tvchix.com CNAME .
+*.tvchix.com CNAME .
 tvn.hu CNAME .
 *.tvn.hu CNAME .
 tvoisex.ru CNAME .
@@ -36041,6 +36049,8 @@ vipporns.com CNAME .
 *.vipporns.com CNAME .
 vipsecret.com.br CNAME .
 *.vipsecret.com.br CNAME .
+viptransex.net CNAME .
+*.viptransex.net CNAME .
 viptube.com CNAME .
 *.viptube.com CNAME .
 viptube.icu CNAME .
