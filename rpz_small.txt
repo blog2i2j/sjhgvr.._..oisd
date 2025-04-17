@@ -1,9 +1,9 @@
-; Version: 202504162317
+; Version: 202504170009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88068
-; Last modified: 2025-04-16T23:17:29+0000
+; Entries: 88062
+; Last modified: 2025-04-17T00:09:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744844403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744848006 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -56725,8 +56725,6 @@ oogrouss.net CNAME .
 *.oogrouss.net CNAME .
 oogrutse.net CNAME .
 *.oogrutse.net CNAME .
-oohirdoadi.com CNAME .
-*.oohirdoadi.com CNAME .
 ooiyyavhwq.com CNAME .
 *.ooiyyavhwq.com CNAME .
 oojorairs.net CNAME .
@@ -59269,8 +59267,6 @@ phaunaitsi.net CNAME .
 *.phaunaitsi.net CNAME .
 phaurtuh.net CNAME .
 *.phaurtuh.net CNAME .
-phautchiwaiw.net CNAME .
-*.phautchiwaiw.net CNAME .
 phburwtzjusbh.site CNAME .
 *.phburwtzjusbh.site CNAME .
 pheasant.ampapageorgiou.gr CNAME .
@@ -80841,8 +80837,6 @@ upgoawqlghwh.com CNAME .
 *.upgoawqlghwh.com CNAME .
 upgrowssignet.top CNAME .
 *.upgrowssignet.top CNAME .
-uphoveeh.xyz CNAME .
-*.uphoveeh.xyz CNAME .
 upkoffingr.com CNAME .
 *.upkoffingr.com CNAME .
 upl.net-solutions.vn CNAME .
