@@ -1,9 +1,9 @@
-; Version: 202504170236
+; Version: 202504170308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88050
-; Last modified: 2025-04-17T02:36:37+0000
+; Entries: 88046
+; Last modified: 2025-04-17T03:08:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744855204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744858803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -82767,8 +82767,6 @@ vulture.lagosdesaliencia.com CNAME .
 *.vulture.lagosdesaliencia.com CNAME .
 vungle.com CNAME .
 *.vungle.com CNAME .
-vunqrotm.com CNAME .
-*.vunqrotm.com CNAME .
 vupoupay.com CNAME .
 *.vupoupay.com CNAME .
 vupsnx.xyz CNAME .
@@ -83015,8 +83013,6 @@ wallaby.cron.help CNAME .
 *.wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
 *.wallaby.legendkeeper.com CNAME .
-wallacehoneycombdry.com CNAME .
-*.wallacehoneycombdry.com CNAME .
 wallacelaurie.com CNAME .
 *.wallacelaurie.com CNAME .
 walletbrutallyredhead.com CNAME .
