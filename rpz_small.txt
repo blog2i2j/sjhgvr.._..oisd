@@ -1,9 +1,9 @@
-; Version: 202504171709
+; Version: 202504171809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89102
-; Last modified: 2025-04-17T17:09:11+0000
+; Entries: 89086
+; Last modified: 2025-04-17T18:09:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744909204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744912803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31551,8 +31551,6 @@ eac0823ca94e3c07.com CNAME .
 *.eac0823ca94e3c07.com CNAME .
 eacdn.com CNAME .
 *.eacdn.com CNAME .
-eachiv.com CNAME .
-*.eachiv.com CNAME .
 eacqihh.icu CNAME .
 *.eacqihh.icu CNAME .
 eadexchange.com CNAME .
@@ -53749,8 +53747,6 @@ mustdealingfrustration.com CNAME .
 *.mustdealingfrustration.com CNAME .
 mustersvyrnwy.top CNAME .
 *.mustersvyrnwy.top CNAME .
-mutatesuet.com CNAME .
-*.mutatesuet.com CNAME .
 mutcheng.net CNAME .
 *.mutcheng.net CNAME .
 mutedsquare.com CNAME .
@@ -53775,8 +53771,6 @@ muzoohat.net CNAME .
 *.muzoohat.net CNAME .
 muzzlematrix.com CNAME .
 *.muzzlematrix.com CNAME .
-muzzlepairhysteria.com CNAME .
-*.muzzlepairhysteria.com CNAME .
 mv.outbrain.com CNAME .
 *.mv.outbrain.com CNAME .
 mv.treehousei.com CNAME .
@@ -55989,8 +55983,6 @@ nxgzeejhs.com CNAME .
 *.nxgzeejhs.com CNAME .
 nxhfkfyy.xyz CNAME .
 *.nxhfkfyy.xyz CNAME .
-nxikijn.com CNAME .
-*.nxikijn.com CNAME .
 nxrajr.xyz CNAME .
 *.nxrajr.xyz CNAME .
 nxszxho.com CNAME .
@@ -75339,8 +75331,6 @@ swatledgesling.com CNAME .
 *.swatledgesling.com CNAME .
 swcfbbvhvrlrh.com CNAME .
 *.swcfbbvhvrlrh.com CNAME .
-sweatditch.com CNAME .
-*.sweatditch.com CNAME .
 sweaterwarmly.com CNAME .
 *.sweaterwarmly.com CNAME .
 sweatypositive.com CNAME .
@@ -81205,8 +81195,6 @@ uktgg.dev-tester.com CNAME .
 *.uktgg.dev-tester.com CNAME .
 ukuleqasforsale.com CNAME .
 *.ukuleqasforsale.com CNAME .
-ukzoweq.com CNAME .
-*.ukzoweq.com CNAME .
 uldlikukemyfueu.com CNAME .
 *.uldlikukemyfueu.com CNAME .
 uldmakefeagr.info CNAME .
@@ -86021,8 +86009,6 @@ wtyankriwnza.com CNAME .
 *.wtyankriwnza.com CNAME .
 wuckaity.com CNAME .
 *.wuckaity.com CNAME .
-wucnmte.top CNAME .
-*.wucnmte.top CNAME .
 wuczmaorkqaz.com CNAME .
 *.wuczmaorkqaz.com CNAME .
 wudr.net CNAME .
@@ -86171,8 +86157,6 @@ wysasys.com CNAME .
 *.wysasys.com CNAME .
 wyvlljvbbjvvm.top CNAME .
 *.wyvlljvbbjvvm.top CNAME .
-wywkwqzkavlvw.top CNAME .
-*.wywkwqzkavlvw.top CNAME .
 wzcuinglezyz.one CNAME .
 *.wzcuinglezyz.one CNAME .
 wzeagshwyric.com CNAME .
