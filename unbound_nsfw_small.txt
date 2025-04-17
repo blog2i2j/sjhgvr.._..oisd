@@ -1,9 +1,9 @@
-# Version: 202504170240
+# Version: 202504170312
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20102
-# Last modified: 2025-04-17T02:40:36+0000
+# Entries: 20104
+# Last modified: 2025-04-17T03:12:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2734,6 +2734,7 @@ local-zone: "buyanime.com." always_null
 local-zone: "buzzav.com." always_null
 local-zone: "bvibe.com." always_null
 local-zone: "bw7.com." always_null
+local-zone: "bwin.it." always_null
 local-zone: "bxum.com." always_null
 local-zone: "byethost13.com." always_null
 local-zone: "byethost3.com." always_null
@@ -9620,6 +9621,7 @@ local-zone: "lovehoney.ca." always_null
 local-zone: "lovehoney.co.nz." always_null
 local-zone: "lovehoney.co.uk." always_null
 local-zone: "lovehoney.com." always_null
+local-zone: "lovehoney.com.au." always_null
 local-zone: "lovehoney.eu." always_null
 local-zone: "lovehoneyforum.com." always_null
 local-zone: "lovehub.com." always_null
