@@ -1,9 +1,9 @@
-; Version: 202504171108
+; Version: 202504171209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87938
-; Last modified: 2025-04-17T11:08:47+0000
+; Entries: 87926
+; Last modified: 2025-04-17T12:09:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744887603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744891204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19935,8 +19935,6 @@ ceehipsy.com CNAME .
 *.ceehipsy.com CNAME .
 ceeilcvgjq.xyz CNAME .
 *.ceeilcvgjq.xyz CNAME .
-ceekougy.net CNAME .
-*.ceekougy.net CNAME .
 ceemoptu.xyz CNAME .
 *.ceemoptu.xyz CNAME .
 ceesauchoodaph.net CNAME .
@@ -52909,8 +52907,6 @@ msg.simeji.me CNAME .
 *.msg.simeji.me CNAME .
 msga.cupid.iqiyi.com CNAME .
 *.msga.cupid.iqiyi.com CNAME .
-msgby.ru CNAME .
-*.msgby.ru CNAME .
 msgose.com CNAME .
 *.msgose.com CNAME .
 mshago.com CNAME .
@@ -61441,8 +61437,6 @@ proceedingmusic.com CNAME .
 *.proceedingmusic.com CNAME .
 processedagrarian.com CNAME .
 *.processedagrarian.com CNAME .
-processingcomprehension.com CNAME .
-*.processingcomprehension.com CNAME .
 processionrecital.com CNAME .
 *.processionrecital.com CNAME .
 processor.asccommunications.com CNAME .
@@ -79989,8 +79983,6 @@ ufbcrgms.com CNAME .
 *.ufbcrgms.com CNAME .
 ufdgcvcrpuxdwhd.com CNAME .
 *.ufdgcvcrpuxdwhd.com CNAME .
-ufgl.cn CNAME .
-*.ufgl.cn CNAME .
 ufiledsit.com CNAME .
 *.ufiledsit.com CNAME .
 ufiler-pro2.ru CNAME .
@@ -80825,8 +80817,6 @@ uqbcz.today CNAME .
 *.uqbcz.today CNAME .
 uqecqpnnzt.online CNAME .
 *.uqecqpnnzt.online CNAME .
-uqmmfpr.com CNAME .
-*.uqmmfpr.com CNAME .
 uqpmabxnbojd.com CNAME .
 *.uqpmabxnbojd.com CNAME .
 uqqmj868.xyz CNAME .
@@ -81433,8 +81423,6 @@ vatcertaininject.com CNAME .
 *.vatcertaininject.com CNAME .
 vaticmons.digital CNAME .
 *.vaticmons.digital CNAME .
-vaticpeacing.com CNAME .
-*.vaticpeacing.com CNAME .
 vatzxd.xyz CNAME .
 *.vatzxd.xyz CNAME .
 vauglistesou.net CNAME .
