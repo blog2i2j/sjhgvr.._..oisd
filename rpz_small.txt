@@ -1,9 +1,9 @@
-; Version: 202504172049
+; Version: 202504172109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89090
-; Last modified: 2025-04-17T20:49:07+0000
+; Entries: 89088
+; Last modified: 2025-04-17T21:09:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744920003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744923602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -53629,8 +53629,6 @@ mudrouraung.net CNAME .
 *.mudrouraung.net CNAME .
 muellfrei.de CNAME .
 *.muellfrei.de CNAME .
-muffled-active.com CNAME .
-*.muffled-active.com CNAME .
 mufflercypress.com CNAME .
 *.mufflercypress.com CNAME .
 mugleafly.com CNAME .
