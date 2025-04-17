@@ -1,9 +1,9 @@
-; Version: 202504171813
+; Version: 202504171913
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40438
-; Last modified: 2025-04-17T18:13:47+0000
+; Entries: 40442
+; Last modified: 2025-04-17T19:13:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744912803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744916403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2113,6 +2113,8 @@ animaldogporn.com CNAME .
 *.animaldogporn.com CNAME .
 animalfreeporn.com CNAME .
 *.animalfreeporn.com CNAME .
+animalfuckxxx.com CNAME .
+*.animalfuckxxx.com CNAME .
 animalporn.app CNAME .
 *.animalporn.app CNAME .
 animalporn.dog CNAME .
@@ -5849,8 +5851,6 @@ camwhorez.tv CNAME .
 *.camwhorez.tv CNAME .
 camwhoria.com CNAME .
 *.camwhoria.com CNAME .
-camworldx.com CNAME .
-*.camworldx.com CNAME .
 camxpress.com CNAME .
 *.camxpress.com CNAME .
 camzey.com CNAME .
@@ -6739,6 +6739,8 @@ cnnamador.com CNAME .
 *.cnnamador.com CNAME .
 cnomy.com CNAME .
 *.cnomy.com CNAME .
+cnporn.org CNAME .
+*.cnporn.org CNAME .
 cockdude.com CNAME .
 *.cockdude.com CNAME .
 cockmeter.com CNAME .
@@ -8409,6 +8411,8 @@ doujin-eromanga.com CNAME .
 *.doujin-eromanga.com CNAME .
 doujin-thai.com CNAME .
 *.doujin-thai.com CNAME .
+doujin-xxx.com CNAME .
+*.doujin-xxx.com CNAME .
 doujin.sexy CNAME .
 *.doujin.sexy CNAME .
 doujin4u.com CNAME .
