@@ -1,9 +1,9 @@
-; Version: 202504171612
+; Version: 202504171713
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40412
-; Last modified: 2025-04-17T16:12:55+0000
+; Entries: 40424
+; Last modified: 2025-04-17T17:13:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744905604 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744909204 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6889,6 +6889,8 @@ contatosproximos.com CNAME .
 *.contatosproximos.com CNAME .
 contattolocale.com CNAME .
 *.contattolocale.com CNAME .
+contattoveloce.com CNAME .
+*.contattoveloce.com CNAME .
 contoerotico.blog CNAME .
 *.contoerotico.blog CNAME .
 contoeroticoprive.com CNAME .
@@ -7125,6 +7127,8 @@ csucsvideok.hu CNAME .
 *.csucsvideok.hu CNAME .
 ct.gov CNAME .
 *.ct.gov CNAME .
+ct.ws CNAME .
+*.ct.ws CNAME .
 ctbae.com CNAME .
 *.ctbae.com CNAME .
 cu2.be CNAME .
@@ -8191,6 +8195,8 @@ dochki.net CNAME .
 *.dochki.net CNAME .
 docjohnson.com CNAME .
 *.docjohnson.com CNAME .
+docs-lab.com CNAME .
+*.docs-lab.com CNAME .
 documentingreality.com CNAME .
 *.documentingreality.com CNAME .
 doeda.com CNAME .
@@ -18179,6 +18185,8 @@ kochlik.pl CNAME .
 *.kochlik.pl CNAME .
 kodebokep.com CNAME .
 *.kodebokep.com CNAME .
+kodingen.com CNAME .
+*.kodingen.com CNAME .
 koisasdadultos.pt CNAME .
 *.koisasdadultos.pt CNAME .
 koiwasexangel.com CNAME .
@@ -27145,6 +27153,8 @@ pornvxl.com CNAME .
 *.pornvxl.com CNAME .
 pornwa.club CNAME .
 *.pornwa.club CNAME .
+pornwa.us CNAME .
+*.pornwa.us CNAME .
 pornwap.pro CNAME .
 *.pornwap.pro CNAME .
 pornwap.tv CNAME .
@@ -37041,6 +37051,8 @@ x-manga.net CNAME .
 *.x-manga.net CNAME .
 x-n-x-x.pro CNAME .
 *.x-n-x-x.pro CNAME .
+x-narod.ru CNAME .
+*.x-narod.ru CNAME .
 x-orgy.net CNAME .
 *.x-orgy.net CNAME .
 x-pirat.ru CNAME .
