@@ -1,9 +1,9 @@
-; Version: 202504171809
+; Version: 202504171909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89086
-; Last modified: 2025-04-17T18:09:17+0000
+; Entries: 89064
+; Last modified: 2025-04-17T19:09:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744912803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744916403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -955,8 +955,6 @@ $TTL 30
 *.24.eu CNAME .
 24052107.live CNAME .
 *.24052107.live CNAME .
-2435march2024.com CNAME .
-*.2435march2024.com CNAME .
 2443march2024.com CNAME .
 *.2443march2024.com CNAME .
 2447march2024.com CNAME .
@@ -20765,8 +20763,6 @@ chicconnate.com CNAME .
 *.chicconnate.com CNAME .
 chicgar.info CNAME .
 *.chicgar.info CNAME .
-chichblunder.shop CNAME .
-*.chichblunder.shop CNAME .
 chicheecmaungee.net CNAME .
 *.chicheecmaungee.net CNAME .
 chickadee.mikebifulco.com CNAME .
@@ -28073,8 +28069,6 @@ ddfnmo6ev4fd.cloudfront.net CNAME .
 *.ddfnmo6ev4fd.cloudfront.net CNAME .
 ddijapp.com CNAME .
 *.ddijapp.com CNAME .
-ddkf.xyz CNAME .
-*.ddkf.xyz CNAME .
 ddl.alma.iltalehti.fi CNAME .
 *.ddl.alma.iltalehti.fi CNAME .
 ddla593ymz72o.cloudfront.net CNAME .
@@ -33825,8 +33819,6 @@ excelfriendsdistracting.com CNAME .
 *.excelfriendsdistracting.com CNAME .
 excellenceads.com CNAME .
 *.excellenceads.com CNAME .
-excellent-challenge.com CNAME .
-*.excellent-challenge.com CNAME .
 excellingvista.com CNAME .
 *.excellingvista.com CNAME .
 excelrepulseclaimed.com CNAME .
@@ -49789,8 +49781,6 @@ loushoafie.net CNAME .
 *.loushoafie.net CNAME .
 lousoozi.net CNAME .
 *.lousoozi.net CNAME .
-loustran288gek.com CNAME .
-*.loustran288gek.com CNAME .
 lousyfastened.com CNAME .
 *.lousyfastened.com CNAME .
 louthicoozit.net CNAME .
@@ -54167,8 +54157,6 @@ nahognavd.com CNAME .
 *.nahognavd.com CNAME .
 naichootikie.com CNAME .
 *.naichootikie.com CNAME .
-naimoate.xyz CNAME .
-*.naimoate.xyz CNAME .
 naipsouz.net CNAME .
 *.naipsouz.net CNAME .
 nairapp.com CNAME .
@@ -54503,8 +54491,6 @@ nearestmicrowavespends.com CNAME .
 *.nearestmicrowavespends.com CNAME .
 neat-period.com CNAME .
 *.neat-period.com CNAME .
-neateclipsevehemence.com CNAME .
-*.neateclipsevehemence.com CNAME .
 nebbowmen.top CNAME .
 *.nebbowmen.top CNAME .
 nebsefte.net CNAME .
@@ -71173,8 +71159,6 @@ skjbqcqgw.com CNAME .
 *.skjbqcqgw.com CNAME .
 skltrachqwbd.com CNAME .
 *.skltrachqwbd.com CNAME .
-skohssc.cfd CNAME .
-*.skohssc.cfd CNAME .
 skroutza.skroutz.gr CNAME .
 *.skroutza.skroutz.gr CNAME .
 sks.mrkhub.com CNAME .
@@ -82571,8 +82555,6 @@ vcynnyujt.com CNAME .
 *.vcynnyujt.com CNAME .
 vczfcmaxnqkby.club CNAME .
 *.vczfcmaxnqkby.club CNAME .
-vczypss.com CNAME .
-*.vczypss.com CNAME .
 vd.7vid.net CNAME .
 *.vd.7vid.net CNAME .
 vda.viettel.vn CNAME .
@@ -84789,8 +84771,6 @@ whale.gdebrauwer.dev CNAME .
 *.whale.gdebrauwer.dev CNAME .
 whaleads.com CNAME .
 *.whaleads.com CNAME .
-whaleapartmenthumor.com CNAME .
-*.whaleapartmenthumor.com CNAME .
 whaleman.ru CNAME .
 *.whaleman.ru CNAME .
 whalems.com CNAME .
@@ -89093,8 +89073,6 @@ zyrnbh.xyz CNAME .
 *.zyrnbh.xyz CNAME .
 zzfoms.com CNAME .
 *.zzfoms.com CNAME .
-zzrazrorjqlqw.top CNAME .
-*.zzrazrorjqlqw.top CNAME .
 zztxfj.xyz CNAME .
 *.zztxfj.xyz CNAME .
 zzux.com CNAME .
