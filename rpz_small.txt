@@ -1,9 +1,9 @@
-; Version: 202504170908
+; Version: 202504171008
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87966
-; Last modified: 2025-04-17T09:08:19+0000
+; Entries: 87952
+; Last modified: 2025-04-17T10:08:48+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744880404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744884003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -28481,8 +28481,6 @@ detectivespreferably.com CNAME .
 *.detectivespreferably.com CNAME .
 detentionquasipairs.com CNAME .
 *.detentionquasipairs.com CNAME .
-detentsclonks.com CNAME .
-*.detentsclonks.com CNAME .
 determineworse.com CNAME .
 *.determineworse.com CNAME .
 detestgaspdowny.com CNAME .
@@ -35657,8 +35655,6 @@ fog.pixual.co CNAME .
 *.fog.pixual.co CNAME .
 fogeydawties.com CNAME .
 *.fogeydawties.com CNAME .
-foggingcagers.shop CNAME .
-*.foggingcagers.shop CNAME .
 foggytube.com CNAME .
 *.foggytube.com CNAME .
 fogsham.com CNAME .
@@ -40797,8 +40793,6 @@ hipanditlastedallth.com CNAME .
 *.hipanditlastedallth.com CNAME .
 hipercontas.com.br CNAME .
 *.hipercontas.com.br CNAME .
-hipnoticrec.biz CNAME .
-*.hipnoticrec.biz CNAME .
 hippobulse.com CNAME .
 *.hippobulse.com CNAME .
 hiprofitnetworks.com CNAME .
@@ -76163,8 +76157,6 @@ thimblehaltedbounce.com CNAME .
 *.thimblehaltedbounce.com CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 *.thind-gke-euw.prd.data.corp.unity3d.com CNAME .
-thinglairs.com CNAME .
-*.thinglairs.com CNAME .
 thingrealtape.com CNAME .
 *.thingrealtape.com CNAME .
 thingsshrill.com CNAME .
@@ -84357,8 +84349,6 @@ withyouryret.com CNAME .
 *.withyouryret.com CNAME .
 witnessedcompany.com CNAME .
 *.witnessedcompany.com CNAME .
-witnessedworkerplaid.com CNAME .
-*.witnessedworkerplaid.com CNAME .
 witnessjacket.com CNAME .
 *.witnessjacket.com CNAME .
 witnessremovalsoccer.com CNAME .
@@ -85323,8 +85313,6 @@ xijgedjgg5f55.com CNAME .
 *.xijgedjgg5f55.com CNAME .
 ximad.com CNAME .
 *.ximad.com CNAME .
-ximhirsew.com CNAME .
-*.ximhirsew.com CNAME .
 ximybkpxwu.com CNAME .
 *.ximybkpxwu.com CNAME .
 xinchl.xyz CNAME .
@@ -86173,8 +86161,6 @@ xmlppcbuzz.com CNAME .
 *.xmlppcbuzz.com CNAME .
 xmlrtb.com CNAME .
 *.xmlrtb.com CNAME .
-xmlv4.reklama.network CNAME .
-*.xmlv4.reklama.network CNAME .
 xmlv6.aimkweb.com CNAME .
 *.xmlv6.aimkweb.com CNAME .
 xmlwiz.com CNAME .
