@@ -1,9 +1,9 @@
-; Version: 202504171319
+; Version: 202504171408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87920
-; Last modified: 2025-04-17T13:19:29+0000
+; Entries: 87910
+; Last modified: 2025-04-17T14:08:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744894804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744898404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13685,8 +13685,6 @@ aviodg.eu CNAME .
 *.aviodg.eu CNAME .
 avitocars.ru CNAME .
 *.avitocars.ru CNAME .
-avjbjbekaawzr.top CNAME .
-*.avjbjbekaawzr.top CNAME .
 avloan3431.fun CNAME .
 *.avloan3431.fun CNAME .
 avmonk3431.fun CNAME .
@@ -32039,8 +32037,6 @@ elfpetsic.com CNAME .
 *.elfpetsic.com CNAME .
 elgnnpl-ukgs.global CNAME .
 *.elgnnpl-ukgs.global CNAME .
-elhdxexnra.xyz CNAME .
-*.elhdxexnra.xyz CNAME .
 elicaowl.com CNAME .
 *.elicaowl.com CNAME .
 elink.nhanlucnganhluat.vn CNAME .
@@ -36871,8 +36867,6 @@ ganaar.gertibaldi.com CNAME .
 *.ganaar.gertibaldi.com CNAME .
 ganalyticshub.net CNAME .
 *.ganalyticshub.net CNAME .
-ganbeode.com CNAME .
-*.ganbeode.com CNAME .
 gandmotivat.info CNAME .
 *.gandmotivat.info CNAME .
 gandmotivatin.info CNAME .
@@ -59003,8 +58997,6 @@ perr.l-agent.me CNAME .
 *.perr.l-agent.me CNAME .
 perr.l-err.biz CNAME .
 *.perr.l-err.biz CNAME .
-perryflealowest.com CNAME .
-*.perryflealowest.com CNAME .
 perryvolleyball.com CNAME .
 *.perryvolleyball.com CNAME .
 persaonwhoisablet.com CNAME .
@@ -81939,8 +81931,6 @@ vigorouslymicrophone.com CNAME .
 *.vigorouslymicrophone.com CNAME .
 vigourmotorcyclepriority.com CNAME .
 *.vigourmotorcyclepriority.com CNAME .
-vigsole.com CNAME .
-*.vigsole.com CNAME .
 vihbuposxci.com CNAME .
 *.vihbuposxci.com CNAME .
 vihqpr.xyz CNAME .
