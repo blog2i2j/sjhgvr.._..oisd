@@ -1,9 +1,9 @@
-; Version: 202504170808
+; Version: 202504170908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87978
-; Last modified: 2025-04-17T08:08:54+0000
+; Entries: 87966
+; Last modified: 2025-04-17T09:08:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744876803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744880404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -51695,8 +51695,6 @@ miluwo.com CNAME .
 *.miluwo.com CNAME .
 mimerestates.top CNAME .
 *.mimerestates.top CNAME .
-mimerkapur.com CNAME .
-*.mimerkapur.com CNAME .
 mimicbeeralb.com CNAME .
 *.mimicbeeralb.com CNAME .
 mimicdivineconstable.com CNAME .
@@ -63945,8 +63943,6 @@ rangepositively.com CNAME .
 *.rangepositively.com CNAME .
 rangfool.com CNAME .
 *.rangfool.com CNAME .
-rangformer.com CNAME .
-*.rangformer.com CNAME .
 rank-master.com CNAME .
 *.rank-master.com CNAME .
 rankchamp.de CNAME .
@@ -64041,8 +64037,6 @@ ratings.lycos.com CNAME .
 *.ratings.lycos.com CNAME .
 rationallyagreement.com CNAME .
 *.rationallyagreement.com CNAME .
-ratioregarding.com CNAME .
-*.ratioregarding.com CNAME .
 rauceesh.com CNAME .
 *.rauceesh.com CNAME .
 raufajoo.net CNAME .
@@ -69603,8 +69597,6 @@ shocking-honey.com CNAME .
 *.shocking-honey.com CNAME .
 shockingstrategynovelty.com CNAME .
 *.shockingstrategynovelty.com CNAME .
-shoddy-review.com CNAME .
-*.shoddy-review.com CNAME .
 shoeinggrimy.top CNAME .
 *.shoeinggrimy.top CNAME .
 shoftoupsouxoam.net CNAME .
@@ -72677,8 +72669,6 @@ static.ras-trk.com CNAME .
 *.static.ras-trk.com CNAME .
 static.rastyclick.com CNAME .
 *.static.rastyclick.com CNAME .
-static.reklama.network CNAME .
-*.static.reklama.network CNAME .
 static.responzservz-3.com CNAME .
 *.static.responzservz-3.com CNAME .
 static.revbid.net CNAME .
@@ -87855,8 +87845,6 @@ ztrack.online CNAME .
 *.ztrack.online CNAME .
 ztrck.me CNAME .
 *.ztrck.me CNAME .
-zttgwpb.com CNAME .
-*.zttgwpb.com CNAME .
 zttwclmcpesce.xyz CNAME .
 *.zttwclmcpesce.xyz CNAME .
 ztulcrynw.online CNAME .
