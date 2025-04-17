@@ -1,9 +1,9 @@
-; Version: 202504172109
+; Version: 202504172209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89088
-; Last modified: 2025-04-17T21:09:45+0000
+; Entries: 89064
+; Last modified: 2025-04-17T22:09:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744923602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744927204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1159,8 +1159,6 @@ $TTL 30
 *.2f1a1a7f62.com CNAME .
 2f5de272ff.com CNAME .
 *.2f5de272ff.com CNAME .
-2f72472ace.com CNAME .
-*.2f72472ace.com CNAME .
 2f8a651b12.com CNAME .
 *.2f8a651b12.com CNAME .
 2f8c99defc.4d087f527f.com CNAME .
@@ -15087,8 +15085,6 @@ bardspintura.shop CNAME .
 *.bardspintura.shop CNAME .
 bardtormen.click CNAME .
 *.bardtormen.click CNAME .
-barecurldiscovering.com CNAME .
-*.barecurldiscovering.com CNAME .
 barefootedleisurelypizza.com CNAME .
 *.barefootedleisurelypizza.com CNAME .
 barelydonkeysteed.com CNAME .
@@ -29509,8 +29505,6 @@ disquietwokesupersede.com CNAME .
 *.disquietwokesupersede.com CNAME .
 disqusads.com CNAME .
 *.disqusads.com CNAME .
-disreputabletravelparson.com CNAME .
-*.disreputabletravelparson.com CNAME .
 disrespectpreceding.com CNAME .
 *.disrespectpreceding.com CNAME .
 dissemblebendnormally.com CNAME .
@@ -37625,8 +37619,6 @@ genericlink.com CNAME .
 *.genericlink.com CNAME .
 generosityfrozecosmic.com CNAME .
 *.generosityfrozecosmic.com CNAME .
-generousclickmillennium.com CNAME .
-*.generousclickmillennium.com CNAME .
 generousfilming.com CNAME .
 *.generousfilming.com CNAME .
 genesis.malwarebytes.com CNAME .
@@ -40845,8 +40837,6 @@ herdmenrations.com CNAME .
 *.herdmenrations.com CNAME .
 hereaftertriadcreep.com CNAME .
 *.hereaftertriadcreep.com CNAME .
-herebybrotherinlawlibrarian.com CNAME .
-*.herebybrotherinlawlibrarian.com CNAME .
 heremployeesihi.info CNAME .
 *.heremployeesihi.info CNAME .
 heresanothernicemess.com CNAME .
@@ -41689,8 +41679,6 @@ horny.su CNAME .
 *.horny.su CNAME .
 hornylitics.b-cdn.net CNAME .
 *.hornylitics.b-cdn.net CNAME .
-horribledecorated.com CNAME .
-*.horribledecorated.com CNAME .
 horriblysparkling.com CNAME .
 *.horriblysparkling.com CNAME .
 horrifiedloudly.com CNAME .
@@ -42763,8 +42751,6 @@ ignorantmethod.pro CNAME .
 *.ignorantmethod.pro CNAME .
 ignore.hot-bbw-tube.com CNAME .
 *.ignore.hot-bbw-tube.com CNAME .
-ignorerationalize.com CNAME .
-*.ignorerationalize.com CNAME .
 ignoresphlorol.com CNAME .
 *.ignoresphlorol.com CNAME .
 ignorespurana.com CNAME .
@@ -58105,8 +58091,6 @@ ouchruse.com CNAME .
 *.ouchruse.com CNAME .
 oucmaimsackool.net CNAME .
 *.oucmaimsackool.net CNAME .
-oucnmtk.top CNAME .
-*.oucnmtk.top CNAME .
 oucouksirt.com CNAME .
 *.oucouksirt.com CNAME .
 oudeemeewhaims.com CNAME .
@@ -71993,8 +71977,6 @@ sothiacalain.com CNAME .
 *.sothiacalain.com CNAME .
 souffloutoven.digital CNAME .
 *.souffloutoven.digital CNAME .
-soughtflaredeeper.com CNAME .
-*.soughtflaredeeper.com CNAME .
 sougoapha.com CNAME .
 *.sougoapha.com CNAME .
 souloomunie.com CNAME .
@@ -81045,8 +81027,6 @@ uegsjnk.com CNAME .
 *.uegsjnk.com CNAME .
 uejntsxdffp.com CNAME .
 *.uejntsxdffp.com CNAME .
-uektedsni.com CNAME .
-*.uektedsni.com CNAME .
 uel-uel-fie.com CNAME .
 *.uel-uel-fie.com CNAME .
 uelllwrite.com CNAME .
@@ -82177,8 +82157,6 @@ uu22332.com CNAME .
 *.uu22332.com CNAME .
 uu22662.com CNAME .
 *.uu22662.com CNAME .
-uucnmtt.top CNAME .
-*.uucnmtt.top CNAME .
 uue2.destinia.ir CNAME .
 *.uue2.destinia.ir CNAME .
 uuidksinc.net CNAME .
@@ -87871,8 +87849,6 @@ yield-op-idsync.live.streamtheworld.com CNAME .
 *.yield-op-idsync.live.streamtheworld.com CNAME .
 yieldbuild.com CNAME .
 *.yieldbuild.com CNAME .
-yieldinginvincible.com CNAME .
-*.yieldinginvincible.com CNAME .
 yieldkit.com CNAME .
 *.yieldkit.com CNAME .
 yieldlab.net CNAME .
