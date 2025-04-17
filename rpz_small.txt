@@ -1,9 +1,9 @@
-; Version: 202504170708
+; Version: 202504170808
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87992
-; Last modified: 2025-04-17T07:08:40+0000
+; Entries: 87978
+; Last modified: 2025-04-17T08:08:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744873204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744876803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -10121,8 +10121,6 @@ amtropiusr.com CNAME .
 *.amtropiusr.com CNAME .
 amuletcheek.com CNAME .
 *.amuletcheek.com CNAME .
-amuletcontext.com CNAME .
-*.amuletcontext.com CNAME .
 amunfezanttor.com CNAME .
 *.amunfezanttor.com CNAME .
 amung.us CNAME .
@@ -31269,8 +31267,6 @@ earningseriegents.org CNAME .
 *.earningseriegents.org CNAME .
 earningsgrandpa.com CNAME .
 *.earningsgrandpa.com CNAME .
-earningstwigrider.com CNAME .
-*.earningstwigrider.com CNAME .
 earnvids.com CNAME .
 *.earnvids.com CNAME .
 earphonespulse.com CNAME .
@@ -58213,8 +58209,6 @@ pantomimecattish.com CNAME .
 *.pantomimecattish.com CNAME .
 pantomimecommitmenttestify.com CNAME .
 *.pantomimecommitmenttestify.com CNAME .
-pantomimemistystammer.com CNAME .
-*.pantomimemistystammer.com CNAME .
 pantoumcausers.click CNAME .
 *.pantoumcausers.click CNAME .
 pantraidgeometry.com CNAME .
@@ -63095,8 +63089,6 @@ qedgcxi.cn CNAME .
 *.qedgcxi.cn CNAME .
 qeedaa.xyz CNAME .
 *.qeedaa.xyz CNAME .
-qekbmjyvbekvv.top CNAME .
-*.qekbmjyvbekvv.top CNAME .
 qel-qel-fie.com CNAME .
 *.qel-qel-fie.com CNAME .
 qelqlunebz.com CNAME .
@@ -63441,8 +63433,6 @@ qubitanalytics.appspot.com CNAME .
 *.qubitanalytics.appspot.com CNAME .
 qubjweguszko.com CNAME .
 *.qubjweguszko.com CNAME .
-qucnmty.top CNAME .
-*.qucnmty.top CNAME .
 qudajie.com CNAME .
 *.qudajie.com CNAME .
 queasydashed.top CNAME .
@@ -82037,8 +82027,6 @@ viifun.com CNAME .
 *.viifun.com CNAME .
 viifvqra.com CNAME .
 *.viifvqra.com CNAME .
-viihloln.com CNAME .
-*.viihloln.com CNAME .
 viiian.com CNAME .
 *.viiian.com CNAME .
 viiiaypg.com CNAME .
@@ -84695,8 +84683,6 @@ work.gd CNAME .
 *.work.gd CNAME .
 workable1x.xyz CNAME .
 *.workable1x.xyz CNAME .
-workcahoots.com CNAME .
-*.workcahoots.com CNAME .
 workedqtam.com CNAME .
 *.workedqtam.com CNAME .
 workedworlds.com CNAME .
