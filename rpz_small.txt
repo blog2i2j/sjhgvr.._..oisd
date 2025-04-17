@@ -1,9 +1,9 @@
-; Version: 202504170508
+; Version: 202504170608
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88014
-; Last modified: 2025-04-17T05:08:56+0000
+; Entries: 88006
+; Last modified: 2025-04-17T06:08:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744866003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744869603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3007,8 +3007,6 @@ $TTL 30
 *.9891a36e37.com CNAME .
 9936a91f58.f7658eb65e.com CNAME .
 *.9936a91f58.f7658eb65e.com CNAME .
-994e4a6044.com CNAME .
-*.994e4a6044.com CNAME .
 995be54914.com CNAME .
 *.995be54914.com CNAME .
 99886aaa.com CNAME .
@@ -29027,8 +29025,6 @@ disccompose.com CNAME .
 *.disccompose.com CNAME .
 discernibletickpang.com CNAME .
 *.discernibletickpang.com CNAME .
-dischargedcomponent.com CNAME .
-*.dischargedcomponent.com CNAME .
 dischargemakerfringe.com CNAME .
 *.dischargemakerfringe.com CNAME .
 disciplecousinendorse.com CNAME .
@@ -55963,8 +55959,6 @@ officerdiscontentedalley.com CNAME .
 *.officerdiscontentedalley.com CNAME .
 officetablntry.org CNAME .
 *.officetablntry.org CNAME .
-officialbanisters.com CNAME .
-*.officialbanisters.com CNAME .
 officialkmspico.com CNAME .
 *.officialkmspico.com CNAME .
 offinfernaper.com CNAME .
@@ -82089,8 +82083,6 @@ viimself.com CNAME .
 *.viimself.com CNAME .
 viimult.com CNAME .
 *.viimult.com CNAME .
-viippugm.com CNAME .
-*.viippugm.com CNAME .
 viipular.com CNAME .
 *.viipular.com CNAME .
 viipura.com CNAME .
