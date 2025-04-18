@@ -1,9 +1,9 @@
-; Version: 202504180909
+; Version: 202504181009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88914
-; Last modified: 2025-04-18T09:09:37+0000
+; Entries: 88894
+; Last modified: 2025-04-18T10:09:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744966803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744970403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2311,8 +2311,6 @@ $TTL 30
 *.6fbb07e2de.7aa82805b9.com CNAME .
 6ft8a.icu CNAME .
 *.6ft8a.icu CNAME .
-6ftlady.com CNAME .
-*.6ftlady.com CNAME .
 6gi0edui.xyz CNAME .
 *.6gi0edui.xyz CNAME .
 6glece4homah8dweracea.com CNAME .
@@ -6505,8 +6503,6 @@ ads.cbc.ca CNAME .
 *.ads.cbc.ca CNAME .
 ads.cc CNAME .
 *.ads.cc CNAME .
-ads.cdn2-img.net CNAME .
-*.ads.cdn2-img.net CNAME .
 ads.cdvn.vip CNAME .
 *.ads.cdvn.vip CNAME .
 ads.centraliprom.com CNAME .
@@ -33821,8 +33817,6 @@ excitementoppressive.com CNAME .
 *.excitementoppressive.com CNAME .
 excitinginstitute.com CNAME .
 *.excitinginstitute.com CNAME .
-exclaimrefund.com CNAME .
-*.exclaimrefund.com CNAME .
 exclkplat.com CNAME .
 *.exclkplat.com CNAME .
 exclplatmain.com CNAME .
@@ -39851,8 +39845,6 @@ gutrnesak.com CNAME .
 *.gutrnesak.com CNAME .
 gutterjavgg124.fun CNAME .
 *.gutterjavgg124.fun CNAME .
-gutwn.info CNAME .
-*.gutwn.info CNAME .
 guvmcalwio.com CNAME .
 *.guvmcalwio.com CNAME .
 guvmmaolnk.com CNAME .
@@ -44229,8 +44221,6 @@ islandgeneric.com CNAME .
 *.islandgeneric.com CNAME .
 islandjav182.fun CNAME .
 *.islandjav182.fun CNAME .
-islandracistreleased.com CNAME .
-*.islandracistreleased.com CNAME .
 ismlks.com CNAME .
 *.ismlks.com CNAME .
 ismypersonalreco.org CNAME .
@@ -50475,8 +50465,6 @@ magnetrack.klangoo.com CNAME .
 *.magnetrack.klangoo.com CNAME .
 magnificent-listen.com CNAME .
 *.magnificent-listen.com CNAME .
-magnificentflametemperature.com CNAME .
-*.magnificentflametemperature.com CNAME .
 magnificentmanlyyeast.com CNAME .
 *.magnificentmanlyyeast.com CNAME .
 magogvel.shop CNAME .
@@ -59275,8 +59263,6 @@ patchedcyamoid.com CNAME .
 *.patchedcyamoid.com CNAME .
 patefysouari.com CNAME .
 *.patefysouari.com CNAME .
-patentdestructive.com CNAME .
-*.patentdestructive.com CNAME .
 patentjav128.fun CNAME .
 *.patentjav128.fun CNAME .
 paternalrepresentation.com CNAME .
@@ -63305,8 +63291,6 @@ pursuedfailurehibernate.com CNAME .
 *.pursuedfailurehibernate.com CNAME .
 pursuingconjunction.com CNAME .
 *.pursuingconjunction.com CNAME .
-pursuitbelieved.com CNAME .
-*.pursuitbelieved.com CNAME .
 pursuitcharlesbaker.com CNAME .
 *.pursuitcharlesbaker.com CNAME .
 pursuiterelydia.com CNAME .
@@ -65683,8 +65667,6 @@ reliefreinsside.com CNAME .
 *.reliefreinsside.com CNAME .
 relievedgeoff.com CNAME .
 *.relievedgeoff.com CNAME .
-religiousmischievousskyscraper.com CNAME .
-*.religiousmischievousskyscraper.com CNAME .
 relinquishcooperatedrove.com CNAME .
 *.relinquishcooperatedrove.com CNAME .
 relishpreservation.com CNAME .
@@ -83787,8 +83769,6 @@ waardex.com CNAME .
 *.waardex.com CNAME .
 waazgwojnfqx.life CNAME .
 *.waazgwojnfqx.life CNAME .
-wabenofazenda.com CNAME .
-*.wabenofazenda.com CNAME .
 wacapousoth.top CNAME .
 *.wacapousoth.top CNAME .
 wacisi.xyz CNAME .
