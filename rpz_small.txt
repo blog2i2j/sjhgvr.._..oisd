@@ -1,9 +1,9 @@
-; Version: 202504181608
+; Version: 202504181647
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88928
-; Last modified: 2025-04-18T16:08:55+0000
+; Entries: 88914
+; Last modified: 2025-04-18T16:47:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744992003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744994240 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -10085,8 +10085,6 @@ ammgryhcyk.com CNAME .
 *.ammgryhcyk.com CNAME .
 ammkicqit.com CNAME .
 *.ammkicqit.com CNAME .
-ammoniaghazism.top CNAME .
-*.ammoniaghazism.top CNAME .
 amnestygall.com CNAME .
 *.amnestygall.com CNAME .
 amnestyhailstone.com CNAME .
@@ -34885,14 +34883,10 @@ feltatchaiz.net CNAME .
 *.feltatchaiz.net CNAME .
 feltlonelyandbeg.com CNAME .
 *.feltlonelyandbeg.com CNAME .
-feltnoble.com CNAME .
-*.feltnoble.com CNAME .
 femefaih.com CNAME .
 *.femefaih.com CNAME .
 femin.online CNAME .
 *.femin.online CNAME .
-feminine-combine.com CNAME .
-*.feminine-combine.com CNAME .
 femininetextmessageseducing.com CNAME .
 *.femininetextmessageseducing.com CNAME .
 femsoahe.com CNAME .
@@ -49865,8 +49859,6 @@ lrhyuixtcgnpn.site CNAME .
 *.lrhyuixtcgnpn.site CNAME .
 lrkfuheobm.one CNAME .
 *.lrkfuheobm.one CNAME .
-lryaeeowheimoq.com CNAME .
-*.lryaeeowheimoq.com CNAME .
 lryofjrfogp.com CNAME .
 *.lryofjrfogp.com CNAME .
 ls.srvcs.tumblr.com CNAME .
@@ -59941,8 +59933,6 @@ pgssl.com CNAME .
 *.pgssl.com CNAME .
 pgt1.voyage-prive.es CNAME .
 *.pgt1.voyage-prive.es CNAME .
-pguzquckxbb.com CNAME .
-*.pguzquckxbb.com CNAME .
 phabycebe.com CNAME .
 *.phabycebe.com CNAME .
 phadsophoogh.net CNAME .
@@ -64629,8 +64619,6 @@ radiusfellowship.com CNAME .
 *.radiusfellowship.com CNAME .
 radiusmarketing.com CNAME .
 *.radiusmarketing.com CNAME .
-radiusthorny.com CNAME .
-*.radiusthorny.com CNAME .
 radshedmisrepu.info CNAME .
 *.radshedmisrepu.info CNAME .
 radwweanhni.com CNAME .
@@ -69607,8 +69595,6 @@ semicolonsmall.com CNAME .
 *.semicolonsmall.com CNAME .
 seminarcrackingconclude.com CNAME .
 *.seminarcrackingconclude.com CNAME .
-seminareagle.com CNAME .
-*.seminareagle.com CNAME .
 seminarentirely.com CNAME .
 *.seminarentirely.com CNAME .
 semplicewebsites.com CNAME .
