@@ -1,9 +1,9 @@
-; Version: 202504181509
+; Version: 202504181608
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88954
-; Last modified: 2025-04-18T15:09:26+0000
+; Entries: 88928
+; Last modified: 2025-04-18T16:08:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744988403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744992003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5355,8 +5355,6 @@ adbuff.com CNAME .
 *.adbuff.com CNAME .
 adbull.com CNAME .
 *.adbull.com CNAME .
-adbunker.com CNAME .
-*.adbunker.com CNAME .
 adbutler-fermion.com CNAME .
 *.adbutler-fermion.com CNAME .
 adbutler.com CNAME .
@@ -14173,8 +14171,6 @@ aywnaoliigc.com CNAME .
 *.aywnaoliigc.com CNAME .
 ayzylwqazaemj.top CNAME .
 *.ayzylwqazaemj.top CNAME .
-ayzylwqryaymj.top CNAME .
-*.ayzylwqryaymj.top CNAME .
 az-neverblock.aznude.workers.dev CNAME .
 *.az-neverblock.aznude.workers.dev CNAME .
 az.nzn.io CNAME .
@@ -20835,8 +20831,6 @@ chipyourdiet.live CNAME .
 *.chipyourdiet.live CNAME .
 chiralboutons.top CNAME .
 *.chiralboutons.top CNAME .
-chirppronounceaccompany.com CNAME .
-*.chirppronounceaccompany.com CNAME .
 chitchaudsoax.net CNAME .
 *.chitchaudsoax.net CNAME .
 chitchoawhoult.net CNAME .
@@ -38027,8 +38021,6 @@ gigabitadex.com CNAME .
 *.gigabitadex.com CNAME .
 gigahertz24.fun CNAME .
 *.gigahertz24.fun CNAME .
-giganticlived.com CNAME .
-*.giganticlived.com CNAME .
 gigboost.me CNAME .
 *.gigboost.me CNAME .
 giggitchao.click CNAME .
@@ -38505,8 +38497,6 @@ gluttonstayaccomplishment.com CNAME .
 *.gluttonstayaccomplishment.com CNAME .
 gluttonydressed.com CNAME .
 *.gluttonydressed.com CNAME .
-gluwhoas.com CNAME .
-*.gluwhoas.com CNAME .
 glvhvesvnp.com CNAME .
 *.glvhvesvnp.com CNAME .
 glwmjwwi.com CNAME .
@@ -55223,8 +55213,6 @@ nogogey.top CNAME .
 *.nogogey.top CNAME .
 nohowsankhya.com CNAME .
 *.nohowsankhya.com CNAME .
-noiselessvegetables.com CNAME .
-*.noiselessvegetables.com CNAME .
 noisesperusemotel.com CNAME .
 *.noisesperusemotel.com CNAME .
 noisseurlin.org CNAME .
@@ -56673,8 +56661,6 @@ ogle-0740lb.com CNAME .
 *.ogle-0740lb.com CNAME .
 oglrrokbbxoyw.today CNAME .
 *.oglrrokbbxoyw.today CNAME .
-ognggibtebi.com CNAME .
-*.ognggibtebi.com CNAME .
 ogniicbnb.ru CNAME .
 *.ogniicbnb.ru CNAME .
 ogqanrasl.com CNAME .
@@ -62225,8 +62211,6 @@ pro-suprport-act.com CNAME .
 *.pro-suprport-act.com CNAME .
 pro-web.net CNAME .
 *.pro-web.net CNAME .
-pro.iweihai.cn CNAME .
-*.pro.iweihai.cn CNAME .
 probabletellsunexpected.com CNAME .
 *.probabletellsunexpected.com CNAME .
 probersnobles.com CNAME .
@@ -66309,8 +66293,6 @@ rewardsaffiliates.com CNAME .
 *.rewardsaffiliates.com CNAME .
 rewindgills.com CNAME .
 *.rewindgills.com CNAME .
-rewindgranulatedspatter.com CNAME .
-*.rewindgranulatedspatter.com CNAME .
 rewindstagger.com CNAME .
 *.rewindstagger.com CNAME .
 rewinedropshop.info CNAME .
@@ -77071,8 +77053,6 @@ thimblehaltedbounce.com CNAME .
 *.thimblehaltedbounce.com CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 *.thind-gke-euw.prd.data.corp.unity3d.com CNAME .
-thingrealtape.com CNAME .
-*.thingrealtape.com CNAME .
 thingsshrill.com CNAME .
 *.thingsshrill.com CNAME .
 thingstorrent.com CNAME .
@@ -77525,8 +77505,6 @@ titanads3.com CNAME .
 *.titanads3.com CNAME .
 titanads4.com CNAME .
 *.titanads4.com CNAME .
-titanicimmunehomesick.com CNAME .
-*.titanicimmunehomesick.com CNAME .
 titanictooler.top CNAME .
 *.titanictooler.top CNAME .
 titaniumveinshaper.com CNAME .
@@ -82365,8 +82343,6 @@ varycares.com CNAME .
 *.varycares.com CNAME .
 varyingcanteenartillery.com CNAME .
 *.varyingcanteenartillery.com CNAME .
-varyinginvention.com CNAME .
-*.varyinginvention.com CNAME .
 varyingsnarl.com CNAME .
 *.varyingsnarl.com CNAME .
 vasfmbody.com CNAME .
@@ -88155,8 +88131,6 @@ ywfbjvmsw.com CNAME .
 *.ywfbjvmsw.com CNAME .
 ywg.jobui.com CNAME .
 *.ywg.jobui.com CNAME .
-ywopyohpihnkppc.xyz CNAME .
-*.ywopyohpihnkppc.xyz CNAME .
 ywpdobsvqlchvrl.com CNAME .
 *.ywpdobsvqlchvrl.com CNAME .
 ywronwasthetron.com CNAME .
