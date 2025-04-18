@@ -1,9 +1,9 @@
-; Version: 202504180239
+; Version: 202504180308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89014
-; Last modified: 2025-04-18T02:39:45+0000
+; Entries: 89006
+; Last modified: 2025-04-18T03:08:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744941603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744945203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11303,8 +11303,6 @@ anewfeedliberty.com CNAME .
 *.anewfeedliberty.com CNAME .
 anewgallondevious.com CNAME .
 *.anewgallondevious.com CNAME .
-anewrelivedivide.com CNAME .
-*.anewrelivedivide.com CNAME .
 anews7.nvwu.com CNAME .
 *.anews7.nvwu.com CNAME .
 anewyoufitness.com CNAME .
@@ -18245,6 +18243,8 @@ bun1.dayi.org.cn CNAME .
 *.bun1.dayi.org.cn CNAME .
 bundasnovinhas.com CNAME .
 *.bundasnovinhas.com CNAME .
+bundle.ppas.monster CNAME .
+*.bundle.ppas.monster CNAME .
 bundlemoviepumice.com CNAME .
 *.bundlemoviepumice.com CNAME .
 bundlerenown.com CNAME .
@@ -42785,8 +42785,6 @@ iisabujdtg.com CNAME .
 *.iisabujdtg.com CNAME .
 iistillstayherea.com CNAME .
 *.iistillstayherea.com CNAME .
-iiyurraeoh.com CNAME .
-*.iiyurraeoh.com CNAME .
 ijbaawqolrhpd.site CNAME .
 *.ijbaawqolrhpd.site CNAME .
 ijhweandthepe.info CNAME .
@@ -50709,8 +50707,6 @@ mallettraumatize.com CNAME .
 *.mallettraumatize.com CNAME .
 mallinitially.com CNAME .
 *.mallinitially.com CNAME .
-malnutritionvisibilitybailiff.com CNAME .
-*.malnutritionvisibilitybailiff.com CNAME .
 malog.byapps.co.kr CNAME .
 *.malog.byapps.co.kr CNAME .
 maloowordorgaux.com CNAME .
@@ -60265,8 +60261,6 @@ picklesdumb.com CNAME .
 *.picklesdumb.com CNAME .
 pickletanquen.shop CNAME .
 *.pickletanquen.shop CNAME .
-pickuppestsyndrome.com CNAME .
-*.pickuppestsyndrome.com CNAME .
 picmedia.biz CNAME .
 *.picmedia.biz CNAME .
 pics.firstload.de CNAME .
@@ -65561,8 +65555,6 @@ refusalspudvicinity.com CNAME .
 *.refusalspudvicinity.com CNAME .
 refuseddissolveduniversity.com CNAME .
 *.refuseddissolveduniversity.com CNAME .
-refusemovie.com CNAME .
-*.refusemovie.com CNAME .
 refuserates.com CNAME .
 *.refuserates.com CNAME .
 refuteddistant.com CNAME .
