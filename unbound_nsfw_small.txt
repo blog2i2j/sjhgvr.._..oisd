@@ -1,9 +1,9 @@
-# Version: 202504181612
+# Version: 202504181651
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20341
-# Last modified: 2025-04-18T16:12:49+0000
+# Entries: 20343
+# Last modified: 2025-04-18T16:51:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5057,6 +5057,7 @@ local-zone: "fanscout.com." always_null
 local-zone: "fanscribers.com." always_null
 local-zone: "fanseven.com." always_null
 local-zone: "fansfan.com." always_null
+local-zone: "fansly.com." always_null
 local-zone: "fanslyleaked.com." always_null
 local-zone: "fansmetrics.com." always_null
 local-zone: "fansmine.com." always_null
@@ -5115,6 +5116,7 @@ local-zone: "fapdungeon.com." always_null
 local-zone: "fapellas.com." always_null
 local-zone: "fapellino.com." always_null
 local-zone: "fapello-leaks.com." always_null
+local-zone: "fapello.cam." always_null
 local-zone: "fapello.cc." always_null
 local-zone: "fapello.com." always_null
 local-zone: "fapello.is." always_null

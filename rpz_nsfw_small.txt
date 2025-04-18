@@ -1,9 +1,9 @@
-; Version: 202504181612
+; Version: 202504181651
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40682
-; Last modified: 2025-04-18T16:12:49+0000
+; Entries: 40686
+; Last modified: 2025-04-18T16:51:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744992003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744994240 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -10105,6 +10105,8 @@ fanseven.com CNAME .
 *.fanseven.com CNAME .
 fansfan.com CNAME .
 *.fansfan.com CNAME .
+fansly.com CNAME .
+*.fansly.com CNAME .
 fanslyleaked.com CNAME .
 *.fanslyleaked.com CNAME .
 fansmetrics.com CNAME .
@@ -10221,6 +10223,8 @@ fapellino.com CNAME .
 *.fapellino.com CNAME .
 fapello-leaks.com CNAME .
 *.fapello-leaks.com CNAME .
+fapello.cam CNAME .
+*.fapello.cam CNAME .
 fapello.cc CNAME .
 *.fapello.cc CNAME .
 fapello.com CNAME .
