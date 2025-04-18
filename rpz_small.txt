@@ -1,9 +1,9 @@
-; Version: 202504180609
+; Version: 202504180708
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88962
-; Last modified: 2025-04-18T06:09:01+0000
+; Entries: 88944
+; Last modified: 2025-04-18T07:08:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744956003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744959603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1077,8 +1077,6 @@ $TTL 30
 *.2950917e4a.56eed75dbe.com CNAME .
 29662166.xyz CNAME .
 *.29662166.xyz CNAME .
-298ef1ff8f.com CNAME .
-*.298ef1ff8f.com CNAME .
 29972123f3.com CNAME .
 *.29972123f3.com CNAME .
 29a7397be5.com CNAME .
@@ -16085,8 +16083,6 @@ bestowsmiasm.top CNAME .
 *.bestowsmiasm.top CNAME .
 bestreceived.com CNAME .
 *.bestreceived.com CNAME .
-bestresulttostart.com CNAME .
-*.bestresulttostart.com CNAME .
 bestrevenuenetwork.com CNAME .
 *.bestrevenuenetwork.com CNAME .
 bestsearch.net CNAME .
@@ -18437,8 +18433,6 @@ bvalphaserver.com CNAME .
 *.bvalphaserver.com CNAME .
 bvbypswhds.com CNAME .
 *.bvbypswhds.com CNAME .
-bvcnmtv.top CNAME .
-*.bvcnmtv.top CNAME .
 bvdenx.xyz CNAME .
 *.bvdenx.xyz CNAME .
 bvmcdn.com CNAME .
@@ -30039,8 +30033,6 @@ dojy0dg181308.cloudfront.net CNAME .
 *.dojy0dg181308.cloudfront.net CNAME .
 dokondigit.quest CNAME .
 *.dokondigit.quest CNAME .
-dokpzhzmqhyqx.com CNAME .
-*.dokpzhzmqhyqx.com CNAME .
 dokzl8xhmt1x7.cloudfront.net CNAME .
 *.dokzl8xhmt1x7.cloudfront.net CNAME .
 dolarkurum.com CNAME .
@@ -48629,8 +48621,6 @@ loadtime.org CNAME .
 *.loadtime.org CNAME .
 loaducaup.xyz CNAME .
 *.loaducaup.xyz CNAME .
-loafsmash.com CNAME .
-*.loafsmash.com CNAME .
 loagoshy.net CNAME .
 *.loagoshy.net CNAME .
 loaiza.xyz CNAME .
@@ -80777,8 +80767,6 @@ u2smartlinks.com CNAME .
 *.u2smartlinks.com CNAME .
 u300.dailybulletin.com CNAME .
 *.u300.dailybulletin.com CNAME .
-u33011.com CNAME .
-*.u33011.com CNAME .
 u40pdqw.com CNAME .
 *.u40pdqw.com CNAME .
 u4ccj.icu CNAME .
@@ -82961,8 +82949,6 @@ viifvqra.com CNAME .
 *.viifvqra.com CNAME .
 viiian.com CNAME .
 *.viiian.com CNAME .
-viiiaypg.com CNAME .
-*.viiiaypg.com CNAME .
 viiigbxo.com CNAME .
 *.viiigbxo.com CNAME .
 viiigle.com CNAME .
@@ -85987,8 +85973,6 @@ wwpon365.ru CNAME .
 *.wwpon365.ru CNAME .
 wwqssmg.com CNAME .
 *.wwqssmg.com CNAME .
-wwvqboerllqqz.top CNAME .
-*.wwvqboerllqqz.top CNAME .
 www-banner.chat.ru CNAME .
 *.www-banner.chat.ru CNAME .
 www-google-analytics.l.google.com CNAME .
@@ -88553,8 +88537,6 @@ zinkeroleo.shop CNAME .
 *.zinkeroleo.shop CNAME .
 zinovu.com CNAME .
 *.zinovu.com CNAME .
-zintext.com CNAME .
-*.zintext.com CNAME .
 zio8.icu CNAME .
 *.zio8.icu CNAME .
 zion-telemetry-nonprod.api.cnn.io CNAME .
