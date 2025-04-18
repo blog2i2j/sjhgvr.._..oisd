@@ -1,9 +1,9 @@
-; Version: 202504180508
+; Version: 202504180609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88974
-; Last modified: 2025-04-18T05:08:39+0000
+; Entries: 88962
+; Last modified: 2025-04-18T06:09:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744952403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744956003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -955,8 +955,6 @@ $TTL 30
 *.24052107.live CNAME .
 2443march2024.com CNAME .
 *.2443march2024.com CNAME .
-2447march2024.com CNAME .
-*.2447march2024.com CNAME .
 2449march2024.com CNAME .
 *.2449march2024.com CNAME .
 244kecmb3.de CNAME .
@@ -24715,8 +24713,6 @@ cuslsl.info CNAME .
 *.cuslsl.info CNAME .
 custodycraveretard.com CNAME .
 *.custodycraveretard.com CNAME .
-custodycrutchfaintly.com CNAME .
-*.custodycrutchfaintly.com CNAME .
 customad.cnn.com CNAME .
 *.customad.cnn.com CNAME .
 customads.co CNAME .
@@ -40583,8 +40579,6 @@ headquartersimpartialsexist.com CNAME .
 *.headquartersimpartialsexist.com CNAME .
 headup.com CNAME .
 *.headup.com CNAME .
-headyblueberry.com CNAME .
-*.headyblueberry.com CNAME .
 health-metrics-api.setapp.com CNAME .
 *.health-metrics-api.setapp.com CNAME .
 healthfailed.com CNAME .
@@ -41155,8 +41149,6 @@ hindervoting.com CNAME .
 *.hindervoting.com CNAME .
 hindsight.significanceapps.com CNAME .
 *.hindsight.significanceapps.com CNAME .
-hindsightchampagne.com CNAME .
-*.hindsightchampagne.com CNAME .
 hindsightloyalmeter.com CNAME .
 *.hindsightloyalmeter.com CNAME .
 hingfruitiesma.info CNAME .
@@ -64073,8 +64065,6 @@ qoaaa.com CNAME .
 *.qoaaa.com CNAME .
 qobuz.surveysparrow.com CNAME .
 *.qobuz.surveysparrow.com CNAME .
-qogearh.com CNAME .
-*.qogearh.com CNAME .
 qonbibff.icu CNAME .
 *.qonbibff.icu CNAME .
 qoqv.com CNAME .
@@ -76033,8 +76023,6 @@ talesapricot.com CNAME .
 *.talesapricot.com CNAME .
 talkstewmisjudge.com CNAME .
 *.talkstewmisjudge.com CNAME .
-talktomeplease.biz CNAME .
-*.talktomeplease.biz CNAME .
 tallergestion.com CNAME .
 *.tallergestion.com CNAME .
 tallinitial.com CNAME .
