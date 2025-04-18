@@ -1,9 +1,9 @@
-; Version: 202504180408
+; Version: 202504180508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88988
-; Last modified: 2025-04-18T04:08:25+0000
+; Entries: 88974
+; Last modified: 2025-04-18T05:08:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744948804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744952403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20773,8 +20773,6 @@ chidir.com CNAME .
 *.chidir.com CNAME .
 chieflyquantity.com CNAME .
 *.chieflyquantity.com CNAME .
-chienzul.com CNAME .
-*.chienzul.com CNAME .
 chiglees.com CNAME .
 *.chiglees.com CNAME .
 chihuahuadoorstoppond.com CNAME .
@@ -22703,8 +22701,6 @@ compensation423.fun CNAME .
 *.compensation423.fun CNAME .
 compensationpropulsion.com CNAME .
 *.compensationpropulsion.com CNAME .
-competemerriment.com CNAME .
-*.competemerriment.com CNAME .
 competencesickcake.com CNAME .
 *.competencesickcake.com CNAME .
 compiledonatevanity.com CNAME .
@@ -35053,8 +35049,6 @@ fh259by01r25.com CNAME .
 *.fh259by01r25.com CNAME .
 fhcdbufjnjcev.com CNAME .
 *.fhcdbufjnjcev.com CNAME .
-fheiu43bcdhsj.top CNAME .
-*.fheiu43bcdhsj.top CNAME .
 fhgh9sd.com CNAME .
 *.fhgh9sd.com CNAME .
 fhjrpcmkyrkvi.space CNAME .
@@ -56675,8 +56669,6 @@ ogfgiwnawl.com CNAME .
 *.ogfgiwnawl.com CNAME .
 ogfna.net CNAME .
 *.ogfna.net CNAME .
-ogfszgkbxc.com CNAME .
-*.ogfszgkbxc.com CNAME .
 oghgrazubafz.com CNAME .
 *.oghgrazubafz.com CNAME .
 oghqvffmnt.com CNAME .
@@ -64015,8 +64007,6 @@ qjmlmaffrqj.com CNAME .
 *.qjmlmaffrqj.com CNAME .
 qjoges.xyz CNAME .
 *.qjoges.xyz CNAME .
-qjuy.cn CNAME .
-*.qjuy.cn CNAME .
 qjvksieybn.vip CNAME .
 *.qjvksieybn.vip CNAME .
 qjwvwu.xyz CNAME .
@@ -73403,8 +73393,6 @@ static.contentsrch.com CNAME .
 *.static.contentsrch.com CNAME .
 static.conxstream.com CNAME .
 *.static.conxstream.com CNAME .
-static.cpcsources.com CNAME .
-*.static.cpcsources.com CNAME .
 static.cpmvibes.com CNAME .
 *.static.cpmvibes.com CNAME .
 static.cranberryads.com CNAME .
@@ -86325,8 +86313,6 @@ xgroserhkug.com CNAME .
 *.xgroserhkug.com CNAME .
 xgtfptm.com CNAME .
 *.xgtfptm.com CNAME .
-xhhaakxn.xyz CNAME .
-*.xhhaakxn.xyz CNAME .
 xhlkvx.xyz CNAME .
 *.xhlkvx.xyz CNAME .
 xhm.pub CNAME .
