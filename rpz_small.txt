@@ -1,9 +1,9 @@
-; Version: 202504180708
+; Version: 202504180809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88944
-; Last modified: 2025-04-18T07:08:58+0000
+; Entries: 88934
+; Last modified: 2025-04-18T08:09:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744959603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744963203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33301,8 +33301,6 @@ europe-west1-sonorous-dragon-276210.cloudfunctions.net CNAME .
 *.europe-west1-sonorous-dragon-276210.cloudfunctions.net CNAME .
 europeanivanprestigious.com CNAME .
 *.europeanivanprestigious.com CNAME .
-europefreeze.com CNAME .
-*.europefreeze.com CNAME .
 eurovisions.free.fr CNAME .
 *.eurovisions.free.fr CNAME .
 eurse.com CNAME .
@@ -43269,8 +43267,6 @@ incarnategrannystem.com CNAME .
 *.incarnategrannystem.com CNAME .
 incarnatepicturesque.com CNAME .
 *.incarnatepicturesque.com CNAME .
-incentivefray.com CNAME .
-*.incentivefray.com CNAME .
 incessanteffectmyth.com CNAME .
 *.incessanteffectmyth.com CNAME .
 incessantfinishdedicated.com CNAME .
@@ -75415,8 +75411,6 @@ sympathizecopierautobiography.com CNAME .
 *.sympathizecopierautobiography.com CNAME .
 sympathizecrewfrugality.com CNAME .
 *.sympathizecrewfrugality.com CNAME .
-sympathybindinglioness.com CNAME .
-*.sympathybindinglioness.com CNAME .
 symptomprominentfirewood.com CNAME .
 *.symptomprominentfirewood.com CNAME .
 symptomslightest.com CNAME .
@@ -80627,8 +80621,6 @@ txeefgcutifv.info CNAME .
 *.txeefgcutifv.info CNAME .
 txgeszx.com CNAME .
 *.txgeszx.com CNAME .
-txjhmbn.com CNAME .
-*.txjhmbn.com CNAME .
 txmeeqz.icu CNAME .
 *.txmeeqz.icu CNAME .
 txnczz.icu CNAME .
@@ -84513,8 +84505,6 @@ weewoogloogru.net CNAME .
 *.weewoogloogru.net CNAME .
 weezoptez.net CNAME .
 *.weezoptez.net CNAME .
-wefoonsaidoo.com CNAME .
-*.wefoonsaidoo.com CNAME .
 wegetpaid.net CNAME .
 *.wegetpaid.net CNAME .
 wegotmedia.com CNAME .
