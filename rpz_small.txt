@@ -1,9 +1,9 @@
-; Version: 202504172209
+; Version: 202504180023
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89064
-; Last modified: 2025-04-17T22:09:31+0000
+; Entries: 89044
+; Last modified: 2025-04-18T00:23:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744927204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744934405 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3003,8 +3003,6 @@ $TTL 30
 *.9996777888.com CNAME .
 999aa666bb.com CNAME .
 *.999aa666bb.com CNAME .
-999aae0fa7.com CNAME .
-*.999aae0fa7.com CNAME .
 999bb222ww.com CNAME .
 *.999bb222ww.com CNAME .
 999xx333kk.com CNAME .
@@ -9363,8 +9361,6 @@ alcoholcheckoccur.com CNAME .
 *.alcoholcheckoccur.com CNAME .
 alcroconawa.com CNAME .
 *.alcroconawa.com CNAME .
-alcyonchocard.com CNAME .
-*.alcyonchocard.com CNAME .
 aldik.com CNAME .
 *.aldik.com CNAME .
 aldo061.free.fr CNAME .
@@ -28613,8 +28609,6 @@ departmentcomplimentary.com CNAME .
 *.departmentcomplimentary.com CNAME .
 departmentscontinentalreveal.com CNAME .
 *.departmentscontinentalreveal.com CNAME .
-departtrouble.com CNAME .
-*.departtrouble.com CNAME .
 departurealtar.com CNAME .
 *.departurealtar.com CNAME .
 depechearshine.com CNAME .
@@ -31935,8 +31929,6 @@ ednewsbd.com CNAME .
 *.ednewsbd.com CNAME .
 edoumeph.com CNAME .
 *.edoumeph.com CNAME .
-edoxoonsackefte.net CNAME .
-*.edoxoonsackefte.net CNAME .
 edpl9v.pro CNAME .
 *.edpl9v.pro CNAME .
 edprivatedqualize.org CNAME .
@@ -33663,8 +33655,6 @@ eventtracking.hubapi.com CNAME .
 *.eventtracking.hubapi.com CNAME .
 eventuallysmallestejection.com CNAME .
 *.eventuallysmallestejection.com CNAME .
-eventucker.com CNAME .
-*.eventucker.com CNAME .
 ever8trk.com CNAME .
 *.ever8trk.com CNAME .
 everalmefarketin.com CNAME .
@@ -45831,8 +45821,6 @@ jygotubvpyguak.com CNAME .
 *.jygotubvpyguak.com CNAME .
 jyjrbz.xyz CNAME .
 *.jyjrbz.xyz CNAME .
-jyozavobzrlkz.top CNAME .
-*.jyozavobzrlkz.top CNAME .
 jypvzd.xyz CNAME .
 *.jypvzd.xyz CNAME .
 jyusesoionsglear.info CNAME .
@@ -67929,8 +67917,6 @@ ruinedpersonnel.com CNAME .
 *.ruinedpersonnel.com CNAME .
 ruinjan.com CNAME .
 *.ruinjan.com CNAME .
-ruinnorthern.com CNAME .
-*.ruinnorthern.com CNAME .
 ruklibamj.com CNAME .
 *.ruklibamj.com CNAME .
 rukskijruza.com CNAME .
@@ -68615,8 +68601,6 @@ safemy-ios.com CNAME .
 *.safemy-ios.com CNAME .
 safestcontentgate.com CNAME .
 *.safestcontentgate.com CNAME .
-safestgatetocontent.com CNAME .
-*.safestgatetocontent.com CNAME .
 safestsniffingconfessed.com CNAME .
 *.safestsniffingconfessed.com CNAME .
 safesync.com CNAME .
@@ -72883,8 +72867,6 @@ ssl.widgets.webengage.com CNAME .
 *.ssl.widgets.webengage.com CNAME .
 ssl2anyone5.com CNAME .
 *.ssl2anyone5.com CNAME .
-sslenuh.com CNAME .
-*.sslenuh.com CNAME .
 sslhaqpoehg.com CNAME .
 *.sslhaqpoehg.com CNAME .
 sslir.icu CNAME .
@@ -74333,8 +74315,6 @@ stichoazeeco.top CNAME .
 *.stichoazeeco.top CNAME .
 stickingbeef.com CNAME .
 *.stickingbeef.com CNAME .
-stickstelevisionoverdone.com CNAME .
-*.stickstelevisionoverdone.com CNAME .
 stickyadstv.com CNAME .
 *.stickyadstv.com CNAME .
 sticoowhowu.com CNAME .
