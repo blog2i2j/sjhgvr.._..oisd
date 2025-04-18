@@ -1,9 +1,9 @@
-; Version: 202504181009
+; Version: 202504181109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88894
-; Last modified: 2025-04-18T10:09:00+0000
+; Entries: 88880
+; Last modified: 2025-04-18T11:09:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744970403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1744974003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1017,8 +1017,6 @@ $TTL 30
 *.25073bb296.com CNAME .
 250f0ma86.de CNAME .
 *.250f0ma86.de CNAME .
-250f851761.com CNAME .
-*.250f851761.com CNAME .
 2514june2024.com CNAME .
 *.2514june2024.com CNAME .
 2520june2024.com CNAME .
@@ -32535,8 +32533,6 @@ emu.motala.no CNAME .
 *.emu.motala.no CNAME .
 emu.pin13.net CNAME .
 *.emu.pin13.net CNAME .
-emulationeveningscompel.com CNAME .
-*.emulationeveningscompel.com CNAME .
 emulsicchacker.com CNAME .
 *.emulsicchacker.com CNAME .
 emumuendaku.info CNAME .
@@ -39413,8 +39409,6 @@ gronsirsou.com CNAME .
 *.gronsirsou.com CNAME .
 grookilteepsou.net CNAME .
 *.grookilteepsou.net CNAME .
-grooksom.com CNAME .
-*.grooksom.com CNAME .
 grooltaujengoo.net CNAME .
 *.grooltaujengoo.net CNAME .
 groomoub.com CNAME .
@@ -41847,8 +41841,6 @@ hrahdmon.com CNAME .
 *.hrahdmon.com CNAME .
 hrenbjkdas.com CNAME .
 *.hrenbjkdas.com CNAME .
-hreso.site CNAME .
-*.hreso.site CNAME .
 hrihfiocc.com CNAME .
 *.hrihfiocc.com CNAME .
 hrjciqyu.icu CNAME .
@@ -56841,8 +56833,6 @@ olayomad.com CNAME .
 *.olayomad.com CNAME .
 old-go.pro CNAME .
 *.old-go.pro CNAME .
-olderdeserved.com CNAME .
-*.olderdeserved.com CNAME .
 oldership.com CNAME .
 *.oldership.com CNAME .
 oldeststrickenambulance.com CNAME .
@@ -68491,8 +68481,6 @@ safelinkconverter.com CNAME .
 *.safelinkconverter.com CNAME .
 safelistextreme.com CNAME .
 *.safelistextreme.com CNAME .
-safemy-ios.com CNAME .
-*.safemy-ios.com CNAME .
 safestcontentgate.com CNAME .
 *.safestcontentgate.com CNAME .
 safestsniffingconfessed.com CNAME .
@@ -69265,8 +69253,6 @@ se.aomg5bzv7.com CNAME .
 *.se.aomg5bzv7.com CNAME .
 se05.biz CNAME .
 *.se05.biz CNAME .
-seaboblit.com CNAME .
-*.seaboblit.com CNAME .
 seafoodclickwaited.com CNAME .
 *.seafoodclickwaited.com CNAME .
 seafoodmesarch.top CNAME .
