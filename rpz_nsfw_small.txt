@@ -1,9 +1,9 @@
-; Version: 202504192112
+; Version: 202504192213
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40984
-; Last modified: 2025-04-19T21:12:48+0000
+; Entries: 40990
+; Last modified: 2025-04-19T22:13:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745096403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745100003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -20097,6 +20097,8 @@ mangasporno.net CNAME .
 *.mangasporno.net CNAME .
 mangaswim.com CNAME .
 *.mangaswim.com CNAME .
+mangatoon.mobi CNAME .
+*.mangatoon.mobi CNAME .
 mangaupdates.com CNAME .
 *.mangaupdates.com CNAME .
 mangayaoi.net CNAME .
@@ -36727,6 +36729,8 @@ vlxxjavhd.com CNAME .
 *.vlxxjavhd.com CNAME .
 vlxxno.net CNAME .
 *.vlxxno.net CNAME .
+vlxxok.net CNAME .
+*.vlxxok.net CNAME .
 vlxxpro.com CNAME .
 *.vlxxpro.com CNAME .
 vlxxpro.io CNAME .
@@ -38099,6 +38103,8 @@ xlamma.com CNAME .
 *.xlamma.com CNAME .
 xleche.com CNAME .
 *.xleche.com CNAME .
+xlecx.com CNAME .
+*.xlecx.com CNAME .
 xlecx.one CNAME .
 *.xlecx.one CNAME .
 xlgaytube.tv CNAME .
