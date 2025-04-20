@@ -1,9 +1,9 @@
-; Version: 202504202009
+; Version: 202504202108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89040
-; Last modified: 2025-04-20T20:09:03+0000
+; Entries: 89034
+; Last modified: 2025-04-20T21:08:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745179203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745182803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -54365,8 +54365,6 @@ nboclympics.com CNAME .
 *.nboclympics.com CNAME .
 nbottkauyy.com CNAME .
 *.nbottkauyy.com CNAME .
-nbragzui.com CNAME .
-*.nbragzui.com CNAME .
 nbsdk-baichuan.taobao.com CNAME .
 *.nbsdk-baichuan.taobao.com CNAME .
 nbstatic.com CNAME .
@@ -69221,8 +69219,6 @@ scratchconsonant.com CNAME .
 *.scratchconsonant.com CNAME .
 scratchy-map.com CNAME .
 *.scratchy-map.com CNAME .
-scratchy-trick.com CNAME .
-*.scratchy-trick.com CNAME .
 scratchyhook.com CNAME .
 *.scratchyhook.com CNAME .
 scrawmthirds.com CNAME .
@@ -86133,8 +86129,6 @@ wysasys.com CNAME .
 *.wysasys.com CNAME .
 wyvlljvbbjvvm.top CNAME .
 *.wyvlljvbbjvvm.top CNAME .
-wyvlllooalkbv.top CNAME .
-*.wyvlllooalkbv.top CNAME .
 wzcuinglezyz.one CNAME .
 *.wzcuinglezyz.one CNAME .
 wzeagshwyric.com CNAME .
