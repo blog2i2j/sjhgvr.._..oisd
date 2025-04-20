@@ -1,9 +1,9 @@
-; Version: 202504202208
+; Version: 202504202308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89028
-; Last modified: 2025-04-20T22:08:53+0000
+; Entries: 89018
+; Last modified: 2025-04-20T23:08:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745186404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745190004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7603,8 +7603,6 @@ adstean.com CNAME .
 *.adstean.com CNAME .
 adstest.weather.com CNAME .
 *.adstest.weather.com CNAME .
-adstico.io CNAME .
-*.adstico.io CNAME .
 adstik.click CNAME .
 *.adstik.click CNAME .
 adstook.com CNAME .
@@ -21259,8 +21257,6 @@ claspeddeceiveposter.com CNAME .
 *.claspeddeceiveposter.com CNAME .
 claspedtwelve.com CNAME .
 *.claspedtwelve.com CNAME .
-claspsnuff.com CNAME .
-*.claspsnuff.com CNAME .
 classesfolksprofession.com CNAME .
 *.classesfolksprofession.com CNAME .
 classessavagely.com CNAME .
@@ -29137,8 +29133,6 @@ dilvyi2h98h1q.cloudfront.net CNAME .
 *.dilvyi2h98h1q.cloudfront.net CNAME .
 dimao.site CNAME .
 *.dimao.site CNAME .
-dimeearnestness.com CNAME .
-*.dimeearnestness.com CNAME .
 dimeftluck.live CNAME .
 *.dimeftluck.live CNAME .
 dimensionvegana.com CNAME .
@@ -45821,8 +45815,6 @@ jyusesoionsglear.info CNAME .
 *.jyusesoionsglear.info CNAME .
 jyuskb.cn CNAME .
 *.jyuskb.cn CNAME .
-jyvkwqjremabw.top CNAME .
-*.jyvkwqjremabw.top CNAME .
 jyxzrb.xyz CNAME .
 *.jyxzrb.xyz CNAME .
 jyzkut.com CNAME .
@@ -81959,8 +81951,6 @@ use-application-dns.net CNAME .
 *.use-application-dns.net CNAME .
 use-cr.svr-algorix.com CNAME .
 *.use-cr.svr-algorix.com CNAME .
-useaptrecoil.com CNAME .
-*.useaptrecoil.com CNAME .
 used-efficiency.pro CNAME .
 *.used-efficiency.pro CNAME .
 usefulcontentsites.com CNAME .
