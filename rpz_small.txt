@@ -1,9 +1,9 @@
-; Version: 202504200009
+; Version: 202504200108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89036
-; Last modified: 2025-04-20T00:09:24+0000
+; Entries: 89032
+; Last modified: 2025-04-20T01:08:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745107205 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745110803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2817,8 +2817,6 @@ $TTL 30
 *.8digits.com CNAME .
 8e403e6714.com CNAME .
 *.8e403e6714.com CNAME .
-8ea1272194.com CNAME .
-*.8ea1272194.com CNAME .
 8ecc2aee4f.com CNAME .
 *.8ecc2aee4f.com CNAME .
 8eef59a5.live CNAME .
@@ -62731,8 +62729,6 @@ prugskh.com CNAME .
 *.prugskh.com CNAME .
 prugskh.net CNAME .
 *.prugskh.net CNAME .
-pruningcomping.top CNAME .
-*.pruningcomping.top CNAME .
 prutosom.com CNAME .
 *.prutosom.com CNAME .
 pruwwox.com CNAME .
