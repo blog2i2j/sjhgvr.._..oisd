@@ -1,9 +1,9 @@
-; Version: 202504200211
+; Version: 202504200311
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41030
-; Last modified: 2025-04-20T02:11:58+0000
+; Entries: 41046
+; Last modified: 2025-04-20T03:11:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745114403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745118002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -4585,6 +4585,8 @@ bisexualchatting.com CNAME .
 *.bisexualchatting.com CNAME .
 bisexualdating.net CNAME .
 *.bisexualdating.net CNAME .
+bisexualdatingapp.org CNAME .
+*.bisexualdatingapp.org CNAME .
 bisexualdatingmichigan.com CNAME .
 *.bisexualdatingmichigan.com CNAME .
 bisexualdatingweb.com CNAME .
@@ -10215,6 +10217,8 @@ fansymodels.com CNAME .
 *.fansymodels.com CNAME .
 fantasi.one CNAME .
 *.fantasi.one CNAME .
+fantasticbombastic.net CNAME .
+*.fantasticbombastic.net CNAME .
 fantasyasian.com CNAME .
 *.fantasyasian.com CNAME .
 fantasyasianp.com CNAME .
@@ -12311,6 +12315,8 @@ gayassp.com CNAME .
 *.gayassp.com CNAME .
 gaybarebackporn.net CNAME .
 *.gaybarebackporn.net CNAME .
+gaybarnaul.me CNAME .
+*.gaybarnaul.me CNAME .
 gaybeastiality.net CNAME .
 *.gaybeastiality.net CNAME .
 gaybestiality.net CNAME .
@@ -12347,6 +12353,8 @@ gaychat.me.uk CNAME .
 *.gaychat.me.uk CNAME .
 gaychatcams.net CNAME .
 *.gaychatcams.net CNAME .
+gayche2.xyz CNAME .
+*.gayche2.xyz CNAME .
 gaychik.art CNAME .
 *.gaychik.art CNAME .
 gaycity.love CNAME .
@@ -19809,6 +19817,8 @@ luvland.co.za CNAME .
 *.luvland.co.za CNAME .
 luvprn.com CNAME .
 *.luvprn.com CNAME .
+luvr.ai CNAME .
+*.luvr.ai CNAME .
 luvs.one CNAME .
 *.luvs.one CNAME .
 luxelive.net CNAME .
@@ -23393,6 +23403,8 @@ nzbindex.com CNAME .
 *.nzbindex.com CNAME .
 nzbindex.nl CNAME .
 *.nzbindex.nl CNAME .
+nzpersonals.com CNAME .
+*.nzpersonals.com CNAME .
 o-be.com CNAME .
 *.o-be.com CNAME .
 oas.me CNAME .
@@ -25049,6 +25061,8 @@ pletkypobliz.com CNAME .
 *.pletkypobliz.com CNAME .
 plexstorm.com CNAME .
 *.plexstorm.com CNAME .
+plumperpass.com CNAME .
+*.plumperpass.com CNAME .
 plumperthumbs.com CNAME .
 *.plumperthumbs.com CNAME .
 pmatehunter.com CNAME .
@@ -28123,6 +28137,8 @@ proxyporn.org CNAME .
 *.proxyporn.org CNAME .
 pruc.org CNAME .
 *.pruc.org CNAME .
+prv.pl CNAME .
+*.prv.pl CNAME .
 ps0z.com CNAME .
 *.ps0z.com CNAME .
 psbiography.com CNAME .
