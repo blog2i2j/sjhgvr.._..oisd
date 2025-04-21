@@ -1,9 +1,9 @@
-; Version: 202504211610
+; Version: 202504211710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88982
-; Last modified: 2025-04-21T16:10:13+0000
+; Entries: 88974
+; Last modified: 2025-04-21T17:10:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745251203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745254803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34457,8 +34457,6 @@ famous-mall.pro CNAME .
 *.famous-mall.pro CNAME .
 famous-risk.pro CNAME .
 *.famous-risk.pro CNAME .
-fancylow.pro CNAME .
-*.fancylow.pro CNAME .
 fancyrat.calebporzio.com CNAME .
 *.fancyrat.calebporzio.com CNAME .
 fancyrat.flatuicolors.com CNAME .
@@ -49805,8 +49803,6 @@ lowgraveleron.com CNAME .
 *.lowgraveleron.com CNAME .
 lowlifeimprovedproxy.com CNAME .
 *.lowlifeimprovedproxy.com CNAME .
-lowlifesalad.com CNAME .
-*.lowlifesalad.com CNAME .
 lowremoraidon.com CNAME .
 *.lowremoraidon.com CNAME .
 lowsmoochumom.com CNAME .
@@ -51187,8 +51183,6 @@ maybenowhereunstable.com CNAME .
 *.maybenowhereunstable.com CNAME .
 maydeception.com CNAME .
 *.maydeception.com CNAME .
-maydoubloonsrelative.com CNAME .
-*.maydoubloonsrelative.com CNAME .
 mayhemabjure.com CNAME .
 *.mayhemabjure.com CNAME .
 maylnk.com CNAME .
@@ -62839,8 +62833,6 @@ pswfwedv.com CNAME .
 *.pswfwedv.com CNAME .
 pswticsbnt.com CNAME .
 *.pswticsbnt.com CNAME .
-psychologicalpaperworkimplant.com CNAME .
-*.psychologicalpaperworkimplant.com CNAME .
 psykterfaulter.com CNAME .
 *.psykterfaulter.com CNAME .
 psylist.net CNAME .
