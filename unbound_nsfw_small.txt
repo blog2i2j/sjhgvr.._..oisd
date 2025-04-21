@@ -1,9 +1,9 @@
-# Version: 202504212027
+# Version: 202504212113
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20708
-# Last modified: 2025-04-21T20:27:47+0000
+# Entries: 20709
+# Last modified: 2025-04-21T21:13:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14756,6 +14756,7 @@ local-zone: "rstatic.be." always_null
 local-zone: "rtgallery.net." always_null
 local-zone: "rtvlive.com." always_null
 local-zone: "ru-porn.online." always_null
+local-zone: "ru-porn.site." always_null
 local-zone: "ru-webcam.com." always_null
 local-zone: "ru-webcam.top." always_null
 local-zone: "ru24video.vip." always_null
