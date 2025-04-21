@@ -1,9 +1,9 @@
-; Version: 202504210408
+; Version: 202504210508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88976
-; Last modified: 2025-04-21T04:08:17+0000
+; Entries: 88970
+; Last modified: 2025-04-21T05:08:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745208003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745211603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -36401,8 +36401,6 @@ fraudulentintrusive.com CNAME .
 *.fraudulentintrusive.com CNAME .
 frayforms.com CNAME .
 *.frayforms.com CNAME .
-frdjs-2.co CNAME .
-*.frdjs-2.co CNAME .
 freakishmartyr.com CNAME .
 *.freakishmartyr.com CNAME .
 freakperjurylanentablelanentable.com CNAME .
@@ -49527,8 +49525,6 @@ logv2.mp3.zing.vn CNAME .
 *.logv2.mp3.zing.vn CNAME .
 logv3.metric.vn CNAME .
 *.logv3.metric.vn CNAME .
-logystowtencon.info CNAME .
-*.logystowtencon.info CNAME .
 logzh.dantocmiennui.vn CNAME .
 *.logzh.dantocmiennui.vn CNAME .
 logzh.vietnamplus.vn CNAME .
@@ -57499,8 +57495,6 @@ ophan.theguardian.com CNAME .
 *.ophan.theguardian.com CNAME .
 ophitebandeau.click CNAME .
 *.ophitebandeau.click CNAME .
-ophophiz.xyz CNAME .
-*.ophophiz.xyz CNAME .
 ophryonandiron.shop CNAME .
 *.ophryonandiron.shop CNAME .
 opienetwork.com CNAME .
