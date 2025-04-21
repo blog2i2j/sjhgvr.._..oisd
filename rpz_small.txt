@@ -1,9 +1,9 @@
-; Version: 202504211109
+; Version: 202504211209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89018
-; Last modified: 2025-04-21T11:09:49+0000
+; Entries: 89008
+; Last modified: 2025-04-21T12:09:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745233204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745236803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -10997,8 +10997,6 @@ analytics.shareaholic.com CNAME .
 *.analytics.shareaholic.com CNAME .
 analytics.shop.hisense.com CNAME .
 *.analytics.shop.hisense.com CNAME .
-analytics.shorte.st CNAME .
-*.analytics.shorte.st CNAME .
 analytics.shorthand.com CNAME .
 *.analytics.shorthand.com CNAME .
 analytics.silktide.com CNAME .
@@ -37485,8 +37483,6 @@ gdfp.gifshow.com CNAME .
 *.gdfp.gifshow.com CNAME .
 gdggnthffdfpb.com CNAME .
 *.gdggnthffdfpb.com CNAME .
-gdihvgebdej.com CNAME .
-*.gdihvgebdej.com CNAME .
 gdl.i9dhjx.ru CNAME .
 *.gdl.i9dhjx.ru CNAME .
 gdl.zmqdez.ru CNAME .
@@ -50619,8 +50615,6 @@ maithigloab.net CNAME .
 *.maithigloab.net CNAME .
 majesticsecondary.com CNAME .
 *.majesticsecondary.com CNAME .
-majestyafterwardprudent.com CNAME .
-*.majestyafterwardprudent.com CNAME .
 majestybrightennext.com CNAME .
 *.majestybrightennext.com CNAME .
 majile.vip CNAME .
@@ -81541,8 +81535,6 @@ unreshiramor.com CNAME .
 *.unreshiramor.com CNAME .
 unresolveddrama.com CNAME .
 *.unresolveddrama.com CNAME .
-unresolvedsketchpaws.com CNAME .
-*.unresolvedsketchpaws.com CNAME .
 unrestbad.com CNAME .
 *.unrestbad.com CNAME .
 unrestlosttestify.com CNAME .
@@ -84065,8 +84057,6 @@ warnothnayword.shop CNAME .
 *.warnothnayword.shop CNAME .
 warped-bus.com CNAME .
 *.warped-bus.com CNAME .
-warrandoutrake.top CNAME .
-*.warrandoutrake.top CNAME .
 warriorflowsweater.com CNAME .
 *.warriorflowsweater.com CNAME .
 warsabnormality.com CNAME .
