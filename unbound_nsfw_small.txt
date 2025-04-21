@@ -1,9 +1,9 @@
-# Version: 202504211514
+# Version: 202504211614
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20696
-# Last modified: 2025-04-21T15:14:57+0000
+# Entries: 20698
+# Last modified: 2025-04-21T16:14:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2351,6 +2351,7 @@ local-zone: "bizarro.top." always_null
 local-zone: "bizarroporno.com." always_null
 local-zone: "bizarropornos.com." always_null
 local-zone: "bizzoria.com." always_null
+local-zone: "bj-share.info." always_null
 local-zone: "bkporn.com." always_null
 local-zone: "bl-consulting.net." always_null
 local-zone: "black-fuck.net." always_null
@@ -19287,6 +19288,7 @@ local-zone: "xmaza.co." always_null
 local-zone: "xmaza.me." always_null
 local-zone: "xmeeting.com." always_null
 local-zone: "xmegadrive.com." always_null
+local-zone: "xmessage.app." always_null
 local-zone: "xmilf.com." always_null
 local-zone: "xmissy.nl." always_null
 local-zone: "xmodels.ch." always_null
