@@ -1,9 +1,9 @@
-; Version: 202504211214
+; Version: 202504211314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41364
-; Last modified: 2025-04-21T12:14:23+0000
+; Entries: 41370
+; Last modified: 2025-04-21T13:14:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745236803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745240403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1151,6 +1151,8 @@ adultadlist.com CNAME .
 *.adultadlist.com CNAME .
 adultbloglisting.com CNAME .
 *.adultbloglisting.com CNAME .
+adultcamlover.com CNAME .
+*.adultcamlover.com CNAME .
 adultcamslover.com CNAME .
 *.adultcamslover.com CNAME .
 adultcamsuk.com CNAME .
@@ -11091,6 +11093,8 @@ firepornz.com CNAME .
 *.firepornz.com CNAME .
 firstaffair.com CNAME .
 *.firstaffair.com CNAME .
+firstamateurporn.com CNAME .
+*.firstamateurporn.com CNAME .
 firstanalquest.com CNAME .
 *.firstanalquest.com CNAME .
 firstpornaid.com CNAME .
@@ -19343,6 +19347,8 @@ letmejerk.net CNAME .
 *.letmejerk.net CNAME .
 letsdoeit.com CNAME .
 *.letsdoeit.com CNAME .
+letshangout.com CNAME .
+*.letshangout.com CNAME .
 letsjerk.tv CNAME .
 *.letsjerk.tv CNAME .
 letsporn.com CNAME .
