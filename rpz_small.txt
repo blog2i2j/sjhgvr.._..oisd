@@ -1,9 +1,9 @@
-; Version: 202504210952
+; Version: 202504211009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89054
-; Last modified: 2025-04-21T09:52:13+0000
+; Entries: 89036
+; Last modified: 2025-04-21T10:09:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745229127 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745229604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2151,8 +2151,6 @@ $TTL 30
 *.61zdn1c9.skin CNAME .
 62241240.xyz CNAME .
 *.62241240.xyz CNAME .
-622bcf2c86.com CNAME .
-*.622bcf2c86.com CNAME .
 625ba66634.4d3b2375a6.com CNAME .
 *.625ba66634.4d3b2375a6.com CNAME .
 62842068.xyz CNAME .
@@ -19287,8 +19285,6 @@ careerjavgg124.fun CNAME .
 *.careerjavgg124.fun CNAME .
 careers.hotjar.com CNAME .
 *.careers.hotjar.com CNAME .
-careersletbacks.com CNAME .
-*.careersletbacks.com CNAME .
 carelesssequel.com CNAME .
 *.carelesssequel.com CNAME .
 carelessswimsuittabloid.com CNAME .
@@ -24753,8 +24749,6 @@ cuzqazdi.com CNAME .
 *.cuzqazdi.com CNAME .
 cuzrkugucdu.com CNAME .
 *.cuzrkugucdu.com CNAME .
-cuzsgqr.com CNAME .
-*.cuzsgqr.com CNAME .
 cv-tracker.stanby.com CNAME .
 *.cv-tracker.stanby.com CNAME .
 cv.bentsdiorism.com CNAME .
@@ -30535,8 +30529,6 @@ dranktonsil.com CNAME .
 *.dranktonsil.com CNAME .
 drapefabric.com CNAME .
 *.drapefabric.com CNAME .
-drapingleden.com CNAME .
-*.drapingleden.com CNAME .
 drawingwheels.com CNAME .
 *.drawingwheels.com CNAME .
 drawx.xyz CNAME .
@@ -40311,8 +40303,6 @@ haremarianne.com CNAME .
 *.haremarianne.com CNAME .
 haresmodus.com CNAME .
 *.haresmodus.com CNAME .
-harmfulsong.pro CNAME .
-*.harmfulsong.pro CNAME .
 harmvaluesrestriction.com CNAME .
 *.harmvaluesrestriction.com CNAME .
 harnessabreastpilotage.com CNAME .
@@ -42741,8 +42731,6 @@ ignoresphlorol.com CNAME .
 *.ignoresphlorol.com CNAME .
 ignorespurana.com CNAME .
 *.ignorespurana.com CNAME .
-igoognou.xyz CNAME .
-*.igoognou.xyz CNAME .
 igouthoatsord.net CNAME .
 *.igouthoatsord.net CNAME .
 igraard.xyz CNAME .
@@ -62837,8 +62825,6 @@ psonstrentie.info CNAME .
 *.psonstrentie.info CNAME .
 psoorgou.com CNAME .
 *.psoorgou.com CNAME .
-psoorsen.com CNAME .
-*.psoorsen.com CNAME .
 psooshon.net CNAME .
 *.psooshon.net CNAME .
 psoostelrupt.net CNAME .
@@ -77927,8 +77913,6 @@ tonefuse.com CNAME .
 *.tonefuse.com CNAME .
 tongj.xilu.com CNAME .
 *.tongj.xilu.com CNAME .
-tongsscenesrestless.com CNAME .
-*.tongsscenesrestless.com CNAME .
 tonsilsuggestedtortoise.com CNAME .
 *.tonsilsuggestedtortoise.com CNAME .
 tonsilyearling.com CNAME .
@@ -84023,8 +84007,6 @@ wanderingchimneypainting.com CNAME .
 *.wanderingchimneypainting.com CNAME .
 wangfenxi.com CNAME .
 *.wangfenxi.com CNAME .
-wanhornuntaint.top CNAME .
-*.wanhornuntaint.top CNAME .
 wanintrudeabbey.com CNAME .
 *.wanintrudeabbey.com CNAME .
 wanlyavower.com CNAME .
