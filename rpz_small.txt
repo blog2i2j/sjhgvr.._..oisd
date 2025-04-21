@@ -1,9 +1,9 @@
-; Version: 202504212209
+; Version: 202504212308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 32738
-; Last modified: 2025-04-21T22:09:19+0000
+; Entries: 32734
+; Last modified: 2025-04-21T23:08:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745272804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745276403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1133,8 +1133,6 @@ a433.dailypress.com CNAME .
 *.a433.dailypress.com CNAME .
 a460.cell.phone.ringtone.samsung.sms13.de CNAME .
 *.a460.cell.phone.ringtone.samsung.sms13.de CNAME .
-a5fa8c7726.com CNAME .
-*.a5fa8c7726.com CNAME .
 a613.redbluffdailynews.com CNAME .
 *.a613.redbluffdailynews.com CNAME .
 a85.info CNAME .
@@ -22033,8 +22031,6 @@ nsfsfn.xyz CNAME .
 *.nsfsfn.xyz CNAME .
 nsis.bisrv.com CNAME .
 *.nsis.bisrv.com CNAME .
-nsomedidm.xyz CNAME .
-*.nsomedidm.xyz CNAME .
 nst.trex.media CNAME .
 *.nst.trex.media CNAME .
 nstat.headlines.pw CNAME .
