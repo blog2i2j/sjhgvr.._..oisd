@@ -1,9 +1,9 @@
-; Version: 202504210609
+; Version: 202504210709
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89086
-; Last modified: 2025-04-21T06:09:10+0000
+; Entries: 89078
+; Last modified: 2025-04-21T07:09:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745215203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745218803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3175,8 +3175,6 @@ a.babezunknown.com CNAME .
 *.a.babezunknown.com CNAME .
 a.baidinet.com CNAME .
 *.a.baidinet.com CNAME .
-a.baomihua.com CNAME .
-*.a.baomihua.com CNAME .
 a.bdsmz.tube CNAME .
 *.a.bdsmz.tube CNAME .
 a.berunews.com CNAME .
@@ -23675,8 +23673,6 @@ coursestiffenjealous.com CNAME .
 *.coursestiffenjealous.com CNAME .
 coursewimplongitude.com CNAME .
 *.coursewimplongitude.com CNAME .
-courthouselaterfunctions.com CNAME .
-*.courthouselaterfunctions.com CNAME .
 courtshipanditla.com CNAME .
 *.courtshipanditla.com CNAME .
 coushewitalouti.net CNAME .
@@ -29183,8 +29179,6 @@ dimufywhy.com CNAME .
 *.dimufywhy.com CNAME .
 dimwittedball.pro CNAME .
 *.dimwittedball.pro CNAME .
-dinahmalawi.shop CNAME .
-*.dinahmalawi.shop CNAME .
 dinecogitateaffections.com CNAME .
 *.dinecogitateaffections.com CNAME .
 dinejav11.fun CNAME .
@@ -79683,8 +79677,6 @@ trafficportsrv.com CNAME .
 *.trafficportsrv.com CNAME .
 trafficsecrets.com CNAME .
 *.trafficsecrets.com CNAME .
-trafficsel.com CNAME .
-*.trafficsel.com CNAME .
 trafficshop.com CNAME .
 *.trafficshop.com CNAME .
 trafficspaces.net CNAME .
