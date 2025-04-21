@@ -1,9 +1,9 @@
-; Version: 202504211209
+; Version: 202504211310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89008
-; Last modified: 2025-04-21T12:09:46+0000
+; Entries: 89002
+; Last modified: 2025-04-21T13:10:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745236803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745240403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8731,8 +8731,6 @@ aggregatedcorky.com CNAME .
 *.aggregatedcorky.com CNAME .
 aggregateknowledge.com CNAME .
 *.aggregateknowledge.com CNAME .
-aggressivedifficulty.com CNAME .
-*.aggressivedifficulty.com CNAME .
 aggressivefrequentneckquirky.com CNAME .
 *.aggressivefrequentneckquirky.com CNAME .
 agi-static.indiatimes.com CNAME .
@@ -56887,8 +56885,6 @@ olaplog.smartmediarep.com CNAME .
 *.olaplog.smartmediarep.com CNAME .
 olayomad.com CNAME .
 *.olayomad.com CNAME .
-old-go.pro CNAME .
-*.old-go.pro CNAME .
 oldership.com CNAME .
 *.oldership.com CNAME .
 oldeststrickenambulance.com CNAME .
@@ -81941,8 +81937,6 @@ usejj.wangkl.com CNAME .
 *.usejj.wangkl.com CNAME .
 usekahuna.com CNAME .
 *.usekahuna.com CNAME .
-useless-speaker.pro CNAME .
-*.useless-speaker.pro CNAME .
 usenet.world CNAME .
 *.usenet.world CNAME .
 user-analysis.7moor.com CNAME .
