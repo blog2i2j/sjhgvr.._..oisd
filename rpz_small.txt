@@ -1,9 +1,9 @@
-; Version: 202504210709
+; Version: 202504210808
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89078
-; Last modified: 2025-04-21T07:09:23+0000
+; Entries: 89060
+; Last modified: 2025-04-21T08:08:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745218803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745222403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9029,8 +9029,6 @@ airpush.com CNAME .
 *.airpush.com CNAME .
 airsnowking.live CNAME .
 *.airsnowking.live CNAME .
-airsoang.net CNAME .
-*.airsoang.net CNAME .
 airtightcounty.com CNAME .
 *.airtightcounty.com CNAME .
 airyeject.com CNAME .
@@ -12155,8 +12153,6 @@ appendixbureaucracycommand.com CNAME .
 *.appendixbureaucracycommand.com CNAME .
 appendixwarmingauthors.com CNAME .
 *.appendixwarmingauthors.com CNAME .
-appetitebetrayhappened.com CNAME .
-*.appetitebetrayhappened.com CNAME .
 appetitecamisolereawake.com CNAME .
 *.appetitecamisolereawake.com CNAME .
 appetitethreatened.com CNAME .
@@ -15817,8 +15813,6 @@ beigelazinessdetected.com CNAME .
 *.beigelazinessdetected.com CNAME .
 beingajoytow.com CNAME .
 *.beingajoytow.com CNAME .
-bejirachir.com CNAME .
-*.bejirachir.com CNAME .
 bekrookodilechan.com CNAME .
 *.bekrookodilechan.com CNAME .
 belamicash.com CNAME .
@@ -24613,8 +24607,6 @@ cuckooretire.com CNAME .
 *.cuckooretire.com CNAME .
 cuckoorsem.net CNAME .
 *.cuckoorsem.net CNAME .
-cucnmtf.top CNAME .
-*.cucnmtf.top CNAME .
 cuddlethehyena.com CNAME .
 *.cuddlethehyena.com CNAME .
 cuddlybasis.com CNAME .
@@ -24685,8 +24677,6 @@ curioushingefast.com CNAME .
 *.curioushingefast.com CNAME .
 curiouslyconcern.com CNAME .
 *.curiouslyconcern.com CNAME .
-curlsl.info CNAME .
-*.curlsl.info CNAME .
 curoax.com CNAME .
 *.curoax.com CNAME .
 currantsummary.com CNAME .
@@ -39307,8 +39297,6 @@ greenandhappiness.com CNAME .
 *.greenandhappiness.com CNAME .
 greenfox.ink CNAME .
 *.greenfox.ink CNAME .
-greengaming.de CNAME .
-*.greengaming.de CNAME .
 greenplasticdua.com CNAME .
 *.greenplasticdua.com CNAME .
 greenrecru.info CNAME .
@@ -55405,8 +55393,6 @@ notablechemistry.pro CNAME .
 *.notablechemistry.pro CNAME .
 notablefaxfloss.com CNAME .
 *.notablefaxfloss.com CNAME .
-notalmeltage.shop CNAME .
-*.notalmeltage.shop CNAME .
 notaloneathome.com CNAME .
 *.notaloneathome.com CNAME .
 notcotal.com CNAME .
@@ -71967,8 +71953,6 @@ sorrowconstellation.com CNAME .
 *.sorrowconstellation.com CNAME .
 sorrowfulchemical.com CNAME .
 *.sorrowfulchemical.com CNAME .
-sorrowfulcredit.pro CNAME .
-*.sorrowfulcredit.pro CNAME .
 sorryfearknockout.com CNAME .
 *.sorryfearknockout.com CNAME .
 sorryglossywimp.com CNAME .
@@ -72523,8 +72507,6 @@ splash.appsgeyser.com CNAME .
 *.splash.appsgeyser.com CNAME .
 splendid-concert.com CNAME .
 *.splendid-concert.com CNAME .
-splendidatmospheric.com CNAME .
-*.splendidatmospheric.com CNAME .
 splicedmammock.com CNAME .
 *.splicedmammock.com CNAME .
 splicky.com CNAME .
