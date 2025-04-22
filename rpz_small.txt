@@ -1,9 +1,9 @@
-; Version: 202504221209
+; Version: 202504221309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89086
-; Last modified: 2025-04-22T12:09:25+0000
+; Entries: 89068
+; Last modified: 2025-04-22T13:09:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745323203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745326804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -28651,8 +28651,6 @@ descrepush.com CNAME .
 *.descrepush.com CNAME .
 descriptionheels.com CNAME .
 *.descriptionheels.com CNAME .
-descriptive-monitor.com CNAME .
-*.descriptive-monitor.com CNAME .
 descz.ovh CNAME .
 *.descz.ovh CNAME .
 desekansr.com CNAME .
@@ -33289,8 +33287,6 @@ eusvnhgypltw.life CNAME .
 *.eusvnhgypltw.life CNAME .
 eutradepeopl.top CNAME .
 *.eutradepeopl.top CNAME .
-euvtoaw.com CNAME .
-*.euvtoaw.com CNAME .
 ev-dating.com CNAME .
 *.ev-dating.com CNAME .
 ev.api.bdg.com CNAME .
@@ -34233,8 +34229,6 @@ fa3b0cdce1.37e1087e51.com CNAME .
 *.fa3b0cdce1.37e1087e51.com CNAME .
 fa77756437.com CNAME .
 *.fa77756437.com CNAME .
-faamhel.com CNAME .
-*.faamhel.com CNAME .
 faaof.com CNAME .
 *.faaof.com CNAME .
 fabricwaffleswomb.com CNAME .
@@ -52747,8 +52741,6 @@ mobile.slgnt.eu CNAME .
 *.mobile.slgnt.eu CNAME .
 mobilead.vn CNAME .
 *.mobilead.vn CNAME .
-mobileads.dieuviet.com CNAME .
-*.mobileads.dieuviet.com CNAME .
 mobileapptracking.com CNAME .
 *.mobileapptracking.com CNAME .
 mobilecore.com CNAME .
@@ -68685,8 +68677,6 @@ salonscrowd.top CNAME .
 *.salonscrowd.top CNAME .
 salseprudely.com CNAME .
 *.salseprudely.com CNAME .
-saltcardiacprotective.com CNAME .
-*.saltcardiacprotective.com CNAME .
 saltconfectionery.com CNAME .
 *.saltconfectionery.com CNAME .
 saltpairwoo.live CNAME .
@@ -70513,8 +70503,6 @@ shocking-honey.com CNAME .
 *.shocking-honey.com CNAME .
 shockingstrategynovelty.com CNAME .
 *.shockingstrategynovelty.com CNAME .
-shoddytown.pro CNAME .
-*.shoddytown.pro CNAME .
 shoeinggrimy.top CNAME .
 *.shoeinggrimy.top CNAME .
 shoftoupsouxoam.net CNAME .
@@ -72613,8 +72601,6 @@ spotxchange.com CNAME .
 *.spotxchange.com CNAME .
 spoutable.com CNAME .
 *.spoutable.com CNAME .
-spoutitchyyummy.com CNAME .
-*.spoutitchyyummy.com CNAME .
 sppynxuilxodo.icu CNAME .
 *.sppynxuilxodo.icu CNAME .
 spqraiknvb.com CNAME .
@@ -76123,8 +76109,6 @@ tanivanprevented.com CNAME .
 *.tanivanprevented.com CNAME .
 tanothingfruiti.com CNAME .
 *.tanothingfruiti.com CNAME .
-tanzineshruti.shop CNAME .
-*.tanzineshruti.shop CNAME .
 taosiz.xyz CNAME .
 *.taosiz.xyz CNAME .
 taoyinbiacid.com CNAME .
@@ -89087,8 +89071,6 @@ zyns.com CNAME .
 *.zyns.com CNAME .
 zypenetwork.com CNAME .
 *.zypenetwork.com CNAME .
-zyrelolbbqelo.top CNAME .
-*.zyrelolbbqelo.top CNAME .
 zyrelolbbqyww.top CNAME .
 *.zyrelolbbqyww.top CNAME .
 zyrnbh.xyz CNAME .
