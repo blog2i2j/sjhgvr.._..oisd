@@ -1,9 +1,9 @@
-; Version: 202504221513
+; Version: 202504221613
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41510
-; Last modified: 2025-04-22T15:13:56+0000
+; Entries: 41518
+; Last modified: 2025-04-22T16:13:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745334004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745337603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9897,6 +9897,8 @@ escortskart.com CNAME .
 *.escortskart.com CNAME .
 escortsnairobi.com CNAME .
 *.escortsnairobi.com CNAME .
+escortspots.com CNAME .
+*.escortspots.com CNAME .
 escortsromania.net CNAME .
 *.escortsromania.net CNAME .
 escortsyputas.com CNAME .
@@ -11083,6 +11085,8 @@ findhername.net CNAME .
 *.findhername.net CNAME .
 findlocalhookup.com CNAME .
 *.findlocalhookup.com CNAME .
+findmate.app CNAME .
+*.findmate.app CNAME .
 findmeadultdates.co.uk CNAME .
 *.findmeadultdates.co.uk CNAME .
 findmyflings.com CNAME .
@@ -34557,6 +34561,8 @@ theundergroundsexclub.com CNAME .
 *.theundergroundsexclub.com CNAME .
 theworldwatch.com CNAME .
 *.theworldwatch.com CNAME .
+thexxxadult.ru CNAME .
+*.thexxxadult.ru CNAME .
 theyarehuge.com CNAME .
 *.theyarehuge.com CNAME .
 theyarehuge.net CNAME .
@@ -41021,6 +41027,8 @@ youporn.com CNAME .
 *.youporn.com CNAME .
 youporn.day CNAME .
 *.youporn.day CNAME .
+youporn.red CNAME .
+*.youporn.red CNAME .
 youporndeutsch.biz CNAME .
 *.youporndeutsch.biz CNAME .
 youporndeutsch.xyz CNAME .
