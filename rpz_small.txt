@@ -1,9 +1,9 @@
-; Version: 202504222128
+; Version: 202504222209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89054
-; Last modified: 2025-04-22T21:28:51+0000
+; Entries: 89042
+; Last modified: 2025-04-22T22:09:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745355603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745359204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27549,8 +27549,6 @@ damselfly.vegenook.com CNAME .
 *.damselfly.vegenook.com CNAME .
 dana123.com CNAME .
 *.dana123.com CNAME .
-dancefordamazed.com CNAME .
-*.dancefordamazed.com CNAME .
 dancemistake.com CNAME .
 *.dancemistake.com CNAME .
 dandelionnoddingoffended.com CNAME .
@@ -40105,8 +40103,6 @@ halogennetwork.com CNAME .
 *.halogennetwork.com CNAME .
 halthomosexual.com CNAME .
 *.halthomosexual.com CNAME .
-haltough.net CNAME .
-*.haltough.net CNAME .
 haltowe.info CNAME .
 *.haltowe.info CNAME .
 hamburgerintakedrugged.com CNAME .
@@ -41357,8 +41353,6 @@ hoardsmirkly.top CNAME .
 *.hoardsmirkly.top CNAME .
 hoarsecoupons.top CNAME .
 *.hoarsecoupons.top CNAME .
-hoaxbasesalad.com CNAME .
-*.hoaxbasesalad.com CNAME .
 hoaxcookingdemocratic.com CNAME .
 *.hoaxcookingdemocratic.com CNAME .
 hoaxviableadherence.com CNAME .
@@ -48153,8 +48147,6 @@ limbrooms.com CNAME .
 *.limbrooms.com CNAME .
 limineshucks.com CNAME .
 *.limineshucks.com CNAME .
-limitedfight.pro CNAME .
-*.limitedfight.pro CNAME .
 limitedkettlemathematical.com CNAME .
 *.limitedkettlemathematical.com CNAME .
 limitesrifer.com CNAME .
@@ -53681,8 +53673,6 @@ mutteredadisa.com CNAME .
 *.mutteredadisa.com CNAME .
 muwmedia.com CNAME .
 *.muwmedia.com CNAME .
-muyusaitcze.com CNAME .
-*.muyusaitcze.com CNAME .
 muzarabeponym.website CNAME .
 *.muzarabeponym.website CNAME .
 muzoohat.net CNAME .
@@ -60831,8 +60821,6 @@ playboykangaroo.com CNAME .
 *.playboykangaroo.com CNAME .
 playboykinky.com CNAME .
 *.playboykinky.com CNAME .
-playboywere.com CNAME .
-*.playboywere.com CNAME .
 playdraught.com CNAME .
 *.playdraught.com CNAME .
 player-feedback.p7s1video.net CNAME .
