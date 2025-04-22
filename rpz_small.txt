@@ -1,9 +1,9 @@
-; Version: 202504220809
+; Version: 202504220909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89138
-; Last modified: 2025-04-22T08:09:31+0000
+; Entries: 89128
+; Last modified: 2025-04-22T09:09:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745308803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745312403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34745,8 +34745,6 @@ fearinvulnerablediagnosis.com CNAME .
 *.fearinvulnerablediagnosis.com CNAME .
 fearjav11.fun CNAME .
 *.fearjav11.fun CNAME .
-fearplausible.com CNAME .
-*.fearplausible.com CNAME .
 feature-flag-edge.live.clickbus.net CNAME .
 *.feature-flag-edge.live.clickbus.net CNAME .
 featured.perfectionholic.com CNAME .
@@ -47961,8 +47959,6 @@ levelrunningunpadded.com CNAME .
 *.levelrunningunpadded.com CNAME .
 leverpolesaw.click CNAME .
 *.leverpolesaw.click CNAME .
-leverseriouslyremarks.com CNAME .
-*.leverseriouslyremarks.com CNAME .
 leveryone.info CNAME .
 *.leveryone.info CNAME .
 levityheartinstrument.com CNAME .
@@ -64501,8 +64497,6 @@ qymkbmjssadw.top CNAME .
 *.qymkbmjssadw.top CNAME .
 qynmfgnu.xyz CNAME .
 *.qynmfgnu.xyz CNAME .
-qyromjlyvzymz.top CNAME .
-*.qyromjlyvzymz.top CNAME .
 qyusgj.xyz CNAME .
 *.qyusgj.xyz CNAME .
 qywbslk.top CNAME .
@@ -64795,8 +64789,6 @@ randomdnslab.com CNAME .
 *.randomdnslab.com CNAME .
 randomignitiondentist.com CNAME .
 *.randomignitiondentist.com CNAME .
-rangbellowreflex.com CNAME .
-*.rangbellowreflex.com CNAME .
 rangepositively.com CNAME .
 *.rangepositively.com CNAME .
 rangfool.com CNAME .
@@ -86175,8 +86167,6 @@ wxqbopca-i.global CNAME .
 *.wxqbopca-i.global CNAME .
 wxseedslpi.com CNAME .
 *.wxseedslpi.com CNAME .
-wyaoormajvwqj.top CNAME .
-*.wyaoormajvwqj.top CNAME .
 wyeczfx.com CNAME .
 *.wyeczfx.com CNAME .
 wyglyvaso.com CNAME .
