@@ -1,9 +1,9 @@
-; Version: 202504221309
+; Version: 202504221409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89068
-; Last modified: 2025-04-22T13:09:44+0000
+; Entries: 89056
+; Last modified: 2025-04-22T14:09:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745326804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745330403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6997,8 +6997,6 @@ ads.tiki.vn CNAME .
 *.ads.tiki.vn CNAME .
 ads.tiktok.com CNAME .
 *.ads.tiktok.com CNAME .
-ads.timesjobsandcareers.com CNAME .
-*.ads.timesjobsandcareers.com CNAME .
 ads.toroadvertising.com CNAME .
 *.ads.toroadvertising.com CNAME .
 ads.townhall.com CNAME .
@@ -23991,8 +23989,6 @@ crawledgoblet.com CNAME .
 *.crawledgoblet.com CNAME .
 crawlinglandnameless.com CNAME .
 *.crawlinglandnameless.com CNAME .
-craxzapas.com CNAME .
-*.craxzapas.com CNAME .
 craydark.pw CNAME .
 *.craydark.pw CNAME .
 crayfish.fansubbing.com CNAME .
@@ -43777,8 +43773,6 @@ integrate.thrive.today CNAME .
 *.integrate.thrive.today CNAME .
 integrations.syncmedia.io CNAME .
 *.integrations.syncmedia.io CNAME .
-inteindwormer.com CNAME .
-*.inteindwormer.com CNAME .
 intellectpunch.com CNAME .
 *.intellectpunch.com CNAME .
 intellectualhide.com CNAME .
@@ -49925,8 +49919,6 @@ ltetrailwaysint.org CNAME .
 *.ltetrailwaysint.org CNAME .
 ltfpbp.xyz CNAME .
 *.ltfpbp.xyz CNAME .
-ltmarilsf.com CNAME .
-*.ltmarilsf.com CNAME .
 ltmuzcp.com CNAME .
 *.ltmuzcp.com CNAME .
 ltpvtnrugvpihwj.com CNAME .
@@ -80951,8 +80943,6 @@ uchmuk.com CNAME .
 *.uchmuk.com CNAME .
 ucmhdmlqnr.com CNAME .
 *.ucmhdmlqnr.com CNAME .
-ucmx.cn CNAME .
-*.ucmx.cn CNAME .
 ucounter.ucoz.net CNAME .
 *.ucounter.ucoz.net CNAME .
 ucs.betwaygroup.com CNAME .
@@ -84787,8 +84777,6 @@ whateyesight.com CNAME .
 *.whateyesight.com CNAME .
 whatisuptodaynow.com CNAME .
 *.whatisuptodaynow.com CNAME .
-whatsoeverlittle.com CNAME .
-*.whatsoeverlittle.com CNAME .
 whatz-hot.com CNAME .
 *.whatz-hot.com CNAME .
 whauckoo.net CNAME .
