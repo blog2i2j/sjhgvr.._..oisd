@@ -1,9 +1,9 @@
-; Version: 202504220909
+; Version: 202504221009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89128
-; Last modified: 2025-04-22T09:09:18+0000
+; Entries: 89116
+; Last modified: 2025-04-22T10:09:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745312403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745316003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16775,8 +16775,6 @@ bleua.ecefibwja.xyz CNAME .
 *.bleua.ecefibwja.xyz CNAME .
 blg-1216lb.com CNAME .
 *.blg-1216lb.com CNAME .
-blindnessmisty.com CNAME .
-*.blindnessmisty.com CNAME .
 blindnessselfemployedpremature.com CNAME .
 *.blindnessselfemployedpremature.com CNAME .
 blindsinkaward.com CNAME .
@@ -18339,8 +18337,6 @@ busy-man.com CNAME .
 *.busy-man.com CNAME .
 busyingcambogecarib.shop CNAME .
 *.busyingcambogecarib.shop CNAME .
-butcherhashexistence.com CNAME .
-*.butcherhashexistence.com CNAME .
 buthawk.com CNAME .
 *.buthawk.com CNAME .
 buthoacm.net CNAME .
@@ -22783,8 +22779,6 @@ concentrationminefield.com CNAME .
 *.concentrationminefield.com CNAME .
 concerneddisinterestedquestioning.com CNAME .
 *.concerneddisinterestedquestioning.com CNAME .
-concernedwealth.pro CNAME .
-*.concernedwealth.pro CNAME .
 concerningblasphemerollback.com CNAME .
 *.concerningblasphemerollback.com CNAME .
 concernrest.com CNAME .
@@ -24443,8 +24437,6 @@ cschyogh.com CNAME .
 *.cschyogh.com CNAME .
 csdf4dn.pro CNAME .
 *.csdf4dn.pro CNAME .
-csedydjvgcmuqz.com CNAME .
-*.csedydjvgcmuqz.com CNAME .
 cseuegsbjb.com CNAME .
 *.cseuegsbjb.com CNAME .
 csk.ru CNAME .
@@ -54093,8 +54085,6 @@ nabauxou.net CNAME .
 *.nabauxou.net CNAME .
 nabbr.com CNAME .
 *.nabbr.com CNAME .
-nabgrocercrescent.com CNAME .
-*.nabgrocercrescent.com CNAME .
 nablabee.com CNAME .
 *.nablabee.com CNAME .
 nachodusking.com CNAME .
@@ -65277,8 +65267,6 @@ recommendednewspapermyself.com CNAME .
 *.recommendednewspapermyself.com CNAME .
 recompensecombinedlooks.com CNAME .
 *.recompensecombinedlooks.com CNAME .
-reconcilewaste.com CNAME .
-*.reconcilewaste.com CNAME .
 recondite1x.xyz CNAME .
 *.recondite1x.xyz CNAME .
 reconnectconsistbegins.com CNAME .
