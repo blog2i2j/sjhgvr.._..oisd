@@ -1,9 +1,9 @@
-; Version: 202504220709
+; Version: 202504220809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89152
-; Last modified: 2025-04-22T07:09:32+0000
+; Entries: 89138
+; Last modified: 2025-04-22T08:09:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745305204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745308803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17353,8 +17353,6 @@ bortschtinea.top CNAME .
 *.bortschtinea.top CNAME .
 borzjournal.ru CNAME .
 *.borzjournal.ru CNAME .
-boseyphossy.top CNAME .
-*.boseyphossy.top CNAME .
 boshaulr.net CNAME .
 *.boshaulr.net CNAME .
 boskodating.com CNAME .
@@ -40871,8 +40869,6 @@ hevctt.xyz CNAME .
 *.hevctt.xyz CNAME .
 heweop.com CNAME .
 *.heweop.com CNAME .
-hewokhn.com CNAME .
-*.hewokhn.com CNAME .
 hewomenentail.com CNAME .
 *.hewomenentail.com CNAME .
 hewonderfulst.info CNAME .
@@ -41083,8 +41079,6 @@ hiidevelelastic.com CNAME .
 *.hiidevelelastic.com CNAME .
 hiiona.com CNAME .
 *.hiiona.com CNAME .
-hijackscovido.top CNAME .
-*.hijackscovido.top CNAME .
 hijaipootuk.net CNAME .
 *.hijaipootuk.net CNAME .
 hikari.jiocinema.com CNAME .
@@ -46667,8 +46661,6 @@ koaptoah.net CNAME .
 *.koaptoah.net CNAME .
 koaptouw.com CNAME .
 *.koaptouw.com CNAME .
-koasinky.top CNAME .
-*.koasinky.top CNAME .
 koawhoatheje.net CNAME .
 *.koawhoatheje.net CNAME .
 koazowapsib.net CNAME .
@@ -51241,8 +51233,6 @@ maylnk.com CNAME .
 *.maylnk.com CNAME .
 mayorfifteen.com CNAME .
 *.mayorfifteen.com CNAME .
-maypacklighthouse.com CNAME .
-*.maypacklighthouse.com CNAME .
 maysauceminister.com CNAME .
 *.maysauceminister.com CNAME .
 mazcicni.com CNAME .
@@ -57691,8 +57681,6 @@ oqrvraab.com CNAME .
 *.oqrvraab.com CNAME .
 oqrzuvarwgm.com CNAME .
 *.oqrzuvarwgm.com CNAME .
-oqsttfy.com CNAME .
-*.oqsttfy.com CNAME .
 oquftwsabsep.xyz CNAME .
 *.oquftwsabsep.xyz CNAME .
 oqxogfazdz.com CNAME .
@@ -70259,8 +70247,6 @@ shacsda.name CNAME .
 *.shacsda.name CNAME .
 shadeapologies.com CNAME .
 *.shadeapologies.com CNAME .
-shaderadioactivepoisonous.com CNAME .
-*.shaderadioactivepoisonous.com CNAME .
 shadowjav182.fun CNAME .
 *.shadowjav182.fun CNAME .
 shadytourdisgusted.com CNAME .
