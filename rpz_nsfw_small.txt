@@ -1,9 +1,9 @@
-; Version: 202504220212
+; Version: 202504220312
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41440
-; Last modified: 2025-04-22T02:12:19+0000
+; Entries: 41446
+; Last modified: 2025-04-22T03:12:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745287203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745290803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -10883,6 +10883,8 @@ filecat.net CNAME .
 *.filecat.net CNAME .
 filehost.ro CNAME .
 *.filehost.ro CNAME .
+filejoker.net CNAME .
+*.filejoker.net CNAME .
 filesmonster.tv CNAME .
 *.filesmonster.tv CNAME .
 filesmonsterclub.net CNAME .
@@ -17705,6 +17707,8 @@ javquick.com CNAME .
 *.javquick.com CNAME .
 javrank.com CNAME .
 *.javrank.com CNAME .
+javrate.com CNAME .
+*.javrate.com CNAME .
 javrave.club CNAME .
 *.javrave.club CNAME .
 javrider.com CNAME .
@@ -18671,6 +18675,8 @@ kiwi69.com CNAME .
 *.kiwi69.com CNAME .
 kiwiswingers.co.nz CNAME .
 *.kiwiswingers.co.nz CNAME .
+kiz5dar-rtfw.net CNAME .
+*.kiz5dar-rtfw.net CNAME .
 kiz6dar-pic.net CNAME .
 *.kiz6dar-pic.net CNAME .
 kizdar.net CNAME .
