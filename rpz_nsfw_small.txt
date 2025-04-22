@@ -1,9 +1,9 @@
-; Version: 202504221213
+; Version: 202504221314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41498
-; Last modified: 2025-04-22T12:13:50+0000
+; Entries: 41502
+; Last modified: 2025-04-22T13:14:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745323203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745326804 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -16669,6 +16669,8 @@ indienudes.com CNAME .
 *.indienudes.com CNAME .
 individualki-msk.net CNAME .
 *.individualki-msk.net CNAME .
+individualku.com CNAME .
+*.individualku.com CNAME .
 indo-xxx.com CNAME .
 *.indo-xxx.com CNAME .
 indo18.com CNAME .
@@ -35877,6 +35879,8 @@ tukifporno.com CNAME .
 *.tukifporno.com CNAME .
 tuktukpatrol.com CNAME .
 *.tuktukpatrol.com CNAME .
+tulipschat.online CNAME .
+*.tulipschat.online CNAME .
 tumanhwas.club CNAME .
 *.tumanhwas.club CNAME .
 tumbest.com CNAME .
