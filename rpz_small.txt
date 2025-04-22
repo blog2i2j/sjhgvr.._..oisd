@@ -1,9 +1,9 @@
-; Version: 202504221709
+; Version: 202504221809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89028
-; Last modified: 2025-04-22T17:09:35+0000
+; Entries: 89010
+; Last modified: 2025-04-22T18:09:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745341203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745344803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24669,8 +24669,6 @@ cushionblarepublic.com CNAME .
 *.cushionblarepublic.com CNAME .
 cushoussie.net CNAME .
 *.cushoussie.net CNAME .
-cuslsl.info CNAME .
-*.cuslsl.info CNAME .
 custodycraveretard.com CNAME .
 *.custodycraveretard.com CNAME .
 customad.cnn.com CNAME .
@@ -31021,8 +31019,6 @@ dv7t7qyvgyrt5.cloudfront.net CNAME .
 *.dv7t7qyvgyrt5.cloudfront.net CNAME .
 dv8v1cvc98vkm.cloudfront.net CNAME .
 *.dv8v1cvc98vkm.cloudfront.net CNAME .
-dvaminusodin.net CNAME .
-*.dvaminusodin.net CNAME .
 dvattbwxiofrk.site CNAME .
 *.dvattbwxiofrk.site CNAME .
 dvbee3zterhof.cloudfront.net CNAME .
@@ -33661,8 +33657,6 @@ ewallowi.buzz CNAME .
 *.ewallowi.buzz CNAME .
 ewblapjfknviwm.com CNAME .
 *.ewblapjfknviwm.com CNAME .
-ewcnmtw.top CNAME .
-*.ewcnmtw.top CNAME .
 ewdxisdrc.com CNAME .
 *.ewdxisdrc.com CNAME .
 eweconciliate.com CNAME .
@@ -34223,8 +34217,6 @@ faaof.com CNAME .
 *.faaof.com CNAME .
 fabricwaffleswomb.com CNAME .
 *.fabricwaffleswomb.com CNAME .
-fabriczigzagpercentage.com CNAME .
-*.fabriczigzagpercentage.com CNAME .
 fabulouscasualdate.life CNAME .
 *.fabulouscasualdate.life CNAME .
 facai383.oss-cn-guangzhou.aliyuncs.com CNAME .
@@ -39657,8 +39649,6 @@ gtyjpiobza.com CNAME .
 *.gtyjpiobza.com CNAME .
 gu7socdn.txxx.com CNAME .
 *.gu7socdn.txxx.com CNAME .
-guacimorhymer.top CNAME .
-*.guacimorhymer.top CNAME .
 guan.domainnamesanity.com CNAME .
 *.guan.domainnamesanity.com CNAME .
 guan.elfenkueche.at CNAME .
@@ -39749,8 +39739,6 @@ gulsyangtao.guru CNAME .
 *.gulsyangtao.guru CNAME .
 gumanews.com CNAME .
 *.gumanews.com CNAME .
-gumcongest.com CNAME .
-*.gumcongest.com CNAME .
 gumgum.com CNAME .
 *.gumgum.com CNAME .
 gumlahdeprint.com CNAME .
@@ -68499,8 +68487,6 @@ sacaftdu.com CNAME .
 *.sacaftdu.com CNAME .
 sacculiroofmen.shop CNAME .
 *.sacculiroofmen.shop CNAME .
-sacdnssedge.com CNAME .
-*.sacdnssedge.com CNAME .
 sacedoamte.net CNAME .
 *.sacedoamte.net CNAME .
 sackbarngroups.com CNAME .
@@ -81873,8 +81859,6 @@ urlgone.com CNAME .
 *.urlgone.com CNAME .
 urllistparding.info CNAME .
 *.urllistparding.info CNAME .
-urmavite.com CNAME .
-*.urmavite.com CNAME .
 urmilan.info CNAME .
 *.urmilan.info CNAME .
 urocyoncabrit.top CNAME .
@@ -87413,8 +87397,6 @@ xvbwvle.com CNAME .
 *.xvbwvle.com CNAME .
 xveenk.com CNAME .
 *.xveenk.com CNAME .
-xvfyubhqjp.xyz CNAME .
-*.xvfyubhqjp.xyz CNAME .
 xviperonec.com CNAME .
 *.xviperonec.com CNAME .
 xvirelcdn.click CNAME .
