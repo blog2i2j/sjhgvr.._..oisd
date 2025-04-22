@@ -1,9 +1,9 @@
-; Version: 202504222209
+; Version: 202504222308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89042
-; Last modified: 2025-04-22T22:09:18+0000
+; Entries: 89016
+; Last modified: 2025-04-22T23:08:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745359204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745362802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1521,8 +1521,6 @@ $TTL 30
 *.3am.info CNAME .
 3b41bd214e.89f56beb55.com CNAME .
 *.3b41bd214e.89f56beb55.com CNAME .
-3bc9b1b89c.com CNAME .
-*.3bc9b1b89c.com CNAME .
 3c18019e0f.e462bd5280.com CNAME .
 *.3c18019e0f.e462bd5280.com CNAME .
 3cb9b57efc.com CNAME .
@@ -11369,8 +11367,6 @@ animadulte.com CNAME .
 *.animadulte.com CNAME .
 animal-drawings.com CNAME .
 *.animal-drawings.com CNAME .
-animal36.com CNAME .
-*.animal36.com CNAME .
 animateddanglediary.com CNAME .
 *.animateddanglediary.com CNAME .
 animatedjumpydisappointing.com CNAME .
@@ -13757,8 +13753,6 @@ autorekrb.bid CNAME .
 *.autorekrb.bid CNAME .
 autotrack.studyquicks.com CNAME .
 *.autotrack.studyquicks.com CNAME .
-auucktbehfdr.com CNAME .
-*.auucktbehfdr.com CNAME .
 auvauvixoazedro.net CNAME .
 *.auvauvixoazedro.net CNAME .
 auwhissaib.net CNAME .
@@ -18363,8 +18357,6 @@ buylnk.com CNAME .
 *.buylnk.com CNAME .
 buysellads.com CNAME .
 *.buysellads.com CNAME .
-buyvisblog.com CNAME .
-*.buyvisblog.com CNAME .
 buzvl.com CNAME .
 *.buzvl.com CNAME .
 buzzard.donotresearch.net CNAME .
@@ -27449,8 +27441,6 @@ dah0wv79ikn14.cloudfront.net CNAME .
 *.dah0wv79ikn14.cloudfront.net CNAME .
 dahkexes.com CNAME .
 *.dahkexes.com CNAME .
-dai18.mumu01.com CNAME .
-*.dai18.mumu01.com CNAME .
 daicagrithi.com CNAME .
 *.daicagrithi.com CNAME .
 daichoho.com CNAME .
@@ -30423,8 +30413,6 @@ dqv45r33u0ltv.cloudfront.net CNAME .
 *.dqv45r33u0ltv.cloudfront.net CNAME .
 dqwzhseasq.com CNAME .
 *.dqwzhseasq.com CNAME .
-dqzuy.com CNAME .
-*.dqzuy.com CNAME .
 dr0.biz CNAME .
 *.dr0.biz CNAME .
 dr1.piczlabs.com CNAME .
@@ -35023,8 +35011,6 @@ fidelity-media.com CNAME .
 *.fidelity-media.com CNAME .
 fidelitybarge.com CNAME .
 *.fidelitybarge.com CNAME .
-fidiaestherstepbairn.com CNAME .
-*.fidiaestherstepbairn.com CNAME .
 fidsdeign.shop CNAME .
 *.fidsdeign.shop CNAME .
 fidtaswiw.com CNAME .
@@ -39049,8 +39035,6 @@ gralrekr.net CNAME .
 *.gralrekr.net CNAME .
 gramombird.com CNAME .
 *.gramombird.com CNAME .
-gramotherwise.com CNAME .
-*.gramotherwise.com CNAME .
 granaryvernonunworthy.com CNAME .
 *.granaryvernonunworthy.com CNAME .
 grandchildpuzzled.com CNAME .
@@ -61181,8 +61165,6 @@ poignantsensitivenessforming.com CNAME .
 *.poignantsensitivenessforming.com CNAME .
 pointespassage.com CNAME .
 *.pointespassage.com CNAME .
-pointinginexperiencedbodyguard.com CNAME .
-*.pointinginexperiencedbodyguard.com CNAME .
 pointlessmorselgemini.com CNAME .
 *.pointlessmorselgemini.com CNAME .
 pointroll.com CNAME .
@@ -76551,8 +76533,6 @@ telegraph.prd.api.max.com CNAME .
 *.telegraph.prd.api.max.com CNAME .
 telegraphcompetenceslightly.com CNAME .
 *.telegraphcompetenceslightly.com CNAME .
-telegraphunreal.com CNAME .
-*.telegraphunreal.com CNAME .
 telem.sre.gopuff.com CNAME .
 *.telem.sre.gopuff.com CNAME .
 telemetry-in.battle.net CNAME .
@@ -77231,8 +77211,6 @@ threepi.de CNAME .
 *.threepi.de CNAME .
 threewoodslose.com CNAME .
 *.threewoodslose.com CNAME .
-threwdownth.xyz CNAME .
-*.threwdownth.xyz CNAME .
 thriftywaste.com CNAME .
 *.thriftywaste.com CNAME .
 thrilledrentbull.com CNAME .
@@ -79751,8 +79729,6 @@ trayrubbish.com CNAME .
 *.trayrubbish.com CNAME .
 trayzillion.com CNAME .
 *.trayzillion.com CNAME .
-trazgki.com CNAME .
-*.trazgki.com CNAME .
 trblocked.com CNAME .
 *.trblocked.com CNAME .
 trc.r25.jp CNAME .
@@ -85015,8 +84991,6 @@ whowhipi.net CNAME .
 *.whowhipi.net CNAME .
 whrwlxg.icu CNAME .
 *.whrwlxg.icu CNAME .
-whudpulques.com CNAME .
-*.whudpulques.com CNAME .
 whugesto.net CNAME .
 *.whugesto.net CNAME .
 whulsaux.com CNAME .
