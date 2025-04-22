@@ -1,9 +1,9 @@
-; Version: 202504220112
+; Version: 202504220212
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41436
-; Last modified: 2025-04-22T01:12:10+0000
+; Entries: 41440
+; Last modified: 2025-04-22T02:12:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745283604 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745287203 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -12293,6 +12293,8 @@ gaidam18.com CNAME .
 *.gaidam18.com CNAME .
 gaigutv.club CNAME .
 *.gaigutv.club CNAME .
+gaingon18.me CNAME .
+*.gaingon18.me CNAME .
 gaisex.org CNAME .
 *.gaisex.org CNAME .
 gaisexvl.pro CNAME .
@@ -33627,6 +33629,8 @@ szexrandi.hu CNAME .
 *.szexrandi.hu CNAME .
 szexshop.hu CNAME .
 *.szexshop.hu CNAME .
+szextarskereso.info CNAME .
+*.szextarskereso.info CNAME .
 szextortenetek.hu CNAME .
 *.szextortenetek.hu CNAME .
 szextortenetek.info CNAME .
