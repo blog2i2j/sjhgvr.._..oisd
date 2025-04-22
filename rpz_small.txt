@@ -1,9 +1,9 @@
-; Version: 202504221009
+; Version: 202504221109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89116
-; Last modified: 2025-04-22T10:09:20+0000
+; Entries: 89102
+; Last modified: 2025-04-22T11:09:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745316003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745319605 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2535,8 +2535,6 @@ $TTL 30
 *.7bpeople.com CNAME .
 7c3514356.com CNAME .
 *.7c3514356.com CNAME .
-7c5734761f.com CNAME .
-*.7c5734761f.com CNAME .
 7c9215c578.cb260f4651.com CNAME .
 *.7c9215c578.cb260f4651.com CNAME .
 7ca78m3csgbrid7ge.com CNAME .
@@ -9711,8 +9709,6 @@ almostextrudingmanhood.com CNAME .
 *.almostextrudingmanhood.com CNAME .
 almostmakes.com CNAME .
 *.almostmakes.com CNAME .
-almosto.com CNAME .
-*.almosto.com CNAME .
 almsshroudy.shop CNAME .
 *.almsshroudy.shop CNAME .
 almstda.tv CNAME .
@@ -24627,8 +24623,6 @@ cunlagadzwu.com CNAME .
 *.cunlagadzwu.com CNAME .
 cupbearergrowllurch.com CNAME .
 *.cupbearergrowllurch.com CNAME .
-cupboardbangingcaptain.com CNAME .
-*.cupboardbangingcaptain.com CNAME .
 cupboardgold.com CNAME .
 *.cupboardgold.com CNAME .
 cupidirresolute.com CNAME .
@@ -45997,8 +45991,6 @@ kaushichie.net CNAME .
 *.kaushichie.net CNAME .
 kaushooptawo.net CNAME .
 *.kaushooptawo.net CNAME .
-kauzishy.com CNAME .
-*.kauzishy.com CNAME .
 kavanga.ru CNAME .
 *.kavanga.ru CNAME .
 kawcuhscyapn.com CNAME .
@@ -54191,8 +54183,6 @@ nanigans.com CNAME .
 *.nanigans.com CNAME .
 nannieslamaic.com CNAME .
 *.nannieslamaic.com CNAME .
-nannyamplify.com CNAME .
-*.nannyamplify.com CNAME .
 nannyirrationalacquainted.com CNAME .
 *.nannyirrationalacquainted.com CNAME .
 nanosecnobbily.click CNAME .
@@ -57257,8 +57247,6 @@ onlinerewardcenter.com CNAME .
 *.onlinerewardcenter.com CNAME .
 onlinetroubledike.com CNAME .
 *.onlinetroubledike.com CNAME .
-onlineuserprotector.com CNAME .
-*.onlineuserprotector.com CNAME .
 onlinneoffers.com CNAME .
 *.onlinneoffers.com CNAME .
 onlyfansrips.com CNAME .
@@ -70735,8 +70723,6 @@ shvnfhf.com CNAME .
 *.shvnfhf.com CNAME .
 shydastidu.com CNAME .
 *.shydastidu.com CNAME .
-shyrepair.pro CNAME .
-*.shyrepair.pro CNAME .
 sia.aomg5bzv7.com CNAME .
 *.sia.aomg5bzv7.com CNAME .
 sia.internet.apps.samsung.com CNAME .
