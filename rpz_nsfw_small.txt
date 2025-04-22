@@ -1,9 +1,9 @@
-; Version: 202504220512
+; Version: 202504220612
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 41462
-; Last modified: 2025-04-22T05:12:25+0000
+; Last modified: 2025-04-22T06:12:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745298004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745301603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -30551,8 +30551,6 @@ sex8.cc CNAME .
 *.sex8.cc CNAME .
 sexaarab.net CNAME .
 *.sexaarab.net CNAME .
-sexaarabx.com CNAME .
-*.sexaarabx.com CNAME .
 sexabc.ch CNAME .
 *.sexabc.ch CNAME .
 sexaben.dk CNAME .
@@ -36033,6 +36031,8 @@ uberhumor.com CNAME .
 *.uberhumor.com CNAME .
 ubersite.com CNAME .
 *.ubersite.com CNAME .
+ucam.xxx CNAME .
+*.ucam.xxx CNAME .
 ucrazy.ru CNAME .
 *.ucrazy.ru CNAME .
 ud.gov.kg CNAME .
