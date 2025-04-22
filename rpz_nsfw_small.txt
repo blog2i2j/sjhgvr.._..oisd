@@ -1,9 +1,9 @@
-; Version: 202504220813
+; Version: 202504220913
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41478
-; Last modified: 2025-04-22T08:13:53+0000
+; Entries: 41480
+; Last modified: 2025-04-22T09:13:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745308803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745312403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -431,6 +431,8 @@ $TTL 30
 *.321escorts.com CNAME .
 321sexchat.com CNAME .
 *.321sexchat.com CNAME .
+321sexchat.org CNAME .
+*.321sexchat.org CNAME .
 35p-cheap-phone-sex.com CNAME .
 *.35p-cheap-phone-sex.com CNAME .
 365pornmovs.com CNAME .
@@ -4037,6 +4039,8 @@ belamionline.com CNAME .
 *.belamionline.com CNAME .
 belasdovale.com.br CNAME .
 *.belasdovale.com.br CNAME .
+beleggingsprofessionals.com CNAME .
+*.beleggingsprofessionals.com CNAME .
 beleggingsprofessionals.nl CNAME .
 *.beleggingsprofessionals.nl CNAME .
 bellacia.com.br CNAME .
@@ -5395,8 +5399,6 @@ breeding.zone CNAME .
 *.breeding.zone CNAME .
 breedme.com CNAME .
 *.breedme.com CNAME .
-brettspizzeria.com CNAME .
-*.brettspizzeria.com CNAME .
 brianspage.com CNAME .
 *.brianspage.com CNAME .
 brides4love.com CNAME .
@@ -17313,8 +17315,6 @@ jav-master.com CNAME .
 *.jav-master.com CNAME .
 jav-pics.com CNAME .
 *.jav-pics.com CNAME .
-jav-porn.io CNAME .
-*.jav-porn.io CNAME .
 jav.autos CNAME .
 *.jav.autos CNAME .
 jav.beauty CNAME .
@@ -31765,6 +31765,8 @@ sexvip18.net CNAME .
 *.sexvip18.net CNAME .
 sexvip7.com CNAME .
 *.sexvip7.com CNAME .
+sexvl.site CNAME .
+*.sexvl.site CNAME .
 sexvl.vip CNAME .
 *.sexvl.vip CNAME .
 sexvn.blog CNAME .
