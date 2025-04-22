@@ -1,9 +1,9 @@
-; Version: 202504221109
+; Version: 202504221209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89102
-; Last modified: 2025-04-22T11:09:41+0000
+; Entries: 89086
+; Last modified: 2025-04-22T12:09:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745319605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745323203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1161,8 +1161,6 @@ $TTL 30
 *.2e8dgn8n0e0l.com CNAME .
 2edef809.xyz CNAME .
 *.2edef809.xyz CNAME .
-2f1a1a7f62.com CNAME .
-*.2f1a1a7f62.com CNAME .
 2f5de272ff.com CNAME .
 *.2f5de272ff.com CNAME .
 2f8a651b12.com CNAME .
@@ -1525,8 +1523,6 @@ $TTL 30
 *.3b1ac6ca25.com CNAME .
 3b41bd214e.89f56beb55.com CNAME .
 *.3b41bd214e.89f56beb55.com CNAME .
-3b687a4e49.com CNAME .
-*.3b687a4e49.com CNAME .
 3bc9b1b89c.com CNAME .
 *.3bc9b1b89c.com CNAME .
 3c18019e0f.e462bd5280.com CNAME .
@@ -3935,8 +3931,6 @@ abjmkkowboymb.top CNAME .
 *.abjmkkowboymb.top CNAME .
 abjureragspecialize.com CNAME .
 *.abjureragspecialize.com CNAME .
-abkajbvlymjma.top CNAME .
-*.abkajbvlymjma.top CNAME .
 abkajbvlymqmb.top CNAME .
 *.abkajbvlymqmb.top CNAME .
 abkajbvozmomb.top CNAME .
@@ -15765,8 +15759,6 @@ beha.ksmobile.com CNAME .
 *.beha.ksmobile.com CNAME .
 behalflose.com CNAME .
 *.behalflose.com CNAME .
-behalfpagedesolate.com CNAME .
-*.behalfpagedesolate.com CNAME .
 behalfplead.com CNAME .
 *.behalfplead.com CNAME .
 behance.vo.llnwd.net CNAME .
@@ -70661,8 +70653,6 @@ shriekdestitute.com CNAME .
 *.shriekdestitute.com CNAME .
 shriftskats.com CNAME .
 *.shriftskats.com CNAME .
-shrill-conclusion.pro CNAME .
-*.shrill-conclusion.pro CNAME .
 shrill-definition.com CNAME .
 *.shrill-definition.com CNAME .
 shrillbighearted.com CNAME .
@@ -80801,8 +80791,6 @@ u-oxmzhuo.tech CNAME .
 *.u-oxmzhuo.tech CNAME .
 u.btserve.com CNAME .
 *.u.btserve.com CNAME .
-u.lucy-anne.com CNAME .
-*.u.lucy-anne.com CNAME .
 u.qxen.com CNAME .
 *.u.qxen.com CNAME .
 u.zhugeapi.net CNAME .
@@ -83837,8 +83825,6 @@ vyhpoooamxdhmg.com CNAME .
 *.vyhpoooamxdhmg.com CNAME .
 vyhxugizkaktg.tech CNAME .
 *.vyhxugizkaktg.tech CNAME .
-vymybkyrzvwyj.top CNAME .
-*.vymybkyrzvwyj.top CNAME .
 vyocqq.com CNAME .
 *.vyocqq.com CNAME .
 vyomkbmowzmzm.top CNAME .
@@ -83975,8 +83961,6 @@ waglingswarmy.shop CNAME .
 *.waglingswarmy.shop CNAME .
 wagner.aomg5bzv7.com CNAME .
 *.wagner.aomg5bzv7.com CNAME .
-wagtelly.com CNAME .
-*.wagtelly.com CNAME .
 wahoha.com CNAME .
 *.wahoha.com CNAME .
 waiads.com CNAME .
