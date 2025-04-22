@@ -1,9 +1,9 @@
-; Version: 202504222133
+; Version: 202504222213
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41360
-; Last modified: 2025-04-22T21:33:15+0000
+; Entries: 41366
+; Last modified: 2025-04-22T22:13:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745355603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745359204 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9933,6 +9933,8 @@ escortlariyiz.com CNAME .
 *.escortlariyiz.com CNAME .
 escortlm.com CNAME .
 *.escortlm.com CNAME .
+escortlook.de CNAME .
+*.escortlook.de CNAME .
 escortmodels.org CNAME .
 *.escortmodels.org CNAME .
 escortmove.com CNAME .
@@ -18323,6 +18325,8 @@ jvid.com CNAME .
 *.jvid.com CNAME .
 jvrlibrary.com CNAME .
 *.jvrlibrary.com CNAME .
+jwatch.org CNAME .
+*.jwatch.org CNAME .
 jwmatch.com CNAME .
 *.jwmatch.com CNAME .
 jzzo.com CNAME .
@@ -26855,6 +26859,8 @@ pornocomics.net CNAME .
 *.pornocomics.net CNAME .
 pornocomlegenda.org CNAME .
 *.pornocomlegenda.org CNAME .
+pornocomlegenda.pro CNAME .
+*.pornocomlegenda.pro CNAME .
 pornocorno.net CNAME .
 *.pornocorno.net CNAME .
 pornocuanimale.online CNAME .
