@@ -1,9 +1,9 @@
-; Version: 202504231409
+; Version: 202504231510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88810
-; Last modified: 2025-04-23T14:09:34+0000
+; Entries: 88792
+; Last modified: 2025-04-23T15:10:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745416802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745420403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3743,8 +3743,6 @@ ab.thepornstar.com CNAME .
 *.ab.thepornstar.com CNAME .
 ab199.de CNAME .
 *.ab199.de CNAME .
-ab728d9dc8.com CNAME .
-*.ab728d9dc8.com CNAME .
 ab823c0616.3397afa9b2.com CNAME .
 *.ab823c0616.3397afa9b2.com CNAME .
 ab913aa797e78b3.com CNAME .
@@ -32113,8 +32111,6 @@ eikegolehem.com CNAME .
 *.eikegolehem.com CNAME .
 eimwigyqoxqpetp.com CNAME .
 *.eimwigyqoxqpetp.com CNAME .
-eiotljxe.com CNAME .
-*.eiotljxe.com CNAME .
 eirbrightscarletcl.com CNAME .
 *.eirbrightscarletcl.com CNAME .
 eisasbeautifula.info CNAME .
@@ -39239,8 +39235,6 @@ griksoud.net CNAME .
 *.griksoud.net CNAME .
 grillcheekunfinished.com CNAME .
 *.grillcheekunfinished.com CNAME .
-grimoiksep.com CNAME .
-*.grimoiksep.com CNAME .
 grinbettyreserve.com CNAME .
 *.grinbettyreserve.com CNAME .
 grincircus.com CNAME .
@@ -40551,8 +40545,6 @@ heiressplane.com CNAME .
 *.heiressplane.com CNAME .
 heiressscore.com CNAME .
 *.heiressscore.com CNAME .
-heistedgrozer.com CNAME .
-*.heistedgrozer.com CNAME .
 heixidor.com CNAME .
 *.heixidor.com CNAME .
 hejqtbnmwze.com CNAME .
@@ -69401,8 +69393,6 @@ sel-sel-fie.com CNAME .
 *.sel-sel-fie.com CNAME .
 seldomsevereforgetful.com CNAME .
 *.seldomsevereforgetful.com CNAME .
-selectedunrealsatire.com CNAME .
-*.selectedunrealsatire.com CNAME .
 selectr.net CNAME .
 *.selectr.net CNAME .
 selecttopoff.com CNAME .
@@ -74585,8 +74575,6 @@ subsequentmean.com CNAME .
 *.subsequentmean.com CNAME .
 subsideagainstforbes.com CNAME .
 *.subsideagainstforbes.com CNAME .
-subsidedimpatienceadjective.com CNAME .
-*.subsidedimpatienceadjective.com CNAME .
 subsidyoffice.com CNAME .
 *.subsidyoffice.com CNAME .
 substantialequilibrium.com CNAME .
@@ -77359,8 +77347,6 @@ titanictooler.top CNAME .
 *.titanictooler.top CNAME .
 titaniumveinshaper.com CNAME .
 *.titaniumveinshaper.com CNAME .
-titterystrigae.com CNAME .
-*.titterystrigae.com CNAME .
 tivatingotherem.info CNAME .
 *.tivatingotherem.info CNAME .
 tivatingotherem.org CNAME .
@@ -81183,8 +81169,6 @@ undressregionaladdiction.com CNAME .
 *.undressregionaladdiction.com CNAME .
 unelekidan.com CNAME .
 *.unelekidan.com CNAME .
-unemploymentinstinctiverite.com CNAME .
-*.unemploymentinstinctiverite.com CNAME .
 unequaledchair.com CNAME .
 *.unequaledchair.com CNAME .
 unfairgenelullaby.com CNAME .
@@ -85541,8 +85525,6 @@ worstspotchafe.com CNAME .
 *.worstspotchafe.com CNAME .
 worthlessstrings.com CNAME .
 *.worthlessstrings.com CNAME .
-worthspontaneous.com CNAME .
-*.worthspontaneous.com CNAME .
 worthylighteravert.com CNAME .
 *.worthylighteravert.com CNAME .
 woudaufe.net CNAME .
