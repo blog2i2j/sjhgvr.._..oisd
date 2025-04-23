@@ -1,9 +1,9 @@
-; Version: 202504230312
+; Version: 202504230412
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41404
-; Last modified: 2025-04-23T03:12:06+0000
+; Entries: 41410
+; Last modified: 2025-04-23T04:12:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745377202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745380803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1037,6 +1037,8 @@ adamaccademia.com CNAME .
 *.adamaccademia.com CNAME .
 adamandeve.com CNAME .
 *.adamandeve.com CNAME .
+adameteve.fr CNAME .
+*.adameteve.fr CNAME .
 adameve.com CNAME .
 *.adameve.com CNAME .
 adameveplus.com CNAME .
@@ -17565,6 +17567,8 @@ javdoe.to CNAME .
 *.javdoe.to CNAME .
 javdove.com CNAME .
 *.javdove.com CNAME .
+javdragon.org CNAME .
+*.javdragon.org CNAME .
 javdude.win CNAME .
 *.javdude.win CNAME .
 javedit.com CNAME .
@@ -36087,6 +36091,8 @@ ukrainekitties.info CNAME .
 *.ukrainekitties.info CNAME .
 ukrainewoman.net CNAME .
 *.ukrainewoman.net CNAME .
+ukrainiancharm.com CNAME .
+*.ukrainiancharm.com CNAME .
 ukrdate.net CNAME .
 *.ukrdate.net CNAME .
 ukrseks.com CNAME .
