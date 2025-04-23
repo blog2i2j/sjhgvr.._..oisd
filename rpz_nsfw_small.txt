@@ -1,9 +1,9 @@
-; Version: 202504230913
+; Version: 202504231013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41444
-; Last modified: 2025-04-23T09:13:44+0000
+; Entries: 41452
+; Last modified: 2025-04-23T10:13:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745398803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745402403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -18845,6 +18845,8 @@ koiwasexangel.com CNAME .
 *.koiwasexangel.com CNAME .
 kojka.com CNAME .
 *.kojka.com CNAME .
+kokaqueen.com CNAME .
+*.kokaqueen.com CNAME .
 kokobumer.com CNAME .
 *.kokobumer.com CNAME .
 kokose.top CNAME .
@@ -25423,6 +25425,8 @@ plexstorm.com CNAME .
 *.plexstorm.com CNAME .
 plumperpass.com CNAME .
 *.plumperpass.com CNAME .
+plumpers-galleries.com CNAME .
+*.plumpers-galleries.com CNAME .
 plumperthumbs.com CNAME .
 *.plumperthumbs.com CNAME .
 pmatehunter.com CNAME .
@@ -25745,6 +25749,8 @@ porn555.me CNAME .
 *.porn555.me CNAME .
 porn5f.com CNAME .
 *.porn5f.com CNAME .
+porn5xxx.com CNAME .
+*.porn5xxx.com CNAME .
 porn62.com CNAME .
 *.porn62.com CNAME .
 porn69.net CNAME .
@@ -32089,6 +32095,8 @@ sexyvideo.fans CNAME .
 *.sexyvideo.fans CNAME .
 sexyvideo.me CNAME .
 *.sexyvideo.me CNAME .
+sexyvideo.one CNAME .
+*.sexyvideo.one CNAME .
 sexyvideo.pro CNAME .
 *.sexyvideo.pro CNAME .
 sexyvideoindian.com CNAME .
