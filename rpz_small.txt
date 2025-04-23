@@ -1,9 +1,9 @@
-; Version: 202504231209
+; Version: 202504231309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88852
-; Last modified: 2025-04-23T12:09:22+0000
+; Entries: 88834
+; Last modified: 2025-04-23T13:09:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745409602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745413203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1595,8 +1595,6 @@ $TTL 30
 *.3ri.cc CNAME .
 3sas.icu CNAME .
 *.3sas.icu CNAME .
-3twentyfour.xyz CNAME .
-*.3twentyfour.xyz CNAME .
 3u4zyeugi.com CNAME .
 *.3u4zyeugi.com CNAME .
 3vig.com CNAME .
@@ -10189,8 +10187,6 @@ amusesjambone.shop CNAME .
 *.amusesjambone.shop CNAME .
 amuseulteriorpair.com CNAME .
 *.amuseulteriorpair.com CNAME .
-amusing-location.pro CNAME .
-*.amusing-location.pro CNAME .
 amusinghump.com CNAME .
 *.amusinghump.com CNAME .
 amusingsnow.pro CNAME .
@@ -31755,8 +31751,6 @@ edbyherslende.org CNAME .
 *.edbyherslende.org CNAME .
 edconsideundence.org CNAME .
 *.edconsideundence.org CNAME .
-edcvsfr.org CNAME .
-*.edcvsfr.org CNAME .
 eddcc.icu CNAME .
 *.eddcc.icu CNAME .
 eddnxllt.com CNAME .
@@ -42763,8 +42757,6 @@ ilovemobi.com CNAME .
 *.ilovemobi.com CNAME .
 iltharidity.top CNAME .
 *.iltharidity.top CNAME .
-ilubn48t.xyz CNAME .
-*.ilubn48t.xyz CNAME .
 iluemvh.com CNAME .
 *.iluemvh.com CNAME .
 ilumtoux.net CNAME .
@@ -46465,8 +46457,6 @@ knlqdtcbi.com CNAME .
 *.knlqdtcbi.com CNAME .
 knockedcherries.com CNAME .
 *.knockedcherries.com CNAME .
-knoitfunje.com CNAME .
-*.knoitfunje.com CNAME .
 knothubby.com CNAME .
 *.knothubby.com CNAME .
 knottyactive.pro CNAME .
@@ -47577,8 +47567,6 @@ leasemiracle.com CNAME .
 *.leasemiracle.com CNAME .
 leashextendposh.com CNAME .
 *.leashextendposh.com CNAME .
-leashrationaldived.com CNAME .
-*.leashrationaldived.com CNAME .
 leatmansures.com CNAME .
 *.leatmansures.com CNAME .
 leaveoverwork.com CNAME .
@@ -59563,8 +59551,6 @@ perch.searchwp.com CNAME .
 *.perch.searchwp.com CNAME .
 perch.stefangasser.com CNAME .
 *.perch.stefangasser.com CNAME .
-percussivecloakfortunes.com CNAME .
-*.percussivecloakfortunes.com CNAME .
 perdussashing.shop CNAME .
 *.perdussashing.shop CNAME .
 pereliaastroid.com CNAME .
@@ -63055,8 +63041,6 @@ pullovereugenemistletoe.com CNAME .
 *.pullovereugenemistletoe.com CNAME .
 pulpphlegma.shop CNAME .
 *.pulpphlegma.shop CNAME .
-pulpreferred.com CNAME .
-*.pulpreferred.com CNAME .
 pulpyads.com CNAME .
 *.pulpyads.com CNAME .
 pulpybizarre.com CNAME .
@@ -63947,8 +63931,6 @@ qpoe.com CNAME .
 *.qpoe.com CNAME .
 qppq166n.de CNAME .
 *.qppq166n.de CNAME .
-qpqqrwucjtaio.com CNAME .
-*.qpqqrwucjtaio.com CNAME .
 qprskl.com CNAME .
 *.qprskl.com CNAME .
 qpwvhsxxzwgft.global CNAME .
