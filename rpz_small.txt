@@ -1,9 +1,9 @@
-; Version: 202504230308
+; Version: 202504230408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88904
-; Last modified: 2025-04-23T03:08:18+0000
+; Entries: 88880
+; Last modified: 2025-04-23T04:08:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745377202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745380803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12237,8 +12237,6 @@ apprehensivereplica.com CNAME .
 *.apprehensivereplica.com CNAME .
 appriedtheligh.org CNAME .
 *.appriedtheligh.org CNAME .
-approachresourceful.com CNAME .
-*.approachresourceful.com CNAME .
 approbationoutwardconstrue.com CNAME .
 *.approbationoutwardconstrue.com CNAME .
 appropriateinaction.com CNAME .
@@ -15705,8 +15703,6 @@ beetle.enlacepermanente.es CNAME .
 *.beetle.enlacepermanente.es CNAME .
 beevakum.net CNAME .
 *.beevakum.net CNAME .
-beevalt.com CNAME .
-*.beevalt.com CNAME .
 befirstcdn.com CNAME .
 *.befirstcdn.com CNAME .
 beforehandopt.com CNAME .
@@ -16427,8 +16423,6 @@ bineukdwithmef.org CNAME .
 *.bineukdwithmef.org CNAME .
 bingo.aomg5bzv7.com CNAME .
 *.bingo.aomg5bzv7.com CNAME .
-bingoocy.com CNAME .
-*.bingoocy.com CNAME .
 binibeetfly.com CNAME .
 *.binibeetfly.com CNAME .
 binomnet.com CNAME .
@@ -35589,8 +35583,6 @@ flawgrandparentsmysterious.com CNAME .
 *.flawgrandparentsmysterious.com CNAME .
 flaxconfession.com CNAME .
 *.flaxconfession.com CNAME .
-flaxdescale.com CNAME .
-*.flaxdescale.com CNAME .
 flaxierfilmset.com CNAME .
 *.flaxierfilmset.com CNAME .
 fldes6fq.de CNAME .
@@ -44883,8 +44875,6 @@ jgubbpypmlxbk.one CNAME .
 *.jgubbpypmlxbk.one CNAME .
 jgvkxp.xyz CNAME .
 *.jgvkxp.xyz CNAME .
-jgxavkopotthxj.xyz CNAME .
-*.jgxavkopotthxj.xyz CNAME .
 jgxirv.icu CNAME .
 *.jgxirv.icu CNAME .
 jhbjkqqykibyt.buzz CNAME .
@@ -45293,8 +45283,6 @@ jqueryserve.org CNAME .
 *.jqueryserve.org CNAME .
 jqueryserver.com CNAME .
 *.jqueryserver.com CNAME .
-jrbbavbvqmbzl.top CNAME .
-*.jrbbavbvqmbzl.top CNAME .
 jrblfv.icu CNAME .
 *.jrblfv.icu CNAME .
 jrfngdrodrdop.icu CNAME .
@@ -45603,8 +45591,6 @@ juryprefacereproach.com CNAME .
 *.juryprefacereproach.com CNAME .
 juska.site CNAME .
 *.juska.site CNAME .
-juslsp.info CNAME .
-*.juslsp.info CNAME .
 jussubku.com CNAME .
 *.jussubku.com CNAME .
 just-news.pro CNAME .
@@ -48073,8 +48059,6 @@ limberkilnman.cam CNAME .
 *.limberkilnman.cam CNAME .
 limboduty.com CNAME .
 *.limboduty.com CNAME .
-limbrooms.com CNAME .
-*.limbrooms.com CNAME .
 limineshucks.com CNAME .
 *.limineshucks.com CNAME .
 limitedkettlemathematical.com CNAME .
@@ -48419,8 +48403,6 @@ ljun8zm9.com CNAME .
 *.ljun8zm9.com CNAME .
 ljvc0.icu CNAME .
 *.ljvc0.icu CNAME .
-ljvmokwyromjj.top CNAME .
-*.ljvmokwyromjj.top CNAME .
 lkcoffe.com CNAME .
 *.lkcoffe.com CNAME .
 lkdvvxvtsq6o.com CNAME .
@@ -51641,8 +51623,6 @@ mericantpastellih.org CNAME .
 *.mericantpastellih.org CNAME .
 mericefem.shop CNAME .
 *.mericefem.shop CNAME .
-merig.xyz CNAME .
-*.merig.xyz CNAME .
 meritabroadauthor.com CNAME .
 *.meritabroadauthor.com CNAME .
 merry-hearing.pro CNAME .
@@ -58187,8 +58167,6 @@ overlivedub.com CNAME .
 *.overlivedub.com CNAME .
 overloadmaturespanner.com CNAME .
 *.overloadmaturespanner.com CNAME .
-overlookedtension.pro CNAME .
-*.overlookedtension.pro CNAME .
 overluvdiscan.com CNAME .
 *.overluvdiscan.com CNAME .
 overlyindelicatehoard.com CNAME .
@@ -71083,8 +71061,6 @@ sli.huffpost.com CNAME .
 *.sli.huffpost.com CNAME .
 slicedpickles.com CNAME .
 *.slicedpickles.com CNAME .
-slickaffiliate.com CNAME .
-*.slickaffiliate.com CNAME .
 slickgoalenhanced.com CNAME .
 *.slickgoalenhanced.com CNAME .
 sliddeceived.com CNAME .
