@@ -1,9 +1,9 @@
-# Version: 202504230513
+# Version: 202504230612
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20709
-# Last modified: 2025-04-23T05:13:12+0000
+# Entries: 20711
+# Last modified: 2025-04-23T06:12:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -396,6 +396,7 @@ local-zone: "888companions.com." always_null
 local-zone: "88av.one." always_null
 local-zone: "8animal.com." always_null
 local-zone: "8boobs.com." always_null
+local-zone: "8chan.moe." always_null
 local-zone: "8coins.ru." always_null
 local-zone: "8freeporn.com." always_null
 local-zone: "8kcosplay.com." always_null
@@ -3117,6 +3118,7 @@ local-zone: "casual-dating-uk.co.uk." always_null
 local-zone: "casual-escorts.com." always_null
 local-zone: "casualdate.live." always_null
 local-zone: "casualdating.com." always_null
+local-zone: "casualhookup.com." always_null
 local-zone: "casualpickup.com." always_null
 local-zone: "casualteensex.com." always_null
 local-zone: "casualwives.com." always_null
