@@ -1,9 +1,9 @@
-; Version: 202504231314
+; Version: 202504231413
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41476
-; Last modified: 2025-04-23T13:14:04+0000
+; Entries: 41484
+; Last modified: 2025-04-23T14:13:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745413203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745416802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -14347,6 +14347,8 @@ hdzog.com CNAME .
 *.hdzog.com CNAME .
 hdzog.tube CNAME .
 *.hdzog.tube CNAME .
+health.blog CNAME .
+*.health.blog CNAME .
 healthyandactive.com CNAME .
 *.healthyandactive.com CNAME .
 heatedaffairs.com CNAME .
@@ -20209,6 +20211,8 @@ maal69.mobi CNAME .
 *.maal69.mobi CNAME .
 macbookporn.com CNAME .
 *.macbookporn.com CNAME .
+machineslicedbread.xyz CNAME .
+*.machineslicedbread.xyz CNAME .
 machogaytube.com CNAME .
 *.machogaytube.com CNAME .
 machomoe.com CNAME .
@@ -32745,6 +32749,8 @@ smalltits.pics CNAME .
 *.smalltits.pics CNAME .
 smallundies.com CNAME .
 *.smallundies.com CNAME .
+smartetc.eu CNAME .
+*.smartetc.eu CNAME .
 smattermost.com CNAME .
 *.smattermost.com CNAME .
 smaxim.com.ua CNAME .
@@ -33975,6 +33981,8 @@ teencurves.com CNAME .
 *.teencurves.com CNAME .
 teencuteporn.com CNAME .
 *.teencuteporn.com CNAME .
+teendatingsite.net CNAME .
+*.teendatingsite.net CNAME .
 teendreams.com CNAME .
 *.teendreams.com CNAME .
 teenfap.net CNAME .
