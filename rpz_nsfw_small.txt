@@ -1,9 +1,9 @@
-; Version: 202504231713
+; Version: 202504231813
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41514
-; Last modified: 2025-04-23T17:13:35+0000
+; Entries: 41520
+; Last modified: 2025-04-23T18:13:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745427602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745431203 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7319,6 +7319,8 @@ cougar-hookup.net CNAME .
 *.cougar-hookup.net CNAME .
 cougarillo.com CNAME .
 *.cougarillo.com CNAME .
+cougarlife.com CNAME .
+*.cougarlife.com CNAME .
 cougars-avenue.com CNAME .
 *.cougars-avenue.com CNAME .
 cougars-infideles.com CNAME .
@@ -12487,6 +12489,8 @@ galleryxh.life CNAME .
 *.galleryxh.life CNAME .
 gallfree.com CNAME .
 *.gallfree.com CNAME .
+gals4free.net CNAME .
+*.gals4free.net CNAME .
 gamcore.ch CNAME .
 *.gamcore.ch CNAME .
 gamcore.com CNAME .
@@ -30829,6 +30833,8 @@ sexdating.guru CNAME .
 *.sexdating.guru CNAME .
 sexdatinghot.com CNAME .
 *.sexdatinghot.com CNAME .
+sexdead.com CNAME .
+*.sexdead.com CNAME .
 sexdep.blog CNAME .
 *.sexdep.blog CNAME .
 sexdepvl.com CNAME .
