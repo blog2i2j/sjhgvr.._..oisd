@@ -1,9 +1,9 @@
-; Version: 202504231309
+; Version: 202504231409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88834
-; Last modified: 2025-04-23T13:09:41+0000
+; Entries: 88810
+; Last modified: 2025-04-23T14:09:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745413203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745416802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -227,8 +227,6 @@ $TTL 30
 *.0i.sh-cdn.com CNAME .
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
-0ijvby90.skin CNAME .
-*.0ijvby90.skin CNAME .
 0k7wod.cn CNAME .
 *.0k7wod.cn CNAME .
 0lovespells0.blogspot.com CNAME .
@@ -701,8 +699,6 @@ $TTL 30
 *.1f786dfce0.3b747f3802.com CNAME .
 1f7wwaex9rbh.com CNAME .
 *.1f7wwaex9rbh.com CNAME .
-1f84e33459.com CNAME .
-*.1f84e33459.com CNAME .
 1fcf60d54c.com CNAME .
 *.1fcf60d54c.com CNAME .
 1fd92n6t8.de CNAME .
@@ -40501,8 +40497,6 @@ heatmap.emma.tools CNAME .
 *.heatmap.emma.tools CNAME .
 heatmaps.lcisoft.it CNAME .
 *.heatmaps.lcisoft.it CNAME .
-heatprecipitation.com CNAME .
-*.heatprecipitation.com CNAME .
 heauty-viesected.com CNAME .
 *.heauty-viesected.com CNAME .
 heavenfull.com CNAME .
@@ -42369,8 +42363,6 @@ icelessbogles.com CNAME .
 *.icelessbogles.com CNAME .
 iceprogs.ru CNAME .
 *.iceprogs.ru CNAME .
-icfjair.com CNAME .
-*.icfjair.com CNAME .
 ichannel.isnssdk.com CNAME .
 *.ichannel.isnssdk.com CNAME .
 ichc1.xinglinpukang.com CNAME .
@@ -50865,8 +50857,6 @@ marvelbuds.com CNAME .
 *.marvelbuds.com CNAME .
 marybskitchen.com CNAME .
 *.marybskitchen.com CNAME .
-mas-e.cds1.yospace.com CNAME .
-*.mas-e.cds1.yospace.com CNAME .
 mas.nth.ch CNAME .
 *.mas.nth.ch CNAME .
 mas.sector.sk CNAME .
@@ -53591,8 +53581,6 @@ mvijuifysyjrz.rocks CNAME .
 *.mvijuifysyjrz.rocks CNAME .
 mvirkw.xyz CNAME .
 *.mvirkw.xyz CNAME .
-mvlyimxovnsw.xyz CNAME .
-*.mvlyimxovnsw.xyz CNAME .
 mvmzlg.xyz CNAME .
 *.mvmzlg.xyz CNAME .
 mvnznqp.com CNAME .
@@ -56057,8 +56045,6 @@ obeysatman.com CNAME .
 *.obeysatman.com CNAME .
 obflgjaytofk.com CNAME .
 *.obflgjaytofk.com CNAME .
-objectionportedseaside.com CNAME .
-*.objectionportedseaside.com CNAME .
 objective-wright-961fed.netlify.com CNAME .
 *.objective-wright-961fed.netlify.com CNAME .
 objectivepressure.com CNAME .
@@ -62017,8 +62003,6 @@ private-show.live CNAME .
 *.private-show.live CNAME .
 private-stage.com CNAME .
 *.private-stage.com CNAME .
-privateappealingsymphony.com CNAME .
-*.privateappealingsymphony.com CNAME .
 privatecash.com CNAME .
 *.privatecash.com CNAME .
 privatelydevotionrewind.com CNAME .
@@ -74851,8 +74835,6 @@ support.tenten.vn CNAME .
 *.support.tenten.vn CNAME .
 supporters.redbankgreen.com CNAME .
 *.supporters.redbankgreen.com CNAME .
-supportingbasic.com CNAME .
-*.supportingbasic.com CNAME .
 supportiverarity.com CNAME .
 *.supportiverarity.com CNAME .
 supportmetrics.apple.com CNAME .
@@ -80897,8 +80879,6 @@ uie.data.cbc.ca CNAME .
 *.uie.data.cbc.ca CNAME .
 uilogging.tcdevops.com CNAME .
 *.uilogging.tcdevops.com CNAME .
-uilzwzx.com CNAME .
-*.uilzwzx.com CNAME .
 uimserv.net CNAME .
 *.uimserv.net CNAME .
 uingroundhe.com CNAME .
@@ -87125,8 +87105,6 @@ xqmvzmt.com CNAME .
 *.xqmvzmt.com CNAME .
 xqrydt.icu CNAME .
 *.xqrydt.icu CNAME .
-xqwcryh.com CNAME .
-*.xqwcryh.com CNAME .
 xqwrdegbmdfrv.top CNAME .
 *.xqwrdegbmdfrv.top CNAME .
 xray.mail.ru CNAME .
@@ -87993,8 +87971,6 @@ yuhuads.com CNAME .
 *.yuhuads.com CNAME .
 yuintbradshed.com CNAME .
 *.yuintbradshed.com CNAME .
-yukpxxp.com CNAME .
-*.yukpxxp.com CNAME .
 yumenetworks.com CNAME .
 *.yumenetworks.com CNAME .
 yummyadvertiseexploded.com CNAME .
