@@ -1,9 +1,9 @@
-; Version: 202504230612
+; Version: 202504230713
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41422
-; Last modified: 2025-04-23T06:12:54+0000
+; Entries: 41430
+; Last modified: 2025-04-23T07:13:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745388002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745391603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11175,6 +11175,8 @@ find-singles-online.com CNAME .
 *.find-singles-online.com CNAME .
 findadultlove.online CNAME .
 *.findadultlove.online CNAME .
+findanir.com CNAME .
+*.findanir.com CNAME .
 findasianwomen.net CNAME .
 *.findasianwomen.net CNAME .
 findbride.com CNAME .
@@ -12761,6 +12763,8 @@ gaymovievids.com CNAME .
 *.gaymovievids.com CNAME .
 gayoglasi.com CNAME .
 *.gayoglasi.com CNAME .
+gayomsk1.xyz CNAME .
+*.gayomsk1.xyz CNAME .
 gayomsk2.xyz CNAME .
 *.gayomsk2.xyz CNAME .
 gayomsk3.xyz CNAME .
@@ -19239,6 +19243,8 @@ leakonly.com CNAME .
 *.leakonly.com CNAME .
 leakporner.com CNAME .
 *.leakporner.com CNAME .
+leaks4fap.com CNAME .
+*.leaks4fap.com CNAME .
 leaksfapello.com CNAME .
 *.leaksfapello.com CNAME .
 leakshaven.com CNAME .
@@ -38069,6 +38075,8 @@ x99av.com CNAME .
 *.x99av.com CNAME .
 xahani.com CNAME .
 *.xahani.com CNAME .
+xala.az CNAME .
+*.xala.az CNAME .
 xalabahia.com CNAME .
 *.xalabahia.com CNAME .
 xamateur.net CNAME .
