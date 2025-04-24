@@ -1,9 +1,9 @@
-; Version: 202504241813
+; Version: 202504241913
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41574
-; Last modified: 2025-04-24T18:13:20+0000
+; Entries: 41580
+; Last modified: 2025-04-24T19:13:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745517603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745521203 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3707,6 +3707,8 @@ bbsgayru24.com CNAME .
 *.bbsgayru24.com CNAME .
 bbsgayru25.com CNAME .
 *.bbsgayru25.com CNAME .
+bbsgayru26.com CNAME .
+*.bbsgayru26.com CNAME .
 bbw-chan.link CNAME .
 *.bbw-chan.link CNAME .
 bbw-hookupsites.com CNAME .
@@ -20361,6 +20363,8 @@ mangacrazy.net CNAME .
 *.mangacrazy.net CNAME .
 mangadass.com CNAME .
 *.mangadass.com CNAME .
+mangadna.com CNAME .
+*.mangadna.com CNAME .
 mangadoujin.com CNAME .
 *.mangadoujin.com CNAME .
 mangaforest.me CNAME .
@@ -20737,6 +20741,8 @@ maturekingdom.com CNAME .
 *.maturekingdom.com CNAME .
 matureladiespics.com CNAME .
 *.matureladiespics.com CNAME .
+matureland.net CNAME .
+*.matureland.net CNAME .
 maturelesbiankiss.com CNAME .
 *.maturelesbiankiss.com CNAME .
 maturematchcontact.com CNAME .
