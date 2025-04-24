@@ -1,9 +1,9 @@
-# Version: 202504240512
+# Version: 202504240612
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20749
-# Last modified: 2025-04-24T05:12:18+0000
+# Entries: 20750
+# Last modified: 2025-04-24T06:12:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4147,6 +4147,7 @@ local-zone: "dieoff.org." always_null
 local-zone: "digaygane.com." always_null
 local-zone: "digichat.it." always_null
 local-zone: "digiflix.video." always_null
+local-zone: "digimind.nl." always_null
 local-zone: "diginext.site." always_null
 local-zone: "digitalplayground.com." always_null
 local-zone: "digitalplaygroundnetwork.com." always_null
