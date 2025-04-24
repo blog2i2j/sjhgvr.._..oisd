@@ -1,9 +1,9 @@
-; Version: 202504240012
+; Version: 202504240111
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41478
-; Last modified: 2025-04-24T00:12:06+0000
+; Entries: 41480
+; Last modified: 2025-04-24T01:11:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745452804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745456402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2649,8 +2649,6 @@ argentinaxp.com CNAME .
 *.argentinaxp.com CNAME .
 argentum107.ru CNAME .
 *.argentum107.ru CNAME .
-arhivporno.top CNAME .
-*.arhivporno.top CNAME .
 arhivporno.vip CNAME .
 *.arhivporno.vip CNAME .
 armporno.cc CNAME .
@@ -21907,6 +21905,8 @@ moviesarena.com CNAME .
 *.moviesarena.com CNAME .
 moviesda.city CNAME .
 *.moviesda.city CNAME .
+moviesda.page CNAME .
+*.moviesda.page CNAME .
 moviesneek.com CNAME .
 *.moviesneek.com CNAME .
 moviessexscenes.com CNAME .
@@ -36061,6 +36061,8 @@ ucrazy.ru CNAME .
 *.ucrazy.ru CNAME .
 ud.gov.kg CNAME .
 *.ud.gov.kg CNAME .
+udates.io CNAME .
+*.udates.io CNAME .
 udvl.com CNAME .
 *.udvl.com CNAME .
 uescort.com CNAME .
