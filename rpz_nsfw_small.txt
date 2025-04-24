@@ -1,9 +1,9 @@
-; Version: 202504241613
+; Version: 202504241712
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41560
-; Last modified: 2025-04-24T16:13:31+0000
+; Entries: 41568
+; Last modified: 2025-04-24T17:12:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745510403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745514002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2771,6 +2771,8 @@ asianbabepics.com CNAME .
 *.asianbabepics.com CNAME .
 asianbridesfinder.com CNAME .
 *.asianbridesfinder.com CNAME .
+asianbridesonline.org CNAME .
+*.asianbridesonline.org CNAME .
 asiancammodels.com CNAME .
 *.asiancammodels.com CNAME .
 asiancamsex.com CNAME .
@@ -25509,6 +25511,8 @@ poopee-puke.com CNAME .
 *.poopee-puke.com CNAME .
 poopeegirls.com CNAME .
 *.poopeegirls.com CNAME .
+poophd.com CNAME .
+*.poophd.com CNAME .
 pooprip.com CNAME .
 *.pooprip.com CNAME .
 pop.xxx CNAME .
@@ -26739,6 +26743,8 @@ porno365.team CNAME .
 *.porno365.team CNAME .
 porno365.trade CNAME .
 *.porno365.trade CNAME .
+porno365.tw CNAME .
+*.porno365.tw CNAME .
 porno365.wine CNAME .
 *.porno365.wine CNAME .
 porno365.xxx CNAME .
@@ -28753,6 +28759,8 @@ quebble-dev.io CNAME .
 *.quebble-dev.io CNAME .
 quecontactos.com CNAME .
 *.quecontactos.com CNAME .
+queensland.com CNAME .
+*.queensland.com CNAME .
 queensnake.com CNAME .
 *.queensnake.com CNAME .
 queentits.com CNAME .
