@@ -1,9 +1,9 @@
-; Version: 202504241112
+; Version: 202504241212
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41538
-; Last modified: 2025-04-24T11:12:49+0000
+; Entries: 41548
+; Last modified: 2025-04-24T12:12:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745492403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745496002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -729,6 +729,8 @@ $TTL 30
 *.6level.net CNAME .
 6mature9.com CNAME .
 *.6mature9.com CNAME .
+6mv.org CNAME .
+*.6mv.org CNAME .
 6navi.ch CNAME .
 *.6navi.ch CNAME .
 6profi-forum.com CNAME .
@@ -1989,6 +1991,8 @@ amaturetube.com CNAME .
 *.amaturetube.com CNAME .
 amaturpicsteen.site CNAME .
 *.amaturpicsteen.site CNAME .
+amazingoffersforyou.com CNAME .
+*.amazingoffersforyou.com CNAME .
 ambercutie.com CNAME .
 *.ambercutie.com CNAME .
 americanflings.com CNAME .
@@ -13713,6 +13717,8 @@ guywh.com CNAME .
 *.guywh.com CNAME .
 gvdblog.cc CNAME .
 *.gvdblog.cc CNAME .
+gvdblog.net CNAME .
+*.gvdblog.net CNAME .
 gvideos.net CNAME .
 *.gvideos.net CNAME .
 gwasi.com CNAME .
@@ -14565,6 +14571,8 @@ hentaihaven.xxx CNAME .
 *.hentaihaven.xxx CNAME .
 hentaihay2.net CNAME .
 *.hentaihay2.net CNAME .
+hentaihay2.top CNAME .
+*.hentaihay2.top CNAME .
 hentaihay3.com CNAME .
 *.hentaihay3.com CNAME .
 hentaihd.net CNAME .
@@ -41269,6 +41277,8 @@ ziimania.com CNAME .
 *.ziimania.com CNAME .
 zinchangmanga.com CNAME .
 *.zinchangmanga.com CNAME .
+zip.net CNAME .
+*.zip.net CNAME .
 zishy.com CNAME .
 *.zishy.com CNAME .
 zity.biz CNAME .
