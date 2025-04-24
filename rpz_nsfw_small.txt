@@ -1,9 +1,9 @@
-; Version: 202504240612
+; Version: 202504240712
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41500
-; Last modified: 2025-04-24T06:12:10+0000
+; Entries: 41506
+; Last modified: 2025-04-24T07:12:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745474402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745478004 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -12823,6 +12823,8 @@ gaytogether.org CNAME .
 *.gaytogether.org CNAME .
 gaytorrent.ru CNAME .
 *.gaytorrent.ru CNAME .
+gaytorrent.tw CNAME .
+*.gaytorrent.tw CNAME .
 gaytube.com CNAME .
 *.gaytube.com CNAME .
 gaytube.site CNAME .
@@ -17111,6 +17113,8 @@ ivana-models-escortservice.de CNAME .
 *.ivana-models-escortservice.de CNAME .
 ivenue.com CNAME .
 *.ivenue.com CNAME .
+ivfree.asia CNAME .
+*.ivfree.asia CNAME .
 ivworld.net CNAME .
 *.ivworld.net CNAME .
 ivx.gallery CNAME .
@@ -37387,6 +37391,8 @@ vsmvideo.com CNAME .
 *.vsmvideo.com CNAME .
 vsoson.com CNAME .
 *.vsoson.com CNAME .
+vsporntube.com CNAME .
+*.vsporntube.com CNAME .
 vstwm.com CNAME .
 *.vstwm.com CNAME .
 vsxxxo.com CNAME .
