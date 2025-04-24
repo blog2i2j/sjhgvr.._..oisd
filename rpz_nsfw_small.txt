@@ -1,9 +1,9 @@
-; Version: 202504240812
+; Version: 202504240913
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41516
-; Last modified: 2025-04-24T08:12:20+0000
+; Entries: 41522
+; Last modified: 2025-04-24T09:13:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745481602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745485202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6251,6 +6251,8 @@ cekc.mn CNAME .
 *.cekc.mn CNAME .
 ceks.club CNAME .
 *.ceks.club CNAME .
+celeb-stalker.com CNAME .
+*.celeb-stalker.com CNAME .
 celeb.cx CNAME .
 *.celeb.cx CNAME .
 celeb.tv CNAME .
@@ -12477,6 +12479,8 @@ gay.nl CNAME .
 *.gay.nl CNAME .
 gay.ru CNAME .
 *.gay.ru CNAME .
+gay.us CNAME .
+*.gay.us CNAME .
 gay0day.com CNAME .
 *.gay0day.com CNAME .
 gay112.com CNAME .
@@ -13183,6 +13187,8 @@ girlsbcn.net CNAME .
 *.girlsbcn.net CNAME .
 girlsbestialityporn.com CNAME .
 *.girlsbestialityporn.com CNAME .
+girlscanner.online CNAME .
+*.girlscanner.online CNAME .
 girlsdating.org CNAME .
 *.girlsdating.org CNAME .
 girlsdelta.com CNAME .
