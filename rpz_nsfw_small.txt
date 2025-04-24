@@ -1,9 +1,9 @@
-; Version: 202504241512
+; Version: 202504241541
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41560
-; Last modified: 2025-04-24T15:12:59+0000
+; Entries: 41558
+; Last modified: 2025-04-24T15:41:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745506802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745509276 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -37895,8 +37895,6 @@ wildfantasystories.com CNAME .
 *.wildfantasystories.com CNAME .
 wildindianporn.mobi CNAME .
 *.wildindianporn.mobi CNAME .
-wildixin.com CNAME .
-*.wildixin.com CNAME .
 wildmaturehousewives.com CNAME .
 *.wildmaturehousewives.com CNAME .
 wildpornx.com CNAME .
