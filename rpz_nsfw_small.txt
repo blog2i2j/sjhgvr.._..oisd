@@ -1,9 +1,9 @@
-; Version: 202504241312
+; Version: 202504241413
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41548
-; Last modified: 2025-04-24T13:12:43+0000
+; Entries: 41556
+; Last modified: 2025-04-24T14:13:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745499602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745503202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -22495,6 +22495,8 @@ mysensualmatch.com CNAME .
 *.mysensualmatch.com CNAME .
 mysex.video CNAME .
 *.mysex.video CNAME .
+mysexcam.org CNAME .
+*.mysexcam.org CNAME .
 mysexgamer.com CNAME .
 *.mysexgamer.com CNAME .
 mysexgames.com CNAME .
@@ -25457,6 +25459,8 @@ pokerdomkis.top CNAME .
 *.pokerdomkis.top CNAME .
 pokerdomno.top CNAME .
 *.pokerdomno.top CNAME .
+pokerdomorgru.top CNAME .
+*.pokerdomorgru.top CNAME .
 pokerdompak.top CNAME .
 *.pokerdompak.top CNAME .
 pokerdomris.top CNAME .
@@ -34193,6 +34197,8 @@ templescanesp.net CNAME .
 *.templescanesp.net CNAME .
 tempocams.com CNAME .
 *.tempocams.com CNAME .
+temporary.site CNAME .
+*.temporary.site CNAME .
 tempted.com CNAME .
 *.tempted.com CNAME .
 temptingtown.com CNAME .
@@ -38003,6 +38009,8 @@ wow-xxx-videos.com CNAME .
 *.wow-xxx-videos.com CNAME .
 wow.xxx CNAME .
 *.wow.xxx CNAME .
+wowanalytics.co.uk CNAME .
+*.wowanalytics.co.uk CNAME .
 wowcams.com CNAME .
 *.wowcams.com CNAME .
 wowfreetube.com CNAME .
