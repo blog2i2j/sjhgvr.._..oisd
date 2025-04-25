@@ -1,9 +1,9 @@
-; Version: 202504251309
+; Version: 202504251409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89718
-; Last modified: 2025-04-25T13:09:46+0000
+; Entries: 89712
+; Last modified: 2025-04-25T14:09:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745586003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745589602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -35889,8 +35889,6 @@ flash.sec.intl.miui.com CNAME .
 *.flash.sec.intl.miui.com CNAME .
 flashb.id CNAME .
 *.flashb.id CNAME .
-flashingnicer.com CNAME .
-*.flashingnicer.com CNAME .
 flashingnumberpeephole.com CNAME .
 *.flashingnumberpeephole.com CNAME .
 flashlightstypewriterparquet.com CNAME .
@@ -47963,8 +47961,6 @@ lbfwxr.icu CNAME .
 *.lbfwxr.icu CNAME .
 lbjekygz.icu CNAME .
 *.lbjekygz.icu CNAME .
-lbmqciazrpm.com CNAME .
-*.lbmqciazrpm.com CNAME .
 lbn.ru CNAME .
 *.lbn.ru CNAME .
 lbqdaua.icu CNAME .
@@ -78797,8 +78793,6 @@ tostervar.shop CNAME .
 *.tostervar.shop CNAME .
 totalab.xyz CNAME .
 *.totalab.xyz CNAME .
-totallyplaiceaxis.com CNAME .
-*.totallyplaiceaxis.com CNAME .
 totalmedia2.ynet.co.il CNAME .
 *.totalmedia2.ynet.co.il CNAME .
 totemcash.com CNAME .
