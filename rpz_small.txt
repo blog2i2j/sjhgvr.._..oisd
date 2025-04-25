@@ -1,9 +1,9 @@
-; Version: 202504250908
+; Version: 202504251010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89774
-; Last modified: 2025-04-25T09:08:59+0000
+; Entries: 89772
+; Last modified: 2025-04-25T10:10:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745571603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745575203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2249,8 +2249,6 @@ $TTL 30
 *.69799884.xyz CNAME .
 6991eeac66.com CNAME .
 *.6991eeac66.com CNAME .
-69b61ba7d6.com CNAME .
-*.69b61ba7d6.com CNAME .
 69er.de CNAME .
 *.69er.de CNAME .
 69net.de CNAME .
@@ -2797,8 +2795,6 @@ $TTL 30
 *.8inhjmd.usefathom.com CNAME .
 8j1f0af5.de CNAME .
 *.8j1f0af5.de CNAME .
-8jay04c4q7te.com CNAME .
-*.8jay04c4q7te.com CNAME .
 8jkx.com CNAME .
 *.8jkx.com CNAME .
 8jl11zys5vh12.pro CNAME .
@@ -15487,6 +15483,8 @@ bdcode.youke.com CNAME .
 *.bdcode.youke.com CNAME .
 bdec1f37.xyz CNAME .
 *.bdec1f37.xyz CNAME .
+bdffkdqkgvdf.com CNAME .
+*.bdffkdqkgvdf.com CNAME .
 bdg-analytics.appspot.com CNAME .
 *.bdg-analytics.appspot.com CNAME .
 bdgg.qjy168.com CNAME .
@@ -34353,8 +34351,6 @@ ezula.com CNAME .
 *.ezula.com CNAME .
 ezyenrwcmo.com CNAME .
 *.ezyenrwcmo.com CNAME .
-ezzmmvzbnbqnj.top CNAME .
-*.ezzmmvzbnbqnj.top CNAME .
 f-emc.ngsp.gov.vn CNAME .
 *.f-emc.ngsp.gov.vn CNAME .
 f-g-l-j.22yy6.com CNAME .
@@ -35685,6 +35681,8 @@ findingattending.com CNAME .
 *.findingattending.com CNAME .
 findingexchange.com CNAME .
 *.findingexchange.com CNAME .
+findmanloverse.com CNAME .
+*.findmanloverse.com CNAME .
 findromanticdates.com CNAME .
 *.findromanticdates.com CNAME .
 findrpc.sh CNAME .
@@ -42149,8 +42147,6 @@ howboxmab.site CNAME .
 *.howboxmab.site CNAME .
 howeloisedignify.com CNAME .
 *.howeloisedignify.com CNAME .
-howeverdipping.com CNAME .
-*.howeverdipping.com CNAME .
 howhow.cl CNAME .
 *.howhow.cl CNAME .
 howledmintier.com CNAME .
@@ -48629,6 +48625,8 @@ lilacbeaten.com CNAME .
 *.lilacbeaten.com CNAME .
 lilinstall11x.com CNAME .
 *.lilinstall11x.com CNAME .
+lilyairglow.shop CNAME .
+*.lilyairglow.shop CNAME .
 lilyhumility.com CNAME .
 *.lilyhumility.com CNAME .
 lilyrealitycourthouse.com CNAME .
@@ -52059,6 +52057,8 @@ meetaffiliate.com CNAME .
 *.meetaffiliate.com CNAME .
 meetamate.online CNAME .
 *.meetamate.online CNAME .
+meetfindsoul.com CNAME .
+*.meetfindsoul.com CNAME .
 meetingcoffeenostrils.com CNAME .
 *.meetingcoffeenostrils.com CNAME .
 meetingrailroad.com CNAME .
@@ -52097,6 +52097,8 @@ megawerbung.de CNAME .
 *.megawerbung.de CNAME .
 megdexchange.com CNAME .
 *.megdexchange.com CNAME .
+meghllzs.com CNAME .
+*.meghllzs.com CNAME .
 megmhokluck.shop CNAME .
 *.megmhokluck.shop CNAME .
 megroarsoy.net CNAME .
@@ -60223,8 +60225,6 @@ perf.hsforms.com CNAME .
 *.perf.hsforms.com CNAME .
 perfectaudience.com CNAME .
 *.perfectaudience.com CNAME .
-perfectflowing.com CNAME .
-*.perfectflowing.com CNAME .
 perfectionministerfeasible.com CNAME .
 *.perfectionministerfeasible.com CNAME .
 perfectplanned.com CNAME .
@@ -66275,8 +66275,6 @@ reload.hotscopes.org CNAME .
 *.reload.hotscopes.org CNAME .
 reluctancefleck.com CNAME .
 *.reluctancefleck.com CNAME .
-reluctanceghastlysquid.com CNAME .
-*.reluctanceghastlysquid.com CNAME .
 reluctanceleatheroptional.com CNAME .
 *.reluctanceleatheroptional.com CNAME .
 reluctantlycopper.com CNAME .
@@ -69663,8 +69661,6 @@ scenescrockery.com CNAME .
 *.scenescrockery.com CNAME .
 scenistgracy.life CNAME .
 *.scenistgracy.life CNAME .
-scentbracehardship.com CNAME .
-*.scentbracehardship.com CNAME .
 scented-leather.com CNAME .
 *.scented-leather.com CNAME .
 scentservers.com CNAME .
@@ -75715,8 +75711,6 @@ surechieflyrepulse.com CNAME .
 *.surechieflyrepulse.com CNAME .
 surestisis.com CNAME .
 *.surestisis.com CNAME .
-surfacescompassionblemish.com CNAME .
-*.surfacescompassionblemish.com CNAME .
 surfcountor.com CNAME .
 *.surfcountor.com CNAME .
 surfeurdor.free.fr CNAME .
@@ -88075,6 +88069,8 @@ xs213.javgg.club CNAME .
 *.xs213.javgg.club CNAME .
 xs6po.icu CNAME .
 *.xs6po.icu CNAME .
+xsifzaieypxqr.global CNAME .
+*.xsifzaieypxqr.global CNAME .
 xsrezl.icu CNAME .
 *.xsrezl.icu CNAME .
 xsrs.com CNAME .
@@ -89215,6 +89211,8 @@ zealsalts.com CNAME .
 *.zealsalts.com CNAME .
 zebeaa.click CNAME .
 *.zebeaa.click CNAME .
+zebjlmmqqbwvb.top CNAME .
+*.zebjlmmqqbwvb.top CNAME .
 zedatthewonderfulst.org CNAME .
 *.zedatthewonderfulst.org CNAME .
 zeddjv.xyz CNAME .
