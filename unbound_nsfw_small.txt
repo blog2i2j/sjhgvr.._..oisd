@@ -1,9 +1,9 @@
-# Version: 202504251214
+# Version: 202504251314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20801
-# Last modified: 2025-04-25T12:14:05+0000
+# Entries: 20802
+# Last modified: 2025-04-25T13:14:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -612,6 +612,7 @@ local-zone: "adultdvdmarketplace.com." always_null
 local-zone: "adultdvdtalk.com." always_null
 local-zone: "adultempire.com." always_null
 local-zone: "adultepic.com." always_null
+local-zone: "adultere-rencontre.fr." always_null
 local-zone: "adulterotic.net." always_null
 local-zone: "adultfeed.info." always_null
 local-zone: "adultfilmcentral.com." always_null
