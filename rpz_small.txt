@@ -1,9 +1,9 @@
-; Version: 202504251710
+; Version: 202504251810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89662
-; Last modified: 2025-04-25T17:10:37+0000
+; Entries: 89648
+; Last modified: 2025-04-25T18:10:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745600402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745604003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6059,8 +6059,6 @@ ado.icorp.ro CNAME .
 *.ado.icorp.ro CNAME .
 adokutcontextual.com CNAME .
 *.adokutcontextual.com CNAME .
-adolescenteaster.com CNAME .
-*.adolescenteaster.com CNAME .
 adolescentfish.com CNAME .
 *.adolescentfish.com CNAME .
 adolescentsuperstitioustidying.com CNAME .
@@ -51125,8 +51123,6 @@ mamka.aviasales.ru CNAME .
 *.mamka.aviasales.ru CNAME .
 mamluksburion.com CNAME .
 *.mamluksburion.com CNAME .
-mammaclassesofficer.com CNAME .
-*.mammaclassesofficer.com CNAME .
 mammal.autoidle.com CNAME .
 *.mammal.autoidle.com CNAME .
 mammasdamps.shop CNAME .
@@ -56667,8 +56663,6 @@ observer3452.fun CNAME .
 *.observer3452.fun CNAME .
 observer384.fun CNAME .
 *.observer384.fun CNAME .
-observerdispleasejune.com CNAME .
-*.observerdispleasejune.com CNAME .
 obsesschristening.com CNAME .
 *.obsesschristening.com CNAME .
 obseu.netgreencolumn.com CNAME .
@@ -62393,8 +62387,6 @@ predownset.shop CNAME .
 *.predownset.shop CNAME .
 predrawfixed.top CNAME .
 *.predrawfixed.top CNAME .
-prefecturecagesgraphic.com CNAME .
-*.prefecturecagesgraphic.com CNAME .
 prefecturesolelysadness.com CNAME .
 *.prefecturesolelysadness.com CNAME .
 prefecturesuggestions.com CNAME .
@@ -62975,8 +62967,6 @@ proscontaining.com CNAME .
 *.proscontaining.com CNAME .
 prose-nou.com CNAME .
 *.prose-nou.com CNAME .
-prosecutorkettle.com CNAME .
-*.prosecutorkettle.com CNAME .
 prosedisavow.com CNAME .
 *.prosedisavow.com CNAME .
 proselyaltars.com CNAME .
@@ -85165,8 +85155,6 @@ weensnandow.com CNAME .
 *.weensnandow.com CNAME .
 weeoffer.com CNAME .
 *.weeoffer.com CNAME .
-weepingpretext.com CNAME .
-*.weepingpretext.com CNAME .
 weesatoothoamu.net CNAME .
 *.weesatoothoamu.net CNAME .
 weesenoogli.net CNAME .
@@ -85417,8 +85405,6 @@ wheelssightsdisappointed.com CNAME .
 *.wheelssightsdisappointed.com CNAME .
 wheengesurrept.com CNAME .
 *.wheengesurrept.com CNAME .
-wheeptit.net CNAME .
-*.wheeptit.net CNAME .
 wheeshoo.net CNAME .
 *.wheeshoo.net CNAME .
 whefookak.net CNAME .
