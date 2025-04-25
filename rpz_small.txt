@@ -1,9 +1,9 @@
-; Version: 202504250809
+; Version: 202504250908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89798
-; Last modified: 2025-04-25T08:09:26+0000
+; Entries: 89774
+; Last modified: 2025-04-25T09:08:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745568003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745571603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18081,8 +18081,6 @@ bshr.ezodn.com CNAME .
 *.bshr.ezodn.com CNAME .
 bshrdr.com CNAME .
 *.bshrdr.com CNAME .
-bsilzzc.com CNAME .
-*.bsilzzc.com CNAME .
 bsjusnip.com CNAME .
 *.bsjusnip.com CNAME .
 bssaly.com CNAME .
@@ -21815,8 +21813,6 @@ clicktrade.com CNAME .
 *.clicktrade.com CNAME .
 clicktrixredirects.com CNAME .
 *.clicktrixredirects.com CNAME .
-clicktrpro.com CNAME .
-*.clicktrpro.com CNAME .
 clickupto.com CNAME .
 *.clickupto.com CNAME .
 clickurlik.com CNAME .
@@ -24993,8 +24989,6 @@ cycvyo.xyz CNAME .
 *.cycvyo.xyz CNAME .
 cyeqeewyr.com CNAME .
 *.cyeqeewyr.com CNAME .
-cyfgpxzdguhf.com CNAME .
-*.cyfgpxzdguhf.com CNAME .
 cyg-byzlgtns.world CNAME .
 *.cyg-byzlgtns.world CNAME .
 cygnetgeorama.shop CNAME .
@@ -37593,8 +37587,6 @@ garotedwhiff.top CNAME .
 *.garotedwhiff.top CNAME .
 garrafaoutsins.top CNAME .
 *.garrafaoutsins.top CNAME .
-garretassociate.com CNAME .
-*.garretassociate.com CNAME .
 garretdistort.com CNAME .
 *.garretdistort.com CNAME .
 garsneck.click CNAME .
@@ -42647,8 +42639,6 @@ hypnoseterapi.com CNAME .
 *.hypnoseterapi.com CNAME .
 hypnotismjamrelay.com CNAME .
 *.hypnotismjamrelay.com CNAME .
-hypnotizebladdersdictate.com CNAME .
-*.hypnotizebladdersdictate.com CNAME .
 hypnotizesqueegeetricolor.com CNAME .
 *.hypnotizesqueegeetricolor.com CNAME .
 hypnotone.com CNAME .
@@ -42961,8 +42951,6 @@ idhad.com CNAME .
 *.idhad.com CNAME .
 idiafix.com CNAME .
 *.idiafix.com CNAME .
-idiothungryensue.com CNAME .
-*.idiothungryensue.com CNAME .
 idioticmapping.com CNAME .
 *.idioticmapping.com CNAME .
 idioticstoop.com CNAME .
@@ -46637,8 +46625,6 @@ kgmboksmi.com CNAME .
 *.kgmboksmi.com CNAME .
 kgvvvgxtvi.rocks CNAME .
 *.kgvvvgxtvi.rocks CNAME .
-kgyhxdh.com CNAME .
-*.kgyhxdh.com CNAME .
 kgymoc.xyz CNAME .
 *.kgymoc.xyz CNAME .
 kh-bkcvqxc.online CNAME .
@@ -61845,8 +61831,6 @@ polyh-nce.com CNAME .
 *.polyh-nce.com CNAME .
 pombefaqirs.top CNAME .
 *.pombefaqirs.top CNAME .
-pompeywantinggetaway.com CNAME .
-*.pompeywantinggetaway.com CNAME .
 pompouslemonadetwitter.com CNAME .
 *.pompouslemonadetwitter.com CNAME .
 ponafet.ru CNAME .
@@ -74895,8 +74879,6 @@ stereomagiciannoun.com CNAME .
 *.stereomagiciannoun.com CNAME .
 stereospoutfireextinguisher.com CNAME .
 *.stereospoutfireextinguisher.com CNAME .
-stereotyperust.com CNAME .
-*.stereotyperust.com CNAME .
 stereotypeswig.com CNAME .
 *.stereotypeswig.com CNAME .
 sterilityintentionnag.com CNAME .
@@ -74913,8 +74895,6 @@ stethepsartopo.com CNAME .
 *.stethepsartopo.com CNAME .
 stevesmovies.com CNAME .
 *.stevesmovies.com CNAME .
-stewomelettegrand.com CNAME .
-*.stewomelettegrand.com CNAME .
 stg-data-collector.playbuzz.com CNAME .
 *.stg-data-collector.playbuzz.com CNAME .
 stgowan.com CNAME .
@@ -81273,8 +81253,6 @@ twazzyoidwlfe.com CNAME .
 *.twazzyoidwlfe.com CNAME .
 twch.femina.ch CNAME .
 *.twch.femina.ch CNAME .
-twcnmti.top CNAME .
-*.twcnmti.top CNAME .
 tweakarrangement.com CNAME .
 *.tweakarrangement.com CNAME .
 tweedygirly.com CNAME .
@@ -88423,8 +88401,6 @@ yamshikbrucia.top CNAME .
 *.yamshikbrucia.top CNAME .
 yandexadexchange.net CNAME .
 *.yandexadexchange.net CNAME .
-yapdiscuss.com CNAME .
-*.yapdiscuss.com CNAME .
 yapforestsfairfax.com CNAME .
 *.yapforestsfairfax.com CNAME .
 yapunderstandsounding.com CNAME .
