@@ -1,9 +1,9 @@
-; Version: 202504242316
+; Version: 202504250008
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89872
-; Last modified: 2025-04-24T23:16:33+0000
+; Entries: 89864
+; Last modified: 2025-04-25T00:08:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745535603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745539209 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33417,8 +33417,6 @@ etahub.com CNAME .
 *.etahub.com CNAME .
 etargetnet.com CNAME .
 *.etargetnet.com CNAME .
-etbh.cn CNAME .
-*.etbh.cn CNAME .
 etchantmegger.click CNAME .
 *.etchantmegger.click CNAME .
 etemis.com CNAME .
@@ -46321,8 +46319,6 @@ kagonst.com CNAME .
 *.kagonst.com CNAME .
 kagrooxa.net CNAME .
 *.kagrooxa.net CNAME .
-kai5741.xyz CNAME .
-*.kai5741.xyz CNAME .
 kaifiluk.com CNAME .
 *.kaifiluk.com CNAME .
 kailsfrot.com CNAME .
@@ -48285,8 +48281,6 @@ lehoacku.net CNAME .
 *.lehoacku.net CNAME .
 lehrer-finden.de CNAME .
 *.lehrer-finden.de CNAME .
-leirerspfz.com CNAME .
-*.leirerspfz.com CNAME .
 leisurebrain.com CNAME .
 *.leisurebrain.com CNAME .
 leisurehazearcher.com CNAME .
@@ -84451,8 +84445,6 @@ vsx.hotpornfile.org CNAME .
 *.vsx.hotpornfile.org CNAME .
 vtabnalp.net CNAME .
 *.vtabnalp.net CNAME .
-vtbe.cn CNAME .
-*.vtbe.cn CNAME .
 vtbkhl.icu CNAME .
 *.vtbkhl.icu CNAME .
 vteflygt.com CNAME .
