@@ -1,9 +1,9 @@
-# Version: 202504250512
+# Version: 202504250612
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20784
-# Last modified: 2025-04-25T05:12:49+0000
+# Entries: 20786
+# Last modified: 2025-04-25T06:12:33+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3075,6 +3075,7 @@ local-zone: "cartoonporn.pro." always_null
 local-zone: "cartoonporn.to." always_null
 local-zone: "cartoonporn.tv." always_null
 local-zone: "cartoonporn24.com." always_null
+local-zone: "cartoonporncomics.info." always_null
 local-zone: "cartoonporno.pro." always_null
 local-zone: "cartoonporno.xxx." always_null
 local-zone: "cartoonporno1cn.com." always_null
@@ -3567,6 +3568,7 @@ local-zone: "con.mx." always_null
 local-zone: "concordelove.fr." always_null
 local-zone: "conejitashot.com." always_null
 local-zone: "conejox.com." always_null
+local-zone: "confessionpost.com." always_null
 local-zone: "confessionstories.org." always_null
 local-zone: "confluent.cloud." always_null
 local-zone: "confrariars.com.br." always_null
