@@ -1,9 +1,9 @@
-; Version: 202504250709
+; Version: 202504250809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89818
-; Last modified: 2025-04-25T07:09:02+0000
+; Entries: 89798
+; Last modified: 2025-04-25T08:09:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745564403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745568003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12751,8 +12751,6 @@ arrivedeuropean.com CNAME .
 *.arrivedeuropean.com CNAME .
 arrivesomewhere.com CNAME .
 *.arrivesomewhere.com CNAME .
-arrivingallowspollen.com CNAME .
-*.arrivingallowspollen.com CNAME .
 arrlnk.com CNAME .
 *.arrlnk.com CNAME .
 arrnaught.com CNAME .
@@ -13825,8 +13823,6 @@ autorekrb.bid CNAME .
 *.autorekrb.bid CNAME .
 autotrack.studyquicks.com CNAME .
 *.autotrack.studyquicks.com CNAME .
-auvauvixoazedro.net CNAME .
-*.auvauvixoazedro.net CNAME .
 auwhissaib.net CNAME .
 *.auwhissaib.net CNAME .
 auxiliarydonor.com CNAME .
@@ -17141,8 +17137,6 @@ boacheeb.com CNAME .
 *.boacheeb.com CNAME .
 boagleetsurvey.space CNAME .
 *.boagleetsurvey.space CNAME .
-boahnoy.com CNAME .
-*.boahnoy.com CNAME .
 boannre.com CNAME .
 *.boannre.com CNAME .
 boar.hopehollow.com CNAME .
@@ -23803,8 +23797,6 @@ courageousdiedbow.com CNAME .
 *.courageousdiedbow.com CNAME .
 courewauph.com CNAME .
 *.courewauph.com CNAME .
-courierembedded.com CNAME .
-*.courierembedded.com CNAME .
 courilcryptscuittle.cfd CNAME .
 *.courilcryptscuittle.cfd CNAME .
 coursejavgg124.fun CNAME .
@@ -32405,8 +32397,6 @@ egretswamper.com CNAME .
 *.egretswamper.com CNAME .
 egxtaxsqf.com CNAME .
 *.egxtaxsqf.com CNAME .
-egykofo.com CNAME .
-*.egykofo.com CNAME .
 eh0ag0-rtbix.top CNAME .
 *.eh0ag0-rtbix.top CNAME .
 ehgavvcqj.xyz CNAME .
@@ -32715,8 +32705,6 @@ emissionidiompolygon.com CNAME .
 *.emissionidiompolygon.com CNAME .
 emitlavas.click CNAME .
 *.emitlavas.click CNAME .
-emitmagnitude.com CNAME .
-*.emitmagnitude.com CNAME .
 emittediodids.top CNAME .
 *.emittediodids.top CNAME .
 emjrwypl.xyz CNAME .
@@ -63857,8 +63845,6 @@ purposeparking.com CNAME .
 *.purposeparking.com CNAME .
 purrrrrrrr.net CNAME .
 *.purrrrrrrr.net CNAME .
-purseneighbourlyseal.com CNAME .
-*.purseneighbourlyseal.com CNAME .
 pursuedfailurehibernate.com CNAME .
 *.pursuedfailurehibernate.com CNAME .
 pursuingconjunction.com CNAME .
@@ -65655,8 +65641,6 @@ reagend.com CNAME .
 *.reagend.com CNAME .
 reajyu.net CNAME .
 *.reajyu.net CNAME .
-real-consequence.pro CNAME .
-*.real-consequence.pro CNAME .
 real-feedback.toros.daum.net CNAME .
 *.real-feedback.toros.daum.net CNAME .
 realbi.ru CNAME .
@@ -71951,8 +71935,6 @@ slushimplementedsystems.com CNAME .
 *.slushimplementedsystems.com CNAME .
 slview.psne.jp CNAME .
 *.slview.psne.jp CNAME .
-slwrozacmq.com CNAME .
-*.slwrozacmq.com CNAME .
 slychicks.com CNAME .
 *.slychicks.com CNAME .
 slyzoologicalpending.com CNAME .
@@ -74825,8 +74807,6 @@ staureez.net CNAME .
 *.staureez.net CNAME .
 stawhoph.com CNAME .
 *.stawhoph.com CNAME .
-staydolly.com CNAME .
-*.staydolly.com CNAME .
 staygg.com CNAME .
 *.staygg.com CNAME .
 stayingcrushedrelaxing.com CNAME .
