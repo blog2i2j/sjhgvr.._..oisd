@@ -1,9 +1,9 @@
-# Version: 202504250411
+# Version: 202504250512
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20783
-# Last modified: 2025-04-25T04:11:28+0000
+# Entries: 20784
+# Last modified: 2025-04-25T05:12:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -7448,6 +7448,7 @@ local-zone: "hentaiz.ws." always_null
 local-zone: "hentaizap.com." always_null
 local-zone: "hentaizone.me." always_null
 local-zone: "hentaizone.xyz." always_null
+local-zone: "hentakugames.com." always_null
 local-zone: "hentalk.pw." always_null
 local-zone: "hentasis.me." always_null
 local-zone: "hentasis1.top." always_null
