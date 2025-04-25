@@ -1,9 +1,9 @@
-; Version: 202504251810
+; Version: 202504251911
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89648
-; Last modified: 2025-04-25T18:10:34+0000
+; Entries: 89634
+; Last modified: 2025-04-25T19:11:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745604003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745607603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -10221,8 +10221,6 @@ amusedfoisted.top CNAME .
 *.amusedfoisted.top CNAME .
 amuseer.com CNAME .
 *.amuseer.com CNAME .
-amusementchillyforce.com CNAME .
-*.amusementchillyforce.com CNAME .
 amusementrehearseevil.com CNAME .
 *.amusementrehearseevil.com CNAME .
 amusementstepfatherpretence.com CNAME .
@@ -17141,8 +17139,6 @@ boastfive.com CNAME .
 *.boastfive.com CNAME .
 boasttrial.com CNAME .
 *.boasttrial.com CNAME .
-boastwelfare.com CNAME .
-*.boastwelfare.com CNAME .
 boatheeh.com CNAME .
 *.boatheeh.com CNAME .
 boatjadeinconsistency.com CNAME .
@@ -19531,8 +19527,6 @@ casinousagevacant.com CNAME .
 *.casinousagevacant.com CNAME .
 casionest292flaudient.com CNAME .
 *.casionest292flaudient.com CNAME .
-caskcountry.com CNAME .
-*.caskcountry.com CNAME .
 casketdropperregalia.com CNAME .
 *.casketdropperregalia.com CNAME .
 casketparchhey.com CNAME .
@@ -34925,8 +34919,6 @@ fdfda.zhuzhai.com CNAME .
 *.fdfda.zhuzhai.com CNAME .
 fdiirjong.com CNAME .
 *.fdiirjong.com CNAME .
-fdjdufrpg.com CNAME .
-*.fdjdufrpg.com CNAME .
 fdolspwa.my CNAME .
 *.fdolspwa.my CNAME .
 fdsur.com CNAME .
@@ -36299,8 +36291,6 @@ forcetwice.com CNAME .
 *.forcetwice.com CNAME .
 forciblelad.com CNAME .
 *.forciblelad.com CNAME .
-forciblepolicyinner.com CNAME .
-*.forciblepolicyinner.com CNAME .
 forcingclinch.com CNAME .
 *.forcingclinch.com CNAME .
 forducklettr.com CNAME .
@@ -36645,8 +36635,6 @@ freakperjurylanentablelanentable.com CNAME .
 *.freakperjurylanentablelanentable.com CNAME .
 freckedpotboil.shop CNAME .
 *.freckedpotboil.shop CNAME .
-frecklessfrecklesscommercialeighth.com CNAME .
-*.frecklessfrecklesscommercialeighth.com CNAME .
 fredmoresco.com CNAME .
 *.fredmoresco.com CNAME .
 free-cdn.oss-cn-shanghai.aliyuncs.com CNAME .
@@ -48301,8 +48289,6 @@ letqejcjo.xyz CNAME .
 *.letqejcjo.xyz CNAME .
 letsbegin.online CNAME .
 *.letsbegin.online CNAME .
-lettenfluoric.com CNAME .
-*.lettenfluoric.com CNAME .
 letterwolves.com CNAME .
 *.letterwolves.com CNAME .
 leukemiaruns.com CNAME .
