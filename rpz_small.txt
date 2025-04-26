@@ -1,9 +1,9 @@
-; Version: 202504261109
+; Version: 202504261209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89624
-; Last modified: 2025-04-26T11:09:31+0000
+; Entries: 89614
+; Last modified: 2025-04-26T12:09:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745665202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745668802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21101,8 +21101,6 @@ cibersexo.eu CNAME .
 *.cibersexo.eu CNAME .
 cicada.wordvested.org CNAME .
 *.cicada.wordvested.org CNAME .
-cicamica.xyz CNAME .
-*.cicamica.xyz CNAME .
 ciceklioglu.com CNAME .
 *.ciceklioglu.com CNAME .
 cidqzahi.com CNAME .
@@ -37297,8 +37295,6 @@ gaietyexhalerucksack.com CNAME .
 *.gaietyexhalerucksack.com CNAME .
 gaihoumauwha.com CNAME .
 *.gaihoumauwha.com CNAME .
-gaijiglo.net CNAME .
-*.gaijiglo.net CNAME .
 gaimauroogrou.net CNAME .
 *.gaimauroogrou.net CNAME .
 gaimoupy.net CNAME .
@@ -42437,8 +42433,6 @@ hvpmpettedcroqc.com CNAME .
 *.hvpmpettedcroqc.com CNAME .
 hvpsfsuruamnc.icu CNAME .
 *.hvpsfsuruamnc.icu CNAME .
-hvrunsqqy.com CNAME .
-*.hvrunsqqy.com CNAME .
 hvtsxseblxie.com CNAME .
 *.hvtsxseblxie.com CNAME .
 hvwqgedwpckc.com CNAME .
@@ -71235,8 +71229,6 @@ sidenoteinvolvingcranky.com CNAME .
 *.sidenoteinvolvingcranky.com CNAME .
 sidenoteproductionbond.com CNAME .
 *.sidenoteproductionbond.com CNAME .
-sidewayfrosty.com CNAME .
-*.sidewayfrosty.com CNAME .
 sidezaeta.live CNAME .
 *.sidezaeta.live CNAME .
 sidsaignoo.net CNAME .
@@ -86821,8 +86813,6 @@ xaxoro.com CNAME .
 *.xaxoro.com CNAME .
 xazahrvhibk.com CNAME .
 *.xazahrvhibk.com CNAME .
-xazgbxfxj.com CNAME .
-*.xazgbxfxj.com CNAME .
 xazoglawq.com CNAME .
 *.xazoglawq.com CNAME .
 xazojei-z.top CNAME .
