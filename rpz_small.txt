@@ -1,9 +1,9 @@
-; Version: 202504252330
+; Version: 202504260008
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89788
-; Last modified: 2025-04-25T23:30:41+0000
+; Entries: 89782
+; Last modified: 2025-04-26T00:08:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745622001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745625603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -837,8 +837,6 @@ $TTL 30
 *.1wincdn.b-cdn.net CNAME .
 1winpb.com CNAME .
 *.1winpb.com CNAME .
-1winpost.com CNAME .
-*.1winpost.com CNAME .
 1wish.net CNAME .
 *.1wish.net CNAME .
 1worlditsolutions.com CNAME .
@@ -18515,8 +18513,6 @@ bvaklczasp.com CNAME .
 *.bvaklczasp.com CNAME .
 bvalphaserver.com CNAME .
 *.bvalphaserver.com CNAME .
-bvbypswhds.com CNAME .
-*.bvbypswhds.com CNAME .
 bvdenx.xyz CNAME .
 *.bvdenx.xyz CNAME .
 bvmcdn.com CNAME .
@@ -85599,8 +85595,6 @@ whimsrehash.com CNAME .
 *.whimsrehash.com CNAME .
 whinemalnutrition.com CNAME .
 *.whinemalnutrition.com CNAME .
-whinsairguglo.net CNAME .
-*.whinsairguglo.net CNAME .
 whippedfreezerbegun.com CNAME .
 *.whippedfreezerbegun.com CNAME .
 whippet.ianglover.com CNAME .
