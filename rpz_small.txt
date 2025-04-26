@@ -1,9 +1,9 @@
-; Version: 202504261910
+; Version: 202504262010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89506
-; Last modified: 2025-04-26T19:10:24+0000
+; Entries: 89496
+; Last modified: 2025-04-26T20:10:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745694002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745697602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24945,8 +24945,6 @@ cytomecruor.top CNAME .
 *.cytomecruor.top CNAME .
 cyuyvjwyfvn.com CNAME .
 *.cyuyvjwyfvn.com CNAME .
-cyvjmnu.com CNAME .
-*.cyvjmnu.com CNAME .
 cza.crazygames.com CNAME .
 *.cza.crazygames.com CNAME .
 czaraptitude.com CNAME .
@@ -39655,8 +39653,6 @@ groundinquiryoccupation.com CNAME .
 *.groundinquiryoccupation.com CNAME .
 groundlesscobwebmiller.com CNAME .
 *.groundlesscobwebmiller.com CNAME .
-groundlesscrown.com CNAME .
-*.groundlesscrown.com CNAME .
 groundlesstightsitself.com CNAME .
 *.groundlesstightsitself.com CNAME .
 groupian.io CNAME .
@@ -49849,8 +49845,6 @@ logsgroupknew.com CNAME .
 *.logsgroupknew.com CNAME .
 logshipascites.shop CNAME .
 *.logshipascites.shop CNAME .
-logshort.xyz CNAME .
-*.logshort.xyz CNAME .
 logsink.zedge.net CNAME .
 *.logsink.zedge.net CNAME .
 logsss.com CNAME .
@@ -53331,8 +53325,6 @@ monkeybroker.net CNAME .
 *.monkeybroker.net CNAME .
 monkeysloveyou.com CNAME .
 *.monkeysloveyou.com CNAME .
-monksfoodcremate.com CNAME .
-*.monksfoodcremate.com CNAME .
 monnionyusdrum.com CNAME .
 *.monnionyusdrum.com CNAME .
 monorailnailtributary.com CNAME .
@@ -59641,8 +59633,6 @@ pathfinder.analytics.komoot.net CNAME .
 *.pathfinder.analytics.komoot.net CNAME .
 pathletbiding.click CNAME .
 *.pathletbiding.click CNAME .
-patiomistake.com CNAME .
-*.patiomistake.com CNAME .
 patriot.cs.pp.cn CNAME .
 *.patriot.cs.pp.cn CNAME .
 patronagepolitician.com CNAME .
