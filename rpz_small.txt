@@ -1,9 +1,9 @@
-; Version: 202504262010
+; Version: 202504262109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89496
-; Last modified: 2025-04-26T20:10:06+0000
+; Entries: 89468
+; Last modified: 2025-04-26T21:09:40+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745697602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745701202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8011,8 +8011,6 @@ adviceforemost.com CNAME .
 *.adviceforemost.com CNAME .
 advil.waze.com CNAME .
 *.advil.waze.com CNAME .
-advinci.co CNAME .
-*.advinci.co CNAME .
 adviralmedia.com CNAME .
 *.adviralmedia.com CNAME .
 advise.co CNAME .
@@ -12527,8 +12525,6 @@ arbutterfreer.com CNAME .
 *.arbutterfreer.com CNAME .
 arc1.msn.com CNAME .
 *.arc1.msn.com CNAME .
-arcedcoss.top CNAME .
-*.arcedcoss.top CNAME .
 archaicchop.com CNAME .
 *.archaicchop.com CNAME .
 archaicgrilledignorant.com CNAME .
@@ -14199,8 +14195,6 @@ aynhnrgxjxfv.com CNAME .
 *.aynhnrgxjxfv.com CNAME .
 ayoukpts.guru CNAME .
 *.ayoukpts.guru CNAME .
-ayrather.com CNAME .
-*.ayrather.com CNAME .
 aywgucxmh.com CNAME .
 *.aywgucxmh.com CNAME .
 aywivflptwd.com CNAME .
@@ -22801,8 +22795,6 @@ compositefarming.com CNAME .
 *.compositefarming.com CNAME .
 compositeoverdo.com CNAME .
 *.compositeoverdo.com CNAME .
-compositeprotector.com CNAME .
-*.compositeprotector.com CNAME .
 comprabanner.it CNAME .
 *.comprabanner.it CNAME .
 compras.aomg5bzv7.com CNAME .
@@ -28359,8 +28351,6 @@ decreasetome.com CNAME .
 *.decreasetome.com CNAME .
 decrepitgulpedformation.com CNAME .
 *.decrepitgulpedformation.com CNAME .
-dedicatedsummarythrone.com CNAME .
-*.dedicatedsummarythrone.com CNAME .
 dedicateimaginesoil.com CNAME .
 *.dedicateimaginesoil.com CNAME .
 dedicationfits.com CNAME .
@@ -40595,8 +40585,6 @@ haulstugging.com CNAME .
 *.haulstugging.com CNAME .
 haunigre.net CNAME .
 *.haunigre.net CNAME .
-haunteddishwatermortal.com CNAME .
-*.haunteddishwatermortal.com CNAME .
 hauntedoverride.com CNAME .
 *.hauntedoverride.com CNAME .
 hauntingfannyblades.com CNAME .
@@ -46153,8 +46141,6 @@ kaleidoscopeadjacent.com CNAME .
 *.kaleidoscopeadjacent.com CNAME .
 kaleidoscopefingernaildigging.com CNAME .
 *.kaleidoscopefingernaildigging.com CNAME .
-kaleidoscopepincers.com CNAME .
-*.kaleidoscopepincers.com CNAME .
 kalifsseeding.top CNAME .
 *.kalifsseeding.top CNAME .
 kalimbadanic.shop CNAME .
@@ -52743,8 +52729,6 @@ mite.tetrameros.com CNAME .
 *.mite.tetrameros.com CNAME .
 mithrasarts.top CNAME .
 *.mithrasarts.top CNAME .
-mito03.top CNAME .
-*.mito03.top CNAME .
 mitreskravers.com CNAME .
 *.mitreskravers.com CNAME .
 mitself.net CNAME .
@@ -54713,8 +54697,6 @@ ndparking.com CNAME .
 *.ndparking.com CNAME .
 ndpxzxyqpwcnz.click CNAME .
 *.ndpxzxyqpwcnz.click CNAME .
-ndqkxjo.com CNAME .
-*.ndqkxjo.com CNAME .
 ndroip.com CNAME .
 *.ndroip.com CNAME .
 ndroundhertouc.com CNAME .
@@ -59409,8 +59391,6 @@ parisjeroleinpg.com CNAME .
 *.parisjeroleinpg.com CNAME .
 paritycreepercar.com CNAME .
 *.paritycreepercar.com CNAME .
-parkcircularpearl.com CNAME .
-*.parkcircularpearl.com CNAME .
 parkersapele.shop CNAME .
 *.parkersapele.shop CNAME .
 parkingcombstrawberry.com CNAME .
@@ -61363,8 +61343,6 @@ plumpmom.com CNAME .
 *.plumpmom.com CNAME .
 plumsbusiness.com CNAME .
 *.plumsbusiness.com CNAME .
-plumsscientific.com CNAME .
-*.plumsscientific.com CNAME .
 plundertentative.com CNAME .
 *.plundertentative.com CNAME .
 plungedcandourbleach.com CNAME .
@@ -75223,8 +75201,6 @@ sueivypeg.com CNAME .
 *.sueivypeg.com CNAME .
 suelwoiwwhhjna.com CNAME .
 *.suelwoiwwhhjna.com CNAME .
-suesuspiciousin.com CNAME .
-*.suesuspiciousin.com CNAME .
 sufferingtail.com CNAME .
 *.sufferingtail.com CNAME .
 sufferinguniversalbitter.com CNAME .
@@ -77409,8 +77385,6 @@ thenetwork18.com CNAME .
 *.thenetwork18.com CNAME .
 thenfulfilearnestly.com CNAME .
 *.thenfulfilearnestly.com CNAME .
-theologicalpresentation.com CNAME .
-*.theologicalpresentation.com CNAME .
 theonecdn.com CNAME .
 *.theonecdn.com CNAME .
 theonesstoodtheirground.com CNAME .
@@ -80739,8 +80713,6 @@ ttributoraheadyg.org CNAME .
 *.ttributoraheadyg.org CNAME .
 ttrk.io CNAME .
 *.ttrk.io CNAME .
-ttsycqxjvgrya.xyz CNAME .
-*.ttsycqxjvgrya.xyz CNAME .
 tttcraukuyqff.one CNAME .
 *.tttcraukuyqff.one CNAME .
 tttppp.oss-cn-guangzhou.aliyuncs.com CNAME .
