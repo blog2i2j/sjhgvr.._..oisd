@@ -1,9 +1,9 @@
-; Version: 202504261810
+; Version: 202504261910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89526
-; Last modified: 2025-04-26T18:10:17+0000
+; Entries: 89506
+; Last modified: 2025-04-26T19:10:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745690402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745694002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2257,8 +2257,6 @@ $TTL 30
 *.6a0d38e347.com CNAME .
 6a7e08c01b.com CNAME .
 *.6a7e08c01b.com CNAME .
-6a7eac2034.com CNAME .
-*.6a7eac2034.com CNAME .
 6ac78725fd.com CNAME .
 *.6ac78725fd.com CNAME .
 6amateure.net CNAME .
@@ -17989,8 +17987,6 @@ brumousrocolo.com CNAME .
 *.brumousrocolo.com CNAME .
 brunchcreatesenses.com CNAME .
 *.brunchcreatesenses.com CNAME .
-brunetteattendanceawful.com CNAME .
-*.brunetteattendanceawful.com CNAME .
 brunettemattersrefused.com CNAME .
 *.brunettemattersrefused.com CNAME .
 bruntstabulae.com CNAME .
@@ -23211,8 +23207,6 @@ contentclick.co.uk CNAME .
 *.contentclick.co.uk CNAME .
 contentcrocodile.com CNAME .
 *.contentcrocodile.com CNAME .
-contentedinterimregardless.com CNAME .
-*.contentedinterimregardless.com CNAME .
 contentedsensationalprincipal.com CNAME .
 *.contentedsensationalprincipal.com CNAME .
 contentjs.com CNAME .
@@ -23771,8 +23765,6 @@ coxiesthubble.com CNAME .
 *.coxiesthubble.com CNAME .
 coxziptwo.com CNAME .
 *.coxziptwo.com CNAME .
-coyote.12gem.me CNAME .
-*.coyote.12gem.me CNAME .
 coyote.gnx.cloud CNAME .
 *.coyote.gnx.cloud CNAME .
 coyote.nickgurney.com CNAME .
@@ -40375,8 +40367,6 @@ haloedessed.top CNAME .
 *.haloedessed.top CNAME .
 halogennetwork.com CNAME .
 *.halogennetwork.com CNAME .
-halthomosexual.com CNAME .
-*.halthomosexual.com CNAME .
 haltowe.info CNAME .
 *.haltowe.info CNAME .
 hamburgerintakedrugged.com CNAME .
@@ -52367,8 +52357,6 @@ mgcash.com CNAME .
 *.mgcash.com CNAME .
 mgdjmp.com CNAME .
 *.mgdjmp.com CNAME .
-mgepuynxttyi.com CNAME .
-*.mgepuynxttyi.com CNAME .
 mghkpg.com CNAME .
 *.mghkpg.com CNAME .
 mgid.com CNAME .
@@ -62007,8 +61995,6 @@ potentialapplicationgrate.com CNAME .
 *.potentialapplicationgrate.com CNAME .
 potentiallypantsreseptivereseptive.com CNAME .
 *.potentiallypantsreseptivereseptive.com CNAME .
-potentymoa.com CNAME .
-*.potentymoa.com CNAME .
 potenza.cz CNAME .
 *.potenza.cz CNAME .
 pothutepu.com CNAME .
@@ -64579,8 +64565,6 @@ quarkfob.top CNAME .
 *.quarkfob.top CNAME .
 quarltweil.top CNAME .
 *.quarltweil.top CNAME .
-quarterbackanimateappointed.com CNAME .
-*.quarterbackanimateappointed.com CNAME .
 quarterbacknervous.com CNAME .
 *.quarterbacknervous.com CNAME .
 quatrefeuillepolonaise.xyz CNAME .
@@ -77973,8 +77957,6 @@ tiq.espritshop.pl CNAME .
 *.tiq.espritshop.pl CNAME .
 tiradafi.pro CNAME .
 *.tiradafi.pro CNAME .
-tirebrevity.com CNAME .
-*.tirebrevity.com CNAME .
 tireconfessed.com CNAME .
 *.tireconfessed.com CNAME .
 tireconnateunion.com CNAME .
@@ -85387,8 +85369,6 @@ whistledprocessedsplit.com CNAME .
 *.whistledprocessedsplit.com CNAME .
 whistlingmoderate.com CNAME .
 *.whistlingmoderate.com CNAME .
-whistlingvowel.com CNAME .
-*.whistlingvowel.com CNAME .
 white-eyes.com CNAME .
 *.white-eyes.com CNAME .
 whiteaccompanypreach.com CNAME .
