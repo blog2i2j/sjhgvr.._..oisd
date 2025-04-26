@@ -1,9 +1,9 @@
-; Version: 202504261614
+; Version: 202504261715
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41652
-; Last modified: 2025-04-26T16:14:51+0000
+; Entries: 41662
+; Last modified: 2025-04-26T17:15:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745683202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745686802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3891,6 +3891,8 @@ bearfilms.com CNAME .
 *.bearfilms.com CNAME .
 bearforest.com CNAME .
 *.bearforest.com CNAME .
+bearfront.com CNAME .
+*.bearfront.com CNAME .
 beargayvideos.com CNAME .
 *.beargayvideos.com CNAME .
 bearworld.com CNAME .
@@ -6823,6 +6825,8 @@ clickmatures.com CNAME .
 *.clickmatures.com CNAME .
 clickrifas.com CNAME .
 *.clickrifas.com CNAME .
+clickthruhost.com CNAME .
+*.clickthruhost.com CNAME .
 clicporn.com CNAME .
 *.clicporn.com CNAME .
 cliker.vip CNAME .
@@ -31551,6 +31555,8 @@ sexsaoy.com CNAME .
 *.sexsaoy.com CNAME .
 sexsati.com CNAME .
 *.sexsati.com CNAME .
+sexscenemovies.net CNAME .
+*.sexscenemovies.net CNAME .
 sexselector.com CNAME .
 *.sexselector.com CNAME .
 sexsfoto.cc CNAME .
@@ -36237,6 +36243,8 @@ ufym.pro CNAME .
 *.ufym.pro CNAME .
 ugandahotbabes.com CNAME .
 *.ugandahotbabes.com CNAME .
+ugandahotgirls.com CNAME .
+*.ugandahotgirls.com CNAME .
 ugandanporn.com CNAME .
 *.ugandanporn.com CNAME .
 ugj.net CNAME .
@@ -40631,6 +40639,8 @@ xxxshemaleporn.com CNAME .
 *.xxxshemaleporn.com CNAME .
 xxxshow.org CNAME .
 *.xxxshow.org CNAME .
+xxxsimka.com CNAME .
+*.xxxsimka.com CNAME .
 xxxsnatch.com CNAME .
 *.xxxsnatch.com CNAME .
 xxxspace.net CNAME .
