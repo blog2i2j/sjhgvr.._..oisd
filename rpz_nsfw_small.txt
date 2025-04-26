@@ -1,9 +1,9 @@
-; Version: 202504261514
+; Version: 202504261614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41644
-; Last modified: 2025-04-26T15:14:38+0000
+; Entries: 41652
+; Last modified: 2025-04-26T16:14:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745679602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745683202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -21655,6 +21655,8 @@ mobile-xnxx.com CNAME .
 *.mobile-xnxx.com CNAME .
 mobile-xvideos.com CNAME .
 *.mobile-xvideos.com CNAME .
+mobilecric.com CNAME .
+*.mobilecric.com CNAME .
 mobilelegends.com CNAME .
 *.mobilelegends.com CNAME .
 mobilepornmovies.com CNAME .
@@ -23983,6 +23985,8 @@ omegascans.org CNAME .
 *.omegascans.org CNAME .
 omegle.cc CNAME .
 *.omegle.cc CNAME .
+omegle.life CNAME .
+*.omegle.life CNAME .
 omegle.onl CNAME .
 *.omegle.onl CNAME .
 omegle.site CNAME .
@@ -27061,6 +27065,8 @@ pornogid.cc CNAME .
 *.pornogid.cc CNAME .
 pornogids.cc CNAME .
 *.pornogids.cc CNAME .
+pornogids.net CNAME .
+*.pornogids.net CNAME .
 pornogifs.net CNAME .
 *.pornogifs.net CNAME .
 pornogking.com CNAME .
@@ -27713,6 +27719,8 @@ pornpig.tube CNAME .
 *.pornpig.tube CNAME .
 pornplaybb.com CNAME .
 *.pornplaybb.com CNAME .
+pornplayvideos.com CNAME .
+*.pornplayvideos.com CNAME .
 pornploy.com CNAME .
 *.pornploy.com CNAME .
 pornplus.com CNAME .
