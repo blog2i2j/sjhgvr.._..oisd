@@ -1,9 +1,9 @@
-; Version: 202504261214
+; Version: 202504261314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41616
-; Last modified: 2025-04-26T12:14:44+0000
+; Entries: 41622
+; Last modified: 2025-04-26T13:14:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745668802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745672401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -4761,6 +4761,8 @@ blackshemalevideo.com CNAME .
 *.blackshemalevideo.com CNAME .
 blacksonblondes.com CNAME .
 *.blacksonblondes.com CNAME .
+blacktable.com CNAME .
+*.blacktable.com CNAME .
 blacktowhite.net CNAME .
 *.blacktowhite.net CNAME .
 blacktrannynow.com CNAME .
@@ -37411,6 +37413,8 @@ voyeurporn.one CNAME .
 *.voyeurporn.one CNAME .
 voyeursdream.com CNAME .
 *.voyeursdream.com CNAME .
+voyeurshd.com CNAME .
+*.voyeurshd.com CNAME .
 voyeurstyle.com CNAME .
 *.voyeurstyle.com CNAME .
 voyeurweb.com CNAME .
@@ -39585,6 +39589,8 @@ xvideo001.com CNAME .
 *.xvideo001.com CNAME .
 xvideo2.org CNAME .
 *.xvideo2.org CNAME .
+xvideo69.blog CNAME .
+*.xvideo69.blog CNAME .
 xvideo999.com CNAME .
 *.xvideo999.com CNAME .
 xvideogirl.site CNAME .
