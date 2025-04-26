@@ -1,9 +1,9 @@
-; Version: 202504261409
+; Version: 202504261509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89578
-; Last modified: 2025-04-26T14:09:32+0000
+; Entries: 89560
+; Last modified: 2025-04-26T15:09:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745676002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745679602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4595,8 +4595,6 @@ acuityads.com CNAME .
 *.acuityads.com CNAME .
 acuityplatform.com CNAME .
 *.acuityplatform.com CNAME .
-acvdubxihrk.com CNAME .
-*.acvdubxihrk.com CNAME .
 acylbirri.digital CNAME .
 *.acylbirri.digital CNAME .
 aczaqkaxbwu.com CNAME .
@@ -33037,8 +33035,6 @@ eproof.drudgereport.com CNAME .
 *.eproof.drudgereport.com CNAME .
 epsashoofil.net CNAME .
 *.epsashoofil.net CNAME .
-epsuphoa.xyz CNAME .
-*.epsuphoa.xyz CNAME .
 eptoufeebimeesh.net CNAME .
 *.eptoufeebimeesh.net CNAME .
 eptougry.net CNAME .
@@ -40945,8 +40941,6 @@ helpfulrectifychiefly.com CNAME .
 *.helpfulrectifychiefly.com CNAME .
 helpfultressy.shop CNAME .
 *.helpfultressy.shop CNAME .
-helpingnauseous.com CNAME .
-*.helpingnauseous.com CNAME .
 helplylira.top CNAME .
 *.helplylira.top CNAME .
 hem41xm47.com CNAME .
@@ -56555,8 +56549,6 @@ obcdudfwati.com CNAME .
 *.obcdudfwati.com CNAME .
 obcswpfk.xyz CNAME .
 *.obcswpfk.xyz CNAME .
-obduratesettingbeetle.com CNAME .
-*.obduratesettingbeetle.com CNAME .
 obediencechainednoun.com CNAME .
 *.obediencechainednoun.com CNAME .
 obedientapologyinefficient.com CNAME .
@@ -62535,8 +62527,6 @@ prismlacers.top CNAME .
 *.prismlacers.top CNAME .
 prisonfirmlyswallow.com CNAME .
 *.prisonfirmlyswallow.com CNAME .
-pristine-dark.pro CNAME .
-*.pristine-dark.pro CNAME .
 pritesol.com CNAME .
 *.pritesol.com CNAME .
 privacy-sandbox.appsflyersdk.com CNAME .
@@ -63501,8 +63491,6 @@ publicidad.elmundo.es CNAME .
 *.publicidad.elmundo.es CNAME .
 publicidad.net CNAME .
 *.publicidad.net CNAME .
-publiclyphasecategory.com CNAME .
-*.publiclyphasecategory.com CNAME .
 publictelemetry.tophat.com CNAME .
 *.publictelemetry.tophat.com CNAME .
 publicus.com CNAME .
@@ -67101,8 +67089,6 @@ rmuahxbcepu.com CNAME .
 *.rmuahxbcepu.com CNAME .
 rmuogjdip.com CNAME .
 *.rmuogjdip.com CNAME .
-rmuuspy.com CNAME .
-*.rmuuspy.com CNAME .
 rmwzbombkqelv.top CNAME .
 *.rmwzbombkqelv.top CNAME .
 rmyfiwopdzf.com CNAME .
@@ -67975,8 +67961,6 @@ rtb-uswest-v4.infinityexplorers.com CNAME .
 *.rtb-uswest-v4.infinityexplorers.com CNAME .
 rtb-uswest-v4.prertbdir.com CNAME .
 *.rtb-uswest-v4.prertbdir.com CNAME .
-rtb-uswest-v4.revbid.net CNAME .
-*.rtb-uswest-v4.revbid.net CNAME .
 rtb-uswest-v4.rnkclkres.com CNAME .
 *.rtb-uswest-v4.rnkclkres.com CNAME .
 rtb-uswest-v4.vistarsagency.com CNAME .
@@ -82865,8 +82849,6 @@ valuepastscowl.com CNAME .
 *.valuepastscowl.com CNAME .
 valuerstarringarmistice.com CNAME .
 *.valuerstarringarmistice.com CNAME .
-valuerstray.com CNAME .
-*.valuerstray.com CNAME .
 valueslinear.com CNAME .
 *.valueslinear.com CNAME .
 valvyre.com CNAME .
