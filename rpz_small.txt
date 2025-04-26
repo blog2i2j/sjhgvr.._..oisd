@@ -1,9 +1,9 @@
-; Version: 202504260708
+; Version: 202504260808
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89666
-; Last modified: 2025-04-26T07:08:52+0000
+; Entries: 89646
+; Last modified: 2025-04-26T08:08:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745650802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745654401 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8571,8 +8571,6 @@ afkwa.com CNAME .
 *.afkwa.com CNAME .
 afl.rozetka.com.ua CNAME .
 *.afl.rozetka.com.ua CNAME .
-afloatroyalty.com CNAME .
-*.afloatroyalty.com CNAME .
 afm01.com CNAME .
 *.afm01.com CNAME .
 afnhc.com CNAME .
@@ -22783,8 +22781,6 @@ comparativelyoccursdeclaration.com CNAME .
 *.comparativelyoccursdeclaration.com CNAME .
 compare.meteoservice.ru CNAME .
 *.compare.meteoservice.ru CNAME .
-compareddiagram.com CNAME .
-*.compareddiagram.com CNAME .
 comparedsilas.com CNAME .
 *.comparedsilas.com CNAME .
 comparedsobalike.com CNAME .
@@ -27627,8 +27623,6 @@ daily.thezebra.org CNAME .
 *.daily.thezebra.org CNAME .
 daily.yubanet.com CNAME .
 *.daily.yubanet.com CNAME .
-dailyalienate.com CNAME .
-*.dailyalienate.com CNAME .
 dailyc24.com CNAME .
 *.dailyc24.com CNAME .
 dailychronicles2.xyz CNAME .
@@ -56987,8 +56981,6 @@ offsetpushful.com CNAME .
 *.offsetpushful.com CNAME .
 offshoreapprenticeheadphone.com CNAME .
 *.offshoreapprenticeheadphone.com CNAME .
-offshoredutchencouraging.com CNAME .
-*.offshoredutchencouraging.com CNAME .
 offshuppetchan.com CNAME .
 *.offshuppetchan.com CNAME .
 offsigilyphor.com CNAME .
@@ -61213,8 +61205,6 @@ planner.tiscali.it CNAME .
 *.planner.tiscali.it CNAME .
 plannersavour.com CNAME .
 *.plannersavour.com CNAME .
-planningbullyingquoted.com CNAME .
-*.planningbullyingquoted.com CNAME .
 planningdesigned.com CNAME .
 *.planningdesigned.com CNAME .
 planningwebviolently.com CNAME .
@@ -75223,8 +75213,6 @@ stupid-luck.com CNAME .
 *.stupid-luck.com CNAME .
 stupidityscream.com CNAME .
 *.stupidityscream.com CNAME .
-stupidspaceshipfestivity.com CNAME .
-*.stupidspaceshipfestivity.com CNAME .
 stupsouchig.com CNAME .
 *.stupsouchig.com CNAME .
 sturgeon.patentfamily.com CNAME .
@@ -77819,8 +77807,6 @@ thronosgeneura.com CNAME .
 *.thronosgeneura.com CNAME .
 throughthesumeme.com CNAME .
 *.throughthesumeme.com CNAME .
-throwinterrogatetwitch.com CNAME .
-*.throwinterrogatetwitch.com CNAME .
 throwsceases.com CNAME .
 *.throwsceases.com CNAME .
 thrtle.com CNAME .
@@ -78779,8 +78765,6 @@ toucan.the-faithful.com CNAME .
 *.toucan.the-faithful.com CNAME .
 touched35one.pro CNAME .
 *.touched35one.pro CNAME .
-touchyeccentric.com CNAME .
-*.touchyeccentric.com CNAME .
 toughhire.com CNAME .
 *.toughhire.com CNAME .
 tour.brazzers.com CNAME .
@@ -80847,8 +80831,6 @@ tslomhfys.com CNAME .
 *.tslomhfys.com CNAME .
 tsml.fun CNAME .
 *.tsml.fun CNAME .
-tsmqbyd.com CNAME .
-*.tsmqbyd.com CNAME .
 tsmt5revp.com CNAME .
 *.tsmt5revp.com CNAME .
 tsn.dmcmedia.co.kr CNAME .
@@ -85301,8 +85283,6 @@ wetsireoverload.com CNAME .
 *.wetsireoverload.com CNAME .
 wettestspanemy.com CNAME .
 *.wettestspanemy.com CNAME .
-wewlorozwolyz.top CNAME .
-*.wewlorozwolyz.top CNAME .
 wexevoom.net CNAME .
 *.wexevoom.net CNAME .
 wextap.com CNAME .
