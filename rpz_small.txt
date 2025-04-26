@@ -1,9 +1,9 @@
-; Version: 202504260307
+; Version: 202504260408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89728
-; Last modified: 2025-04-26T03:07:59+0000
+; Entries: 89714
+; Last modified: 2025-04-26T04:08:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745636402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745640001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6893,8 +6893,6 @@ ads.psd2html.com CNAME .
 *.ads.psd2html.com CNAME .
 ads.quoka.de CNAME .
 *.ads.quoka.de CNAME .
-ads.rd.linksynergy.com CNAME .
-*.ads.rd.linksynergy.com CNAME .
 ads.recoletos.es CNAME .
 *.ads.recoletos.es CNAME .
 ads.recon.com CNAME .
@@ -29419,8 +29417,6 @@ directone.xyz CNAME .
 *.directone.xyz CNAME .
 directorym.com CNAME .
 *.directorym.com CNAME .
-directoutside.pro CNAME .
-*.directoutside.pro CNAME .
 directrankcl.com CNAME .
 *.directrankcl.com CNAME .
 directsnap.click CNAME .
@@ -45007,8 +45003,6 @@ jatfugios.com CNAME .
 *.jatfugios.com CNAME .
 jatobaviruela.com CNAME .
 *.jatobaviruela.com CNAME .
-jatomayfair.life CNAME .
-*.jatomayfair.life CNAME .
 jattepush.com CNAME .
 *.jattepush.com CNAME .
 jaubumashiphi.net CNAME .
@@ -55721,8 +55715,6 @@ nonstoppartner.de CNAME .
 *.nonstoppartner.de CNAME .
 nontraditionally.rest CNAME .
 *.nontraditionally.rest CNAME .
-noodledesperately.com CNAME .
-*.noodledesperately.com CNAME .
 noodshare.pics CNAME .
 *.noodshare.pics CNAME .
 noohapou.com CNAME .
@@ -62495,8 +62487,6 @@ preparingacrossreply.com CNAME .
 *.preparingacrossreply.com CNAME .
 prepositiondiscourteous.com CNAME .
 *.prepositiondiscourteous.com CNAME .
-prepositionrumour.com CNAME .
-*.prepositionrumour.com CNAME .
 preppiesteamer.com CNAME .
 *.preppiesteamer.com CNAME .
 presage.io CNAME .
@@ -72373,8 +72363,6 @@ somegreatt.com CNAME .
 *.somegreatt.com CNAME .
 somehowluxuriousreader.com CNAME .
 *.somehowluxuriousreader.com CNAME .
-someonetop.com CNAME .
-*.someonetop.com CNAME .
 someplacepepper.com CNAME .
 *.someplacepepper.com CNAME .
 somethingprecursorfairfax.com CNAME .
@@ -78231,8 +78219,6 @@ tk.pathmonk.com CNAME .
 *.tk.pathmonk.com CNAME .
 tk0x1.com CNAME .
 *.tk0x1.com CNAME .
-tkauru.xyz CNAME .
-*.tkauru.xyz CNAME .
 tkcatrun.aotter.net CNAME .
 *.tkcatrun.aotter.net CNAME .
 tkcatwalk.aotter.net CNAME .
