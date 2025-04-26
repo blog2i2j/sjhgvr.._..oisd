@@ -1,9 +1,9 @@
-; Version: 202504260713
+; Version: 202504260813
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41598
-; Last modified: 2025-04-26T07:13:09+0000
+; Entries: 41604
+; Last modified: 2025-04-26T08:13:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745650802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745654401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -25025,6 +25025,8 @@ phimsexxsub.info CNAME .
 *.phimsexxsub.info CNAME .
 phimsexyz.lol CNAME .
 *.phimsexyz.lol CNAME .
+phimsexyz.me CNAME .
+*.phimsexyz.me CNAME .
 phimsexyz.net CNAME .
 *.phimsexyz.net CNAME .
 phimsexzz.com CNAME .
@@ -25479,6 +25481,8 @@ pokerdomfog.top CNAME .
 *.pokerdomfog.top CNAME .
 pokerdomkis.top CNAME .
 *.pokerdomkis.top CNAME .
+pokerdomlen.top CNAME .
+*.pokerdomlen.top CNAME .
 pokerdomno.top CNAME .
 *.pokerdomno.top CNAME .
 pokerdomorgru.top CNAME .
@@ -40389,6 +40393,8 @@ xxxlib.mobi CNAME .
 *.xxxlib.mobi CNAME .
 xxxlib.ru CNAME .
 *.xxxlib.ru CNAME .
+xxxlibz.com CNAME .
+*.xxxlibz.com CNAME .
 xxxmanga18.com CNAME .
 *.xxxmanga18.com CNAME .
 xxxmangasex.com CNAME .
