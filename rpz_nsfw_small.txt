@@ -1,9 +1,9 @@
-; Version: 202504261314
+; Version: 202504261414
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41622
-; Last modified: 2025-04-26T13:14:14+0000
+; Entries: 41626
+; Last modified: 2025-04-26T14:14:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745672401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745676002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6465,6 +6465,8 @@ chatsex.xxx CNAME .
 *.chatsex.xxx CNAME .
 chatsexne.com CNAME .
 *.chatsexne.com CNAME .
+chatspin.com CNAME .
+*.chatspin.com CNAME .
 chattercams.net CNAME .
 *.chattercams.net CNAME .
 chattijd.nl CNAME .
@@ -21575,6 +21577,8 @@ mkiska.name CNAME .
 *.mkiska.name CNAME .
 mkiska.net CNAME .
 *.mkiska.net CNAME .
+mkiska.vip CNAME .
+*.mkiska.vip CNAME .
 mlive8.com CNAME .
 *.mlive8.com CNAME .
 mlivevk.com CNAME .
