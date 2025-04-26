@@ -1,9 +1,9 @@
-; Version: 202504261509
+; Version: 202504261610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89560
-; Last modified: 2025-04-26T15:09:46+0000
+; Entries: 89548
+; Last modified: 2025-04-26T16:10:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745679602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745683202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -23519,8 +23519,6 @@ costranchill.com CNAME .
 *.costranchill.com CNAME .
 costumefilmimport.com CNAME .
 *.costumefilmimport.com CNAME .
-cosysuppressed.com CNAME .
-*.cosysuppressed.com CNAME .
 cotchaug.com CNAME .
 *.cotchaug.com CNAME .
 coticoffee.com CNAME .
@@ -39557,8 +39555,6 @@ gridedloamily.top CNAME .
 *.gridedloamily.top CNAME .
 gridrelay27.co CNAME .
 *.gridrelay27.co CNAME .
-grievethereafter.com CNAME .
-*.grievethereafter.com CNAME .
 grifanme.com CNAME .
 *.grifanme.com CNAME .
 griftedhindoo.com CNAME .
@@ -45533,8 +45529,6 @@ jomtingi.net CNAME .
 *.jomtingi.net CNAME .
 jonahssolfege.shop CNAME .
 *.jonahssolfege.shop CNAME .
-jonaswhiskeyheartbeat.com CNAME .
-*.jonaswhiskeyheartbeat.com CNAME .
 joocophoograumo.net CNAME .
 *.joocophoograumo.net CNAME .
 joogaipseed.net CNAME .
@@ -57909,8 +57903,6 @@ opportunitygrandchildrenbadge.com CNAME .
 *.opportunitygrandchildrenbadge.com CNAME .
 opportunitysearch.net CNAME .
 *.opportunitysearch.net CNAME .
-opposedunconscioustherapist.com CNAME .
-*.opposedunconscioustherapist.com CNAME .
 opposesmartadvertising.com CNAME .
 *.opposesmartadvertising.com CNAME .
 oppositeemperorcollected.com CNAME .
@@ -58873,8 +58865,6 @@ oxoucm.xyz CNAME .
 *.oxoucm.xyz CNAME .
 oxtahgtz.com CNAME .
 *.oxtahgtz.com CNAME .
-oxtracking.com CNAME .
-*.oxtracking.com CNAME .
 oxtsale1.com CNAME .
 *.oxtsale1.com CNAME .
 oxtzgomhodrz.top CNAME .
@@ -61943,8 +61933,6 @@ portfoliojumpy.com CNAME .
 *.portfoliojumpy.com CNAME .
 portkingric.net CNAME .
 *.portkingric.net CNAME .
-portlychurchyard.com CNAME .
-*.portlychurchyard.com CNAME .
 portlydrum.com CNAME .
 *.portlydrum.com CNAME .
 portoteamo.com CNAME .
