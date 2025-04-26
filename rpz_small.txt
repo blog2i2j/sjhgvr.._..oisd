@@ -1,9 +1,9 @@
-; Version: 202504261710
+; Version: 202504261810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89534
-; Last modified: 2025-04-26T17:10:23+0000
+; Entries: 89526
+; Last modified: 2025-04-26T18:10:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745686802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745690402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12663,8 +12663,6 @@ armadillo.oceandecadenortheastpacific.org CNAME .
 *.armadillo.oceandecadenortheastpacific.org CNAME .
 armadillo.superpeak.dk CNAME .
 *.armadillo.superpeak.dk CNAME .
-armamentsummary.com CNAME .
-*.armamentsummary.com CNAME .
 armedauditoriumclog.com CNAME .
 *.armedauditoriumclog.com CNAME .
 armedtidying.com CNAME .
@@ -50905,8 +50903,6 @@ mail13.aomg5bzv7.com CNAME .
 *.mail13.aomg5bzv7.com CNAME .
 mail5.aomg5bzv7.com CNAME .
 *.mail5.aomg5bzv7.com CNAME .
-mailbagoutpurl.click CNAME .
-*.mailbagoutpurl.click CNAME .
 mailboxdoablebasically.com CNAME .
 *.mailboxdoablebasically.com CNAME .
 mailderef.mail.com CNAME .
@@ -65873,8 +65869,6 @@ refraintupaiid.com CNAME .
 *.refraintupaiid.com CNAME .
 refrigeratecommit.com CNAME .
 *.refrigeratecommit.com CNAME .
-refrigeratemaimbrunette.com CNAME .
-*.refrigeratemaimbrunette.com CNAME .
 refugedcuber.com CNAME .
 *.refugedcuber.com CNAME .
 refundlikeness.com CNAME .
@@ -75421,8 +75415,6 @@ supervisebradleyrapidly.com CNAME .
 *.supervisebradleyrapidly.com CNAME .
 supervisionbasketinhuman.com CNAME .
 *.supervisionbasketinhuman.com CNAME .
-supervisionlanguidpersonnel.com CNAME .
-*.supervisionlanguidpersonnel.com CNAME .
 supervisionprohibit.com CNAME .
 *.supervisionprohibit.com CNAME .
 supervisofosevera.com CNAME .
