@@ -1,9 +1,9 @@
-# Version: 202504260913
+# Version: 202504261114
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20805
-# Last modified: 2025-04-26T09:13:49+0000
+# Entries: 20807
+# Last modified: 2025-04-26T11:14:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1901,6 +1901,7 @@ local-zone: "bdsm.fr." always_null
 local-zone: "bdsm.one." always_null
 local-zone: "bdsm.pl." always_null
 local-zone: "bdsm28.de." always_null
+local-zone: "bdsmactually.com." always_null
 local-zone: "bdsmandfetish.com." always_null
 local-zone: "bdsmarchive.org." always_null
 local-zone: "bdsmartcollection.com." always_null
@@ -7404,6 +7405,7 @@ local-zone: "hentaixxxmanga.net." always_null
 local-zone: "hentaixyuri.com." always_null
 local-zone: "hentaiyaoi.net." always_null
 local-zone: "hentaiyes.com." always_null
+local-zone: "hentaiz.bot." always_null
 local-zone: "hentaiz.ceo." always_null
 local-zone: "hentaiz.org." always_null
 local-zone: "hentaiz.ws." always_null
