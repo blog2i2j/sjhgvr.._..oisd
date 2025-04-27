@@ -1,9 +1,9 @@
-; Version: 202504270408
+; Version: 202504270508
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89438
-; Last modified: 2025-04-27T04:08:25+0000
+; Entries: 89398
+; Last modified: 2025-04-27T05:08:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745726402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745730002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2131,8 +2131,6 @@ $TTL 30
 *.6170b1649f.25f5d4f39c.com CNAME .
 61serve.everydayporn.co CNAME .
 *.61serve.everydayporn.co CNAME .
-61zdn1c9.skin CNAME .
-*.61zdn1c9.skin CNAME .
 62241240.xyz CNAME .
 *.62241240.xyz CNAME .
 625ba66634.4d3b2375a6.com CNAME .
@@ -7729,8 +7727,6 @@ adtrack.xiaojukeji.com CNAME .
 *.adtrack.xiaojukeji.com CNAME .
 adtracker.jpchd.veraxen.com CNAME .
 *.adtracker.jpchd.veraxen.com CNAME .
-adtracker.oilpainting.colorbynumber.veraxen.com CNAME .
-*.adtracker.oilpainting.colorbynumber.veraxen.com CNAME .
 adtracker2.com CNAME .
 *.adtracker2.com CNAME .
 adtrackeraa.com CNAME .
@@ -12297,8 +12293,6 @@ appsdt.com CNAME .
 *.appsdt.com CNAME .
 appserver-ap.com CNAME .
 *.appserver-ap.com CNAME .
-appsget.monster CNAME .
-*.appsget.monster CNAME .
 appsha1.cointraffic.io CNAME .
 *.appsha1.cointraffic.io CNAME .
 appspeed.monster CNAME .
@@ -14551,8 +14545,6 @@ backend-pixel.zotek.io CNAME .
 *.backend-pixel.zotek.io CNAME .
 backfiremountslippery.com CNAME .
 *.backfiremountslippery.com CNAME .
-backfirestomachreasoning.com CNAME .
-*.backfirestomachreasoning.com CNAME .
 backforward.bid CNAME .
 *.backforward.bid CNAME .
 backgroundcocoaenslave.com CNAME .
@@ -23227,8 +23219,6 @@ continuousselfevidentinestimable.com CNAME .
 *.continuousselfevidentinestimable.com CNAME .
 contradiction2.fun CNAME .
 *.contradiction2.fun CNAME .
-contradictshaftfixedly.com CNAME .
-*.contradictshaftfixedly.com CNAME .
 contributorfront.com CNAME .
 *.contributorfront.com CNAME .
 contributorshaveangry.com CNAME .
@@ -24889,8 +24879,6 @@ cybkit.com CNAME .
 *.cybkit.com CNAME .
 cycledaction.com CNAME .
 *.cycledaction.com CNAME .
-cycleworked.com CNAME .
-*.cycleworked.com CNAME .
 cycndlhot.xyz CNAME .
 *.cycndlhot.xyz CNAME .
 cycvyo.xyz CNAME .
@@ -28841,8 +28829,6 @@ detectivespreferably.com CNAME .
 *.detectivespreferably.com CNAME .
 detentionquasipairs.com CNAME .
 *.detentionquasipairs.com CNAME .
-determineworse.com CNAME .
-*.determineworse.com CNAME .
 detestgaspdowny.com CNAME .
 *.detestgaspdowny.com CNAME .
 dethijohoagra.com CNAME .
@@ -29525,8 +29511,6 @@ displayvertising.com CNAME .
 *.displayvertising.com CNAME .
 displeasedprecariousglorify.com CNAME .
 *.displeasedprecariousglorify.com CNAME .
-displeasedwetabridge.com CNAME .
-*.displeasedwetabridge.com CNAME .
 displeasurethank.com CNAME .
 *.displeasurethank.com CNAME .
 disploot.com CNAME .
@@ -37075,8 +37059,6 @@ fynil.site CNAME .
 *.fynil.site CNAME .
 fynox.xyz CNAME .
 *.fynox.xyz CNAME .
-fyobbmzhbftmsa.com CNAME .
-*.fyobbmzhbftmsa.com CNAME .
 fyresumefo.com CNAME .
 *.fyresumefo.com CNAME .
 fyrsbckgi-c.global.ssl.fastly.net CNAME .
@@ -40511,8 +40493,6 @@ hashing.win CNAME .
 *.hashing.win CNAME .
 hashnest.com CNAME .
 *.hashnest.com CNAME .
-hashpreside.com CNAME .
-*.hashpreside.com CNAME .
 hashzone.io CNAME .
 *.hashzone.io CNAME .
 hasidagamian.click CNAME .
@@ -43929,8 +43909,6 @@ instaflrt.com CNAME .
 *.instaflrt.com CNAME .
 install-check.com CNAME .
 *.install-check.com CNAME .
-install-extension.com CNAME .
-*.install-extension.com CNAME .
 installationconsiderableunaccustomed.com CNAME .
 *.installationconsiderableunaccustomed.com CNAME .
 installer.betterinstaller.com CNAME .
@@ -61953,8 +61931,6 @@ potatoesejection.com CNAME .
 *.potatoesejection.com CNAME .
 potawe.com CNAME .
 *.potawe.com CNAME .
-potentialapplicationgrate.com CNAME .
-*.potentialapplicationgrate.com CNAME .
 potentiallypantsreseptivereseptive.com CNAME .
 *.potentiallypantsreseptivereseptive.com CNAME .
 potenza.cz CNAME .
@@ -62259,8 +62235,6 @@ preferablycarbon.com CNAME .
 *.preferablycarbon.com CNAME .
 preferencedrank.com CNAME .
 *.preferencedrank.com CNAME .
-preferenceforfeit.com CNAME .
-*.preferenceforfeit.com CNAME .
 preferouter.com CNAME .
 *.preferouter.com CNAME .
 prefleks.com CNAME .
@@ -66473,8 +66447,6 @@ retsinarameses.shop CNAME .
 *.retsinarameses.shop CNAME .
 rettornrhema.com CNAME .
 *.rettornrhema.com CNAME .
-reunitedglossybewildered.com CNAME .
-*.reunitedglossybewildered.com CNAME .
 rev-stripe.com CNAME .
 *.rev-stripe.com CNAME .
 rev.frankspeech.com CNAME .
@@ -70579,8 +70551,6 @@ shanorin.com CNAME .
 *.shanorin.com CNAME .
 shaorgs.cn CNAME .
 *.shaorgs.cn CNAME .
-shapedhomicidalalbert.com CNAME .
-*.shapedhomicidalalbert.com CNAME .
 shapelcounset.xyz CNAME .
 *.shapelcounset.xyz CNAME .
 shapo.fun CNAME .
@@ -77555,8 +77525,6 @@ thoonsoard.net CNAME .
 *.thoonsoard.net CNAME .
 thoorest.com CNAME .
 *.thoorest.com CNAME .
-thootsoumsoa.com CNAME .
-*.thootsoumsoa.com CNAME .
 thooxoograiran.com CNAME .
 *.thooxoograiran.com CNAME .
 thordoodovoo.net CNAME .
@@ -81059,8 +81027,6 @@ txnczz.icu CNAME .
 *.txnczz.icu CNAME .
 txtspjaorddrjqq.com CNAME .
 *.txtspjaorddrjqq.com CNAME .
-txumirk.com CNAME .
-*.txumirk.com CNAME .
 txykmuqzxjitf.space CNAME .
 *.txykmuqzxjitf.space CNAME .
 txzaazmdhtw.com CNAME .
@@ -81699,8 +81665,6 @@ under2given.com CNAME .
 *.under2given.com CNAME .
 underagebeneath.com CNAME .
 *.underagebeneath.com CNAME .
-undercambridgeconfusion.com CNAME .
-*.undercambridgeconfusion.com CNAME .
 underclick.ru CNAME .
 *.underclick.ru CNAME .
 undercoverbluffybluffybus.com CNAME .
@@ -81833,8 +81797,6 @@ units.knotch.it CNAME .
 *.units.knotch.it CNAME .
 unitscompressmeow.com CNAME .
 *.unitscompressmeow.com CNAME .
-unitsympathetic.com CNAME .
-*.unitsympathetic.com CNAME .
 unityads.unity3d.com CNAME .
 *.unityads.unity3d.com CNAME .
 universal.wgplayer.com CNAME .
@@ -84569,8 +84531,6 @@ waverdisembroildisembroildeluge.com CNAME .
 *.waverdisembroildisembroildeluge.com CNAME .
 waves.retentionscience.com CNAME .
 *.waves.retentionscience.com CNAME .
-waxandwapped.com CNAME .
-*.waxandwapped.com CNAME .
 waxapushlite.com CNAME .
 *.waxapushlite.com CNAME .
 waxworksprotectivesuffice.com CNAME .
