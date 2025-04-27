@@ -1,9 +1,9 @@
-; Version: 202504272009
+; Version: 202504272109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89074
-; Last modified: 2025-04-27T20:09:49+0000
+; Entries: 89052
+; Last modified: 2025-04-27T21:09:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745784002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745787601 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6379,8 +6379,6 @@ ads.alobacsi.vn CNAME .
 *.ads.alobacsi.vn CNAME .
 ads.amdmb.com CNAME .
 *.ads.amdmb.com CNAME .
-ads.amigos.com CNAME .
-*.ads.amigos.com CNAME .
 ads.aphex.me CNAME .
 *.ads.aphex.me CNAME .
 ads.apn.co.nz CNAME .
@@ -23221,8 +23219,6 @@ convsweeps.com CNAME .
 *.convsweeps.com CNAME .
 conyak.com CNAME .
 *.conyak.com CNAME .
-cooann.top CNAME .
-*.cooann.top CNAME .
 coochig.com CNAME .
 *.coochig.com CNAME .
 coocomall.com CNAME .
@@ -23723,8 +23719,6 @@ cpays.com CNAME .
 *.cpays.com CNAME .
 cpcmart.com CNAME .
 *.cpcmart.com CNAME .
-cpcvabi.com CNAME .
-*.cpcvabi.com CNAME .
 cplayer.pw CNAME .
 *.cplayer.pw CNAME .
 cpm-ad.com CNAME .
@@ -35463,8 +35457,6 @@ fingahvf.top CNAME .
 *.fingahvf.top CNAME .
 fingernaildevastated.com CNAME .
 *.fingernaildevastated.com CNAME .
-fingerprevious.com CNAME .
-*.fingerprevious.com CNAME .
 fingerprinter-production.herokuapp.com CNAME .
 *.fingerprinter-production.herokuapp.com CNAME .
 fingkndk.com CNAME .
@@ -43691,8 +43683,6 @@ inscribereclaim.com CNAME .
 *.inscribereclaim.com CNAME .
 inscriptiontinkledecrepit.com CNAME .
 *.inscriptiontinkledecrepit.com CNAME .
-insectearly.com CNAME .
-*.insectearly.com CNAME .
 insecurealbatross.com CNAME .
 *.insecurealbatross.com CNAME .
 insecuritydisproveballoon.com CNAME .
@@ -45969,8 +45959,6 @@ kamahiunvisor.shop CNAME .
 *.kamahiunvisor.shop CNAME .
 kamalafooner.space CNAME .
 *.kamalafooner.space CNAME .
-kamamwvlvrazr.top CNAME .
-*.kamamwvlvrazr.top CNAME .
 kamassmyalia.com CNAME .
 *.kamassmyalia.com CNAME .
 kamiaidenn.shop CNAME .
@@ -62621,8 +62609,6 @@ proteinfrivolousfertilised.com CNAME .
 *.proteinfrivolousfertilised.com CNAME .
 proteininnovationpioneer.com CNAME .
 *.proteininnovationpioneer.com CNAME .
-protestgrove.com CNAME .
-*.protestgrove.com CNAME .
 proto2ad.durasite.net CNAME .
 *.proto2ad.durasite.net CNAME .
 protoawe.com CNAME .
@@ -64091,8 +64077,6 @@ qoaaa.com CNAME .
 *.qoaaa.com CNAME .
 qobuz.surveysparrow.com CNAME .
 *.qobuz.surveysparrow.com CNAME .
-qojrlxsbxvfqqx.com CNAME .
-*.qojrlxsbxvfqqx.com CNAME .
 qonbibff.icu CNAME .
 *.qonbibff.icu CNAME .
 qoqv.com CNAME .
@@ -70563,8 +70547,6 @@ sholraidsoalro.net CNAME .
 *.sholraidsoalro.net CNAME .
 shon.xyz CNAME .
 *.shon.xyz CNAME .
-shonevegetable.com CNAME .
-*.shonevegetable.com CNAME .
 shoofabhalu.com CNAME .
 *.shoofabhalu.com CNAME .
 shoojouh.xyz CNAME .
@@ -82659,8 +82641,6 @@ veneeringperfect.com CNAME .
 *.veneeringperfect.com CNAME .
 venetichexose.top CNAME .
 *.venetichexose.top CNAME .
-vengeancerepulseclassified.com CNAME .
-*.vengeancerepulseclassified.com CNAME .
 vengeancewaterproof.com CNAME .
 *.vengeancewaterproof.com CNAME .
 vengeful-egg.com CNAME .
@@ -85329,8 +85309,6 @@ windymissphantom.com CNAME .
 *.windymissphantom.com CNAME .
 winecolonistbaptize.com CNAME .
 *.winecolonistbaptize.com CNAME .
-wineinstaller.com CNAME .
-*.wineinstaller.com CNAME .
 winepinelo.shop CNAME .
 *.winepinelo.shop CNAME .
 winewiden.com CNAME .
