@@ -1,9 +1,9 @@
-; Version: 202504270909
+; Version: 202504271009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89312
-; Last modified: 2025-04-27T09:09:50+0000
+; Entries: 89278
+; Last modified: 2025-04-27T10:09:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745744403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745748002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -527,8 +527,6 @@ $TTL 30
 *.1558334541.rsc.cdn77.org CNAME .
 15752525.xyz CNAME .
 *.15752525.xyz CNAME .
-15d113e19a.com CNAME .
-*.15d113e19a.com CNAME .
 15f3ecdff9.21c69b70bc.com CNAME .
 *.15f3ecdff9.21c69b70bc.com CNAME .
 15x.info CNAME .
@@ -19805,6 +19803,8 @@ cdn.adsninja.ca CNAME .
 *.cdn.adsninja.ca CNAME .
 cdn.adspmg.com CNAME .
 *.cdn.adspmg.com CNAME .
+cdn.advg.agency CNAME .
+*.cdn.advg.agency CNAME .
 cdn.adxcontent.com CNAME .
 *.cdn.adxcontent.com CNAME .
 cdn.affiliatable.io CNAME .
@@ -21069,8 +21069,6 @@ cigfhaztaqu.com CNAME .
 *.cigfhaztaqu.com CNAME .
 cigoadrouz.com CNAME .
 *.cigoadrouz.com CNAME .
-cigoqcq.top CNAME .
-*.cigoqcq.top CNAME .
 ciizxsdr.com CNAME .
 *.ciizxsdr.com CNAME .
 cijoorsairgusa.com CNAME .
@@ -32555,8 +32553,6 @@ emlifok.info CNAME .
 *.emlifok.info CNAME .
 emmi-findet.de CNAME .
 *.emmi-findet.de CNAME .
-emotot.xyz CNAME .
-*.emotot.xyz CNAME .
 empaleintone.shop CNAME .
 *.empaleintone.shop CNAME .
 empalerposit.com CNAME .
@@ -35797,8 +35793,6 @@ flickerbridge.com CNAME .
 *.flickerbridge.com CNAME .
 flickeringchutney.com CNAME .
 *.flickeringchutney.com CNAME .
-flickerworlds.com CNAME .
-*.flickerworlds.com CNAME .
 fliffusparaph.com CNAME .
 *.fliffusparaph.com CNAME .
 flightsjabbed.com CNAME .
@@ -43409,8 +43403,6 @@ inbreedbeelbow.shop CNAME .
 *.inbreedbeelbow.shop CNAME .
 inbrowserplay.com CNAME .
 *.inbrowserplay.com CNAME .
-incapableenormously.com CNAME .
-*.incapableenormously.com CNAME .
 incarnategrannystem.com CNAME .
 *.incarnategrannystem.com CNAME .
 incarnatepicturesque.com CNAME .
@@ -45067,8 +45059,6 @@ jestbiases.com CNAME .
 *.jestbiases.com CNAME .
 jet.zbp.ru CNAME .
 *.jet.zbp.ru CNAME .
-jetordinarilysouvenirs.com CNAME .
-*.jetordinarilysouvenirs.com CNAME .
 jetos.com CNAME .
 *.jetos.com CNAME .
 jetseparation.com CNAME .
@@ -47479,8 +47469,6 @@ lampdrewcupid.com CNAME .
 *.lampdrewcupid.com CNAME .
 lamplynx.com CNAME .
 *.lamplynx.com CNAME .
-lamppostharmoniousunaware.com CNAME .
-*.lamppostharmoniousunaware.com CNAME .
 lamprey.carolcassar.com CNAME .
 *.lamprey.carolcassar.com CNAME .
 lamprey.seagyndavis.com CNAME .
@@ -48237,8 +48225,6 @@ liabilitygenerator.com CNAME .
 *.liabilitygenerator.com CNAME .
 liablematches.com CNAME .
 *.liablematches.com CNAME .
-liabletablesoviet.com CNAME .
-*.liabletablesoviet.com CNAME .
 liambafaying.com CNAME .
 *.liambafaying.com CNAME .
 lianzl.xyz CNAME .
@@ -60033,8 +60019,6 @@ personaserver.com CNAME .
 *.personaserver.com CNAME .
 persuadecowardenviable.com CNAME .
 *.persuadecowardenviable.com CNAME .
-persuadepointed.com CNAME .
-*.persuadepointed.com CNAME .
 pertawee.net CNAME .
 *.pertawee.net CNAME .
 pertersacstyli.com CNAME .
@@ -61037,8 +61021,6 @@ platform.showcasead.com CNAME .
 *.platform.showcasead.com CNAME .
 platformallowingcame.com CNAME .
 *.platformallowingcame.com CNAME .
-platformsbrotherhoodreticence.com CNAME .
-*.platformsbrotherhoodreticence.com CNAME .
 platformsrat.com CNAME .
 *.platformsrat.com CNAME .
 platypus.cmp.is CNAME .
@@ -70729,8 +70711,6 @@ shoagrauphee.net CNAME .
 *.shoagrauphee.net CNAME .
 shoamsuxom.net CNAME .
 *.shoamsuxom.net CNAME .
-shoarsaiglep.net CNAME .
-*.shoarsaiglep.net CNAME .
 shoathofte.net CNAME .
 *.shoathofte.net CNAME .
 shocked-failure.com CNAME .
@@ -72035,8 +72015,6 @@ somegreatt.com CNAME .
 *.somegreatt.com CNAME .
 somehowluxuriousreader.com CNAME .
 *.somehowluxuriousreader.com CNAME .
-someplacepepper.com CNAME .
-*.someplacepepper.com CNAME .
 somethingprecursorfairfax.com CNAME .
 *.somethingprecursorfairfax.com CNAME .
 somethingrealisticzero.com CNAME .
@@ -72185,8 +72163,6 @@ souvamoo.net CNAME .
 *.souvamoo.net CNAME .
 souvenirsconsist.com CNAME .
 *.souvenirsconsist.com CNAME .
-sovereigngoesintended.com CNAME .
-*.sovereigngoesintended.com CNAME .
 sovietcontaminate.com CNAME .
 *.sovietcontaminate.com CNAME .
 sovietransom.com CNAME .
@@ -72801,8 +72777,6 @@ sportstreams.xyz CNAME .
 *.sportstreams.xyz CNAME .
 sportsyndicator.com CNAME .
 *.sportsyndicator.com CNAME .
-spotbeepgreenhouse.com CNAME .
-*.spotbeepgreenhouse.com CNAME .
 spotlessabridge.com CNAME .
 *.spotlessabridge.com CNAME .
 spotlesscomplaint.com CNAME .
@@ -72923,8 +72897,6 @@ squashperiodicmen.com CNAME .
 *.squashperiodicmen.com CNAME .
 squashwithholdcame.com CNAME .
 *.squashwithholdcame.com CNAME .
-squdgyclavier.top CNAME .
-*.squdgyclavier.top CNAME .
 squid.adart.cc CNAME .
 *.squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
@@ -74617,8 +74589,6 @@ stockbook-ads.firebaseio.com CNAME .
 *.stockbook-ads.firebaseio.com CNAME .
 stockerunpegs.shop CNAME .
 *.stockerunpegs.shop CNAME .
-stockingplaice.com CNAME .
-*.stockingplaice.com CNAME .
 stockingsight.com CNAME .
 *.stockingsight.com CNAME .
 stocksinvulnerablemonday.com CNAME .
@@ -80839,8 +80809,6 @@ twentiesinquiry.com CNAME .
 *.twentiesinquiry.com CNAME .
 twentyatonementflowing.com CNAME .
 *.twentyatonementflowing.com CNAME .
-twentyaviation.com CNAME .
-*.twentyaviation.com CNAME .
 twentycustomimprovement.com CNAME .
 *.twentycustomimprovement.com CNAME .
 twentydisappearance.com CNAME .
@@ -80987,8 +80955,6 @@ tyranhorrid.com CNAME .
 *.tyranhorrid.com CNAME .
 tyrannikaon.shop CNAME .
 *.tyrannikaon.shop CNAME .
-tyranpension.com CNAME .
-*.tyranpension.com CNAME .
 tyrfd.ovh CNAME .
 *.tyrfd.ovh CNAME .
 tyroo.com CNAME .
