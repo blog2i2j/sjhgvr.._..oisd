@@ -1,9 +1,9 @@
-; Version: 202504270025
+; Version: 202504270108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89536
-; Last modified: 2025-04-27T00:25:25+0000
+; Entries: 89516
+; Last modified: 2025-04-27T01:08:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745712003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745715602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5765,8 +5765,6 @@ adk-static.affinity.net CNAME .
 *.adk-static.affinity.net CNAME .
 adk2.com CNAME .
 *.adk2.com CNAME .
-adkchtmtns.com CNAME .
-*.adkchtmtns.com CNAME .
 adkernel.com CNAME .
 *.adkernel.com CNAME .
 adkmbc.com CNAME .
@@ -29577,8 +29575,6 @@ dist.belnk.com CNAME .
 *.dist.belnk.com CNAME .
 distancedreamboatstoic.com CNAME .
 *.distancedreamboatstoic.com CNAME .
-distancefilmingamateur.com CNAME .
-*.distancefilmingamateur.com CNAME .
 distant-session.pro CNAME .
 *.distant-session.pro CNAME .
 distillery.wistia.com CNAME .
@@ -32421,8 +32417,6 @@ electricalglimmerexasperate.com CNAME .
 *.electricalglimmerexasperate.com CNAME .
 electricalsedate.com CNAME .
 *.electricalsedate.com CNAME .
-electricalyellincreasing.com CNAME .
-*.electricalyellincreasing.com CNAME .
 electricfeminine.com CNAME .
 *.electricfeminine.com CNAME .
 electronicauthentic.com CNAME .
@@ -33771,8 +33765,6 @@ every-day.net CNAME .
 *.every-day.net CNAME .
 everydowered.com CNAME .
 *.everydowered.com CNAME .
-everyoneglamorous.com CNAME .
-*.everyoneglamorous.com CNAME .
 everywheresavourblouse.com CNAME .
 *.everywheresavourblouse.com CNAME .
 evgaow.xyz CNAME .
@@ -36257,8 +36249,6 @@ forecast.nouvelobs.com CNAME .
 *.forecast.nouvelobs.com CNAME .
 forecastcremateillogical.com CNAME .
 *.forecastcremateillogical.com CNAME .
-foreelementarydome.com CNAME .
-*.foreelementarydome.com CNAME .
 foregroundhelpingcommissioner.com CNAME .
 *.foregroundhelpingcommissioner.com CNAME .
 foreignassertive.com CNAME .
@@ -41405,8 +41395,6 @@ hiredeitysibilant.com CNAME .
 *.hiredeitysibilant.com CNAME .
 hirelinghistorian.com CNAME .
 *.hirelinghistorian.com CNAME .
-hiringairport.com CNAME .
-*.hiringairport.com CNAME .
 hirsailauph.net CNAME .
 *.hirsailauph.net CNAME .
 hirurdou.net CNAME .
@@ -51991,8 +51979,6 @@ mellow-weird.com CNAME .
 *.mellow-weird.com CNAME .
 mellowads.com CNAME .
 *.mellowads.com CNAME .
-melonransomhigh.com CNAME .
-*.melonransomhigh.com CNAME .
 melredirnxt.top CNAME .
 *.melredirnxt.top CNAME .
 members.adoptim.com CNAME .
@@ -62649,8 +62635,6 @@ producedendorsecamp.com CNAME .
 *.producedendorsecamp.com CNAME .
 producercoconutgroup.com CNAME .
 *.producercoconutgroup.com CNAME .
-producerdoughnut.com CNAME .
-*.producerdoughnut.com CNAME .
 producerplot.com CNAME .
 *.producerplot.com CNAME .
 producingtrunkblaze.com CNAME .
@@ -77427,8 +77411,6 @@ theltemtirg.net CNAME .
 *.theltemtirg.net CNAME .
 themeillogical.com CNAME .
 *.themeillogical.com CNAME .
-themeulterior.com CNAME .
-*.themeulterior.com CNAME .
 thempoorduts.com CNAME .
 *.thempoorduts.com CNAME .
 themselphenyls.com CNAME .
@@ -80111,8 +80093,6 @@ trafsupr.com CNAME .
 *.trafsupr.com CNAME .
 trafyield.com CNAME .
 *.trafyield.com CNAME .
-tragedyhaemorrhagemama.com CNAME .
-*.tragedyhaemorrhagemama.com CNAME .
 tragency-clesburg.icu CNAME .
 *.tragency-clesburg.icu CNAME .
 tragic-drop.com CNAME .
