@@ -1,9 +1,9 @@
-; Version: 202504270513
+; Version: 202504270613
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41798
-; Last modified: 2025-04-27T05:13:20+0000
+; Entries: 41802
+; Last modified: 2025-04-27T06:13:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745730002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745733602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -20039,6 +20039,8 @@ lovely.co.il CNAME .
 *.lovely.co.il CNAME .
 loveme.com CNAME .
 *.loveme.com CNAME .
+lovenovels.net CNAME .
+*.lovenovels.net CNAME .
 lovense.com CNAME .
 *.lovense.com CNAME .
 lovense.tv CNAME .
@@ -34151,6 +34153,8 @@ teacherfucksteens.com CNAME .
 *.teacherfucksteens.com CNAME .
 teacherpics.com CNAME .
 *.teacherpics.com CNAME .
+teacherporntube.com CNAME .
+*.teacherporntube.com CNAME .
 teachtwinks.com CNAME .
 *.teachtwinks.com CNAME .
 teamskeet.com CNAME .
