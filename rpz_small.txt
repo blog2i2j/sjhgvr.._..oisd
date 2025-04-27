@@ -1,9 +1,9 @@
-; Version: 202504270709
+; Version: 202504270809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89356
-; Last modified: 2025-04-27T07:09:03+0000
+; Entries: 89330
+; Last modified: 2025-04-27T08:09:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745737201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745740801 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7739,8 +7739,6 @@ adtrieval.com CNAME .
 *.adtrieval.com CNAME .
 adtriplex.com CNAME .
 *.adtriplex.com CNAME .
-adtrk20.com CNAME .
-*.adtrk20.com CNAME .
 adtrue.com CNAME .
 *.adtrue.com CNAME .
 adtrue24.com CNAME .
@@ -21385,8 +21383,6 @@ clearancemadnessadvised.com CNAME .
 *.clearancemadnessadvised.com CNAME .
 cleardexchange.com CNAME .
 *.cleardexchange.com CNAME .
-clearlymisguidedjealous.com CNAME .
-*.clearlymisguidedjealous.com CNAME .
 clearonclick.com CNAME .
 *.clearonclick.com CNAME .
 cleftmeter.com CNAME .
@@ -30831,8 +30827,6 @@ dsultra.com CNAME .
 *.dsultra.com CNAME .
 dsuyzexj3sqn9.cloudfront.net CNAME .
 *.dsuyzexj3sqn9.cloudfront.net CNAME .
-dsxwcas.com CNAME .
-*.dsxwcas.com CNAME .
 dt.beyla.site CNAME .
 *.dt.beyla.site CNAME .
 dt.vnecdn.com CNAME .
@@ -31065,8 +31059,6 @@ duphkyabmh.com CNAME .
 *.duphkyabmh.com CNAME .
 duplicateankle.com CNAME .
 *.duplicateankle.com CNAME .
-duplicatepokeheavy.com CNAME .
-*.duplicatepokeheavy.com CNAME .
 duplonborak.shop CNAME .
 *.duplonborak.shop CNAME .
 dupsmird.top CNAME .
@@ -35639,8 +35631,6 @@ fistofzeus.com CNAME .
 *.fistofzeus.com CNAME .
 fitcenterz.com CNAME .
 *.fitcenterz.com CNAME .
-fitfuldemolitionbilliards.com CNAME .
-*.fitfuldemolitionbilliards.com CNAME .
 fitsazx.xyz CNAME .
 *.fitsazx.xyz CNAME .
 fitsjamescommunicated.com CNAME .
@@ -36221,8 +36211,6 @@ forfrogadiertor.com CNAME .
 *.forfrogadiertor.com CNAME .
 forgivenessdaresuck.com CNAME .
 *.forgivenessdaresuck.com CNAME .
-forgivenesspeltanalyse.com CNAME .
-*.forgivenesspeltanalyse.com CNAME .
 forhavingartistic.info CNAME .
 *.forhavingartistic.info CNAME .
 forlumineoner.com CNAME .
@@ -46497,8 +46485,6 @@ kindads.com CNAME .
 *.kindads.com CNAME .
 kindergarteninitiallyprotector.com CNAME .
 *.kindergarteninitiallyprotector.com CNAME .
-kindlebaldjoe.com CNAME .
-*.kindlebaldjoe.com CNAME .
 kindleunfocusedunpaired.com CNAME .
 *.kindleunfocusedunpaired.com CNAME .
 kindlyoutsellunderling.com CNAME .
@@ -49941,8 +49927,6 @@ lorswhowishe.com CNAME .
 *.lorswhowishe.com CNAME .
 lorybnfh.com CNAME .
 *.lorybnfh.com CNAME .
-loserwentsignify.com CNAME .
-*.loserwentsignify.com CNAME .
 losespiritsdiscord.com CNAME .
 *.losespiritsdiscord.com CNAME .
 losingfunk.com CNAME .
@@ -61043,8 +61027,6 @@ plasmsmolochs.shop CNAME .
 *.plasmsmolochs.shop CNAME .
 plasticerror.com CNAME .
 *.plasticerror.com CNAME .
-plasticskilledlogs.com CNAME .
-*.plasticskilledlogs.com CNAME .
 plastleislike.com CNAME .
 *.plastleislike.com CNAME .
 platchteopan.com CNAME .
@@ -62171,8 +62153,6 @@ precursorinclinationbruised.com CNAME .
 *.precursorinclinationbruised.com CNAME .
 predataclient.b-cdn.net CNAME .
 *.predataclient.b-cdn.net CNAME .
-predatoryfilament.com CNAME .
-*.predatoryfilament.com CNAME .
 predatoryrucksack.com CNAME .
 *.predatoryrucksack.com CNAME .
 predictad.com CNAME .
@@ -71433,8 +71413,6 @@ slahpxqb6wto.com CNAME .
 *.slahpxqb6wto.com CNAME .
 slaitottawa.com CNAME .
 *.slaitottawa.com CNAME .
-slanginsolentthus.com CNAME .
-*.slanginsolentthus.com CNAME .
 slantdecline.com CNAME .
 *.slantdecline.com CNAME .
 slaqandsan.xyz CNAME .
@@ -74761,8 +74739,6 @@ stovefremdly.shop CNAME .
 *.stovefremdly.shop CNAME .
 stovesguacho.top CNAME .
 *.stovesguacho.top CNAME .
-stoveword.com CNAME .
-*.stoveword.com CNAME .
 stowpsikhwan.com CNAME .
 *.stowpsikhwan.com CNAME .
 stpd.cloud CNAME .
@@ -81575,8 +81551,6 @@ unauthorizedsufficientlysensitivity.com CNAME .
 *.unauthorizedsufficientlysensitivity.com CNAME .
 unautonsure.shop CNAME .
 *.unautonsure.shop CNAME .
-unavailableprocessionamazingly.com CNAME .
-*.unavailableprocessionamazingly.com CNAME .
 unawaredisk.com CNAME .
 *.unawaredisk.com CNAME .
 unbearablepulverizeinevitably.com CNAME .
