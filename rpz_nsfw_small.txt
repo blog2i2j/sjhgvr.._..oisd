@@ -1,9 +1,9 @@
-; Version: 202504271914
+; Version: 202504272014
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41908
-; Last modified: 2025-04-27T19:14:33+0000
+; Entries: 41910
+; Last modified: 2025-04-27T20:14:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745780402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745784002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -427,6 +427,8 @@ $TTL 30
 *.2girls1cup.ca CNAME .
 2kiski.cc CNAME .
 *.2kiski.cc CNAME .
+2sex.co.il CNAME .
+*.2sex.co.il CNAME .
 2sex.info CNAME .
 *.2sex.info CNAME .
 2tube.com CNAME .
@@ -29941,6 +29943,8 @@ rule34hentai.net CNAME .
 *.rule34hentai.net CNAME .
 rule34hq.com CNAME .
 *.rule34hq.com CNAME .
+rule34hub.com CNAME .
+*.rule34hub.com CNAME .
 rule34pornvids.com CNAME .
 *.rule34pornvids.com CNAME .
 rule34scroller.com CNAME .
@@ -36285,8 +36289,6 @@ turkifsapornolink.com CNAME .
 *.turkifsapornolink.com CNAME .
 turkifsatube.com CNAME .
 *.turkifsatube.com CNAME .
-turkiyescort.xyz CNAME .
-*.turkiyescort.xyz CNAME .
 tuscl.net CNAME .
 *.tuscl.net CNAME .
 tushy.com CNAME .
