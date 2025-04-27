@@ -1,9 +1,9 @@
-; Version: 202504272109
+; Version: 202504272209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89052
-; Last modified: 2025-04-27T21:09:33+0000
+; Entries: 89026
+; Last modified: 2025-04-27T22:09:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745787601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745791203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6215,8 +6215,6 @@ adrevenuerescue.com CNAME .
 *.adrevenuerescue.com CNAME .
 adrgyouguide.com CNAME .
 *.adrgyouguide.com CNAME .
-adriftscramble.com CNAME .
-*.adriftscramble.com CNAME .
 adriftventilatormeatloaf.com CNAME .
 *.adriftventilatormeatloaf.com CNAME .
 adright.co CNAME .
@@ -14543,8 +14541,6 @@ backuperwebcam.weebly.com CNAME .
 *.backuperwebcam.weebly.com CNAME .
 backwashcrowdstylized.com CNAME .
 *.backwashcrowdstylized.com CNAME .
-baconbedside.com CNAME .
-*.baconbedside.com CNAME .
 badayscase.live CNAME .
 *.badayscase.live CNAME .
 badding.oss-ap-southeast-1.aliyuncs.com CNAME .
@@ -15733,8 +15729,6 @@ beevakum.net CNAME .
 *.beevakum.net CNAME .
 befirstcdn.com CNAME .
 *.befirstcdn.com CNAME .
-beforehandopt.com CNAME .
-*.beforehandopt.com CNAME .
 befoulsusaunce.click CNAME .
 *.befoulsusaunce.click CNAME .
 begazecargoes.top CNAME .
@@ -18329,8 +18323,6 @@ businessmenmerchandise.com CNAME .
 *.businessmenmerchandise.com CNAME .
 businesstremendoushad.com CNAME .
 *.businesstremendoushad.com CNAME .
-busjevtqiihkle.com CNAME .
-*.busjevtqiihkle.com CNAME .
 buskerreshoes.website CNAME .
 *.buskerreshoes.website CNAME .
 buskersvis.shop CNAME .
@@ -22879,8 +22871,6 @@ confusingepisodevest.com CNAME .
 *.confusingepisodevest.com CNAME .
 congodensest.top CNAME .
 *.congodensest.top CNAME .
-congratulationsgraveseem.com CNAME .
-*.congratulationsgraveseem.com CNAME .
 congruousannualplanner.com CNAME .
 *.congruousannualplanner.com CNAME .
 conicsfizzles.com CNAME .
@@ -23091,8 +23081,6 @@ contaminatefollow.com CNAME .
 *.contaminatefollow.com CNAME .
 contaminatespontaneousrivet.com CNAME .
 *.contaminatespontaneousrivet.com CNAME .
-contaxe.de CNAME .
-*.contaxe.de CNAME .
 contehos.com CNAME .
 *.contehos.com CNAME .
 contekgasted.com CNAME .
@@ -24213,8 +24201,6 @@ crispadvertising.com CNAME .
 *.crispadvertising.com CNAME .
 crispdune.com CNAME .
 *.crispdune.com CNAME .
-crispentirelynavy.com CNAME .
-*.crispentirelynavy.com CNAME .
 crisphybridforecast.com CNAME .
 *.crisphybridforecast.com CNAME .
 crisppennygiggle.com CNAME .
@@ -28333,8 +28319,6 @@ defeature.xyz CNAME .
 *.defeature.xyz CNAME .
 defenceblake.com CNAME .
 *.defenceblake.com CNAME .
-defendantlucrative.com CNAME .
-*.defendantlucrative.com CNAME .
 defensive-bad.com CNAME .
 *.defensive-bad.com CNAME .
 defiancebelow.com CNAME .
@@ -31527,8 +31511,6 @@ ealeo.com CNAME .
 *.ealeo.com CNAME .
 eallywasnothy.com CNAME .
 *.eallywasnothy.com CNAME .
-eanddescri.com CNAME .
-*.eanddescri.com CNAME .
 eanff.com CNAME .
 *.eanff.com CNAME .
 eap.big5.enorth.com.cn CNAME .
@@ -36149,8 +36131,6 @@ formerlyhorribly.com CNAME .
 *.formerlyhorribly.com CNAME .
 formerlyparsleysuccess.com CNAME .
 *.formerlyparsleysuccess.com CNAME .
-formidableprovidingdisguised.com CNAME .
-*.formidableprovidingdisguised.com CNAME .
 formidablestems.com CNAME .
 *.formidablestems.com CNAME .
 formilenter.space CNAME .
@@ -41433,8 +41413,6 @@ hoarsecoupons.top CNAME .
 *.hoarsecoupons.top CNAME .
 hoaxcookingdemocratic.com CNAME .
 *.hoaxcookingdemocratic.com CNAME .
-hoaxviableadherence.com CNAME .
-*.hoaxviableadherence.com CNAME .
 hobbiesshame.online CNAME .
 *.hobbiesshame.online CNAME .
 hobbleobey.com CNAME .
@@ -50625,8 +50603,6 @@ maidr.pro CNAME .
 *.maidr.pro CNAME .
 maiglair.net CNAME .
 *.maiglair.net CNAME .
-maigrouchy.net CNAME .
-*.maigrouchy.net CNAME .
 maihigre.net CNAME .
 *.maihigre.net CNAME .
 maihikuh.com CNAME .
@@ -63259,8 +63235,6 @@ pundr.shemrec.cc CNAME .
 *.pundr.shemrec.cc CNAME .
 pungentobservationwhispering.com CNAME .
 *.pungentobservationwhispering.com CNAME .
-punishgrantedvirus.com CNAME .
-*.punishgrantedvirus.com CNAME .
 punkrunted.shop CNAME .
 *.punkrunted.shop CNAME .
 punkylotuses.top CNAME .
