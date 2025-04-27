@@ -1,9 +1,9 @@
-; Version: 202504270508
+; Version: 202504270608
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89398
-; Last modified: 2025-04-27T05:08:52+0000
+; Entries: 89374
+; Last modified: 2025-04-27T06:08:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745730002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745733602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3271,8 +3271,6 @@ a.letsjerk.tv CNAME .
 *.a.letsjerk.tv CNAME .
 a.lewxi.online CNAME .
 *.a.lewxi.online CNAME .
-a.llysc.cn CNAME .
-*.a.llysc.cn CNAME .
 a.mabipa.com CNAME .
 *.a.mabipa.com CNAME .
 a.markporn.com CNAME .
@@ -8335,8 +8333,6 @@ affectionatedragon.com CNAME .
 *.affectionatedragon.com CNAME .
 affectionatefurniturehypothesis.com CNAME .
 *.affectionatefurniturehypothesis.com CNAME .
-affectionatelypart.com CNAME .
-*.affectionatelypart.com CNAME .
 affectionavenue.site CNAME .
 *.affectionavenue.site CNAME .
 affectsyntaxthousand.com CNAME .
@@ -13881,8 +13877,6 @@ avouchamazeddownload.com CNAME .
 *.avouchamazeddownload.com CNAME .
 avouchuramil.com CNAME .
 *.avouchuramil.com CNAME .
-avowdelicacydried.com CNAME .
-*.avowdelicacydried.com CNAME .
 avpayments.com CNAME .
 *.avpayments.com CNAME .
 avramstroy.ru CNAME .
@@ -19013,8 +19007,6 @@ calcescutler.shop CNAME .
 *.calcescutler.shop CNAME .
 calcpol.com CNAME .
 *.calcpol.com CNAME .
-calculateproducing.com CNAME .
-*.calculateproducing.com CNAME .
 calculatingvoice.com CNAME .
 *.calculatingvoice.com CNAME .
 calendar.rodim.ru CNAME .
@@ -24197,8 +24189,6 @@ creativeteam.it CNAME .
 *.creativeteam.it CNAME .
 creator.zmags.com CNAME .
 *.creator.zmags.com CNAME .
-creaturescoinsbang.com CNAME .
-*.creaturescoinsbang.com CNAME .
 crechecatholicclaimed.com CNAME .
 *.crechecatholicclaimed.com CNAME .
 credenskagos.top CNAME .
@@ -32607,8 +32597,6 @@ emploejuiashsat.info CNAME .
 *.emploejuiashsat.info CNAME .
 emplorebunches.com CNAME .
 *.emplorebunches.com CNAME .
-employindulgenceafraid.com CNAME .
-*.employindulgenceafraid.com CNAME .
 employmentpersons.com CNAME .
 *.employmentpersons.com CNAME .
 employsisomery.digital CNAME .
@@ -47623,8 +47611,6 @@ larchenwood.top CNAME .
 *.larchenwood.top CNAME .
 larchesrotates.com CNAME .
 *.larchesrotates.com CNAME .
-lardpersecuteunskilled.com CNAME .
-*.lardpersecuteunskilled.com CNAME .
 larentisol.com CNAME .
 *.larentisol.com CNAME .
 largeconfusion.com CNAME .
@@ -59341,8 +59327,6 @@ pardyprofer.shop CNAME .
 *.pardyprofer.shop CNAME .
 paregospeltheir.com CNAME .
 *.paregospeltheir.com CNAME .
-parentingcalculated.com CNAME .
-*.parentingcalculated.com CNAME .
 parentlargevia.com CNAME .
 *.parentlargevia.com CNAME .
 parentsatellitecheque.com CNAME .
@@ -68877,8 +68861,6 @@ sahqtibw.com CNAME .
 *.sahqtibw.com CNAME .
 saigopooramee.net CNAME .
 *.saigopooramee.net CNAME .
-saikeela.net CNAME .
-*.saikeela.net CNAME .
 saikothiphoopt.com CNAME .
 *.saikothiphoopt.com CNAME .
 sailcovertend.com CNAME .
@@ -70995,8 +70977,6 @@ shuzilm.cn CNAME .
 *.shuzilm.cn CNAME .
 shvhse.com CNAME .
 *.shvhse.com CNAME .
-shvnfhf.com CNAME .
-*.shvnfhf.com CNAME .
 shvsrrpkgjcuk.life CNAME .
 *.shvsrrpkgjcuk.life CNAME .
 shydastidu.com CNAME .
@@ -83713,8 +83693,6 @@ vnrbjvbwbqfob.click CNAME .
 *.vnrbjvbwbqfob.click CNAME .
 vnrdmijgkcgmwu.com CNAME .
 *.vnrdmijgkcgmwu.com CNAME .
-vnrherdsxr.com CNAME .
-*.vnrherdsxr.com CNAME .
 vnrvss.com CNAME .
 *.vnrvss.com CNAME .
 vnte9urn.click CNAME .
@@ -86813,8 +86791,6 @@ xliirdr.com CNAME .
 *.xliirdr.com CNAME .
 xlirdr.com CNAME .
 *.xlirdr.com CNAME .
-xliuits.icu CNAME .
-*.xliuits.icu CNAME .
 xlivesex.com CNAME .
 *.xlivesex.com CNAME .
 xlivesucces.com CNAME .
