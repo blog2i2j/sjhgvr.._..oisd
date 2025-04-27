@@ -1,9 +1,9 @@
-; Version: 202504270029
+; Version: 202504270112
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41746
-; Last modified: 2025-04-27T00:29:31+0000
+; Entries: 41752
+; Last modified: 2025-04-27T01:12:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745712003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745715602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2287,6 +2287,8 @@ animemoon.me CNAME .
 *.animemoon.me CNAME .
 animemotivation.com CNAME .
 *.animemotivation.com CNAME .
+animenation.net CNAME .
+*.animenation.net CNAME .
 animeotk.com CNAME .
 *.animeotk.com CNAME .
 animeporn.best CNAME .
@@ -20343,6 +20345,8 @@ malkm.com CNAME .
 *.malkm.com CNAME .
 mallandrinhas.net CNAME .
 *.mallandrinhas.net CNAME .
+malluporno.com CNAME .
+*.malluporno.com CNAME .
 mallusex.me CNAME .
 *.mallusex.me CNAME .
 mallusexvideos.net CNAME .
@@ -24731,6 +24735,8 @@ peach.com CNAME .
 *.peach.com CNAME .
 peachesandcream.co.nz CNAME .
 *.peachesandcream.co.nz CNAME .
+pecadoetentacao.com CNAME .
+*.pecadoetentacao.com CNAME .
 pecadoreal.com CNAME .
 *.pecadoreal.com CNAME .
 pecadosenlinea.com CNAME .
