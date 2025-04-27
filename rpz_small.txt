@@ -1,9 +1,9 @@
-; Version: 202504270608
+; Version: 202504270709
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89374
-; Last modified: 2025-04-27T06:08:49+0000
+; Entries: 89356
+; Last modified: 2025-04-27T07:09:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745733602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745737201 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -23661,8 +23661,6 @@ countly.globaldelight.net CNAME .
 *.countly.globaldelight.net CNAME .
 countvoncount.goguardian.com CNAME .
 *.countvoncount.goguardian.com CNAME .
-countybananasslogan.com CNAME .
-*.countybananasslogan.com CNAME .
 coupageoutrant.guru CNAME .
 *.coupageoutrant.guru CNAME .
 couphaithuph.net CNAME .
@@ -28293,8 +28291,6 @@ decknetwork.net CNAME .
 *.decknetwork.net CNAME .
 declarcercket.org CNAME .
 *.declarcercket.org CNAME .
-declaredtraumatic.com CNAME .
-*.declaredtraumatic.com CNAME .
 declinebladdersbed.com CNAME .
 *.declinebladdersbed.com CNAME .
 declk.com CNAME .
@@ -29011,8 +29007,6 @@ dharnaslaked.top CNAME .
 *.dharnaslaked.top CNAME .
 dhcmni6m2kkyw.cloudfront.net CNAME .
 *.dhcmni6m2kkyw.cloudfront.net CNAME .
-dheilgorsy.com CNAME .
-*.dheilgorsy.com CNAME .
 dhepuldufahr.com CNAME .
 *.dhepuldufahr.com CNAME .
 dheqzygafg.com CNAME .
@@ -30989,8 +30983,6 @@ dufixen.com CNAME .
 *.dufixen.com CNAME .
 duftiteenfonce.com CNAME .
 *.duftiteenfonce.com CNAME .
-dugapiece.com CNAME .
-*.dugapiece.com CNAME .
 dugothitachan.com CNAME .
 *.dugothitachan.com CNAME .
 dugraukeeck.net CNAME .
@@ -36409,8 +36401,6 @@ foxshipshaka.click CNAME .
 *.foxshipshaka.click CNAME .
 foybdfdodvgva.rocks CNAME .
 *.foybdfdodvgva.rocks CNAME .
-fp-cdn.azureedge.net CNAME .
-*.fp-cdn.azureedge.net CNAME .
 fp.kakaku.com CNAME .
 *.fp.kakaku.com CNAME .
 fp.nanrenwo.net CNAME .
@@ -36981,8 +36971,6 @@ fuzakumpaks.com CNAME .
 *.fuzakumpaks.com CNAME .
 fuzvjy.com CNAME .
 *.fuzvjy.com CNAME .
-fuzzydinnerbedtime.com CNAME .
-*.fuzzydinnerbedtime.com CNAME .
 fuzzyflavor.com CNAME .
 *.fuzzyflavor.com CNAME .
 fuzzyincline.com CNAME .
@@ -51849,8 +51837,6 @@ meewiwechoopty.net CNAME .
 *.meewiwechoopty.net CNAME .
 meezauch.net CNAME .
 *.meezauch.net CNAME .
-mefestivalbout.com CNAME .
-*.mefestivalbout.com CNAME .
 mega.mydealz.de CNAME .
 *.mega.mydealz.de CNAME .
 megaad.nz CNAME .
@@ -67211,8 +67197,6 @@ ropeanresultanc.com CNAME .
 *.ropeanresultanc.com CNAME .
 ropebrains.com CNAME .
 *.ropebrains.com CNAME .
-ropwilv.com CNAME .
-*.ropwilv.com CNAME .
 roredi.com CNAME .
 *.roredi.com CNAME .
 roritchou.net CNAME .
@@ -85371,8 +85355,6 @@ wicopymastery.com CNAME .
 *.wicopymastery.com CNAME .
 wicory.com CNAME .
 *.wicory.com CNAME .
-widdermixtec.com CNAME .
-*.widdermixtec.com CNAME .
 wideaplentyinsurance.com CNAME .
 *.wideaplentyinsurance.com CNAME .
 wideeyed-painting.com CNAME .
