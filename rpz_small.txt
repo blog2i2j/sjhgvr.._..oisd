@@ -1,9 +1,9 @@
-; Version: 202504271609
+; Version: 202504271710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89164
-; Last modified: 2025-04-27T16:09:46+0000
+; Entries: 89146
+; Last modified: 2025-04-27T17:10:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745769601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745773202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16763,8 +16763,6 @@ blessdi.com CNAME .
 *.blessdi.com CNAME .
 blessedhurtdismantle.com CNAME .
 *.blessedhurtdismantle.com CNAME .
-blessgravity.com CNAME .
-*.blessgravity.com CNAME .
 blesshunt.com CNAME .
 *.blesshunt.com CNAME .
 blessinghookup.com CNAME .
@@ -18087,8 +18085,6 @@ buckumoore.com CNAME .
 *.buckumoore.com CNAME .
 buckwheatchipwrinkle.com CNAME .
 *.buckwheatchipwrinkle.com CNAME .
-bucnwtv.top CNAME .
-*.bucnwtv.top CNAME .
 buddyassetstupid.com CNAME .
 *.buddyassetstupid.com CNAME .
 buddyguests.com CNAME .
@@ -32943,8 +32939,6 @@ equanimitypresentimentelectronics.com CNAME .
 *.equanimitypresentimentelectronics.com CNAME .
 equatedsizing.website CNAME .
 *.equatedsizing.website CNAME .
-equatorroom.com CNAME .
-*.equatorroom.com CNAME .
 equides.pro CNAME .
 *.equides.pro CNAME .
 equipmentapes.com CNAME .
@@ -38161,8 +38155,6 @@ gitoku.com CNAME .
 *.gitoku.com CNAME .
 givebacks25.fun CNAME .
 *.givebacks25.fun CNAME .
-givedressed.com CNAME .
-*.givedressed.com CNAME .
 givenconserve.com CNAME .
 *.givenconserve.com CNAME .
 givesboranes.com CNAME .
@@ -46359,8 +46351,6 @@ kibmswncw.com CNAME .
 *.kibmswncw.com CNAME .
 kibyglsp.top CNAME .
 *.kibyglsp.top CNAME .
-kicka.xyz CNAME .
-*.kicka.xyz CNAME .
 kickchecking.com CNAME .
 *.kickchecking.com CNAME .
 kiczrqo.com CNAME .
@@ -47581,8 +47571,6 @@ latinwayy.com CNAME .
 *.latinwayy.com CNAME .
 lator308aoe.com CNAME .
 *.lator308aoe.com CNAME .
-latounrheae.com CNAME .
-*.latounrheae.com CNAME .
 latriafrow.top CNAME .
 *.latriafrow.top CNAME .
 latrinehelves.com CNAME .
@@ -60967,8 +60955,6 @@ plausible.ams.to CNAME .
 *.plausible.ams.to CNAME .
 plausible.citynews.ovh CNAME .
 *.plausible.citynews.ovh CNAME .
-plausible.flamekiller.org CNAME .
-*.plausible.flamekiller.org CNAME .
 plausible.omgapi.org CNAME .
 *.plausible.omgapi.org CNAME .
 plausible.paimon.moe CNAME .
@@ -66589,8 +66575,6 @@ riflesurfing.xyz CNAME .
 *.riflesurfing.xyz CNAME .
 riftharp.com CNAME .
 *.riftharp.com CNAME .
-rightcomparativelyincomparable.com CNAME .
-*.rightcomparativelyincomparable.com CNAME .
 righteousfainted.com CNAME .
 *.righteousfainted.com CNAME .
 righteoussleekpet.com CNAME .
@@ -70395,8 +70379,6 @@ shared.65twenty.com CNAME .
 *.shared.65twenty.com CNAME .
 sharedhabble.top CNAME .
 *.sharedhabble.top CNAME .
-sharedmarriage.com CNAME .
-*.sharedmarriage.com CNAME .
 sharefb.cnnd.vn CNAME .
 *.sharefb.cnnd.vn CNAME .
 sharegods.com CNAME .
