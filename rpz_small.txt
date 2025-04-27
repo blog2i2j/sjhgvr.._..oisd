@@ -1,9 +1,9 @@
-; Version: 202504271810
+; Version: 202504271909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89128
-; Last modified: 2025-04-27T18:10:17+0000
+; Entries: 89096
+; Last modified: 2025-04-27T19:09:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745776802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745780402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8881,8 +8881,6 @@ aidsswaggertrimness.com CNAME .
 *.aidsswaggertrimness.com CNAME .
 aidsvc.netflix.com CNAME .
 *.aidsvc.netflix.com CNAME .
-aiejlfb.com CNAME .
-*.aiejlfb.com CNAME .
 aifuwgcygccfp.com CNAME .
 *.aifuwgcygccfp.com CNAME .
 aigfednd.icu CNAME .
@@ -15785,8 +15783,6 @@ behim.click CNAME .
 *.behim.click CNAME .
 behindextend.com CNAME .
 *.behindextend.com CNAME .
-behindfebruary.com CNAME .
-*.behindfebruary.com CNAME .
 behindforhewas.org CNAME .
 *.behindforhewas.org CNAME .
 beholdcontents.com CNAME .
@@ -16427,8 +16423,6 @@ billiardssequelsticky.com CNAME .
 *.billiardssequelsticky.com CNAME .
 billybobandirect.org CNAME .
 *.billybobandirect.org CNAME .
-billygroups.com CNAME .
-*.billygroups.com CNAME .
 biloatiw.com CNAME .
 *.biloatiw.com CNAME .
 bilsoaphaik.net CNAME .
@@ -23315,8 +23309,6 @@ copalmsbeno.shop CNAME .
 *.copalmsbeno.shop CNAME .
 copeaxe.com CNAME .
 *.copeaxe.com CNAME .
-copemorethem.live CNAME .
-*.copemorethem.live CNAME .
 copenimpane.shop CNAME .
 *.copenimpane.shop CNAME .
 copieraback.com CNAME .
@@ -30635,8 +30627,6 @@ dronediscussed.com CNAME .
 *.dronediscussed.com CNAME .
 droopcomate.top CNAME .
 *.droopcomate.top CNAME .
-droopingfur.com CNAME .
-*.droopingfur.com CNAME .
 dropdoneraining.com CNAME .
 *.dropdoneraining.com CNAME .
 dropletevaporateumpire.com CNAME .
@@ -37289,8 +37279,6 @@ garbanzos24.fun CNAME .
 *.garbanzos24.fun CNAME .
 gardenbilliontraced.com CNAME .
 *.gardenbilliontraced.com CNAME .
-gardeningseparatedudley.com CNAME .
-*.gardeningseparatedudley.com CNAME .
 gardoult.com CNAME .
 *.gardoult.com CNAME .
 gargantuan-menu.pro CNAME .
@@ -40823,8 +40811,6 @@ heratheacle.com CNAME .
 *.heratheacle.com CNAME .
 herbalaffiliateprogram.com CNAME .
 *.herbalaffiliateprogram.com CNAME .
-herbalbreedphase.com CNAME .
-*.herbalbreedphase.com CNAME .
 hercockremarke.info CNAME .
 *.hercockremarke.info CNAME .
 herconsequence.com CNAME .
@@ -41561,8 +41547,6 @@ honestlydeploy.com CNAME .
 *.honestlydeploy.com CNAME .
 honestlyquick.com CNAME .
 *.honestlyquick.com CNAME .
-honestlystalk.com CNAME .
-*.honestlystalk.com CNAME .
 honestlyvicinityscene.com CNAME .
 *.honestlyvicinityscene.com CNAME .
 honeycombabstinence.com CNAME .
@@ -43729,8 +43713,6 @@ inservinea.com CNAME .
 *.inservinea.com CNAME .
 inshelmetan.com CNAME .
 *.inshelmetan.com CNAME .
-insideconnectionsprinting.com CNAME .
-*.insideconnectionsprinting.com CNAME .
 insideofnews.com CNAME .
 *.insideofnews.com CNAME .
 insideoftech.com CNAME .
@@ -44019,8 +44001,6 @@ invadedisheartentrail.com CNAME .
 *.invadedisheartentrail.com CNAME .
 invaderimmenseimplication.com CNAME .
 *.invaderimmenseimplication.com CNAME .
-invariablyunpredictable.com CNAME .
-*.invariablyunpredictable.com CNAME .
 invast.site CNAME .
 *.invast.site CNAME .
 inventionallocatewall.com CNAME .
@@ -47929,8 +47909,6 @@ lemotherofhe.com CNAME .
 *.lemotherofhe.com CNAME .
 lemouwee.com CNAME .
 *.lemouwee.com CNAME .
-lemur.a-and-a-trucking.com CNAME .
-*.lemur.a-and-a-trucking.com CNAME .
 lend-rb.bid CNAME .
 *.lend-rb.bid CNAME .
 lengerpanisk.top CNAME .
@@ -51781,8 +51759,6 @@ mempoonsoftoow.net CNAME .
 *.mempoonsoftoow.net CNAME .
 menacehabit.com CNAME .
 *.menacehabit.com CNAME .
-menacing-awareness.pro CNAME .
-*.menacing-awareness.pro CNAME .
 menews.org CNAME .
 *.menews.org CNAME .
 mengaoz.xyz CNAME .
@@ -62115,8 +62091,6 @@ presentationbishop.com CNAME .
 *.presentationbishop.com CNAME .
 presentationtracking.netflix.com CNAME .
 *.presentationtracking.netflix.com CNAME .
-presentimentguestmetaphor.com CNAME .
-*.presentimentguestmetaphor.com CNAME .
 preservedresentful.com CNAME .
 *.preservedresentful.com CNAME .
 presetrabbits.com CNAME .
@@ -69849,8 +69823,6 @@ sermonsbleeder.top CNAME .
 *.sermonsbleeder.top CNAME .
 serosaharlem.com CNAME .
 *.serosaharlem.com CNAME .
-serpentreplica.com CNAME .
-*.serpentreplica.com CNAME .
 sersh.com CNAME .
 *.sersh.com CNAME .
 serv.bvsrv.com CNAME .
@@ -74883,8 +74855,6 @@ successcuff.com CNAME .
 *.successcuff.com CNAME .
 successesstudents.com CNAME .
 *.successesstudents.com CNAME .
-successionfireextinguisher.com CNAME .
-*.successionfireextinguisher.com CNAME .
 successorblushingplace.com CNAME .
 *.successorblushingplace.com CNAME .
 suchanalytik.hideandsec.sh CNAME .
@@ -82507,8 +82477,6 @@ vartoken.com CNAME .
 *.vartoken.com CNAME .
 varycares.com CNAME .
 *.varycares.com CNAME .
-varyingcanteenartillery.com CNAME .
-*.varyingcanteenartillery.com CNAME .
 varyingsnarl.com CNAME .
 *.varyingsnarl.com CNAME .
 vasfmbody.com CNAME .
