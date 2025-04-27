@@ -1,9 +1,9 @@
-; Version: 202504270312
+; Version: 202504270412
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41780
-; Last modified: 2025-04-27T03:12:29+0000
+; Entries: 41782
+; Last modified: 2025-04-27T04:12:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745722801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745726402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11807,6 +11807,8 @@ freesexchat.sex CNAME .
 *.freesexchat.sex CNAME .
 freesexcomics.pro CNAME .
 *.freesexcomics.pro CNAME .
+freesexgame.com CNAME .
+*.freesexgame.com CNAME .
 freesexgames.me CNAME .
 *.freesexgames.me CNAME .
 freesexkahani.com CNAME .
@@ -17111,8 +17113,6 @@ istanbularnavutkoyescort.com CNAME .
 *.istanbularnavutkoyescort.com CNAME .
 istanbulescortgo.com CNAME .
 *.istanbulescortgo.com CNAME .
-istanbulescortonline.com CNAME .
-*.istanbulescortonline.com CNAME .
 istanbulescortshub.com CNAME .
 *.istanbulescortshub.com CNAME .
 istanbulescorttr.net CNAME .
@@ -24493,6 +24493,8 @@ ozbek-porno.cc CNAME .
 *.ozbek-porno.cc CNAME .
 ozeex.com CNAME .
 *.ozeex.com CNAME .
+ozost.com CNAME .
+*.ozost.com CNAME .
 ozzieflirtzone.com CNAME .
 *.ozzieflirtzone.com CNAME .
 p-a-c-k-s.com CNAME .
@@ -30393,6 +30395,8 @@ seemyporn.com CNAME .
 *.seemyporn.com CNAME .
 seepornteen.com CNAME .
 *.seepornteen.com CNAME .
+seevidfr.com CNAME .
+*.seevidfr.com CNAME .
 seexh.com CNAME .
 *.seexh.com CNAME .
 seexh1.com CNAME .
@@ -41667,8 +41671,6 @@ zoosex.fun CNAME .
 *.zoosex.fun CNAME .
 zoosex.me CNAME .
 *.zoosex.me CNAME .
-zoosex.monster CNAME .
-*.zoosex.monster CNAME .
 zoosex.pink CNAME .
 *.zoosex.pink CNAME .
 zoosex.tube CNAME .
