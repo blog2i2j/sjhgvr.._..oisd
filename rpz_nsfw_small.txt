@@ -1,9 +1,9 @@
-; Version: 202504281814
+; Version: 202504281914
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42012
-; Last modified: 2025-04-28T18:14:01+0000
+; Entries: 42022
+; Last modified: 2025-04-28T19:14:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745863202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745866802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1031,6 +1031,8 @@ actress-base.ru CNAME .
 *.actress-base.ru CNAME .
 actressx.com CNAME .
 *.actressx.com CNAME .
+ad-live.com CNAME .
+*.ad-live.com CNAME .
 ad69.com CNAME .
 *.ad69.com CNAME .
 adablog69.com CNAME .
@@ -16907,6 +16909,8 @@ infinitehentai.com CNAME .
 *.infinitehentai.com CNAME .
 infinitetube.com CNAME .
 *.infinitetube.com CNAME .
+infinityfreeapp.com CNAME .
+*.infinityfreeapp.com CNAME .
 influencerchicks.com CNAME .
 *.influencerchicks.com CNAME .
 influencerscalientes.com CNAME .
@@ -19991,6 +19995,8 @@ localxh.com CNAME .
 *.localxh.com CNAME .
 localxlist.org CNAME .
 *.localxlist.org CNAME .
+lokalelust.com CNAME .
+*.lokalelust.com CNAME .
 lolasex.co.il CNAME .
 *.lolasex.co.il CNAME .
 lolayoung.com CNAME .
@@ -39035,6 +39041,8 @@ xillimite.com CNAME .
 *.xillimite.com CNAME .
 xinghaoya.net CNAME .
 *.xinghaoya.net CNAME .
+xinmeitulu.com CNAME .
+*.xinmeitulu.com CNAME .
 xiunice.com CNAME .
 *.xiunice.com CNAME .
 xiuren.biz CNAME .
@@ -39349,6 +39357,8 @@ xn--z3cft2bc5d.com CNAME .
 *.xn--z3cft2bc5d.com CNAME .
 xnalgas.com CNAME .
 *.xnalgas.com CNAME .
+xndoll.com CNAME .
+*.xndoll.com CNAME .
 xneon.com CNAME .
 *.xneon.com CNAME .
 xnhub.com CNAME .
