@@ -1,9 +1,9 @@
-; Version: 202504281014
+; Version: 202504281114
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41976
-; Last modified: 2025-04-28T10:14:35+0000
+; Entries: 41980
+; Last modified: 2025-04-28T11:14:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745834401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745838002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -4675,6 +4675,8 @@ bisexualdatingmichigan.com CNAME .
 *.bisexualdatingmichigan.com CNAME .
 bisexualdatingweb.com CNAME .
 *.bisexualdatingweb.com CNAME .
+bisexualencounters.org CNAME .
+*.bisexualencounters.org CNAME .
 bisexualgirlhookup.com CNAME .
 *.bisexualgirlhookup.com CNAME .
 bisexualplayground.com CNAME .
@@ -7215,6 +7217,8 @@ coomer.party CNAME .
 *.coomer.party CNAME .
 coomer.su CNAME .
 *.coomer.su CNAME .
+coopy.co CNAME .
+*.coopy.co CNAME .
 copro.pw CNAME .
 *.copro.pw CNAME .
 copypast.ru CNAME .
