@@ -1,9 +1,9 @@
-; Version: 202504280208
+; Version: 202504280308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89032
-; Last modified: 2025-04-28T02:08:40+0000
+; Entries: 89020
+; Last modified: 2025-04-28T03:08:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745805603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745809202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12101,8 +12101,6 @@ appearancegravel.com CNAME .
 *.appearancegravel.com CNAME .
 appearedcrawledramp.com CNAME .
 *.appearedcrawledramp.com CNAME .
-appearednecessarily.com CNAME .
-*.appearednecessarily.com CNAME .
 appearedon.com CNAME .
 *.appearedon.com CNAME .
 appearedsuspendedcommands.com CNAME .
@@ -33869,8 +33867,6 @@ existingcraziness.com CNAME .
 *.existingcraziness.com CNAME .
 exists-mazard.icu CNAME .
 *.exists-mazard.icu CNAME .
-existteapotstarter.com CNAME .
-*.existteapotstarter.com CNAME .
 exit76.com CNAME .
 *.exit76.com CNAME .
 exitexchange.com CNAME .
@@ -34331,8 +34327,6 @@ fairmonks.com CNAME .
 *.fairmonks.com CNAME .
 fairnessels.com CNAME .
 *.fairnessels.com CNAME .
-fairnessmolebedtime.com CNAME .
-*.fairnessmolebedtime.com CNAME .
 faisaphoofa.net CNAME .
 *.faisaphoofa.net CNAME .
 faised.com CNAME .
@@ -70233,8 +70227,6 @@ shakre.com CNAME .
 *.shakre.com CNAME .
 shakydeploylofty.com CNAME .
 *.shakydeploylofty.com CNAME .
-shallarchbishop.com CNAME .
-*.shallarchbishop.com CNAME .
 shallonawshar.top CNAME .
 *.shallonawshar.top CNAME .
 shallowtwist.pro CNAME .
@@ -70987,8 +70979,6 @@ sitey.me CNAME .
 *.sitey.me CNAME .
 sitononraggiungibile.it CNAME .
 *.sitononraggiungibile.it CNAME .
-sittingtransformation.com CNAME .
-*.sittingtransformation.com CNAME .
 sitymirableabo.org CNAME .
 *.sitymirableabo.org CNAME .
 siversbesomer.space CNAME .
@@ -85769,8 +85759,6 @@ wouldmakefeagr.com CNAME .
 *.wouldmakefeagr.com CNAME .
 wouldmeukeuk.com CNAME .
 *.wouldmeukeuk.com CNAME .
-wouldtalkbust.com CNAME .
-*.wouldtalkbust.com CNAME .
 woulizouthouda.net CNAME .
 *.woulizouthouda.net CNAME .
 wovensur.com CNAME .
