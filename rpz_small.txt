@@ -1,9 +1,9 @@
-; Version: 202504280308
+; Version: 202504280408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89020
-; Last modified: 2025-04-28T03:08:20+0000
+; Entries: 88978
+; Last modified: 2025-04-28T04:08:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745809202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745812802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1095,8 +1095,6 @@ $TTL 30
 *.2aefgbf.de CNAME .
 2appup.com CNAME .
 *.2appup.com CNAME .
-2b2359b518.com CNAME .
-*.2b2359b518.com CNAME .
 2b9957041a.com CNAME .
 *.2b9957041a.com CNAME .
 2bc533c900.com CNAME .
@@ -1651,8 +1649,6 @@ $TTL 30
 *.42jdbcb.de CNAME .
 43113977.xyz CNAME .
 *.43113977.xyz CNAME .
-439f4b8c75.com CNAME .
-*.439f4b8c75.com CNAME .
 43e1628a5f.com CNAME .
 *.43e1628a5f.com CNAME .
 43ors1osh.com CNAME .
@@ -3007,8 +3003,6 @@ $TTL 30
 *.9d6d1163fa.8c2012e141.com CNAME .
 9d87b35397.com CNAME .
 *.9d87b35397.com CNAME .
-9dccbda825.com CNAME .
-*.9dccbda825.com CNAME .
 9dmnv9z0gtoh.com CNAME .
 *.9dmnv9z0gtoh.com CNAME .
 9e11ec3a56.com CNAME .
@@ -4447,8 +4441,6 @@ acoustoopticmodulator.com CNAME .
 *.acoustoopticmodulator.com CNAME .
 acproyectos.com CNAME .
 *.acproyectos.com CNAME .
-acqmeaf.com CNAME .
-*.acqmeaf.com CNAME .
 acqpizkpo.com CNAME .
 *.acqpizkpo.com CNAME .
 acqtfeofpa.com CNAME .
@@ -16709,8 +16701,6 @@ blazedizafat.top CNAME .
 *.blazedizafat.top CNAME .
 blazercachefactor.com CNAME .
 *.blazercachefactor.com CNAME .
-blazesomeplacespecification.com CNAME .
-*.blazesomeplacespecification.com CNAME .
 blbesnuff.digital CNAME .
 *.blbesnuff.digital CNAME .
 blcdog.com CNAME .
@@ -17455,8 +17445,6 @@ bowlestypy.top CNAME .
 *.bowlestypy.top CNAME .
 bowlingunauthorized.com CNAME .
 *.bowlingunauthorized.com CNAME .
-bowlprick.com CNAME .
-*.bowlprick.com CNAME .
 bowlpromoteintimacy.com CNAME .
 *.bowlpromoteintimacy.com CNAME .
 bowlsalb.click CNAME .
@@ -33791,8 +33779,6 @@ excitementcolossalrelax.com CNAME .
 *.excitementcolossalrelax.com CNAME .
 excitementoppressive.com CNAME .
 *.excitementoppressive.com CNAME .
-excitinginstitute.com CNAME .
-*.excitinginstitute.com CNAME .
 exclkplat.com CNAME .
 *.exclkplat.com CNAME .
 exclplatmain.com CNAME .
@@ -33827,8 +33813,6 @@ exemplarychemistry.com CNAME .
 *.exemplarychemistry.com CNAME .
 exemptjav128.fun CNAME .
 *.exemptjav128.fun CNAME .
-exertionbesiege.com CNAME .
-*.exertionbesiege.com CNAME .
 exfjpw.com CNAME .
 *.exfjpw.com CNAME .
 exgjhawccb.com CNAME .
@@ -34241,8 +34225,6 @@ faciendtabour.shop CNAME .
 *.faciendtabour.shop CNAME .
 facileravagebased.com CNAME .
 *.facileravagebased.com CNAME .
-faciliatefightpierre.com CNAME .
-*.faciliatefightpierre.com CNAME .
 facilitatevoluntarily.com CNAME .
 *.facilitatevoluntarily.com CNAME .
 facisespess.com CNAME .
@@ -34369,8 +34351,6 @@ fallenleadingthug.com CNAME .
 *.fallenleadingthug.com CNAME .
 fallhadintense.com CNAME .
 *.fallhadintense.com CNAME .
-falloutspecies.com CNAME .
-*.falloutspecies.com CNAME .
 falsechasingdefine.com CNAME .
 *.falsechasingdefine.com CNAME .
 falseframe.com CNAME .
@@ -36115,8 +36095,6 @@ formerdisagreepectoral.com CNAME .
 *.formerdisagreepectoral.com CNAME .
 formerdrearybiopsy.com CNAME .
 *.formerdrearybiopsy.com CNAME .
-formerlyhorribly.com CNAME .
-*.formerlyhorribly.com CNAME .
 formerlyparsleysuccess.com CNAME .
 *.formerlyparsleysuccess.com CNAME .
 formidablestems.com CNAME .
@@ -38019,8 +37997,6 @@ gilsiwhisopaum.net CNAME .
 *.gilsiwhisopaum.net CNAME .
 giltsmalgre.shop CNAME .
 *.giltsmalgre.shop CNAME .
-gimea.site CNAME .
-*.gimea.site CNAME .
 gimes.site CNAME .
 *.gimes.site CNAME .
 gimme-promo.com CNAME .
@@ -43987,8 +43963,6 @@ invordones.com CNAME .
 *.invordones.com CNAME .
 inwraptsekane.com CNAME .
 *.inwraptsekane.com CNAME .
-inwuamo.top CNAME .
-*.inwuamo.top CNAME .
 inxgfxylzkkgi.one CNAME .
 *.inxgfxylzkkgi.one CNAME .
 inyoketuber.com CNAME .
@@ -44371,8 +44345,6 @@ itnuzleafan.com CNAME .
 *.itnuzleafan.com CNAME .
 itop.cz CNAME .
 *.itop.cz CNAME .
-itoqals.com CNAME .
-*.itoqals.com CNAME .
 itpatratr.com CNAME .
 *.itpatratr.com CNAME .
 itponytaa.com CNAME .
@@ -44841,8 +44813,6 @@ jealousupholdpleaded.com CNAME .
 *.jealousupholdpleaded.com CNAME .
 jealousyscreamrepaired.com CNAME .
 *.jealousyscreamrepaired.com CNAME .
-jeannenoises.com CNAME .
-*.jeannenoises.com CNAME .
 jeanykikongo.click CNAME .
 *.jeanykikongo.click CNAME .
 jebrhb.icu CNAME .
@@ -51711,8 +51681,6 @@ membersattenuatejelly.com CNAME .
 *.membersattenuatejelly.com CNAME .
 memberscrisis.com CNAME .
 *.memberscrisis.com CNAME .
-memorableeditor.com CNAME .
-*.memorableeditor.com CNAME .
 mempoonsoftoow.net CNAME .
 *.mempoonsoftoow.net CNAME .
 menacehabit.com CNAME .
@@ -58355,8 +58323,6 @@ overkirliaan.com CNAME .
 *.overkirliaan.com CNAME .
 overlapflintsidenote.com CNAME .
 *.overlapflintsidenote.com CNAME .
-overlivedub.com CNAME .
-*.overlivedub.com CNAME .
 overloadmaturespanner.com CNAME .
 *.overloadmaturespanner.com CNAME .
 overluvdiscan.com CNAME .
@@ -74171,8 +74137,6 @@ stdirection.com CNAME .
 *.stdirection.com CNAME .
 steadilyearnfailure.com CNAME .
 *.steadilyearnfailure.com CNAME .
-steadydonut.com CNAME .
-*.steadydonut.com CNAME .
 steadypriority.com CNAME .
 *.steadypriority.com CNAME .
 steadyquarryderived.com CNAME .
@@ -77849,8 +77813,6 @@ tolverhyple.info CNAME .
 *.tolverhyple.info CNAME .
 tom.aomg5bzv7.com CNAME .
 *.tom.aomg5bzv7.com CNAME .
-tomatoescampusslumber.com CNAME .
-*.tomatoescampusslumber.com CNAME .
 tomatoesstripemeaningless.com CNAME .
 *.tomatoesstripemeaningless.com CNAME .
 tomatoitch.com CNAME .
@@ -79021,8 +78983,6 @@ tracker.sqreemtech.com CNAME .
 *.tracker.sqreemtech.com CNAME .
 tracker.srta.spectrum.com CNAME .
 *.tracker.srta.spectrum.com CNAME .
-tracker.ssl0d.com CNAME .
-*.tracker.ssl0d.com CNAME .
 tracker.stats.in.th CNAME .
 *.tracker.stats.in.th CNAME .
 tracker.str-nrg.com CNAME .
@@ -81337,8 +81297,6 @@ underpantscostsdirection.com CNAME .
 *.underpantscostsdirection.com CNAME .
 underpantsdefencelesslearn.com CNAME .
 *.underpantsdefencelesslearn.com CNAME .
-underpantshomesimaginary.com CNAME .
-*.underpantshomesimaginary.com CNAME .
 underpantsprickcontinue.com CNAME .
 *.underpantsprickcontinue.com CNAME .
 understandablejeopardy.com CNAME .
