@@ -1,9 +1,9 @@
-; Version: 202504281210
+; Version: 202504281309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88810
-; Last modified: 2025-04-28T12:10:24+0000
+; Entries: 88798
+; Last modified: 2025-04-28T13:09:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745841603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745845202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4735,8 +4735,6 @@ ad.bubblestat.com CNAME .
 *.ad.bubblestat.com CNAME .
 ad.buzzvil.com CNAME .
 *.ad.buzzvil.com CNAME .
-ad.byfuh.com CNAME .
-*.ad.byfuh.com CNAME .
 ad.cauly.co.kr CNAME .
 *.ad.cauly.co.kr CNAME .
 ad.cbonds.info CNAME .
@@ -16897,8 +16895,6 @@ bn.gewinn24.de CNAME .
 *.bn.gewinn24.de CNAME .
 bn.gogo.mn CNAME .
 *.bn.gogo.mn CNAME .
-bn.kino-go.co CNAME .
-*.bn.kino-go.co CNAME .
 bn.ohah.ru CNAME .
 *.bn.ohah.ru CNAME .
 bn.orthodoxy.ru CNAME .
@@ -41353,8 +41349,6 @@ holdupmarauds.top CNAME .
 *.holdupmarauds.top CNAME .
 holenhw.com CNAME .
 *.holenhw.com CNAME .
-holidaycoconutconsciousness.com CNAME .
-*.holidaycoconutconsciousness.com CNAME .
 holikedtocometot.com CNAME .
 *.holikedtocometot.com CNAME .
 holismheist.life CNAME .
@@ -48121,8 +48115,6 @@ limitedkettlemathematical.com CNAME .
 *.limitedkettlemathematical.com CNAME .
 limitesrifer.com CNAME .
 *.limitesrifer.com CNAME .
-limitlessascertain.com CNAME .
-*.limitlessascertain.com CNAME .
 limitssimultaneous.com CNAME .
 *.limitssimultaneous.com CNAME .
 limone.iltrovatore.it CNAME .
@@ -51383,8 +51375,6 @@ mediaarea.eu CNAME .
 *.mediaarea.eu CNAME .
 mediaathay.org.uk CNAME .
 *.mediaathay.org.uk CNAME .
-mediabelongkilling.com CNAME .
-*.mediabelongkilling.com CNAME .
 mediabridge.cc CNAME .
 *.mediabridge.cc CNAME .
 mediacdn.x1hub.com CNAME .
@@ -59119,8 +59109,6 @@ partnerx.bethub.io CNAME .
 *.partnerx.bethub.io CNAME .
 partookopp.top CNAME .
 *.partookopp.top CNAME .
-partpedestal.com CNAME .
-*.partpedestal.com CNAME .
 partridgehostcrumb.com CNAME .
 *.partridgehostcrumb.com CNAME .
 parttimelucidly.com CNAME .
