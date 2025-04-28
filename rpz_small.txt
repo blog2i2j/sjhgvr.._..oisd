@@ -1,9 +1,9 @@
-; Version: 202504280909
+; Version: 202504281009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88872
-; Last modified: 2025-04-28T09:09:42+0000
+; Entries: 88850
+; Last modified: 2025-04-28T10:09:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745830802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745834401 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -487,8 +487,6 @@ $TTL 30
 *.138124e964.eda4dc1ffe.com CNAME .
 1386bd6fb0.52fa059b20.com CNAME .
 *.1386bd6fb0.52fa059b20.com CNAME .
-13b696a4c1.com CNAME .
-*.13b696a4c1.com CNAME .
 13c4491879.com CNAME .
 *.13c4491879.com CNAME .
 13p76nnir.de CNAME .
@@ -2961,8 +2959,6 @@ $TTL 30
 *.9a55672b0c.com CNAME .
 9a71b08258.com CNAME .
 *.9a71b08258.com CNAME .
-9a857c6721.com CNAME .
-*.9a857c6721.com CNAME .
 9a8f641701.com CNAME .
 *.9a8f641701.com CNAME .
 9aad7115.amy.gs CNAME .
@@ -15371,8 +15367,6 @@ bdcode.youke.com CNAME .
 *.bdcode.youke.com CNAME .
 bdec1f37.xyz CNAME .
 *.bdec1f37.xyz CNAME .
-bdffkdqkgvdf.com CNAME .
-*.bdffkdqkgvdf.com CNAME .
 bdg-analytics.appspot.com CNAME .
 *.bdg-analytics.appspot.com CNAME .
 bdgg.qjy168.com CNAME .
@@ -18279,8 +18273,6 @@ business-api.tiktok.com CNAME .
 *.business-api.tiktok.com CNAME .
 businessessities.com CNAME .
 *.businessessities.com CNAME .
-businessmenmerchandise.com CNAME .
-*.businessmenmerchandise.com CNAME .
 businesstremendoushad.com CNAME .
 *.businesstremendoushad.com CNAME .
 buskerreshoes.website CNAME .
@@ -30521,8 +30513,6 @@ dreyntbynames.top CNAME .
 *.dreyntbynames.top CNAME .
 drf8e429z5jzt.cloudfront.net CNAME .
 *.drf8e429z5jzt.cloudfront.net CNAME .
-drfaultlessplays.com CNAME .
-*.drfaultlessplays.com CNAME .
 dribturbot.com CNAME .
 *.dribturbot.com CNAME .
 driedanswerprotestant.com CNAME .
@@ -40307,8 +40297,6 @@ hauforip.net CNAME .
 *.hauforip.net CNAME .
 haughtydistinct.com CNAME .
 *.haughtydistinct.com CNAME .
-haughtysafety.com CNAME .
-*.haughtysafety.com CNAME .
 haugloosigliwha.net CNAME .
 *.haugloosigliwha.net CNAME .
 hauledforewordsentimental.com CNAME .
@@ -40797,8 +40785,6 @@ heukpiroot.com CNAME .
 *.heukpiroot.com CNAME .
 hevctt.xyz CNAME .
 *.hevctt.xyz CNAME .
-heweop.com CNAME .
-*.heweop.com CNAME .
 hewomenentail.com CNAME .
 *.hewomenentail.com CNAME .
 hewonderfulst.info CNAME .
@@ -45115,8 +45101,6 @@ jnnjthg.com CNAME .
 *.jnnjthg.com CNAME .
 jnrtavp2x66u.com CNAME .
 *.jnrtavp2x66u.com CNAME .
-jnwuama.top CNAME .
-*.jnwuama.top CNAME .
 jo.429men.com CNAME .
 *.jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
@@ -49501,8 +49485,6 @@ logservice1.dbankcloud.cn CNAME .
 *.logservice1.dbankcloud.cn CNAME .
 logservice1.hicloud.com CNAME .
 *.logservice1.hicloud.com CNAME .
-logsgroupknew.com CNAME .
-*.logsgroupknew.com CNAME .
 logshipascites.shop CNAME .
 *.logshipascites.shop CNAME .
 logsink.zedge.net CNAME .
@@ -61571,8 +61553,6 @@ postback1win.com CNAME .
 *.postback1win.com CNAME .
 postcardcareful.com CNAME .
 *.postcardcareful.com CNAME .
-postcardhazard.com CNAME .
-*.postcardhazard.com CNAME .
 poster.weather.com.cn CNAME .
 *.poster.weather.com.cn CNAME .
 posthog.tarnkappe.info CNAME .
@@ -85343,8 +85323,6 @@ wmnnjfe.com CNAME .
 *.wmnnjfe.com CNAME .
 wmober.com CNAME .
 *.wmober.com CNAME .
-wmol.cn CNAME .
-*.wmol.cn CNAME .
 wmpevgwd.com CNAME .
 *.wmpevgwd.com CNAME .
 wmpset.com CNAME .
