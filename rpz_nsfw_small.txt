@@ -1,9 +1,9 @@
-; Version: 202504281614
+; Version: 202504281713
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41992
-; Last modified: 2025-04-28T16:14:03+0000
+; Entries: 42006
+; Last modified: 2025-04-28T17:13:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745856002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745859601 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2369,6 +2369,8 @@ anon-v.com CNAME .
 *.anon-v.com CNAME .
 anon-v.xyz CNAME .
 *.anon-v.xyz CNAME .
+anonib.pk CNAME .
+*.anonib.pk CNAME .
 anonibx.com CNAME .
 *.anonibx.com CNAME .
 anonimages.com CNAME .
@@ -8231,6 +8233,8 @@ destacamos.net CNAME .
 *.destacamos.net CNAME .
 destinyporn.com CNAME .
 *.destinyporn.com CNAME .
+desu.me CNAME .
+*.desu.me CNAME .
 detog.com CNAME .
 *.detog.com CNAME .
 deutsche-geishas.de CNAME .
@@ -14935,6 +14939,8 @@ hentaiz.im CNAME .
 *.hentaiz.im CNAME .
 hentaiz.org CNAME .
 *.hentaiz.org CNAME .
+hentaiz.pw CNAME .
+*.hentaiz.pw CNAME .
 hentaiz.run CNAME .
 *.hentaiz.run CNAME .
 hentaiz.ws CNAME .
@@ -21641,6 +21647,8 @@ milkyvideo.com CNAME .
 *.milkyvideo.com CNAME .
 millerotici.com CNAME .
 *.millerotici.com CNAME .
+millioncelebs.com CNAME .
+*.millioncelebs.com CNAME .
 millionstatusov.ru CNAME .
 *.millionstatusov.ru CNAME .
 milovana.com CNAME .
@@ -30945,6 +30953,8 @@ sex8.cc CNAME .
 *.sex8.cc CNAME .
 sexaarab.net CNAME .
 *.sexaarab.net CNAME .
+sexaarabx.com CNAME .
+*.sexaarabx.com CNAME .
 sexabc.ch CNAME .
 *.sexabc.ch CNAME .
 sexaben.dk CNAME .
@@ -37763,6 +37773,8 @@ voyeyrist.com CNAME .
 *.voyeyrist.com CNAME .
 voysex.ru CNAME .
 *.voysex.ru CNAME .
+vpopke.com CNAME .
+*.vpopke.com CNAME .
 vporn.com CNAME .
 *.vporn.com CNAME .
 vporn.fun CNAME .
@@ -39539,6 +39551,8 @@ xnxxarab.net CNAME .
 *.xnxxarab.net CNAME .
 xnxxarab.to CNAME .
 *.xnxxarab.to CNAME .
+xnxxarabxx.org CNAME .
+*.xnxxarabxx.org CNAME .
 xnxxarabxxx.org CNAME .
 *.xnxxarabxxx.org CNAME .
 xnxxart.com CNAME .
