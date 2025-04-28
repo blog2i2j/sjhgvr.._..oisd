@@ -1,9 +1,9 @@
-; Version: 202504280513
+; Version: 202504280613
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41932
-; Last modified: 2025-04-28T05:13:09+0000
+; Entries: 41940
+; Last modified: 2025-04-28T06:13:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745816402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745820003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -8117,6 +8117,8 @@ desisex.xxx CNAME .
 *.desisex.xxx CNAME .
 desisex2.com CNAME .
 *.desisex2.com CNAME .
+desisexmasala.cc CNAME .
+*.desisexmasala.cc CNAME .
 desisexmasala.in CNAME .
 *.desisexmasala.in CNAME .
 desisexmms.net CNAME .
@@ -12669,6 +12671,8 @@ gayfuckbuddies.com CNAME .
 *.gayfuckbuddies.com CNAME .
 gayfuckporn.com CNAME .
 *.gayfuckporn.com CNAME .
+gayfuckporn.tv CNAME .
+*.gayfuckporn.tv CNAME .
 gayfucktube.xxx CNAME .
 *.gayfucktube.xxx CNAME .
 gayfuror.com CNAME .
@@ -18425,6 +18429,8 @@ k2sporn.com CNAME .
 *.k2sporn.com CNAME .
 k2sporn.net CNAME .
 *.k2sporn.net CNAME .
+k6.com.br CNAME .
+*.k6.com.br CNAME .
 k9lady.com CNAME .
 *.k9lady.com CNAME .
 k9monster.net CNAME .
@@ -29853,6 +29859,8 @@ rphang.online CNAME .
 *.rphang.online CNAME .
 rprp.ai CNAME .
 *.rprp.ai CNAME .
+rr.nu CNAME .
+*.rr.nu CNAME .
 rrs1.xyz CNAME .
 *.rrs1.xyz CNAME .
 rstatic.be CNAME .
