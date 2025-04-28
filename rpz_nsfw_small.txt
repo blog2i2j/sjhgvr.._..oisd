@@ -1,9 +1,9 @@
-; Version: 202504282113
+; Version: 202504282213
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42024
-; Last modified: 2025-04-28T21:13:14+0000
+; Entries: 42030
+; Last modified: 2025-04-28T22:13:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745874003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745877601 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11435,6 +11435,8 @@ foreign-bride.net CNAME .
 *.foreign-bride.net CNAME .
 forhertube.com CNAME .
 *.forhertube.com CNAME .
+foroescortsar.com CNAME .
+*.foroescortsar.com CNAME .
 forogore.net CNAME .
 *.forogore.net CNAME .
 foropirata.com CNAME .
@@ -12893,6 +12895,8 @@ gaysexdates.app CNAME .
 *.gaysexdates.app CNAME .
 gaysexfarm.com CNAME .
 *.gaysexfarm.com CNAME .
+gaysexhookup.net CNAME .
+*.gaysexhookup.net CNAME .
 gaysexphotos.com CNAME .
 *.gaysexphotos.com CNAME .
 gaysexpositions.guide CNAME .
@@ -33325,6 +33329,8 @@ sonovinhasbr.com CNAME .
 *.sonovinhasbr.com CNAME .
 soolakhi.com CNAME .
 *.soolakhi.com CNAME .
+soperfectmails.com CNAME .
+*.soperfectmails.com CNAME .
 soporn.com CNAME .
 *.soporn.com CNAME .
 sopornvideos.com CNAME .
