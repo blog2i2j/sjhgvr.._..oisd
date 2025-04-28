@@ -1,9 +1,9 @@
-; Version: 202504280113
+; Version: 202504280212
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 41914
-; Last modified: 2025-04-28T01:13:05+0000
+; Last modified: 2025-04-28T02:12:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745802002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745805603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5387,8 +5387,6 @@ bravotube.net CNAME .
 *.bravotube.net CNAME .
 bravotube.tv CNAME .
 *.bravotube.tv CNAME .
-braz-rus.pro CNAME .
-*.braz-rus.pro CNAME .
 brazilcupid.com CNAME .
 *.brazilcupid.com CNAME .
 brazilian-transsexuals.com CNAME .
@@ -18381,6 +18379,8 @@ justporn.tv CNAME .
 *.justporn.tv CNAME .
 justpornflix.com CNAME .
 *.justpornflix.com CNAME .
+justsay.ru CNAME .
+*.justsay.ru CNAME .
 justsex.co.za CNAME .
 *.justsex.co.za CNAME .
 justsextube.com CNAME .
