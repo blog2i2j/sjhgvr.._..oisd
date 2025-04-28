@@ -1,9 +1,9 @@
-; Version: 202504280508
+; Version: 202504280609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88962
-; Last modified: 2025-04-28T05:08:50+0000
+; Entries: 88938
+; Last modified: 2025-04-28T06:09:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745816402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745820003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8233,8 +8233,6 @@ aeroseoutfire.top CNAME .
 *.aeroseoutfire.top CNAME .
 aesthetise.com CNAME .
 *.aesthetise.com CNAME .
-aetgjds.com CNAME .
-*.aetgjds.com CNAME .
 aeuiazspafmbu.com CNAME .
 *.aeuiazspafmbu.com CNAME .
 aeyyck.xyz CNAME .
@@ -8809,8 +8807,6 @@ ahlefind.com CNAME .
 *.ahlefind.com CNAME .
 ahm.135320.com CNAME .
 *.ahm.135320.com CNAME .
-ahmar2four.xyz CNAME .
-*.ahmar2four.xyz CNAME .
 ahomsoalsoah.net CNAME .
 *.ahomsoalsoah.net CNAME .
 ahoy-internal-ads-hv.b-cdn.net CNAME .
@@ -12087,8 +12083,6 @@ appealingyouthfulhaphazard.com CNAME .
 *.appealingyouthfulhaphazard.com CNAME .
 appealtime.com CNAME .
 *.appealtime.com CNAME .
-appearancegravel.com CNAME .
-*.appearancegravel.com CNAME .
 appearedcrawledramp.com CNAME .
 *.appearedcrawledramp.com CNAME .
 appearedon.com CNAME .
@@ -26033,8 +26027,6 @@ d2dzy45qo641nc.cloudfront.net CNAME .
 *.d2dzy45qo641nc.cloudfront.net CNAME .
 d2e30rravz97d4.cloudfront.net CNAME .
 *.d2e30rravz97d4.cloudfront.net CNAME .
-d2e3e68fb3.com CNAME .
-*.d2e3e68fb3.com CNAME .
 d2e5x3k1s6dpd4.cloudfront.net CNAME .
 *.d2e5x3k1s6dpd4.cloudfront.net CNAME .
 d2e7rsjh22yn3g.cloudfront.net CNAME .
@@ -33725,8 +33717,6 @@ excavajo2.gimmeporn.xyz CNAME .
 *.excavajo2.gimmeporn.xyz CNAME .
 excavatenearbywand.com CNAME .
 *.excavatenearbywand.com CNAME .
-excavatorglide.com CNAME .
-*.excavatorglide.com CNAME .
 exceedinglydiscovered.com CNAME .
 *.exceedinglydiscovered.com CNAME .
 exceedinglytells.com CNAME .
@@ -51421,8 +51411,6 @@ mechanicalcardiac.com CNAME .
 *.mechanicalcardiac.com CNAME .
 mechoftouft.net CNAME .
 *.mechoftouft.net CNAME .
-mecv.cn CNAME .
-*.mecv.cn CNAME .
 medalslumut.shop CNAME .
 *.medalslumut.shop CNAME .
 medbzvejdlkxe.today CNAME .
@@ -58727,8 +58715,6 @@ padslims.com CNAME .
 *.padslims.com CNAME .
 padspms.com CNAME .
 *.padspms.com CNAME .
-padtue.xyz CNAME .
-*.padtue.xyz CNAME .
 paeastei.net CNAME .
 *.paeastei.net CNAME .
 paehceman.com CNAME .
@@ -66247,8 +66233,6 @@ revstats.com CNAME .
 *.revstats.com CNAME .
 revupads.com CNAME .
 *.revupads.com CNAME .
-rewaawokwmjba.top CNAME .
-*.rewaawokwmjba.top CNAME .
 rewaawoyamvky.top CNAME .
 *.rewaawoyamvky.top CNAME .
 rewakenreaware.top CNAME .
@@ -72543,8 +72527,6 @@ spreadingsinew.com CNAME .
 *.spreadingsinew.com CNAME .
 spreement.com CNAME .
 *.spreement.com CNAME .
-spreespoiled.com CNAME .
-*.spreespoiled.com CNAME .
 sprewcereous.com CNAME .
 *.sprewcereous.com CNAME .
 sprincipal.com CNAME .
@@ -80521,8 +80503,6 @@ twentyatonementflowing.com CNAME .
 *.twentyatonementflowing.com CNAME .
 twentycustomimprovement.com CNAME .
 *.twentycustomimprovement.com CNAME .
-twentydisappearance.com CNAME .
-*.twentydisappearance.com CNAME .
 twerioi.top CNAME .
 *.twerioi.top CNAME .
 twevpgjeai.com CNAME .
@@ -83981,8 +83961,6 @@ warfarerewrite.com CNAME .
 *.warfarerewrite.com CNAME .
 wargfybaqc.com CNAME .
 *.wargfybaqc.com CNAME .
-warindifferent.com CNAME .
-*.warindifferent.com CNAME .
 warkingsudani.top CNAME .
 *.warkingsudani.top CNAME .
 warlikearm.pro CNAME .
@@ -86001,8 +85979,6 @@ wwwpromoter.com CNAME .
 *.wwwpromoter.com CNAME .
 wwwstat.rz.uni-leipzig.de CNAME .
 *.wwwstat.rz.uni-leipzig.de CNAME .
-wwwwzerblvvqv.top CNAME .
-*.wwwwzerblvvqv.top CNAME .
 wxhiojortldjyegtkx.bid CNAME .
 *.wxhiojortldjyegtkx.bid CNAME .
 wxmhau.xyz CNAME .
