@@ -1,9 +1,9 @@
-; Version: 202504281314
+; Version: 202504281414
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41984
-; Last modified: 2025-04-28T13:14:02+0000
+; Entries: 41990
+; Last modified: 2025-04-28T14:14:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745845202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745848802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -43,6 +43,8 @@ $TTL 30
 *.1000porno.tv CNAME .
 1001sexfilmz.com CNAME .
 *.1001sexfilmz.com CNAME .
+100bucksbabes.com CNAME .
+*.100bucksbabes.com CNAME .
 100freezooclubs.club CNAME .
 *.100freezooclubs.club CNAME .
 100pezd.net CNAME .
@@ -14927,6 +14929,8 @@ hentaiz.bot CNAME .
 *.hentaiz.bot CNAME .
 hentaiz.ceo CNAME .
 *.hentaiz.ceo CNAME .
+hentaiz.im CNAME .
+*.hentaiz.im CNAME .
 hentaiz.org CNAME .
 *.hentaiz.org CNAME .
 hentaiz.run CNAME .
@@ -15381,6 +15385,8 @@ hookupschat.com CNAME .
 *.hookupschat.com CNAME .
 hookupscout.net CNAME .
 *.hookupscout.net CNAME .
+hookupsearch.org CNAME .
+*.hookupsearch.org CNAME .
 hookupseeker.org CNAME .
 *.hookupseeker.org CNAME .
 hookupslesbian.com CNAME .
