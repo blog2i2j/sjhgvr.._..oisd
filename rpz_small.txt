@@ -1,9 +1,9 @@
-; Version: 202504280609
+; Version: 202504280709
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88938
-; Last modified: 2025-04-28T06:09:08+0000
+; Entries: 88920
+; Last modified: 2025-04-28T07:09:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745820003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745823602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14129,8 +14129,6 @@ ayensexilic.com CNAME .
 *.ayensexilic.com CNAME .
 ayerbo.xhost.ro CNAME .
 *.ayerbo.xhost.ro CNAME .
-ayga.xyz CNAME .
-*.ayga.xyz CNAME .
 aykqyjzbkkkra.top CNAME .
 *.aykqyjzbkkkra.top CNAME .
 ayletcecils.shop CNAME .
@@ -14429,8 +14427,6 @@ ba3b545f57.43541f6026.com CNAME .
 *.ba3b545f57.43541f6026.com CNAME .
 ba46b70722.com CNAME .
 *.ba46b70722.com CNAME .
-ba61261c39.com CNAME .
-*.ba61261c39.com CNAME .
 ba7dea6a05.com CNAME .
 *.ba7dea6a05.com CNAME .
 ba9e239613.dd0254aae5.com CNAME .
@@ -19455,8 +19451,6 @@ catsnthings.fun CNAME .
 *.catsnthings.fun CNAME .
 cattailpectinselected.com CNAME .
 *.cattailpectinselected.com CNAME .
-cattishfearfulbygone.com CNAME .
-*.cattishfearfulbygone.com CNAME .
 cattishinquiries.com CNAME .
 *.cattishinquiries.com CNAME .
 cattle.apisyouwonthate.com CNAME .
@@ -29667,8 +29661,6 @@ dlvds9i67c60j.cloudfront.net CNAME .
 *.dlvds9i67c60j.cloudfront.net CNAME .
 dlxk2dj1h3e83.cloudfront.net CNAME .
 *.dlxk2dj1h3e83.cloudfront.net CNAME .
-dlyakleonarb.ru CNAME .
-*.dlyakleonarb.ru CNAME .
 dlyarecnew.me CNAME .
 *.dlyarecnew.me CNAME .
 dm.aizhan.com CNAME .
@@ -31777,8 +31769,6 @@ edaciousedaciousflaxalso.com CNAME .
 *.edaciousedaciousflaxalso.com CNAME .
 edaciousedacioushandkerchiefcol.com CNAME .
 *.edaciousedacioushandkerchiefcol.com CNAME .
-edacityedacitycorrespondence.com CNAME .
-*.edacityedacitycorrespondence.com CNAME .
 edadmy.xyz CNAME .
 *.edadmy.xyz CNAME .
 edaightutaitlastwe.info CNAME .
@@ -32193,8 +32183,6 @@ ejuiashsateam.info CNAME .
 *.ejuiashsateam.info CNAME .
 ejuiashsateampl.info CNAME .
 *.ejuiashsateampl.info CNAME .
-ejwpnkvnchjmxw.com CNAME .
-*.ejwpnkvnchjmxw.com CNAME .
 ekb-tv.ru CNAME .
 *.ekb-tv.ru CNAME .
 ekdthfqecpmjp.click CNAME .
@@ -36541,8 +36529,6 @@ fruitiesmatchina.com CNAME .
 *.fruitiesmatchina.com CNAME .
 fruitlesshooraytheirs.com CNAME .
 *.fruitlesshooraytheirs.com CNAME .
-frustrationtrek.com CNAME .
-*.frustrationtrek.com CNAME .
 frutwafiwah.com CNAME .
 *.frutwafiwah.com CNAME .
 fruvumoxw.com CNAME .
@@ -43893,8 +43879,6 @@ intranet.dcorp.com.vn CNAME .
 *.intranet.dcorp.com.vn CNAME .
 intricateinscription.com CNAME .
 *.intricateinscription.com CNAME .
-intriguingsuede.com CNAME .
-*.intriguingsuede.com CNAME .
 introductionnorthern.com CNAME .
 *.introductionnorthern.com CNAME .
 intrustedzone.site CNAME .
@@ -79135,8 +79119,6 @@ tracking.digitalocean.com CNAME .
 *.tracking.digitalocean.com CNAME .
 tracking.directservices.it CNAME .
 *.tracking.directservices.it CNAME .
-tracking.drum.io CNAME .
-*.tracking.drum.io CNAME .
 tracking.dsmmadvantage.com CNAME .
 *.tracking.dsmmadvantage.com CNAME .
 tracking.ecookie.fr CNAME .
