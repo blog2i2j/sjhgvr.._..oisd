@@ -1,9 +1,9 @@
-; Version: 202504281414
+; Version: 202504281514
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41990
-; Last modified: 2025-04-28T14:14:36+0000
+; Entries: 41992
+; Last modified: 2025-04-28T15:14:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745848802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745852402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -14929,6 +14929,8 @@ hentaiz.bot CNAME .
 *.hentaiz.bot CNAME .
 hentaiz.ceo CNAME .
 *.hentaiz.ceo CNAME .
+hentaiz.icu CNAME .
+*.hentaiz.icu CNAME .
 hentaiz.im CNAME .
 *.hentaiz.im CNAME .
 hentaiz.org CNAME .
@@ -16897,8 +16899,6 @@ infinitehentai.com CNAME .
 *.infinitehentai.com CNAME .
 infinitetube.com CNAME .
 *.infinitetube.com CNAME .
-infinityfreeapp.com CNAME .
-*.infinityfreeapp.com CNAME .
 influencerchicks.com CNAME .
 *.influencerchicks.com CNAME .
 influencerscalientes.com CNAME .
@@ -30583,6 +30583,8 @@ seigay.com CNAME .
 *.seigay.com CNAME .
 seinagi.org.es CNAME .
 *.seinagi.org.es CNAME .
+seinaruyakata.jp CNAME .
+*.seinaruyakata.jp CNAME .
 seintcams.com CNAME .
 *.seintcams.com CNAME .
 seju.life CNAME .
