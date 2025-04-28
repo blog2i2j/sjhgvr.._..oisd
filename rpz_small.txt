@@ -1,9 +1,9 @@
-; Version: 202504281410
+; Version: 202504281509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88772
-; Last modified: 2025-04-28T14:10:13+0000
+; Entries: 88764
+; Last modified: 2025-04-28T15:09:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745848802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745852402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27459,8 +27459,6 @@ dalysh.com CNAME .
 *.dalysh.com CNAME .
 dalysv.com CNAME .
 *.dalysv.com CNAME .
-damagecontributionexcessive.com CNAME .
-*.damagecontributionexcessive.com CNAME .
 damageddistance.com CNAME .
 *.damageddistance.com CNAME .
 damageskilan.shop CNAME .
@@ -74773,8 +74771,6 @@ supervisebradleyrapidly.com CNAME .
 *.supervisebradleyrapidly.com CNAME .
 supervisionbasketinhuman.com CNAME .
 *.supervisionbasketinhuman.com CNAME .
-supervisionprohibit.com CNAME .
-*.supervisionprohibit.com CNAME .
 supervisofosevera.com CNAME .
 *.supervisofosevera.com CNAME .
 superxxxfree.com CNAME .
@@ -81447,8 +81443,6 @@ up1app.com CNAME .
 *.up1app.com CNAME .
 up2cdn.com CNAME .
 *.up2cdn.com CNAME .
-up4u.me CNAME .
-*.up4u.me CNAME .
 upaicpa.com CNAME .
 *.upaicpa.com CNAME .
 upalytics.com CNAME .
@@ -84463,8 +84457,6 @@ wgchrrammzv.com CNAME .
 *.wgchrrammzv.com CNAME .
 wggqzhmnz.com CNAME .
 *.wggqzhmnz.com CNAME .
-wglvbmqaypjps.com CNAME .
-*.wglvbmqaypjps.com CNAME .
 wgoto.xyz CNAME .
 *.wgoto.xyz CNAME .
 wgvqa.club CNAME .
