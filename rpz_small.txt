@@ -1,9 +1,9 @@
-; Version: 202504281009
+; Version: 202504281109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88850
-; Last modified: 2025-04-28T10:09:55+0000
+; Entries: 88832
+; Last modified: 2025-04-28T11:09:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745834401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745838002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7841,8 +7841,6 @@ advantage.digitalsunray.com CNAME .
 *.advantage.digitalsunray.com CNAME .
 advantageglobalmarketing.com CNAME .
 *.advantageglobalmarketing.com CNAME .
-advantagepublicly.com CNAME .
-*.advantagepublicly.com CNAME .
 advantageroughplay.com CNAME .
 *.advantageroughplay.com CNAME .
 advantagesblareseizure.com CNAME .
@@ -12295,8 +12293,6 @@ apt-ice.pro CNAME .
 *.apt-ice.pro CNAME .
 aptdiary.com CNAME .
 *.aptdiary.com CNAME .
-aptimorph.com CNAME .
-*.aptimorph.com CNAME .
 aptitudesupposedlyaccountant.com CNAME .
 *.aptitudesupposedlyaccountant.com CNAME .
 aptlycover.com CNAME .
@@ -27165,8 +27161,6 @@ d514187948.fde8de16e0.com CNAME .
 *.d514187948.fde8de16e0.com CNAME .
 d51846de1e.b7085555f6.com CNAME .
 *.d51846de1e.b7085555f6.com CNAME .
-d52a6b131d.com CNAME .
-*.d52a6b131d.com CNAME .
 d5465f9d11.com CNAME .
 *.d5465f9d11.com CNAME .
 d55875dd70.03db0d5d14.com CNAME .
@@ -38075,8 +38069,6 @@ gkbpmrtixkzui.one CNAME .
 *.gkbpmrtixkzui.one CNAME .
 gkdafpdmiwwd.xyz CNAME .
 *.gkdafpdmiwwd.xyz CNAME .
-gke.econodata.com.br CNAME .
-*.gke.econodata.com.br CNAME .
 gkeolwi.icu CNAME .
 *.gkeolwi.icu CNAME .
 gkjoanks.com CNAME .
@@ -51689,8 +51681,6 @@ mericantpastellih.org CNAME .
 *.mericantpastellih.org CNAME .
 mericefem.shop CNAME .
 *.mericefem.shop CNAME .
-meristana.pro CNAME .
-*.meristana.pro CNAME .
 meritabroadauthor.com CNAME .
 *.meritabroadauthor.com CNAME .
 merry-hearing.pro CNAME .
@@ -58279,8 +58269,6 @@ overtrapinchchan.net CNAME .
 *.overtrapinchchan.net CNAME .
 overture.com CNAME .
 *.overture.com CNAME .
-overwhelmingconclusionlogin.com CNAME .
-*.overwhelmingconclusionlogin.com CNAME .
 overwhelmingoblige.com CNAME .
 *.overwhelmingoblige.com CNAME .
 overwhelmpeacock.com CNAME .
@@ -70467,8 +70455,6 @@ shoulderadmonishstore.com CNAME .
 *.shoulderadmonishstore.com CNAME .
 shouldercommandmentlimitless.com CNAME .
 *.shouldercommandmentlimitless.com CNAME .
-shouldmeditate.com CNAME .
-*.shouldmeditate.com CNAME .
 shouldscornful.com CNAME .
 *.shouldscornful.com CNAME .
 shourdoonsaist.com CNAME .
@@ -73443,8 +73429,6 @@ static.responseservez.com CNAME .
 *.static.responseservez.com CNAME .
 static.responzservz-3.com CNAME .
 *.static.responzservz-3.com CNAME .
-static.revbid.net CNAME .
-*.static.revbid.net CNAME .
 static.rongkao.com CNAME .
 *.static.rongkao.com CNAME .
 static.rtb-serve.com CNAME .
@@ -83435,8 +83419,6 @@ vrime.xyz CNAME .
 *.vrime.xyz CNAME .
 vroomedbedroll.shop CNAME .
 *.vroomedbedroll.shop CNAME .
-vrosqutsgh.com CNAME .
-*.vrosqutsgh.com CNAME .
 vrqdzfzzlyalb.space CNAME .
 *.vrqdzfzzlyalb.space CNAME .
 vrs.cz CNAME .
