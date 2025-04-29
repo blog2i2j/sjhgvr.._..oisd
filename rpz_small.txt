@@ -1,9 +1,9 @@
-; Version: 202504290209
+; Version: 202504290309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89256
-; Last modified: 2025-04-29T02:09:53+0000
+; Entries: 89242
+; Last modified: 2025-04-29T03:09:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745892002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745895602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19639,8 +19639,6 @@ caustopa.net CNAME .
 *.caustopa.net CNAME .
 cautionpursued.com CNAME .
 *.cautionpursued.com CNAME .
-cautols.com CNAME .
-*.cautols.com CNAME .
 cautommityring.com CNAME .
 *.cautommityring.com CNAME .
 cauvousy.net CNAME .
@@ -37573,8 +37571,6 @@ gazumping30.fun CNAME .
 *.gazumping30.fun CNAME .
 gbfys.global CNAME .
 *.gbfys.global CNAME .
-gbiathrilzik.com CNAME .
-*.gbiathrilzik.com CNAME .
 gbqgwes.icu CNAME .
 *.gbqgwes.icu CNAME .
 gbsqwsjv.com CNAME .
@@ -37703,8 +37699,6 @@ gejusherstertithap.info CNAME .
 *.gejusherstertithap.info CNAME .
 gekeebsirs.com CNAME .
 *.gekeebsirs.com CNAME .
-gekhasaks.com CNAME .
-*.gekhasaks.com CNAME .
 gelatineabstainads.com CNAME .
 *.gelatineabstainads.com CNAME .
 gelatinelighter.com CNAME .
@@ -56841,8 +56835,6 @@ offhandclubhouse.com CNAME .
 *.offhandclubhouse.com CNAME .
 office1266.fun CNAME .
 *.office1266.fun CNAME .
-officeclouddriveshared365.com CNAME .
-*.officeclouddriveshared365.com CNAME .
 officerdiscontentedalley.com CNAME .
 *.officerdiscontentedalley.com CNAME .
 officetablntry.org CNAME .
@@ -64671,8 +64663,6 @@ qwpsgqyzrzcr.life CNAME .
 *.qwpsgqyzrzcr.life CNAME .
 qwrwhosailedbe.info CNAME .
 *.qwrwhosailedbe.info CNAME .
-qwti.cn CNAME .
-*.qwti.cn CNAME .
 qwuaqrxfuohb.com CNAME .
 *.qwuaqrxfuohb.com CNAME .
 qwuopcbilw.com CNAME .
@@ -71849,8 +71839,6 @@ snugglethesheep.com CNAME .
 *.snugglethesheep.com CNAME .
 snugwednesday.com CNAME .
 *.snugwednesday.com CNAME .
-snwuamb.top CNAME .
-*.snwuamb.top CNAME .
 so-gr3at3.com CNAME .
 *.so-gr3at3.com CNAME .
 so.auto999.cn CNAME .
@@ -89063,8 +89051,6 @@ zozwnv.xyz CNAME .
 *.zozwnv.xyz CNAME .
 zpbpenn.com CNAME .
 *.zpbpenn.com CNAME .
-zpfknyj21.com CNAME .
-*.zpfknyj21.com CNAME .
 zpgetworker11.com CNAME .
 *.zpgetworker11.com CNAME .
 zpipacuz-lfa.vip CNAME .
