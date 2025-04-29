@@ -1,9 +1,9 @@
-; Version: 202504292016
+; Version: 202504292115
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42074
-; Last modified: 2025-04-29T20:16:31+0000
+; Entries: 42076
+; Last modified: 2025-04-29T21:15:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745956802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745960401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -38031,6 +38031,8 @@ wapbold.com CNAME .
 *.wapbold.com CNAME .
 wapbold.net CNAME .
 *.wapbold.net CNAME .
+wapka.me CNAME .
+*.wapka.me CNAME .
 waplog.com CNAME .
 *.waplog.com CNAME .
 wapoz.info CNAME .
