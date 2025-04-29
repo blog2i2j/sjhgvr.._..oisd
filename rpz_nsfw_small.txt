@@ -1,9 +1,9 @@
-; Version: 202504290814
+; Version: 202504290914
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42014
-; Last modified: 2025-04-29T08:14:07+0000
+; Entries: 42018
+; Last modified: 2025-04-29T09:14:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745913601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745917201 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -18953,6 +18953,8 @@ kokose.top CNAME .
 *.kokose.top CNAME .
 kolipol.com CNAME .
 *.kolipol.com CNAME .
+kolkatagirlagency.in CNAME .
+*.kolkatagirlagency.in CNAME .
 kolmic.com CNAME .
 *.kolmic.com CNAME .
 koloporno.com CNAME .
@@ -20421,6 +20423,8 @@ maidvids.com CNAME .
 *.maidvids.com CNAME .
 mail-order-brides-russian.com CNAME .
 *.mail-order-brides-russian.com CNAME .
+mail-order-brides.co CNAME .
+*.mail-order-brides.co CNAME .
 mainbabes.com CNAME .
 *.mainbabes.com CNAME .
 maincewe.com CNAME .
