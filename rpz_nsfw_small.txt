@@ -1,9 +1,9 @@
-; Version: 202504291915
+; Version: 202504292016
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42070
-; Last modified: 2025-04-29T19:15:54+0000
+; Entries: 42074
+; Last modified: 2025-04-29T20:16:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745953201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745956802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1629,6 +1629,8 @@ alfacams.live CNAME .
 *.alfacams.live CNAME .
 alfacams.net CNAME .
 *.alfacams.net CNAME .
+aliasharma.in CNAME .
+*.aliasharma.in CNAME .
 alicante69.com CNAME .
 *.alicante69.com CNAME .
 alice-ai.com CNAME .
@@ -19457,6 +19459,8 @@ legrancoach.com CNAME .
 *.legrancoach.com CNAME .
 legsjapan.com CNAME .
 *.legsjapan.com CNAME .
+leipzigmodelle.de CNAME .
+*.leipzigmodelle.de CNAME .
 lelo.com CNAME .
 *.lelo.com CNAME .
 lemmecheck.com CNAME .
