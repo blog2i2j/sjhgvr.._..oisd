@@ -1,9 +1,9 @@
-; Version: 202504301715
+; Version: 202504301815
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42082
-; Last modified: 2025-04-30T17:15:24+0000
+; Entries: 42096
+; Last modified: 2025-04-30T18:15:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746032401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746036001 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -591,6 +591,8 @@ $TTL 30
 *.4gay.com CNAME .
 4hdporn.com CNAME .
 *.4hdporn.com CNAME .
+4horlover.com CNAME .
+*.4horlover.com CNAME .
 4hu.tv CNAME .
 *.4hu.tv CNAME .
 4khd.com CNAME .
@@ -5993,6 +5995,8 @@ camtown.live CNAME .
 *.camtown.live CNAME .
 camtubechat.com CNAME .
 *.camtubechat.com CNAME .
+camtv.live CNAME .
+*.camtv.live CNAME .
 camvault.xyz CNAME .
 *.camvault.xyz CNAME .
 camvideos.me CNAME .
@@ -15077,6 +15081,8 @@ hikayeleri.org CNAME .
 *.hikayeleri.org CNAME .
 hikoyalar.ru CNAME .
 *.hikoyalar.ru CNAME .
+hill-baltic.eu CNAME .
+*.hill-baltic.eu CNAME .
 hilostripper.com CNAME .
 *.hilostripper.com CNAME .
 himachalirishta.com CNAME .
@@ -24127,6 +24133,8 @@ ok.porn CNAME .
 *.ok.porn CNAME .
 ok.xxx CNAME .
 *.ok.xxx CNAME .
+okcitas.com CNAME .
+*.okcitas.com CNAME .
 okcupid.com CNAME .
 *.okcupid.com CNAME .
 okdoujin.com CNAME .
@@ -31305,6 +31313,8 @@ sexgaga.com CNAME .
 *.sexgaga.com CNAME .
 sexgai.cc CNAME .
 *.sexgai.cc CNAME .
+sexgai9x.pro CNAME .
+*.sexgai9x.pro CNAME .
 sexgaigoi.cc CNAME .
 *.sexgaigoi.cc CNAME .
 sexgaigoi.org CNAME .
@@ -35097,6 +35107,8 @@ thotbook.gg CNAME .
 *.thotbook.gg CNAME .
 thotbook.tv CNAME .
 *.thotbook.tv CNAME .
+thotchat.ai CNAME .
+*.thotchat.ai CNAME .
 thotchicks.com CNAME .
 *.thotchicks.com CNAME .
 thotdeep.com CNAME .
@@ -38383,6 +38395,8 @@ wikisexguide.com CNAME .
 *.wikisexguide.com CNAME .
 wild-kitty.net CNAME .
 *.wild-kitty.net CNAME .
+wildesabenteuer.com CNAME .
+*.wildesabenteuer.com CNAME .
 wildfantasystories.com CNAME .
 *.wildfantasystories.com CNAME .
 wildindianporn.mobi CNAME .
