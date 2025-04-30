@@ -1,9 +1,9 @@
-# Version: 202504301013
+# Version: 202504301114
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21044
-# Last modified: 2025-04-30T10:13:59+0000
+# Entries: 21046
+# Last modified: 2025-04-30T11:14:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5396,6 +5396,7 @@ local-zone: "fchat.net." always_null
 local-zone: "fcjav.com." always_null
 local-zone: "fck5.com." always_null
 local-zone: "fckbx.com." always_null
+local-zone: "fckbxx.com." always_null
 local-zone: "fcukcash.com." always_null
 local-zone: "feelex.fun." always_null
 local-zone: "feelxvideos.com." always_null
@@ -10336,6 +10337,7 @@ local-zone: "manhuabika.com." always_null
 local-zone: "manhuahot.com." always_null
 local-zone: "manhuascan.us." always_null
 local-zone: "manhuatop.org." always_null
+local-zone: "manhuaus.com." always_null
 local-zone: "manhub.com." always_null
 local-zone: "manhunt.net." always_null
 local-zone: "manhuntdaily.com." always_null
