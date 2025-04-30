@@ -1,9 +1,9 @@
-; Version: 202504300014
+; Version: 202504300124
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42100
-; Last modified: 2025-04-30T00:14:13+0000
+; Entries: 42104
+; Last modified: 2025-04-30T01:24:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745971204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1745974801 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9971,6 +9971,8 @@ escortportololita.com CNAME .
 *.escortportololita.com CNAME .
 escortpy.com CNAME .
 *.escortpy.com CNAME .
+escortra.com CNAME .
+*.escortra.com CNAME .
 escortrankings.uk CNAME .
 *.escortrankings.uk CNAME .
 escorts-uruguay.uy CNAME .
@@ -23525,6 +23527,8 @@ njav.tv CNAME .
 *.njav.tv CNAME .
 njavtv.com CNAME .
 *.njavtv.com CNAME .
+nladult.com CNAME .
+*.nladult.com CNAME .
 nlegs.com CNAME .
 *.nlegs.com CNAME .
 nlsexfilms.net CNAME .
