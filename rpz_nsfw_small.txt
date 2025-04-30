@@ -1,9 +1,9 @@
-; Version: 202504301514
+; Version: 202504301614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42078
-; Last modified: 2025-04-30T15:14:23+0000
+; Entries: 42080
+; Last modified: 2025-04-30T16:14:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746025202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746028801 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -23681,6 +23681,8 @@ nsfwroom.com CNAME .
 *.nsfwroom.com CNAME .
 nsfwswipe.com CNAME .
 *.nsfwswipe.com CNAME .
+nsibal.com CNAME .
+*.nsibal.com CNAME .
 nsksex.red CNAME .
 *.nsksex.red CNAME .
 nsladies.de CNAME .
