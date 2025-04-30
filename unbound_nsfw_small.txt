@@ -1,9 +1,9 @@
-# Version: 202504301614
+# Version: 202504301715
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21040
-# Last modified: 2025-04-30T16:14:51+0000
+# Entries: 21041
+# Last modified: 2025-04-30T17:15:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -791,6 +791,7 @@ local-zone: "aki-h.com." always_null
 local-zone: "akiba-online.com." always_null
 local-zone: "akipam.com." always_null
 local-zone: "aktuell.ru." always_null
+local-zone: "akuli.org." always_null
 local-zone: "al4a.com." always_null
 local-zone: "alacam.org." always_null
 local-zone: "alamalsex.com." always_null
