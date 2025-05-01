@@ -1,9 +1,9 @@
-; Version: 202505012210
+; Version: 202505012309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89334
-; Last modified: 2025-05-01T22:10:03+0000
+; Entries: 89328
+; Last modified: 2025-05-01T23:09:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746136802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746140402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1169,8 +1169,6 @@ $TTL 30
 *.2de65ef3dd.com CNAME .
 2e5e4544c4.com CNAME .
 *.2e5e4544c4.com CNAME .
-2e8dgn8n0e0l.com CNAME .
-*.2e8dgn8n0e0l.com CNAME .
 2edef809.xyz CNAME .
 *.2edef809.xyz CNAME .
 2ee1b1da.live CNAME .
@@ -15703,8 +15701,6 @@ beastlyrapillo.shop CNAME .
 *.beastlyrapillo.shop CNAME .
 beastssmuggleimpatiently.com CNAME .
 *.beastssmuggleimpatiently.com CNAME .
-beaststokersleazy.com CNAME .
-*.beaststokersleazy.com CNAME .
 beat.yourtv.jp CNAME .
 *.beat.yourtv.jp CNAME .
 beatcuqa.xyz CNAME .
@@ -34101,8 +34097,6 @@ exofrwe.com CNAME .
 *.exofrwe.com CNAME .
 exogripper.com CNAME .
 *.exogripper.com CNAME .
-exoh.cn CNAME .
-*.exoh.cn CNAME .
 exomonyf.com CNAME .
 *.exomonyf.com CNAME .
 exosrv.com CNAME .
