@@ -1,9 +1,9 @@
-; Version: 202505011114
+; Version: 202505011214
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41834
-; Last modified: 2025-05-01T11:14:46+0000
+; Entries: 41838
+; Last modified: 2025-05-01T12:14:40+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746097202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746100801 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -27543,6 +27543,8 @@ pornoslon.me CNAME .
 *.pornoslon.me CNAME .
 pornoslon.ru CNAME .
 *.pornoslon.ru CNAME .
+pornoslon.su CNAME .
+*.pornoslon.su CNAME .
 pornososalka.online CNAME .
 *.pornososalka.online CNAME .
 pornososalka.org CNAME .
@@ -29527,6 +29529,8 @@ rexxx.org CNAME .
 *.rexxx.org CNAME .
 reycomix.com CNAME .
 *.reycomix.com CNAME .
+rf.gd CNAME .
+*.rf.gd CNAME .
 rgcams.com CNAME .
 *.rgcams.com CNAME .
 rgsex.com CNAME .
