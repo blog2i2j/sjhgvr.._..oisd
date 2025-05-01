@@ -1,9 +1,9 @@
-; Version: 202505010212
+; Version: 202505010312
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41822
-; Last modified: 2025-05-01T02:12:20+0000
+; Entries: 41828
+; Last modified: 2025-05-01T03:12:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746064802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746068401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -36339,6 +36339,8 @@ tynauri.net CNAME .
 *.tynauri.net CNAME .
 tynulis.com CNAME .
 *.tynulis.com CNAME .
+u15.info CNAME .
+*.u15.info CNAME .
 u18chan.com CNAME .
 *.u18chan.com CNAME .
 u9mm.com CNAME .
@@ -38177,6 +38179,8 @@ wipfilms.net CNAME .
 *.wipfilms.net CNAME .
 wisphub.io CNAME .
 *.wisphub.io CNAME .
+witxl.nl CNAME .
+*.witxl.nl CNAME .
 wiwiuku.com CNAME .
 *.wiwiuku.com CNAME .
 wiz69.com CNAME .
@@ -39511,6 +39515,8 @@ xnxxx.zone CNAME .
 *.xnxxx.zone CNAME .
 xnxxxanal.bar CNAME .
 *.xnxxxanal.bar CNAME .
+xnxxxarab.video CNAME .
+*.xnxxxarab.video CNAME .
 xnxxxhd.com CNAME .
 *.xnxxxhd.com CNAME .
 xnxxxvids.com CNAME .
