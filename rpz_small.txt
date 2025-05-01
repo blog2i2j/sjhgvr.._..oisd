@@ -1,9 +1,9 @@
-; Version: 202505011310
+; Version: 202505011410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89350
-; Last modified: 2025-05-01T13:10:24+0000
+; Entries: 89340
+; Last modified: 2025-05-01T14:10:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746104401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746108001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15273,8 +15273,6 @@ basketexceptionfeasible.com CNAME .
 *.basketexceptionfeasible.com CNAME .
 baskettexture.com CNAME .
 *.baskettexture.com CNAME .
-baskgodless.com CNAME .
-*.baskgodless.com CNAME .
 bass.alfrednerstu.com CNAME .
 *.bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
@@ -16899,8 +16897,6 @@ blissfuldes.com CNAME .
 *.blissfuldes.com CNAME .
 blissfulmass.com CNAME .
 *.blissfulmass.com CNAME .
-blissgallery.xyz CNAME .
-*.blissgallery.xyz CNAME .
 blistereasily.com CNAME .
 *.blistereasily.com CNAME .
 blisterpompey.com CNAME .
@@ -37813,8 +37809,6 @@ gentent.stre4mplay.one CNAME .
 *.gentent.stre4mplay.one CNAME .
 gentle-report.com CNAME .
 *.gentle-report.com CNAME .
-gentlledream.net CNAME .
-*.gentlledream.net CNAME .
 geo.digitalpoint.com CNAME .
 *.geo.digitalpoint.com CNAME .
 geo.ertya.com CNAME .
@@ -89349,16 +89343,12 @@ zyns.com CNAME .
 *.zyns.com CNAME .
 zypenetwork.com CNAME .
 *.zypenetwork.com CNAME .
-zyrelolbbqelo.top CNAME .
-*.zyrelolbbqelo.top CNAME .
 zyrelolbbqyww.top CNAME .
 *.zyrelolbbqyww.top CNAME .
 zyrnbh.xyz CNAME .
 *.zyrnbh.xyz CNAME .
 zzfoms.com CNAME .
 *.zzfoms.com CNAME .
-zzrazrorjqlqw.top CNAME .
-*.zzrazrorjqlqw.top CNAME .
 zztxfj.xyz CNAME .
 *.zztxfj.xyz CNAME .
 zzux.com CNAME .
