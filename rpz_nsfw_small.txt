@@ -1,9 +1,9 @@
-; Version: 202505011915
+; Version: 202505012016
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 41850
-; Last modified: 2025-05-01T19:15:58+0000
+; Last modified: 2025-05-01T20:16:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746126002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746129602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -14007,6 +14007,8 @@ hdbluefilm.com CNAME .
 *.hdbluefilm.com CNAME .
 hdbokep.com CNAME .
 *.hdbokep.com CNAME .
+hdbokep.me CNAME .
+*.hdbokep.me CNAME .
 hdbooty.com CNAME .
 *.hdbooty.com CNAME .
 hdbraze.com CNAME .
@@ -34481,8 +34483,6 @@ tenshigao.com CNAME .
 *.tenshigao.com CNAME .
 tentaclerape.net CNAME .
 *.tentaclerape.net CNAME .
-teps.uk CNAME .
-*.teps.uk CNAME .
 terapatrick.com CNAME .
 *.terapatrick.com CNAME .
 terbaru1.top CNAME .
