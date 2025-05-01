@@ -1,9 +1,9 @@
-; Version: 202505011210
+; Version: 202505011310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89358
-; Last modified: 2025-05-01T12:10:07+0000
+; Entries: 89350
+; Last modified: 2025-05-01T13:10:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746100801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746104401 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14801,8 +14801,6 @@ baletingo.com CNAME .
 *.baletingo.com CNAME .
 balili2024.top CNAME .
 *.balili2024.top CNAME .
-ballarduous.com CNAME .
-*.ballarduous.com CNAME .
 ballasttheir.com CNAME .
 *.ballasttheir.com CNAME .
 balldomohone.com CNAME .
@@ -37549,8 +37547,6 @@ gatsbybooger.shop CNAME .
 *.gatsbybooger.shop CNAME .
 gaucierelay.click CNAME .
 *.gaucierelay.click CNAME .
-gaudymercy.com CNAME .
-*.gaudymercy.com CNAME .
 gaufaine.com CNAME .
 *.gaufaine.com CNAME .
 gaugedsplent.shop CNAME .
@@ -44955,8 +44951,6 @@ jaupaptaifoaw.net CNAME .
 *.jaupaptaifoaw.net CNAME .
 jauphauzee.net CNAME .
 *.jauphauzee.net CNAME .
-jaurouth.xyz CNAME .
-*.jaurouth.xyz CNAME .
 jauwaust.com CNAME .
 *.jauwaust.com CNAME .
 java8.xyz CNAME .
@@ -80013,8 +80007,6 @@ transformignorant.com CNAME .
 *.transformignorant.com CNAME .
 transfto.com CNAME .
 *.transfto.com CNAME .
-transgressreasonedinburgh.com CNAME .
-*.transgressreasonedinburgh.com CNAME .
 transientblobexaltation.com CNAME .
 *.transientblobexaltation.com CNAME .
 transistorizedbirleanimal.com CNAME .
