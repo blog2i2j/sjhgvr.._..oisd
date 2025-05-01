@@ -1,9 +1,9 @@
-; Version: 202505010909
+; Version: 202505011010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89386
-; Last modified: 2025-05-01T09:09:42+0000
+; Entries: 89372
+; Last modified: 2025-05-01T10:10:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746090002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746093602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13999,8 +13999,6 @@ avwjyvzeykor.top CNAME .
 *.avwjyvzeykor.top CNAME .
 avwjyvzeymmb.top CNAME .
 *.avwjyvzeymmb.top CNAME .
-avzwkkmzkawyr.top CNAME .
-*.avzwkkmzkawyr.top CNAME .
 avzwkkmzkazyw.top CNAME .
 *.avzwkkmzkazyw.top CNAME .
 awaepqjjkcua.com CNAME .
@@ -20563,8 +20561,6 @@ chachors.net CNAME .
 *.chachors.net CNAME .
 chacmausto.net CNAME .
 *.chacmausto.net CNAME .
-chadseer.xyz CNAME .
-*.chadseer.xyz CNAME .
 chaerel.com CNAME .
 *.chaerel.com CNAME .
 chaghets.net CNAME .
@@ -28487,8 +28483,6 @@ deeperregardingcontend.com CNAME .
 *.deeperregardingcontend.com CNAME .
 deephicy.net CNAME .
 *.deephicy.net CNAME .
-deepirresistible.com CNAME .
-*.deepirresistible.com CNAME .
 deeplygumssandwich.com CNAME .
 *.deeplygumssandwich.com CNAME .
 deepmetrix.com CNAME .
@@ -30725,8 +30719,6 @@ draystownet.com CNAME .
 *.draystownet.com CNAME .
 drbccw04ifva6.cloudfront.net CNAME .
 *.drbccw04ifva6.cloudfront.net CNAME .
-drctcldfe.com CNAME .
-*.drctcldfe.com CNAME .
 drctcldfefwr.com CNAME .
 *.drctcldfefwr.com CNAME .
 drctcldff.com CNAME .
@@ -43587,8 +43579,6 @@ inconveniencemimic.com CNAME .
 *.inconveniencemimic.com CNAME .
 incorenext.com CNAME .
 *.incorenext.com CNAME .
-increaseprincipal.com CNAME .
-*.increaseprincipal.com CNAME .
 increasevoluntaryhour.com CNAME .
 *.increasevoluntaryhour.com CNAME .
 increasinglycockroachpolicy.com CNAME .
@@ -50029,8 +50019,6 @@ loowhujoom.net CNAME .
 *.loowhujoom.net CNAME .
 loozubaitoa.com CNAME .
 *.loozubaitoa.com CNAME .
-lopije.ru CNAME .
-*.lopije.ru CNAME .
 loppersixtes.top CNAME .
 *.loppersixtes.top CNAME .
 lopsideddebate.com CNAME .
@@ -85791,8 +85779,6 @@ wlog.tmon.co.kr CNAME .
 *.wlog.tmon.co.kr CNAME .
 wlrkcefll.com CNAME .
 *.wlrkcefll.com CNAME .
-wlwgloo.icu CNAME .
-*.wlwgloo.icu CNAME .
 wlwgloo.top CNAME .
 *.wlwgloo.top CNAME .
 wm-space.youero.com CNAME .
