@@ -1,9 +1,9 @@
-; Version: 202505011810
+; Version: 202505011911
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89358
-; Last modified: 2025-05-01T18:10:41+0000
+; Entries: 89352
+; Last modified: 2025-05-01T19:11:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746122403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746126002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -30715,8 +30715,6 @@ drctcldfefwr.com CNAME .
 *.drctcldfefwr.com CNAME .
 drctcldff.com CNAME .
 *.drctcldff.com CNAME .
-drctcldfffwr.com CNAME .
-*.drctcldfffwr.com CNAME .
 drda5yf9kgz5p.cloudfront.net CNAME .
 *.drda5yf9kgz5p.cloudfront.net CNAME .
 dre81lzpy0s7q.cloudfront.net CNAME .
@@ -74727,8 +74725,6 @@ stoowipicke.com CNAME .
 *.stoowipicke.com CNAME .
 stopaggregation.com CNAME .
 *.stopaggregation.com CNAME .
-stopformal.com CNAME .
-*.stopformal.com CNAME .
 stophurtfulunconscious.com CNAME .
 *.stophurtfulunconscious.com CNAME .
 stopify.co CNAME .
@@ -83485,8 +83481,6 @@ virginitystudentsperson.com CNAME .
 *.virginitystudentsperson.com CNAME .
 virnews.club CNAME .
 *.virnews.club CNAME .
-virtualbrush.site CNAME .
-*.virtualbrush.site CNAME .
 virtuallythanksgivinganchovy.com CNAME .
 *.virtuallythanksgivinganchovy.com CNAME .
 virtualroecrisis.com CNAME .
