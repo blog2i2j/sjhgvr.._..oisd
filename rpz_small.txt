@@ -1,9 +1,9 @@
-; Version: 202505012110
+; Version: 202505012210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89338
-; Last modified: 2025-05-01T21:10:27+0000
+; Entries: 89334
+; Last modified: 2025-05-01T22:10:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746133201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746136802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19263,8 +19263,6 @@ canolamonthlyswapping.com CNAME .
 *.canolamonthlyswapping.com CNAME .
 canoperation.com CNAME .
 *.canoperation.com CNAME .
-canopusacrux.com CNAME .
-*.canopusacrux.com CNAME .
 canopusacrux.top CNAME .
 *.canopusacrux.top CNAME .
 canopusastray.top CNAME .
@@ -60561,8 +60559,6 @@ picshost.pics CNAME .
 *.picshost.pics CNAME .
 picsofdream.space CNAME .
 *.picsofdream.space CNAME .
-picsti.com CNAME .
-*.picsti.com CNAME .
 pictorialtraverse.com CNAME .
 *.pictorialtraverse.com CNAME .
 picturesquesizedisabled.com CNAME .
