@@ -1,9 +1,9 @@
-; Version: 202505011410
+; Version: 202505011510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 89340
-; Last modified: 2025-05-01T14:10:18+0000
+; Entries: 89336
+; Last modified: 2025-05-01T15:10:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746108001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746111601 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27685,8 +27685,6 @@ dallavel.com CNAME .
 *.dallavel.com CNAME .
 daltongrievously.com CNAME .
 *.daltongrievously.com CNAME .
-dalyai.com CNAME .
-*.dalyai.com CNAME .
 dalyio.com CNAME .
 *.dalyio.com CNAME .
 dalymix.com CNAME .
@@ -80743,8 +80741,6 @@ tuna.ajaymantri.com CNAME .
 *.tuna.ajaymantri.com CNAME .
 tuna.purplespider.com CNAME .
 *.tuna.purplespider.com CNAME .
-tunatastesentertained.com CNAME .
-*.tunatastesentertained.com CNAME .
 tunefatigueclarify.com CNAME .
 *.tunefatigueclarify.com CNAME .
 tunein.adswizz.com CNAME .
