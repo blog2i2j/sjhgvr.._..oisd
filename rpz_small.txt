@@ -1,9 +1,9 @@
-; Version: 202505021311
+; Version: 202505021410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88704
-; Last modified: 2025-05-02T13:11:12+0000
+; Entries: 88686
+; Last modified: 2025-05-02T14:10:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746190801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746194402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1525,8 +1525,6 @@ $TTL 30
 *.38941752.xyz CNAME .
 38a3a42162.25e1657c6a.com CNAME .
 *.38a3a42162.25e1657c6a.com CNAME .
-38dbfd540c.com CNAME .
-*.38dbfd540c.com CNAME .
 38ds89f8.de CNAME .
 *.38ds89f8.de CNAME .
 39236100.lotre.io CNAME .
@@ -8191,8 +8189,6 @@ adx.opera.com CNAME .
 *.adx.opera.com CNAME .
 adx.phunuadong.vn CNAME .
 *.adx.phunuadong.vn CNAME .
-adx.xemvtv.net CNAME .
-*.adx.xemvtv.net CNAME .
 adx.xtv.vn CNAME .
 *.adx.xtv.vn CNAME .
 adx1.com CNAME .
@@ -8717,8 +8713,6 @@ agbuekehb.com CNAME .
 *.agbuekehb.com CNAME .
 agcdn.com CNAME .
 *.agcdn.com CNAME .
-ageaskedfurther.com CNAME .
-*.ageaskedfurther.com CNAME .
 agedmigrationpepper.com CNAME .
 *.agedmigrationpepper.com CNAME .
 agedpagefat.live CNAME .
@@ -18387,8 +18381,6 @@ butterfly.dharsh.dev CNAME .
 *.butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 *.butterfly.rfortherestofus.com CNAME .
-butterflypronounceditch.com CNAME .
-*.butterflypronounceditch.com CNAME .
 butterflyunkindpractitioner.com CNAME .
 *.butterflyunkindpractitioner.com CNAME .
 button-call.zalo.me CNAME .
@@ -20821,8 +20813,6 @@ chinaslauras.com CNAME .
 *.chinaslauras.com CNAME .
 chinchilla.68keys.io CNAME .
 *.chinchilla.68keys.io CNAME .
-chineseprovisionfeisty.com CNAME .
-*.chineseprovisionfeisty.com CNAME .
 chiningpassen.shop CNAME .
 *.chiningpassen.shop CNAME .
 chioursorspolia.com CNAME .
@@ -61185,8 +61175,6 @@ policecaravanallure.com CNAME .
 *.policecaravanallure.com CNAME .
 policecolugos.shop CNAME .
 *.policecolugos.shop CNAME .
-policemanspectrum.com CNAME .
-*.policemanspectrum.com CNAME .
 policesportsman.com CNAME .
 *.policesportsman.com CNAME .
 policydilapidationhypothetically.com CNAME .
@@ -64133,8 +64121,6 @@ queryaccidentallysake.com CNAME .
 *.queryaccidentallysake.com CNAME .
 queryastray.com CNAME .
 *.queryastray.com CNAME .
-querylead.com CNAME .
-*.querylead.com CNAME .
 quesid.com CNAME .
 *.quesid.com CNAME .
 questaffiliates.net CNAME .
@@ -65859,8 +65845,6 @@ resistcorrectly.com CNAME .
 *.resistcorrectly.com CNAME .
 resistpajamas.com CNAME .
 *.resistpajamas.com CNAME .
-resniks.pro CNAME .
-*.resniks.pro CNAME .
 resnubdreich.com CNAME .
 *.resnubdreich.com CNAME .
 resolutethumb.com CNAME .
@@ -65895,8 +65879,6 @@ respondupdatedebb.com CNAME .
 *.respondupdatedebb.com CNAME .
 responserver.com CNAME .
 *.responserver.com CNAME .
-responsibleprohibition.com CNAME .
-*.responsibleprohibition.com CNAME .
 responsibleroyalscrap.com CNAME .
 *.responsibleroyalscrap.com CNAME .
 resr.ru CNAME .
