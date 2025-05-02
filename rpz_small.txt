@@ -1,9 +1,9 @@
-; Version: 202505021410
+; Version: 202505021511
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88686
-; Last modified: 2025-05-02T14:10:34+0000
+; Entries: 88676
+; Last modified: 2025-05-02T15:11:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746194402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746198002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12695,8 +12695,6 @@ arnedtolethi.com CNAME .
 *.arnedtolethi.com CNAME .
 arnimalconeer.com CNAME .
 *.arnimalconeer.com CNAME .
-arnofourgu.com CNAME .
-*.arnofourgu.com CNAME .
 aromaexplode.com CNAME .
 *.aromaexplode.com CNAME .
 aromamidland.com CNAME .
@@ -18113,8 +18111,6 @@ budvawshes.ru CNAME .
 *.budvawshes.ru CNAME .
 buf.lemonde.fr CNAME .
 *.buf.lemonde.fr CNAME .
-buffcenturythreshold.com CNAME .
-*.buffcenturythreshold.com CNAME .
 buffethypothesis.com CNAME .
 *.buffethypothesis.com CNAME .
 buffetreboundfoul.com CNAME .
@@ -62755,8 +62751,6 @@ ptcdwm.com CNAME .
 *.ptcdwm.com CNAME .
 pteecengi.com CNAME .
 *.pteecengi.com CNAME .
-pteekauksaupt.net CNAME .
-*.pteekauksaupt.net CNAME .
 pteemsoansouthe.net CNAME .
 *.pteemsoansouthe.net CNAME .
 pteemsolrirgegi.com CNAME .
@@ -66767,8 +66761,6 @@ roosterbelime.shop CNAME .
 *.roosterbelime.shop CNAME .
 roosture.com CNAME .
 *.roosture.com CNAME .
-rootcaptawed.com CNAME .
-*.rootcaptawed.com CNAME .
 rootderideflex.com CNAME .
 *.rootderideflex.com CNAME .
 rootleoutplot.com CNAME .
@@ -82965,8 +82957,6 @@ visivemoost.top CNAME .
 *.visivemoost.top CNAME .
 visor.sberbank.ru CNAME .
 *.visor.sberbank.ru CNAME .
-vistaarts.site CNAME .
-*.vistaarts.site CNAME .
 vistoolr.net CNAME .
 *.vistoolr.net CNAME .
 visual-pagerank.fr CNAME .
