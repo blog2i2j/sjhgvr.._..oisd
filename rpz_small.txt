@@ -1,9 +1,9 @@
-; Version: 202505022210
+; Version: 202505022310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88772
-; Last modified: 2025-05-02T22:10:45+0000
+; Entries: 88760
+; Last modified: 2025-05-02T23:10:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746223203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746226802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9125,8 +9125,6 @@ aj2555.bid CNAME .
 *.aj2555.bid CNAME .
 aj2635.bid CNAME .
 *.aj2635.bid CNAME .
-ajansyenimedya.com CNAME .
-*.ajansyenimedya.com CNAME .
 ajdivotdelbloab24.jio.com CNAME .
 *.ajdivotdelbloab24.jio.com CNAME .
 ajestigie.com CNAME .
@@ -33777,8 +33775,6 @@ exceedinglydiscovered.com CNAME .
 *.exceedinglydiscovered.com CNAME .
 exceedinglytells.com CNAME .
 *.exceedinglytells.com CNAME .
-excelfriendsdistracting.com CNAME .
-*.excelfriendsdistracting.com CNAME .
 excellenceads.com CNAME .
 *.excellenceads.com CNAME .
 excellingvista.com CNAME .
@@ -45029,8 +45025,6 @@ jijqzypmeqi.com CNAME .
 *.jijqzypmeqi.com CNAME .
 jikbwoozvci.com CNAME .
 *.jikbwoozvci.com CNAME .
-jikicotho.pro CNAME .
-*.jikicotho.pro CNAME .
 jili9.io CNAME .
 *.jili9.io CNAME .
 jillsclickcorner.com CNAME .
@@ -55789,8 +55783,6 @@ numbmemory.com CNAME .
 *.numbmemory.com CNAME .
 numbninth.com CNAME .
 *.numbninth.com CNAME .
-numbopinion.com CNAME .
-*.numbopinion.com CNAME .
 numericprosapy.shop CNAME .
 *.numericprosapy.shop CNAME .
 numisston.live CNAME .
@@ -75025,8 +75017,6 @@ svc.kartinka.com.ua CNAME .
 *.svc.kartinka.com.ua CNAME .
 svibeacon.onezapp.com CNAME .
 *.svibeacon.onezapp.com CNAME .
-svnf.cn CNAME .
-*.svnf.cn CNAME .
 svntrk.com CNAME .
 *.svntrk.com CNAME .
 svrgcqgtpe.com CNAME .
@@ -77139,8 +77129,6 @@ thursdaysalesmanbarrier.com CNAME .
 *.thursdaysalesmanbarrier.com CNAME .
 thursejokers.top CNAME .
 *.thursejokers.top CNAME .
-thusenteringhypocrisy.com CNAME .
-*.thusenteringhypocrisy.com CNAME .
 thusmumid.live CNAME .
 *.thusmumid.live CNAME .
 thuthoock.net CNAME .
