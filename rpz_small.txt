@@ -1,9 +1,9 @@
-; Version: 202505020510
+; Version: 202505020710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88762
-; Last modified: 2025-05-02T05:10:42+0000
+; Entries: 88746
+; Last modified: 2025-05-02T07:10:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746162001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746169202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1575,8 +1575,6 @@ $TTL 30
 *.3dsemulator.info CNAME .
 3dviolet.com CNAME .
 *.3dviolet.com CNAME .
-3e6072834f.com CNAME .
-*.3e6072834f.com CNAME .
 3ez1ja1uq3.ru CNAME .
 *.3ez1ja1uq3.ru CNAME .
 3fa3d4c288.com CNAME .
@@ -2831,8 +2829,6 @@ $TTL 30
 *.8j1f0af5.de CNAME .
 8jkx.com CNAME .
 *.8jkx.com CNAME .
-8jl11zys5vh12.pro CNAME .
-*.8jl11zys5vh12.pro CNAME .
 8khmer.com CNAME .
 *.8khmer.com CNAME .
 8kj1ldt1.de CNAME .
@@ -12573,8 +12569,6 @@ arbutterfreer.com CNAME .
 *.arbutterfreer.com CNAME .
 arc1.msn.com CNAME .
 *.arc1.msn.com CNAME .
-archaicchop.com CNAME .
-*.archaicchop.com CNAME .
 archaicgrilledignorant.com CNAME .
 *.archaicgrilledignorant.com CNAME .
 archbishoppectoral.com CNAME .
@@ -15355,8 +15349,6 @@ bbiwvlyketvf.com CNAME .
 *.bbiwvlyketvf.com CNAME .
 bbn.img.com.ua CNAME .
 *.bbn.img.com.ua CNAME .
-bbnfcfrvjs.com CNAME .
-*.bbnfcfrvjs.com CNAME .
 bbrdbr.com CNAME .
 *.bbrdbr.com CNAME .
 bbrjelrxnp.com CNAME .
@@ -21295,8 +21287,6 @@ claspdressmakerburka.com CNAME .
 *.claspdressmakerburka.com CNAME .
 claspeddeceiveposter.com CNAME .
 *.claspeddeceiveposter.com CNAME .
-claspedtwelve.com CNAME .
-*.claspedtwelve.com CNAME .
 classesfolksprofession.com CNAME .
 *.classesfolksprofession.com CNAME .
 classessavagely.com CNAME .
@@ -33215,8 +33205,6 @@ ethaistoothi.com CNAME .
 *.ethaistoothi.com CNAME .
 ethan.wang CNAME .
 *.ethan.wang CNAME .
-etheappyrincea.info CNAME .
-*.etheappyrincea.info CNAME .
 ethecityonata.com CNAME .
 *.ethecityonata.com CNAME .
 ethelvampirecasket.com CNAME .
@@ -56181,8 +56169,6 @@ oatchoagnoud.com CNAME .
 *.oatchoagnoud.com CNAME .
 oathoolroo.net CNAME .
 *.oathoolroo.net CNAME .
-oatmealstickyflax.com CNAME .
-*.oatmealstickyflax.com CNAME .
 oatsegnickeez.net CNAME .
 *.oatsegnickeez.net CNAME .
 oavisailaimt.com CNAME .
@@ -62447,8 +62433,6 @@ propsid.b-cdn.net CNAME .
 *.propsid.b-cdn.net CNAME .
 propu.sh CNAME .
 *.propu.sh CNAME .
-propulsionstatute.com CNAME .
-*.propulsionstatute.com CNAME .
 propulsionswarm.com CNAME .
 *.propulsionswarm.com CNAME .
 propvideo.net CNAME .
