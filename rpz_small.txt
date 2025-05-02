@@ -1,9 +1,9 @@
-; Version: 202505021911
+; Version: 202505022010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88786
-; Last modified: 2025-05-02T19:11:22+0000
+; Entries: 88782
+; Last modified: 2025-05-02T20:10:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746212402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746216001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -64381,8 +64381,6 @@ qzetnversitym.com CNAME .
 *.qzetnversitym.com CNAME .
 qzorwe.xyz CNAME .
 *.qzorwe.xyz CNAME .
-qzybrmzevbro.top CNAME .
-*.qzybrmzevbro.top CNAME .
 qzyxavtiltko.com CNAME .
 *.qzyxavtiltko.com CNAME .
 qzzzzzzzzzqq.com CNAME .
@@ -69783,8 +69781,6 @@ servedbyadbutler.com CNAME .
 *.servedbyadbutler.com CNAME .
 servedbysmart.com CNAME .
 *.servedbysmart.com CNAME .
-servehub.info CNAME .
-*.servehub.info CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 *.server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
