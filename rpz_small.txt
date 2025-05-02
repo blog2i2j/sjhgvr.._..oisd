@@ -1,9 +1,9 @@
-; Version: 202505020810
+; Version: 202505020910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88732
-; Last modified: 2025-05-02T08:10:32+0000
+; Entries: 88726
+; Last modified: 2025-05-02T09:10:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746172803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746176403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -23303,8 +23303,6 @@ coolstreamsearch.com CNAME .
 *.coolstreamsearch.com CNAME .
 coolthewomanonline.com CNAME .
 *.coolthewomanonline.com CNAME .
-coonandeg.xyz CNAME .
-*.coonandeg.xyz CNAME .
 coonsapodema.top CNAME .
 *.coonsapodema.top CNAME .
 coopsigrirou.net CNAME .
@@ -29185,8 +29183,6 @@ dilatenine.com CNAME .
 *.dilatenine.com CNAME .
 dilowhang.com CNAME .
 *.dilowhang.com CNAME .
-dilruwha.net CNAME .
-*.dilruwha.net CNAME .
 diltqdxecyicf.com CNAME .
 *.diltqdxecyicf.com CNAME .
 dilutesnoopzap.com CNAME .
@@ -48239,8 +48235,6 @@ link.link.ru CNAME .
 *.link.link.ru CNAME .
 link.oddsscanner.net CNAME .
 *.link.oddsscanner.net CNAME .
-link4ads.com CNAME .
-*.link4ads.com CNAME .
 linkadd.de CNAME .
 *.linkadd.de CNAME .
 linkadvdirect.com CNAME .
