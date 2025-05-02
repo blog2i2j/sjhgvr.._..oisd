@@ -1,9 +1,9 @@
-; Version: 202505021811
+; Version: 202505021911
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88802
-; Last modified: 2025-05-02T18:11:18+0000
+; Entries: 88786
+; Last modified: 2025-05-02T19:11:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746208802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746212402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12529,8 +12529,6 @@ arabsewing.com CNAME .
 *.arabsewing.com CNAME .
 arabss.arabxn.org CNAME .
 *.arabss.arabxn.org CNAME .
-aracarimucago.com CNAME .
-*.aracarimucago.com CNAME .
 arakcdn.com CNAME .
 *.arakcdn.com CNAME .
 araklet.mediagene.co.jp CNAME .
@@ -21071,8 +21069,6 @@ cinema1266.fun CNAME .
 *.cinema1266.fun CNAME .
 cinemabio.com CNAME .
 *.cinemabio.com CNAME .
-cinemagarbagegrain.com CNAME .
-*.cinemagarbagegrain.com CNAME .
 cinepro.com CNAME .
 *.cinepro.com CNAME .
 cinuraarrives.com CNAME .
@@ -29983,8 +29979,6 @@ doc830ytc7pyp.cloudfront.net CNAME .
 *.doc830ytc7pyp.cloudfront.net CNAME .
 dochmiiresidue.com CNAME .
 *.dochmiiresidue.com CNAME .
-dockdeity.com CNAME .
-*.dockdeity.com CNAME .
 dockdigestion.com CNAME .
 *.dockdigestion.com CNAME .
 dockoolser.net CNAME .
@@ -36145,8 +36139,6 @@ forfrogadiertor.com CNAME .
 *.forfrogadiertor.com CNAME .
 forgivenessdaresuck.com CNAME .
 *.forgivenessdaresuck.com CNAME .
-forhavingartistic.info CNAME .
-*.forhavingartistic.info CNAME .
 forlumineoner.com CNAME .
 *.forlumineoner.com CNAME .
 formalhood.com CNAME .
@@ -42709,8 +42701,6 @@ igbfwa.com CNAME .
 *.igbfwa.com CNAME .
 iggbky.xyz CNAME .
 *.iggbky.xyz CNAME .
-ightsapph.info CNAME .
-*.ightsapph.info CNAME .
 iglegoarous.net CNAME .
 *.iglegoarous.net CNAME .
 igloogloub.net CNAME .
@@ -46739,8 +46729,6 @@ korexo.com CNAME .
 *.korexo.com CNAME .
 korgiejoinyou.com CNAME .
 *.korgiejoinyou.com CNAME .
-koscheilushed.shop CNAME .
-*.koscheilushed.shop CNAME .
 kosininia.com CNAME .
 *.kosininia.com CNAME .
 kossog.xyz CNAME .
@@ -51649,8 +51637,6 @@ megawerbung.de CNAME .
 *.megawerbung.de CNAME .
 megdexchange.com CNAME .
 *.megdexchange.com CNAME .
-meghllzs.com CNAME .
-*.meghllzs.com CNAME .
 megmhokluck.shop CNAME .
 *.megmhokluck.shop CNAME .
 megroarsoy.net CNAME .
@@ -57525,8 +57511,6 @@ opkmio.xyz CNAME .
 *.opkmio.xyz CNAME .
 opleshouldthink.com CNAME .
 *.opleshouldthink.com CNAME .
-oplpectation.xyz CNAME .
-*.oplpectation.xyz CNAME .
 oply.hearstapps.com CNAME .
 *.oply.hearstapps.com CNAME .
 opmxizgcacc.com CNAME .
