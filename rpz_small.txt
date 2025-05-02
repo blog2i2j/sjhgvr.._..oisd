@@ -1,9 +1,9 @@
-; Version: 202505020710
+; Version: 202505020810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88746
-; Last modified: 2025-05-02T07:10:49+0000
+; Entries: 88732
+; Last modified: 2025-05-02T08:10:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746169202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746172803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6191,8 +6191,6 @@ adotone.com CNAME .
 *.adotone.com CNAME .
 adotube.com CNAME .
 *.adotube.com CNAME .
-adovr.com CNAME .
-*.adovr.com CNAME .
 adp.cnool.net CNAME .
 *.adp.cnool.net CNAME .
 adp.homes.co.jp CNAME .
@@ -13797,8 +13795,6 @@ authoritativepartedusher.com CNAME .
 *.authoritativepartedusher.com CNAME .
 authoritiesemotional.com CNAME .
 *.authoritiesemotional.com CNAME .
-authorizeddear.pro CNAME .
-*.authorizeddear.pro CNAME .
 authorsradius.com CNAME .
 *.authorsradius.com CNAME .
 autigexistoafie.net CNAME .
@@ -42413,8 +42409,6 @@ i8xkjci7nd.com CNAME .
 *.i8xkjci7nd.com CNAME .
 i953.greeleytribune.com CNAME .
 *.i953.greeleytribune.com CNAME .
-i98jio988ui.world CNAME .
-*.i98jio988ui.world CNAME .
 i99i.org CNAME .
 *.i99i.org CNAME .
 ia.51.la CNAME .
@@ -44831,8 +44825,6 @@ jealousstarw.shop CNAME .
 *.jealousstarw.shop CNAME .
 jealousupholdpleaded.com CNAME .
 *.jealousupholdpleaded.com CNAME .
-jealousyscreamrepaired.com CNAME .
-*.jealousyscreamrepaired.com CNAME .
 jeanykikongo.click CNAME .
 *.jeanykikongo.click CNAME .
 jebrhb.icu CNAME .
@@ -62061,8 +62053,6 @@ prinksoncotic.com CNAME .
 *.prinksoncotic.com CNAME .
 printaugment.com CNAME .
 *.printaugment.com CNAME .
-priorityblockinghopped.com CNAME .
-*.priorityblockinghopped.com CNAME .
 priscanvarify.top CNAME .
 *.priscanvarify.top CNAME .
 priselapse.com CNAME .
@@ -72675,8 +72665,6 @@ sslph.com CNAME .
 *.sslph.com CNAME .
 ssm.codes CNAME .
 *.ssm.codes CNAME .
-ssooss.site CNAME .
-*.ssooss.site CNAME .
 ssp-ad.momento.dev CNAME .
 *.ssp-ad.momento.dev CNAME .
 ssp.21ic.com CNAME .
@@ -81511,8 +81499,6 @@ upcurlsreid.website CNAME .
 *.upcurlsreid.website CNAME .
 updaight.com CNAME .
 *.updaight.com CNAME .
-update-mac.com CNAME .
-*.update-mac.com CNAME .
 updateadvancedgreatlytheproduct.vip CNAME .
 *.updateadvancedgreatlytheproduct.vip CNAME .
 updatecompletelyfreetheproduct.vip CNAME .
