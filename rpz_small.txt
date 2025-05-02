@@ -1,9 +1,9 @@
-; Version: 202505020328
+; Version: 202505020409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88776
-; Last modified: 2025-05-02T03:28:00+0000
+; Entries: 88770
+; Last modified: 2025-05-02T04:09:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746154801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746158403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -657,8 +657,6 @@ $TTL 30
 *.1b3tmfcbq.de CNAME .
 1b9cvfi0nwxqelxu.pro CNAME .
 *.1b9cvfi0nwxqelxu.pro CNAME .
-1be953d1cc.com CNAME .
-*.1be953d1cc.com CNAME .
 1bet.com CNAME .
 *.1bet.com CNAME .
 1betandgonow.com CNAME .
@@ -12657,8 +12655,6 @@ arguebakery.com CNAME .
 *.arguebakery.com CNAME .
 argumentsmaymadly.com CNAME .
 *.argumentsmaymadly.com CNAME .
-argyllshumuses.com CNAME .
-*.argyllshumuses.com CNAME .
 argyllsleonora.top CNAME .
 *.argyllsleonora.top CNAME .
 argyrolnuddy.shop CNAME .
@@ -13981,8 +13977,6 @@ awaepqjjkcua.com CNAME .
 *.awaepqjjkcua.com CNAME .
 awaidxotovdoe.online CNAME .
 *.awaidxotovdoe.online CNAME .
-awaitinggirls.com CNAME .
-*.awaitinggirls.com CNAME .
 awaitingutilize.com CNAME .
 *.awaitingutilize.com CNAME .
 awakeclauseunskilled.com CNAME .
