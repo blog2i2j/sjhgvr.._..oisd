@@ -1,9 +1,9 @@
-; Version: 202505022010
+; Version: 202505022111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88782
-; Last modified: 2025-05-02T20:10:31+0000
+; Entries: 88774
+; Last modified: 2025-05-02T21:11:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746216001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746219602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33921,8 +33921,6 @@ exobafrgdf.com CNAME .
 *.exobafrgdf.com CNAME .
 exoclick.com CNAME .
 *.exoclick.com CNAME .
-exocoed.top CNAME .
-*.exocoed.top CNAME .
 exodermrecepts.top CNAME .
 *.exodermrecepts.top CNAME .
 exodusjailhousetarantula.com CNAME .
@@ -70673,8 +70671,6 @@ significantdoubloons.com CNAME .
 *.significantdoubloons.com CNAME .
 significantnuisance.com CNAME .
 *.significantnuisance.com CNAME .
-significantoperativeclearance.com CNAME .
-*.significantoperativeclearance.com CNAME .
 signifyabruptly.com CNAME .
 *.signifyabruptly.com CNAME .
 signingdebauchunpack.com CNAME .
@@ -81715,8 +81711,6 @@ urlgone.com CNAME .
 *.urlgone.com CNAME .
 urllistparding.info CNAME .
 *.urllistparding.info CNAME .
-urmilan.info CNAME .
-*.urmilan.info CNAME .
 urocyoncabrit.top CNAME .
 *.urocyoncabrit.top CNAME .
 urolithbraying.shop CNAME .
@@ -84333,8 +84327,6 @@ week1time.com CNAME .
 *.week1time.com CNAME .
 weekendchinholds.com CNAME .
 *.weekendchinholds.com CNAME .
-ween.bid CNAME .
-*.ween.bid CNAME .
 weenieshotcake.top CNAME .
 *.weenieshotcake.top CNAME .
 weensnandow.com CNAME .
