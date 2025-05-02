@@ -1,9 +1,9 @@
-; Version: 202505021210
+; Version: 202505021311
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88712
-; Last modified: 2025-05-02T12:10:56+0000
+; Entries: 88704
+; Last modified: 2025-05-02T13:11:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746187202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746190801 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6759,8 +6759,6 @@ ads.itv.com CNAME .
 *.ads.itv.com CNAME .
 ads.javtit.com CNAME .
 *.ads.javtit.com CNAME .
-ads.jewishfriendfinder.com CNAME .
-*.ads.jewishfriendfinder.com CNAME .
 ads.jianchiapp.com CNAME .
 *.ads.jianchiapp.com CNAME .
 ads.jobsite.co.uk CNAME .
@@ -31939,8 +31937,6 @@ eduad.baidu.com CNAME .
 *.eduad.baidu.com CNAME .
 educatedcoercive.com CNAME .
 *.educatedcoercive.com CNAME .
-educationalroot.com CNAME .
-*.educationalroot.com CNAME .
 educedsteeped.com CNAME .
 *.educedsteeped.com CNAME .
 edutechlearners.com CNAME .
@@ -54429,8 +54425,6 @@ nedmofqnhbvifw.com CNAME .
 *.nedmofqnhbvifw.com CNAME .
 nedoaptiksez.xyz CNAME .
 *.nedoaptiksez.xyz CNAME .
-nedouseso.com CNAME .
-*.nedouseso.com CNAME .
 nedstatbasic.net CNAME .
 *.nedstatbasic.net CNAME .
 neebourshifts.shop CNAME .
@@ -67939,8 +67933,6 @@ ryrmvbnpmhphkx.com CNAME .
 *.ryrmvbnpmhphkx.com CNAME .
 ryrv0j.greenbeanbuddy.com CNAME .
 *.ryrv0j.greenbeanbuddy.com CNAME .
-rysheatlengthanl.xyz CNAME .
-*.rysheatlengthanl.xyz CNAME .
 rytransionsco.org CNAME .
 *.rytransionsco.org CNAME .
 rza.pmu.fr CNAME .
