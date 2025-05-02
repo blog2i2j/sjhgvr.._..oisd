@@ -1,9 +1,9 @@
-# Version: 202505022215
+# Version: 202505022314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20960
-# Last modified: 2025-05-02T22:15:28+0000
+# Entries: 20962
+# Last modified: 2025-05-02T23:14:38+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5239,6 +5239,7 @@ local-zone: "fapchat.com." always_null
 local-zone: "fapclub.sex." always_null
 local-zone: "fapcoholic.com." always_null
 local-zone: "fapdig.com." always_null
+local-zone: "fapdiner.com." always_null
 local-zone: "fapdu.com." always_null
 local-zone: "fapdungeon.com." always_null
 local-zone: "fapellas.com." always_null
@@ -19027,6 +19028,7 @@ local-zone: "webkam-sex.com." always_null
 local-zone: "webmaal.cfd." always_null
 local-zone: "webmaal.in." always_null
 local-zone: "webmaxhd.com." always_null
+local-zone: "webmodel.cam." always_null
 local-zone: "webmshare.com." always_null
 local-zone: "webnode.com." always_null
 local-zone: "webpark.cz." always_null
