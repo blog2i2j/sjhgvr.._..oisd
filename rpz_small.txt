@@ -1,9 +1,9 @@
-; Version: 202505030710
+; Version: 202505030810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88916
-; Last modified: 2025-05-03T07:10:01+0000
+; Entries: 88902
+; Last modified: 2025-05-03T08:10:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746255601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746259201 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8909,8 +8909,6 @@ ahshujhpyh.com CNAME .
 *.ahshujhpyh.com CNAME .
 ahsjmiov.com CNAME .
 *.ahsjmiov.com CNAME .
-ahtxyjmreuvv.com CNAME .
-*.ahtxyjmreuvv.com CNAME .
 ahvradotws.com CNAME .
 *.ahvradotws.com CNAME .
 ai.bioon.com CNAME .
@@ -8941,8 +8939,6 @@ aidsideused.live CNAME .
 *.aidsideused.live CNAME .
 aidsoamsaiphu.net CNAME .
 *.aidsoamsaiphu.net CNAME .
-aidspectacle.com CNAME .
-*.aidspectacle.com CNAME .
 aidsswaggertrimness.com CNAME .
 *.aidsswaggertrimness.com CNAME .
 aidsvc.netflix.com CNAME .
@@ -12325,8 +12321,6 @@ appstorages.com CNAME .
 *.appstorages.com CNAME .
 appsyoga.com CNAME .
 *.appsyoga.com CNAME .
-apptdinsteps.com CNAME .
-*.apptdinsteps.com CNAME .
 apptjmp.com CNAME .
 *.apptjmp.com CNAME .
 apptornado.com CNAME .
@@ -49745,8 +49739,6 @@ loukoost.net CNAME .
 *.loukoost.net CNAME .
 loulouly.net CNAME .
 *.loulouly.net CNAME .
-loungedcabrie.com CNAME .
-*.loungedcabrie.com CNAME .
 loungyserger.com CNAME .
 *.loungyserger.com CNAME .
 lourdoueisienne.website CNAME .
@@ -64007,8 +63999,6 @@ qqosk05010llo.com CNAME .
 *.qqosk05010llo.com CNAME .
 qqosk05011llo.com CNAME .
 *.qqosk05011llo.com CNAME .
-qqosk05021llo.com CNAME .
-*.qqosk05021llo.com CNAME .
 qqosk05030llo.com CNAME .
 *.qqosk05030llo.com CNAME .
 qqqdsrjovklsr.today CNAME .
@@ -76965,8 +76955,6 @@ thenceafeard.com CNAME .
 *.thenceafeard.com CNAME .
 thencedisgustedbare.com CNAME .
 *.thencedisgustedbare.com CNAME .
-thenceshapedrugged.com CNAME .
-*.thenceshapedrugged.com CNAME .
 thenetwork18.com CNAME .
 *.thenetwork18.com CNAME .
 thenfulfilearnestly.com CNAME .
@@ -86167,8 +86155,6 @@ xceuzbaysacqp.global CNAME .
 *.xceuzbaysacqp.global CNAME .
 xchange.ro CNAME .
 *.xchange.ro CNAME .
-xchikiclickix.com CNAME .
-*.xchikiclickix.com CNAME .
 xcinilwpypp.com CNAME .
 *.xcinilwpypp.com CNAME .
 xciozdacgos.com CNAME .
