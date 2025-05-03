@@ -1,9 +1,9 @@
-; Version: 202505031010
+; Version: 202505031111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88886
-; Last modified: 2025-05-03T10:10:29+0000
+; Entries: 88880
+; Last modified: 2025-05-03T11:11:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746266403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746270001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12219,8 +12219,6 @@ applicationmoleculepersonal.com CNAME .
 *.applicationmoleculepersonal.com CNAME .
 applicationplasticoverlap.com CNAME .
 *.applicationplasticoverlap.com CNAME .
-applicationsattaindevastated.com CNAME .
-*.applicationsattaindevastated.com CNAME .
 applicationsstereocanoe.com CNAME .
 *.applicationsstereocanoe.com CNAME .
 applifier.com CNAME .
@@ -13519,8 +13517,6 @@ attestcribaccording.com CNAME .
 *.attestcribaccording.com CNAME .
 attesthelium.com CNAME .
 *.attesthelium.com CNAME .
-atthewonderfu.com CNAME .
-*.atthewonderfu.com CNAME .
 attictop.com CNAME .
 *.attictop.com CNAME .
 attirecideryeah.com CNAME .
@@ -46529,8 +46525,6 @@ kneltopeningfit.com CNAME .
 *.kneltopeningfit.com CNAME .
 knewallpendulum.com CNAME .
 *.knewallpendulum.com CNAME .
-knewfeisty.com CNAME .
-*.knewfeisty.com CNAME .
 knfeiikyojdib.life CNAME .
 *.knfeiikyojdib.life CNAME .
 knifebackfiretraveller.com CNAME .
