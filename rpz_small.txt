@@ -1,9 +1,9 @@
-; Version: 202505031310
+; Version: 202505031410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88862
-; Last modified: 2025-05-03T13:10:24+0000
+; Entries: 88854
+; Last modified: 2025-05-03T14:10:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746277201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746280802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6973,8 +6973,6 @@ ads.savannahnow.com CNAME .
 *.ads.savannahnow.com CNAME .
 ads.scifi.com CNAME .
 *.ads.scifi.com CNAME .
-ads.seniorfriendfinder.com CNAME .
-*.ads.seniorfriendfinder.com CNAME .
 ads.senmanga.com CNAME .
 *.ads.senmanga.com CNAME .
 ads.seovietnam.pro CNAME .
@@ -50697,8 +50695,6 @@ mamka.aviasales.ru CNAME .
 *.mamka.aviasales.ru CNAME .
 mamluksburion.com CNAME .
 *.mamluksburion.com CNAME .
-mammal.autoidle.com CNAME .
-*.mammal.autoidle.com CNAME .
 mammasdamps.shop CNAME .
 *.mammasdamps.shop CNAME .
 mammocksambos.com CNAME .
@@ -56811,8 +56807,6 @@ oklstupu.com CNAME .
 *.oklstupu.com CNAME .
 oko.net CNAME .
 *.oko.net CNAME .
-okpl05011ai.com CNAME .
-*.okpl05011ai.com CNAME .
 okpl05030ai.com CNAME .
 *.okpl05030ai.com CNAME .
 okrasbj6.de CNAME .
@@ -81451,8 +81445,6 @@ unraspyhoiden.shop CNAME .
 *.unraspyhoiden.shop CNAME .
 unrealversionholder.com CNAME .
 *.unrealversionholder.com CNAME .
-unreasonabletwenties.com CNAME .
-*.unreasonabletwenties.com CNAME .
 unrebelasterin.com CNAME .
 *.unrebelasterin.com CNAME .
 unreshiramor.com CNAME .
