@@ -1,9 +1,9 @@
-; Version: 202505031111
+; Version: 202505031210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88880
-; Last modified: 2025-05-03T11:11:03+0000
+; Entries: 88866
+; Last modified: 2025-05-03T12:10:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746270001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746273602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9485,8 +9485,6 @@ alienatecommit.com CNAME .
 *.alienatecommit.com CNAME .
 alienaterepellent.com CNAME .
 *.alienaterepellent.com CNAME .
-alietpulsers.top CNAME .
-*.alietpulsers.top CNAME .
 alifeupbrast.com CNAME .
 *.alifeupbrast.com CNAME .
 alightbornbell.com CNAME .
@@ -34361,8 +34359,6 @@ fajukc.com CNAME .
 *.fajukc.com CNAME .
 fake-square.com CNAME .
 *.fake-square.com CNAME .
-fakesorange.com CNAME .
-*.fakesorange.com CNAME .
 falcatasestina.top CNAME .
 *.falcatasestina.top CNAME .
 falcatayamalka.com CNAME .
@@ -45817,8 +45813,6 @@ k8.usefto.com CNAME .
 *.k8.usefto.com CNAME .
 k864.orovillemr.com CNAME .
 *.k864.orovillemr.com CNAME .
-kaakfwbhq.com CNAME .
-*.kaakfwbhq.com CNAME .
 kaarheciqa.xyz CNAME .
 *.kaarheciqa.xyz CNAME .
 kaascypher.com CNAME .
@@ -61833,8 +61827,6 @@ preclknu.com CNAME .
 *.preclknu.com CNAME .
 precmd.com CNAME .
 *.precmd.com CNAME .
-precursorinclinationbruised.com CNAME .
-*.precursorinclinationbruised.com CNAME .
 predataclient.b-cdn.net CNAME .
 *.predataclient.b-cdn.net CNAME .
 predatoryrucksack.com CNAME .
@@ -68547,8 +68539,6 @@ salliesjoll.shop CNAME .
 *.salliesjoll.shop CNAME .
 sallyfundamental.com CNAME .
 *.sallyfundamental.com CNAME .
-salmisnepidae.com CNAME .
-*.salmisnepidae.com CNAME .
 salmon.cedricreeves.com CNAME .
 *.salmon.cedricreeves.com CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
@@ -83293,8 +83283,6 @@ voicedstart.com CNAME .
 *.voicedstart.com CNAME .
 voicefive.com CNAME .
 *.voicefive.com CNAME .
-voicepainlessdonut.com CNAME .
-*.voicepainlessdonut.com CNAME .
 voicepythons.shop CNAME .
 *.voicepythons.shop CNAME .
 voidthemhen.org CNAME .
@@ -87511,8 +87499,6 @@ yakmakhond.top CNAME .
 *.yakmakhond.top CNAME .
 yaksgwrkhufex.com CNAME .
 *.yaksgwrkhufex.com CNAME .
-yaltchoaiz.com CNAME .
-*.yaltchoaiz.com CNAME .
 yamshikbrucia.top CNAME .
 *.yamshikbrucia.top CNAME .
 yandexadexchange.net CNAME .
