@@ -1,9 +1,9 @@
-; Version: 202505031410
+; Version: 202505031510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88854
-; Last modified: 2025-05-03T14:10:24+0000
+; Entries: 88846
+; Last modified: 2025-05-03T15:10:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746280802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746284401 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -35771,8 +35771,6 @@ floroonwhun.com CNAME .
 *.floroonwhun.com CNAME .
 flossdiversebates.com CNAME .
 *.flossdiversebates.com CNAME .
-flounderpillowspooky.com CNAME .
-*.flounderpillowspooky.com CNAME .
 flourishinghardwareinhibit.com CNAME .
 *.flourishinghardwareinhibit.com CNAME .
 flousecuprate.top CNAME .
@@ -36061,8 +36059,6 @@ forcetwice.com CNAME .
 *.forcetwice.com CNAME .
 forcingclinch.com CNAME .
 *.forcingclinch.com CNAME .
-fordedcostaea.com CNAME .
-*.fordedcostaea.com CNAME .
 forducklettr.com CNAME .
 *.forducklettr.com CNAME .
 fordullorangs.shop CNAME .
@@ -80823,8 +80819,6 @@ ucmhdmlqnr.com CNAME .
 *.ucmhdmlqnr.com CNAME .
 ucounter.ucoz.net CNAME .
 *.ucounter.ucoz.net CNAME .
-ucqobboijaou.com CNAME .
-*.ucqobboijaou.com CNAME .
 ucs.betwaygroup.com CNAME .
 *.ucs.betwaygroup.com CNAME .
 ucuoknexq.global CNAME .
@@ -82299,8 +82293,6 @@ variouscreativeformats.com CNAME .
 *.variouscreativeformats.com CNAME .
 variousformatscontent.com CNAME .
 *.variousformatscontent.com CNAME .
-variouspheasantjerk.com CNAME .
-*.variouspheasantjerk.com CNAME .
 varnishmosquitolocust.com CNAME .
 *.varnishmosquitolocust.com CNAME .
 varshacundy.com CNAME .
