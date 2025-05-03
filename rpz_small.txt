@@ -1,9 +1,9 @@
-; Version: 202505032209
+; Version: 202505032309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88826
-; Last modified: 2025-05-03T22:09:52+0000
+; Entries: 88814
+; Last modified: 2025-05-03T23:09:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746309601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746313202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5807,8 +5807,6 @@ adizio.com CNAME .
 *.adizio.com CNAME .
 adjb.5nd.com CNAME .
 *.adjb.5nd.com CNAME .
-adjectiveresign.com CNAME .
-*.adjectiveresign.com CNAME .
 adjmntesdsoi.love CNAME .
 *.adjmntesdsoi.love CNAME .
 adjs.media CNAME .
@@ -37111,8 +37109,6 @@ gallicize25.fun CNAME .
 *.gallicize25.fun CNAME .
 gallonjav128.fun CNAME .
 *.gallonjav128.fun CNAME .
-gallopsalmon.com CNAME .
-*.gallopsalmon.com CNAME .
 gallupcommend.com CNAME .
 *.gallupcommend.com CNAME .
 galopelikeantelope.com CNAME .
@@ -43105,8 +43101,6 @@ importantoperativestudied.com CNAME .
 *.importantoperativestudied.com CNAME .
 imported1x.xyz CNAME .
 *.imported1x.xyz CNAME .
-imposecalm.com CNAME .
-*.imposecalm.com CNAME .
 imposi.com CNAME .
 *.imposi.com CNAME .
 impossibilityaboriginalblessed.com CNAME .
@@ -59645,8 +59639,6 @@ performit.club CNAME .
 *.performit.club CNAME .
 performoo.com CNAME .
 *.performoo.com CNAME .
-perfumeantecedent.com CNAME .
-*.perfumeantecedent.com CNAME .
 perfunctoryfrugal.com CNAME .
 *.perfunctoryfrugal.com CNAME .
 perfunctorystair.com CNAME .
@@ -68867,8 +68859,6 @@ scarcerpokomoo.com CNAME .
 *.scarcerpokomoo.com CNAME .
 scarcestream.com CNAME .
 *.scarcestream.com CNAME .
-scardeviceduly.com CNAME .
-*.scardeviceduly.com CNAME .
 scarecrowenhancements.com CNAME .
 *.scarecrowenhancements.com CNAME .
 scaredframe.com CNAME .
@@ -79911,8 +79901,6 @@ trk2-wtb.swaven.com CNAME .
 *.trk2-wtb.swaven.com CNAME .
 trk2.pinterest.com CNAME .
 *.trk2.pinterest.com CNAME .
-trk3000.com CNAME .
-*.trk3000.com CNAME .
 trk4.com CNAME .
 *.trk4.com CNAME .
 trk72.com CNAME .
