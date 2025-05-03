@@ -1,9 +1,9 @@
-; Version: 202505030513
+; Version: 202505030614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41916
-; Last modified: 2025-05-03T05:13:56+0000
+; Entries: 41922
+; Last modified: 2025-05-03T06:14:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746248405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746252003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7923,6 +7923,8 @@ deolububble.com CNAME .
 *.deolububble.com CNAME .
 depaarsekeizerin.nl CNAME .
 *.depaarsekeizerin.nl CNAME .
+depic.me CNAME .
+*.depic.me CNAME .
 depscat.com CNAME .
 *.depscat.com CNAME .
 depvailon.com CNAME .
@@ -33551,6 +33553,8 @@ stepsmut.com CNAME .
 *.stepsmut.com CNAME .
 sternporn.com CNAME .
 *.sternporn.com CNAME .
+stevieraexxx.rocks CNAME .
+*.stevieraexxx.rocks CNAME .
 stickam.com CNAME .
 *.stickam.com CNAME .
 stickamvids.net CNAME .
@@ -35177,6 +35181,8 @@ tit4free.com CNAME .
 *.tit4free.com CNAME .
 titanmen.com CNAME .
 *.titanmen.com CNAME .
+titdam.day CNAME .
+*.titdam.day CNAME .
 titfap.com CNAME .
 *.titfap.com CNAME .
 titi.biz CNAME .
