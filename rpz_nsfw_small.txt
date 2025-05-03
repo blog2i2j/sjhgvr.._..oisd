@@ -1,9 +1,9 @@
-; Version: 202505030213
+; Version: 202505030359
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41908
-; Last modified: 2025-05-03T02:13:32+0000
+; Entries: 41910
+; Last modified: 2025-05-03T03:59:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746237601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746241202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -16491,6 +16491,8 @@ incestmom.net CNAME .
 *.incestmom.net CNAME .
 incesto.me CNAME .
 *.incesto.me CNAME .
+incesto.xxx CNAME .
+*.incesto.xxx CNAME .
 incestporn.pro CNAME .
 *.incestporn.pro CNAME .
 incestporno.club CNAME .
@@ -17713,6 +17715,8 @@ javhds.com CNAME .
 *.javhds.com CNAME .
 javhdworld.com CNAME .
 *.javhdworld.com CNAME .
+javhdz.org CNAME .
+*.javhdz.org CNAME .
 javhdz.today CNAME .
 *.javhdz.today CNAME .
 javhee.com CNAME .
@@ -39429,8 +39433,6 @@ xnxx123.org CNAME .
 *.xnxx123.org CNAME .
 xnxx123.tv CNAME .
 *.xnxx123.tv CNAME .
-xnxx18.info CNAME .
-*.xnxx18.info CNAME .
 xnxx18.org CNAME .
 *.xnxx18.org CNAME .
 xnxx2.cc CNAME .
