@@ -1,9 +1,9 @@
-; Version: 202505031610
+; Version: 202505031710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88840
-; Last modified: 2025-05-03T16:10:25+0000
+; Entries: 88832
+; Last modified: 2025-05-03T17:10:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746288002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746291602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -45127,8 +45127,6 @@ jnnjthg.com CNAME .
 *.jnnjthg.com CNAME .
 jnrtavp2x66u.com CNAME .
 *.jnrtavp2x66u.com CNAME .
-jnwucna.top CNAME .
-*.jnwucna.top CNAME .
 jo.429men.com CNAME .
 *.jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
@@ -51545,8 +51543,6 @@ meetaffiliate.com CNAME .
 *.meetaffiliate.com CNAME .
 meetamate.online CNAME .
 *.meetamate.online CNAME .
-meetfindsoul.com CNAME .
-*.meetfindsoul.com CNAME .
 meetingcoffeenostrils.com CNAME .
 *.meetingcoffeenostrils.com CNAME .
 meetingrailroad.com CNAME .
@@ -81515,8 +81511,6 @@ untriedcause.pro CNAME .
 *.untriedcause.pro CNAME .
 untrk.xyz CNAME .
 *.untrk.xyz CNAME .
-untrodlagged.com CNAME .
-*.untrodlagged.com CNAME .
 untropiuson.com CNAME .
 *.untropiuson.com CNAME .
 untruecharacterizepeople.com CNAME .
@@ -83401,8 +83395,6 @@ vpn-offers.org CNAME .
 *.vpn-offers.org CNAME .
 vpnclick.biz CNAME .
 *.vpnclick.biz CNAME .
-vpnlist.to CNAME .
-*.vpnlist.to CNAME .
 vpnonly.site CNAME .
 *.vpnonly.site CNAME .
 vpnsafebrowsing.com CNAME .
