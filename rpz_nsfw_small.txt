@@ -1,9 +1,9 @@
-; Version: 202505030414
+; Version: 202505030513
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41918
-; Last modified: 2025-05-03T04:14:15+0000
+; Entries: 41916
+; Last modified: 2025-05-03T05:13:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746244803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746248405 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -10323,6 +10323,8 @@ famosas.vip CNAME .
 *.famosas.vip CNAME .
 famosasbrasil.net CNAME .
 *.famosasbrasil.net CNAME .
+famosasfodendo.com CNAME .
+*.famosasfodendo.com CNAME .
 famosasnuas.blog CNAME .
 *.famosasnuas.blog CNAME .
 famosasnuas.net CNAME .
@@ -16249,6 +16251,8 @@ ihentai.blog CNAME .
 *.ihentai.blog CNAME .
 ihentai.com CNAME .
 *.ihentai.com CNAME .
+ihentai.nl CNAME .
+*.ihentai.nl CNAME .
 ihentai.now CNAME .
 *.ihentai.now CNAME .
 ihentai.us CNAME .
@@ -26897,8 +26901,6 @@ porno365.guide CNAME .
 *.porno365.guide CNAME .
 porno365.hiphop CNAME .
 *.porno365.hiphop CNAME .
-porno365.how CNAME .
-*.porno365.how CNAME .
 porno365.in CNAME .
 *.porno365.in CNAME .
 porno365.la CNAME .
@@ -26963,8 +26965,6 @@ porno365x.club CNAME .
 *.porno365x.club CNAME .
 porno365x.info CNAME .
 *.porno365x.info CNAME .
-porno365x.name CNAME .
-*.porno365x.name CNAME .
 porno365x.net CNAME .
 *.porno365x.net CNAME .
 porno365x.page CNAME .
@@ -34545,8 +34545,6 @@ templescanesp.net CNAME .
 *.templescanesp.net CNAME .
 tempocams.com CNAME .
 *.tempocams.com CNAME .
-temporary.site CNAME .
-*.temporary.site CNAME .
 tempted.com CNAME .
 *.tempted.com CNAME .
 temptingtown.com CNAME .
