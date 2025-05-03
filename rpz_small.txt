@@ -1,9 +1,9 @@
-; Version: 202505031810
+; Version: 202505031910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88862
-; Last modified: 2025-05-03T18:10:45+0000
+; Entries: 88854
+; Last modified: 2025-05-03T19:10:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746295201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746298801 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8323,8 +8323,6 @@ aeuiazspafmbu.com CNAME .
 *.aeuiazspafmbu.com CNAME .
 af-ad.co.uk CNAME .
 *.af-ad.co.uk CNAME .
-af.1gdz.ru CNAME .
-*.af.1gdz.ru CNAME .
 af043ebde4.10a03eb82c.com CNAME .
 *.af043ebde4.10a03eb82c.com CNAME .
 af30ee9e36.com CNAME .
@@ -22775,8 +22773,6 @@ conclusionsmushyburn.com CNAME .
 *.conclusionsmushyburn.com CNAME .
 concord.systems CNAME .
 *.concord.systems CNAME .
-concrete-cabinet.pro CNAME .
-*.concrete-cabinet.pro CNAME .
 concussionsculptor.com CNAME .
 *.concussionsculptor.com CNAME .
 condemnfundraiserjune.com CNAME .
@@ -53779,8 +53775,6 @@ mycljbrbwx.com CNAME .
 *.mycljbrbwx.com CNAME .
 mycounter.ua CNAME .
 *.mycounter.ua CNAME .
-mycrdhtv.xyz CNAME .
-*.mycrdhtv.xyz CNAME .
 mycuegxt.com CNAME .
 *.mycuegxt.com CNAME .
 mycunroofs.top CNAME .
@@ -65453,8 +65447,6 @@ reindeer.pablomaceda.com CNAME .
 *.reindeer.pablomaceda.com CNAME .
 reinforceburger.com CNAME .
 *.reinforceburger.com CNAME .
-reinstandpointdumbest.com CNAME .
-*.reinstandpointdumbest.com CNAME .
 reissue2871.xyz CNAME .
 *.reissue2871.xyz CNAME .
 rejco2.store CNAME .
