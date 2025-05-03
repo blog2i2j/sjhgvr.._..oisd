@@ -1,9 +1,9 @@
-; Version: 202505030409
+; Version: 202505030509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88940
-; Last modified: 2025-05-03T04:09:32+0000
+; Entries: 88930
+; Last modified: 2025-05-03T05:09:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746244803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746248405 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11455,8 +11455,6 @@ anisoinmetrize.top CNAME .
 *.anisoinmetrize.top CNAME .
 anjanstarved.com CNAME .
 *.anjanstarved.com CNAME .
-anldnews.pro CNAME .
-*.anldnews.pro CNAME .
 anlytics.co CNAME .
 *.anlytics.co CNAME .
 anmhtutajog.com CNAME .
@@ -34279,8 +34277,6 @@ facevideosc.com CNAME .
 *.facevideosc.com CNAME .
 faciendtabour.shop CNAME .
 *.faciendtabour.shop CNAME .
-facileravagebased.com CNAME .
-*.facileravagebased.com CNAME .
 facilitatevoluntarily.com CNAME .
 *.facilitatevoluntarily.com CNAME .
 facisespess.com CNAME .
@@ -38003,8 +37999,6 @@ gibbetsvower.shop CNAME .
 *.gibbetsvower.shop CNAME .
 gibbon.711.st CNAME .
 *.gibbon.711.st CNAME .
-gibevay.ru CNAME .
-*.gibevay.ru CNAME .
 gicazsfuho.com CNAME .
 *.gicazsfuho.com CNAME .
 gicoxmha.com CNAME .
@@ -43989,8 +43983,6 @@ invyaombpldq.com CNAME .
 *.invyaombpldq.com CNAME .
 inwraptsekane.com CNAME .
 *.inwraptsekane.com CNAME .
-inwucno.top CNAME .
-*.inwucno.top CNAME .
 inxgfxylzkkgi.one CNAME .
 *.inxgfxylzkkgi.one CNAME .
 inyoketuber.com CNAME .
@@ -81635,8 +81627,6 @@ unwontcajun.top CNAME .
 *.unwontcajun.top CNAME .
 unwoobater.com CNAME .
 *.unwoobater.com CNAME .
-unwrapsbunkum.com CNAME .
-*.unwrapsbunkum.com CNAME .
 unwritmirific.com CNAME .
 *.unwritmirific.com CNAME .
 unwuamt.top CNAME .
