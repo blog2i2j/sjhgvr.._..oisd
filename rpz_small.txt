@@ -1,9 +1,9 @@
-; Version: 202505030509
+; Version: 202505030609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88930
-; Last modified: 2025-05-03T05:09:30+0000
+; Entries: 88918
+; Last modified: 2025-05-03T06:09:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746248405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746252003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8961,8 +8961,6 @@ aiharsoreersu.net CNAME .
 *.aiharsoreersu.net CNAME .
 aiiirwciki.com CNAME .
 *.aiiirwciki.com CNAME .
-aikat-vim.com CNAME .
-*.aikat-vim.com CNAME .
 aikraith.net CNAME .
 *.aikraith.net CNAME .
 ailcloister.com CNAME .
@@ -14743,8 +14741,6 @@ ballisticforgotten.com CNAME .
 *.ballisticforgotten.com CNAME .
 ballotjavgg124.fun CNAME .
 *.ballotjavgg124.fun CNAME .
-ballroomexhibitionmid.com CNAME .
-*.ballroomexhibitionmid.com CNAME .
 ballroomswimmer.com CNAME .
 *.ballroomswimmer.com CNAME .
 balmexhibited.com CNAME .
@@ -42755,8 +42751,6 @@ iionads.com CNAME .
 *.iionads.com CNAME .
 iisabujdtg.com CNAME .
 *.iisabujdtg.com CNAME .
-iistillstayherea.com CNAME .
-*.iistillstayherea.com CNAME .
 iiwm70qvjmee.com CNAME .
 *.iiwm70qvjmee.com CNAME .
 ijbaawqolrhpd.site CNAME .
@@ -46417,8 +46411,6 @@ kjkulnpfdhn.com CNAME .
 *.kjkulnpfdhn.com CNAME .
 kjmxyxgsi.com CNAME .
 *.kjmxyxgsi.com CNAME .
-kjqsnxibegvue.com CNAME .
-*.kjqsnxibegvue.com CNAME .
 kjsrpkibdjtyy.online CNAME .
 *.kjsrpkibdjtyy.online CNAME .
 kjsvvnzcto.com CNAME .
@@ -56853,8 +56845,6 @@ oko.net CNAME .
 *.oko.net CNAME .
 okpl05011ai.com CNAME .
 *.okpl05011ai.com CNAME .
-okpl05021ai.com CNAME .
-*.okpl05021ai.com CNAME .
 okpl05030ai.com CNAME .
 *.okpl05030ai.com CNAME .
 okrasbj6.de CNAME .
@@ -81629,8 +81619,6 @@ unwoobater.com CNAME .
 *.unwoobater.com CNAME .
 unwritmirific.com CNAME .
 *.unwritmirific.com CNAME .
-unwuamt.top CNAME .
-*.unwuamt.top CNAME .
 unylgxxmrsbb.com CNAME .
 *.unylgxxmrsbb.com CNAME .
 uod2quk646.com CNAME .
