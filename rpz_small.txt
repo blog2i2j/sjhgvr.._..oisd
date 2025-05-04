@@ -1,9 +1,9 @@
-; Version: 202505040108
+; Version: 202505040209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88800
-; Last modified: 2025-05-04T01:08:59+0000
+; Entries: 88784
+; Last modified: 2025-05-04T02:09:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746320402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746324003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8197,8 +8197,6 @@ adxfactory.com CNAME .
 *.adxfactory.com CNAME .
 adxfire.in CNAME .
 *.adxfire.in CNAME .
-adxhand.name CNAME .
-*.adxhand.name CNAME .
 adxhand1.name CNAME .
 *.adxhand1.name CNAME .
 adxion.com CNAME .
@@ -51605,8 +51603,6 @@ mentmastsa.org CNAME .
 *.mentmastsa.org CNAME .
 mentoremotionapril.com CNAME .
 *.mentoremotionapril.com CNAME .
-mentrandi.com CNAME .
-*.mentrandi.com CNAME .
 mentrandingswo.com CNAME .
 *.mentrandingswo.com CNAME .
 mentxviewsinte.info CNAME .
@@ -54657,8 +54653,6 @@ news-bbipasu.today CNAME .
 *.news-bbipasu.today CNAME .
 news-bit.com CNAME .
 *.news-bit.com CNAME .
-news-buzz.cc CNAME .
-*.news-buzz.cc CNAME .
 news-galuzo.cc CNAME .
 *.news-galuzo.cc CNAME .
 news-getogo.com CNAME .
@@ -55687,8 +55681,6 @@ nui.media CNAME .
 *.nui.media CNAME .
 nuiknnf.icu CNAME .
 *.nuiknnf.icu CNAME .
-nuisancehi.com CNAME .
-*.nuisancehi.com CNAME .
 nukeluck.net CNAME .
 *.nukeluck.net CNAME .
 nuleedsa.net CNAME .
@@ -55773,8 +55765,6 @@ nutritionshooterinstructor.com CNAME .
 *.nutritionshooterinstructor.com CNAME .
 nutritious-month.com CNAME .
 *.nutritious-month.com CNAME .
-nutshellwhipunderstood.com CNAME .
-*.nutshellwhipunderstood.com CNAME .
 nutsinmid.live CNAME .
 *.nutsinmid.live CNAME .
 nuttyrope.pro CNAME .
@@ -57281,8 +57271,6 @@ oolsutsougri.net CNAME .
 *.oolsutsougri.net CNAME .
 oomaugnaps.net CNAME .
 *.oomaugnaps.net CNAME .
-oomsoapt.net CNAME .
-*.oomsoapt.net CNAME .
 oonsouque.com CNAME .
 *.oonsouque.com CNAME .
 oopatet.com CNAME .
@@ -76273,8 +76261,6 @@ teamsoutspoken.com CNAME .
 *.teamsoutspoken.com CNAME .
 teamsperilous.com CNAME .
 *.teamsperilous.com CNAME .
-teanlaxzia.cyou CNAME .
-*.teanlaxzia.cyou CNAME .
 teapotsobbing.com CNAME .
 *.teapotsobbing.com CNAME .
 tearerernest.com CNAME .
@@ -86151,8 +86137,6 @@ xhwwcif.com CNAME .
 *.xhwwcif.com CNAME .
 xhydh39.xyz CNAME .
 *.xhydh39.xyz CNAME .
-xhzz3moj1dsd.com CNAME .
-*.xhzz3moj1dsd.com CNAME .
 xianliao.voto CNAME .
 *.xianliao.voto CNAME .
 xiaopinwo.com CNAME .
