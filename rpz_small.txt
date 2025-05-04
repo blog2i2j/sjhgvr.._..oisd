@@ -1,9 +1,9 @@
-; Version: 202505040209
+; Version: 202505040309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88784
-; Last modified: 2025-05-04T02:09:09+0000
+; Entries: 88764
+; Last modified: 2025-05-04T03:09:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746324003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746327602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1749,8 +1749,6 @@ $TTL 30
 *.47415889.xyz CNAME .
 478789.everydayporn.co CNAME .
 *.478789.everydayporn.co CNAME .
-47cb693fa6.com CNAME .
-*.47cb693fa6.com CNAME .
 47df036031.47b2b18670.com CNAME .
 *.47df036031.47b2b18670.com CNAME .
 47f0db81c9.com CNAME .
@@ -9873,8 +9871,6 @@ aluminumoutageprovince.com CNAME .
 *.aluminumoutageprovince.com CNAME .
 alumniheadfirstshamrock.com CNAME .
 *.alumniheadfirstshamrock.com CNAME .
-alurepirates.com CNAME .
-*.alurepirates.com CNAME .
 alwaysdomain01.online CNAME .
 *.alwaysdomain01.online CNAME .
 alwayspainfully.com CNAME .
@@ -16667,8 +16663,6 @@ blackmailingpanic.com CNAME .
 *.blackmailingpanic.com CNAME .
 blacknessfinancialresign.com CNAME .
 *.blacknessfinancialresign.com CNAME .
-blacksaltys.com CNAME .
-*.blacksaltys.com CNAME .
 blacktri-a.akamaihd.net CNAME .
 *.blacktri-a.akamaihd.net CNAME .
 blacurlik.com CNAME .
@@ -27785,8 +27779,6 @@ datetrackservice.com CNAME .
 *.datetrackservice.com CNAME .
 datexurlove.com CNAME .
 *.datexurlove.com CNAME .
-datherap.xyz CNAME .
-*.datherap.xyz CNAME .
 dathinaxvsky.com CNAME .
 *.dathinaxvsky.com CNAME .
 dating-amour-club.com CNAME .
@@ -38135,8 +38127,6 @@ gkbhrj49a.com CNAME .
 *.gkbhrj49a.com CNAME .
 gkbpmrtixkzui.one CNAME .
 *.gkbpmrtixkzui.one CNAME .
-gkdafpdmiwwd.xyz CNAME .
-*.gkdafpdmiwwd.xyz CNAME .
 gkeolwi.icu CNAME .
 *.gkeolwi.icu CNAME .
 gkjoanks.com CNAME .
@@ -43361,8 +43351,6 @@ infinityads.com CNAME .
 *.infinityads.com CNAME .
 infinityid.condenastdigital.com CNAME .
 *.infinityid.condenastdigital.com CNAME .
-infinitypixel.online CNAME .
-*.infinitypixel.online CNAME .
 inflameemanent.cam CNAME .
 *.inflameemanent.cam CNAME .
 inflationbreedinghoax.com CNAME .
@@ -47361,8 +47349,6 @@ lastunsued.top CNAME .
 *.lastunsued.top CNAME .
 lastwise.com CNAME .
 *.lastwise.com CNAME .
-latchwaitress.com CNAME .
-*.latchwaitress.com CNAME .
 late-anxiety.com CNAME .
 *.late-anxiety.com CNAME .
 latest-news.pro CNAME .
@@ -70443,8 +70429,6 @@ showyourevent.com CNAME .
 *.showyourevent.com CNAME .
 shredassortmentmood.com CNAME .
 *.shredassortmentmood.com CNAME .
-shredasthma.com CNAME .
-*.shredasthma.com CNAME .
 shredvealdone.com CNAME .
 *.shredvealdone.com CNAME .
 shrekis.life CNAME .
@@ -77915,8 +77899,6 @@ topcpmcreativeformat.com CNAME .
 *.topcpmcreativeformat.com CNAME .
 topcreativeformat.com CNAME .
 *.topcreativeformat.com CNAME .
-topdatingdelight.com CNAME .
-*.topdatingdelight.com CNAME .
 topdatingshub.com CNAME .
 *.topdatingshub.com CNAME .
 topdealad.com CNAME .
@@ -86209,8 +86191,6 @@ xjwzbo.com CNAME .
 *.xjwzbo.com CNAME .
 xkacs5av.xyz CNAME .
 *.xkacs5av.xyz CNAME .
-xkesalwueyz.com CNAME .
-*.xkesalwueyz.com CNAME .
 xkpbcd.com CNAME .
 *.xkpbcd.com CNAME .
 xktxemf.com CNAME .
