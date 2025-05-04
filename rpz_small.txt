@@ -1,9 +1,9 @@
-; Version: 202505040810
+; Version: 202505040910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88762
-; Last modified: 2025-05-04T08:10:02+0000
+; Entries: 88742
+; Last modified: 2025-05-04T09:10:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746345602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746349202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9885,8 +9885,6 @@ alxbgo.com CNAME .
 *.alxbgo.com CNAME .
 alysson.de CNAME .
 *.alysson.de CNAME .
-am-da.xyz CNAME .
-*.am-da.xyz CNAME .
 am-trc-events.taboola.com CNAME .
 *.am-trc-events.taboola.com CNAME .
 am.szhome.com CNAME .
@@ -27847,8 +27845,6 @@ davidoffhand.com CNAME .
 *.davidoffhand.com CNAME .
 davycrile.com CNAME .
 *.davycrile.com CNAME .
-dawncreations.art CNAME .
-*.dawncreations.art CNAME .
 dawnfilthscribble.com CNAME .
 *.dawnfilthscribble.com CNAME .
 dawplm.com CNAME .
@@ -29033,8 +29029,6 @@ dietythraves.top CNAME .
 *.dietythraves.top CNAME .
 differentevidence.com CNAME .
 *.differentevidence.com CNAME .
-differfundamental.com CNAME .
-*.differfundamental.com CNAME .
 differsassassin.com CNAME .
 *.differsassassin.com CNAME .
 differsprosperityprotector.com CNAME .
@@ -45029,8 +45023,6 @@ jkha742.xyz CNAME .
 *.jkha742.xyz CNAME .
 jklpy.com CNAME .
 *.jklpy.com CNAME .
-jktkhn.top CNAME .
-*.jktkhn.top CNAME .
 jkuxishhikp.com CNAME .
 *.jkuxishhikp.com CNAME .
 jkyawbabvjeq.top CNAME .
@@ -45271,8 +45263,6 @@ jpcctez.icu CNAME .
 *.jpcctez.icu CNAME .
 jpg1.oss-cn-beijing.aliyuncs.com CNAME .
 *.jpg1.oss-cn-beijing.aliyuncs.com CNAME .
-jpgtrk.com CNAME .
-*.jpgtrk.com CNAME .
 jphvuphqzgyak.icu CNAME .
 *.jphvuphqzgyak.icu CNAME .
 jpmkbcgx-o.buzz CNAME .
@@ -48997,8 +48987,6 @@ log.polarisoffice.com CNAME .
 *.log.polarisoffice.com CNAME .
 log.prezi.com CNAME .
 *.log.prezi.com CNAME .
-log.propermessage.io CNAME .
-*.log.propermessage.io CNAME .
 log.pullcenter.live CNAME .
 *.log.pullcenter.live CNAME .
 log.pvpgang.com CNAME .
@@ -55237,8 +55225,6 @@ nossairt.net CNAME .
 *.nossairt.net CNAME .
 nostalgia.onego.ru CNAME .
 *.nostalgia.onego.ru CNAME .
-nostocbark.com CNAME .
-*.nostocbark.com CNAME .
 nostrilquarryprecursor.com CNAME .
 *.nostrilquarryprecursor.com CNAME .
 notabilitytragic.com CNAME .
@@ -64011,8 +63997,6 @@ quantoz.xyz CNAME .
 *.quantoz.xyz CNAME .
 quantserve.com CNAME .
 *.quantserve.com CNAME .
-quantumcanvas.store CNAME .
-*.quantumcanvas.store CNAME .
 quaocns.xyz CNAME .
 *.quaocns.xyz CNAME .
 quarantinedisappearhive.com CNAME .
@@ -65061,8 +65045,6 @@ recs.atgsvcs.com CNAME .
 *.recs.atgsvcs.com CNAME .
 recs.shareaholic.com CNAME .
 *.recs.shareaholic.com CNAME .
-rectificationchurchill.com CNAME .
-*.rectificationchurchill.com CNAME .
 rectresultofthep.com CNAME .
 *.rectresultofthep.com CNAME .
 recurseagin.com CNAME .
@@ -83431,8 +83413,6 @@ vtipsgwmhwflc.com CNAME .
 *.vtipsgwmhwflc.com CNAME .
 vtjbnb.xyz CNAME .
 *.vtjbnb.xyz CNAME .
-vtqhelleano.com CNAME .
-*.vtqhelleano.com CNAME .
 vtrk.dv.tech CNAME .
 *.vtrk.dv.tech CNAME .
 vtveyowwjvz.com CNAME .
