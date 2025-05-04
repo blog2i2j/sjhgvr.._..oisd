@@ -1,9 +1,9 @@
-; Version: 202505041511
+; Version: 202505041620
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88688
-; Last modified: 2025-05-04T15:11:09+0000
+; Entries: 88682
+; Last modified: 2025-05-04T16:20:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746370801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746374402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27377,8 +27377,6 @@ daccroi.com CNAME .
 *.daccroi.com CNAME .
 dacmaiss.com CNAME .
 *.dacmaiss.com CNAME .
-dacmursaiz.xyz CNAME .
-*.dacmursaiz.xyz CNAME .
 dacpibaqwsa.com CNAME .
 *.dacpibaqwsa.com CNAME .
 dad-api.dcard.tw CNAME .
@@ -33063,8 +33061,6 @@ essential-trash.com CNAME .
 *.essential-trash.com CNAME .
 essential.awmcash.com CNAME .
 *.essential.awmcash.com CNAME .
-establishambient.com CNAME .
-*.establishambient.com CNAME .
 establishedmutiny.com CNAME .
 *.establishedmutiny.com CNAME .
 estadisticas.lanacion.com.ar CNAME .
@@ -42829,8 +42825,6 @@ imagevault.cloud CNAME .
 *.imagevault.cloud CNAME .
 imagiflex.com CNAME .
 *.imagiflex.com CNAME .
-imaginableblushsensor.com CNAME .
-*.imaginableblushsensor.com CNAME .
 imaginableexecutedmedal.com CNAME .
 *.imaginableexecutedmedal.com CNAME .
 imaginary-struggle.com CNAME .
