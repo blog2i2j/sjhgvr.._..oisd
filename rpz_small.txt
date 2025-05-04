@@ -1,9 +1,9 @@
-; Version: 202505041211
+; Version: 202505041310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88722
-; Last modified: 2025-05-04T12:11:38+0000
+; Entries: 88716
+; Last modified: 2025-05-04T13:10:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746360002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746363602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -30811,8 +30811,6 @@ duamilsyr.com CNAME .
 *.duamilsyr.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
-dubdetectioniceberg.com CNAME .
-*.dubdetectioniceberg.com CNAME .
 dubdiggcofmo.com CNAME .
 *.dubdiggcofmo.com CNAME .
 dubfkyjupn.com CNAME .
@@ -83059,8 +83057,6 @@ vlancaa.site CNAME .
 *.vlancaa.site CNAME .
 vlcdownloads.com CNAME .
 *.vlcdownloads.com CNAME .
-vldp.cn CNAME .
-*.vldp.cn CNAME .
 vljkjx.top CNAME .
 *.vljkjx.top CNAME .
 vlkmcpnfo.com CNAME .
@@ -88563,8 +88559,6 @@ zqifmyt.icu CNAME .
 *.zqifmyt.icu CNAME .
 zqjklzajmmwq.top CNAME .
 *.zqjklzajmmwq.top CNAME .
-zqjklzrqmvwq.top CNAME .
-*.zqjklzrqmvwq.top CNAME .
 zqjljeyqbejrb.top CNAME .
 *.zqjljeyqbejrb.top CNAME .
 zqkxlf.com CNAME .
