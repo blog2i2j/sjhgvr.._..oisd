@@ -1,9 +1,9 @@
-; Version: 202505041711
+; Version: 202505041812
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88662
-; Last modified: 2025-05-04T17:11:56+0000
+; Entries: 88652
+; Last modified: 2025-05-04T18:12:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746378003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746381603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34883,8 +34883,6 @@ ffofcetgurwrd.com CNAME .
 *.ffofcetgurwrd.com CNAME .
 fft.delovoemesto.ru CNAME .
 *.fft.delovoemesto.ru CNAME .
-ffxe.cn CNAME .
-*.ffxe.cn CNAME .
 fgbnnholonge.info CNAME .
 *.fgbnnholonge.info CNAME .
 fgdkfr.xyz CNAME .
@@ -43067,8 +43065,6 @@ improving.duckduckgo.com CNAME .
 *.improving.duckduckgo.com CNAME .
 improving.wuzhuiso.com CNAME .
 *.improving.wuzhuiso.com CNAME .
-impubicpuddly.com CNAME .
-*.impubicpuddly.com CNAME .
 impureattirebaking.com CNAME .
 *.impureattirebaking.com CNAME .
 imtijnluoailwb.com CNAME .
@@ -54079,8 +54075,6 @@ nativesdks.mparticle.com CNAME .
 *.nativesdks.mparticle.com CNAME .
 nativeshumbug.com CNAME .
 *.nativeshumbug.com CNAME .
-nativewpsh.com CNAME .
-*.nativewpsh.com CNAME .
 nativex.com CNAME .
 *.nativex.com CNAME .
 natprb.ru CNAME .
@@ -63811,8 +63805,6 @@ qqgiopiwwuv.com CNAME .
 *.qqgiopiwwuv.com CNAME .
 qqjfvepr.com CNAME .
 *.qqjfvepr.com CNAME .
-qqosk05010llo.com CNAME .
-*.qqosk05010llo.com CNAME .
 qqosk05030llo.com CNAME .
 *.qqosk05030llo.com CNAME .
 qqqdsrjovklsr.today CNAME .
@@ -80307,8 +80299,6 @@ twelfthdistasteful.com CNAME .
 *.twelfthdistasteful.com CNAME .
 twelvemissionjury.com CNAME .
 *.twelvemissionjury.com CNAME .
-twentiesinquiry.com CNAME .
-*.twentiesinquiry.com CNAME .
 twentyatonementflowing.com CNAME .
 *.twentyatonementflowing.com CNAME .
 twentycustomimprovement.com CNAME .
