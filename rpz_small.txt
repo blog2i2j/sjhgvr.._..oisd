@@ -1,9 +1,9 @@
-; Version: 202505040454
+; Version: 202505040609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88802
-; Last modified: 2025-05-04T04:54:00+0000
+; Entries: 88792
+; Last modified: 2025-05-04T06:09:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746331204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746338401 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19729,8 +19729,6 @@ cdn-server.top CNAME .
 *.cdn-server.top CNAME .
 cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com CNAME .
 *.cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com CNAME .
-cdn-v3.conductrics.net CNAME .
-*.cdn-v3.conductrics.net CNAME .
 cdn.007moms.com CNAME .
 *.cdn.007moms.com CNAME .
 cdn.1vag.com CNAME .
@@ -20573,8 +20571,6 @@ checbox.cc CNAME .
 *.checbox.cc CNAME .
 check-now.online CNAME .
 *.check-now.online CNAME .
-check-tl-ver-12-8.top CNAME .
-*.check-tl-ver-12-8.top CNAME .
 check-tl-ver-154-1.com CNAME .
 *.check-tl-ver-154-1.com CNAME .
 check-tl-ver-17-8.com CNAME .
@@ -61575,8 +61571,6 @@ powerplentyseaman.com CNAME .
 *.powerplentyseaman.com CNAME .
 powferads.com CNAME .
 *.powferads.com CNAME .
-poxypicine.com CNAME .
-*.poxypicine.com CNAME .
 poyang.com CNAME .
 *.poyang.com CNAME .
 pp-lfekpkr.buzz CNAME .
@@ -68597,8 +68591,6 @@ sapfailedfelon.com CNAME .
 *.sapfailedfelon.com CNAME .
 sapi.tremendous.com CNAME .
 *.sapi.tremendous.com CNAME .
-saplvvogahhc.xyz CNAME .
-*.saplvvogahhc.xyz CNAME .
 sapphire-api.target.com CNAME .
 *.sapphire-api.target.com CNAME .
 sapsobughoatch.net CNAME .
@@ -79145,8 +79137,6 @@ tracking.i2w.io CNAME .
 *.tracking.i2w.io CNAME .
 tracking.immobilienscout24.de CNAME .
 *.tracking.immobilienscout24.de CNAME .
-tracking.injoyalot.com CNAME .
-*.tracking.injoyalot.com CNAME .
 tracking.intentsify.io CNAME .
 *.tracking.intentsify.io CNAME .
 tracking.internetstores.de CNAME .
