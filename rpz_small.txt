@@ -1,9 +1,9 @@
-; Version: 202505040009
+; Version: 202505040108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88808
-; Last modified: 2025-05-04T00:09:44+0000
+; Entries: 88800
+; Last modified: 2025-05-04T01:08:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746316802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746320402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1333,8 +1333,6 @@ $TTL 30
 *.305421ba72.com CNAME .
 305791ddd9.ea1e71ef6c.com CNAME .
 *.305791ddd9.ea1e71ef6c.com CNAME .
-3071caa5ff.com CNAME .
-*.3071caa5ff.com CNAME .
 307ea19306.com CNAME .
 *.307ea19306.com CNAME .
 307i6i7do.de CNAME .
@@ -20581,8 +20579,6 @@ checbox.cc CNAME .
 *.checbox.cc CNAME .
 check-now.online CNAME .
 *.check-now.online CNAME .
-check-tl-ver-12-3.com CNAME .
-*.check-tl-ver-12-3.com CNAME .
 check-tl-ver-12-8.top CNAME .
 *.check-tl-ver-12-8.top CNAME .
 check-tl-ver-154-1.com CNAME .
@@ -28131,8 +28127,6 @@ dealcurrent.com CNAME .
 *.dealcurrent.com CNAME .
 dealdotcom.com CNAME .
 *.dealdotcom.com CNAME .
-dealgodsafe.live CNAME .
-*.dealgodsafe.live CNAME .
 dealsfor.life CNAME .
 *.dealsfor.life CNAME .
 deapi.sooplive.co.kr CNAME .
@@ -51441,8 +51435,6 @@ mediation.unity3d.com CNAME .
 *.mediation.unity3d.com CNAME .
 mediative.ca CNAME .
 *.mediative.ca CNAME .
-mediative.com CNAME .
-*.mediative.com CNAME .
 mediator.imgsmail.ru CNAME .
 *.mediator.imgsmail.ru CNAME .
 mediatraffic.com.ua CNAME .
