@@ -1,9 +1,9 @@
-; Version: 202505041014
+; Version: 202505041115
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41976
-; Last modified: 2025-05-04T10:14:38+0000
+; Entries: 41978
+; Last modified: 2025-05-04T11:15:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746352802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746356402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -16113,6 +16113,8 @@ hw-area.com CNAME .
 *.hw-area.com CNAME .
 hyderabadbeauties.com CNAME .
 *.hyderabadbeauties.com CNAME .
+hyderabadescortstars.com CNAME .
+*.hyderabadescortstars.com CNAME .
 hydievpornovideo.com CNAME .
 *.hydievpornovideo.com CNAME .
 hydoll.de CNAME .
