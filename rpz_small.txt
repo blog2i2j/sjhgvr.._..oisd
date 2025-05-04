@@ -1,9 +1,9 @@
-; Version: 202505042210
+; Version: 202505042310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88636
-; Last modified: 2025-05-04T22:10:43+0000
+; Entries: 88618
+; Last modified: 2025-05-04T23:10:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746396003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746399602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17015,8 +17015,6 @@ boagleetsurvey.space CNAME .
 *.boagleetsurvey.space CNAME .
 boannre.com CNAME .
 *.boannre.com CNAME .
-boannred.com CNAME .
-*.boannred.com CNAME .
 boar.hopehollow.com CNAME .
 *.boar.hopehollow.com CNAME .
 boar.indieweb.org CNAME .
@@ -36901,8 +36899,6 @@ g1.taijuba.com CNAME .
 *.g1.taijuba.com CNAME .
 g2afse.com CNAME .
 *.g2afse.com CNAME .
-g2insights-cdn.azureedge.net CNAME .
-*.g2insights-cdn.azureedge.net CNAME .
 g33ktr4ck.com CNAME .
 *.g33ktr4ck.com CNAME .
 g33tr4c3r.com CNAME .
@@ -61635,8 +61631,6 @@ precipitationglittering.com CNAME .
 *.precipitationglittering.com CNAME .
 precisejoker.com CNAME .
 *.precisejoker.com CNAME .
-precisethrobbingsentinel.com CNAME .
-*.precisethrobbingsentinel.com CNAME .
 precisionclick.com CNAME .
 *.precisionclick.com CNAME .
 precisioncounter.com CNAME .
@@ -63785,8 +63779,6 @@ qqgiopiwwuv.com CNAME .
 *.qqgiopiwwuv.com CNAME .
 qqjfvepr.com CNAME .
 *.qqjfvepr.com CNAME .
-qqosk05030llo.com CNAME .
-*.qqosk05030llo.com CNAME .
 qqqdsrjovklsr.today CNAME .
 *.qqqdsrjovklsr.today CNAME .
 qqqwes.com CNAME .
@@ -69065,8 +69057,6 @@ seayipsex.com CNAME .
 *.seayipsex.com CNAME .
 sebkhapaction.com CNAME .
 *.sebkhapaction.com CNAME .
-secernvaudois.com CNAME .
-*.secernvaudois.com CNAME .
 secludechurch.com CNAME .
 *.secludechurch.com CNAME .
 secondarybirchslit.com CNAME .
@@ -70269,8 +70259,6 @@ shortesthandshakeemerged.com CNAME .
 *.shortesthandshakeemerged.com CNAME .
 shortesthotel.com CNAME .
 *.shortesthotel.com CNAME .
-shorthandsixpencemap.com CNAME .
-*.shorthandsixpencemap.com CNAME .
 shortssibilantcrept.com CNAME .
 *.shortssibilantcrept.com CNAME .
 shorttermwarmup.com CNAME .
@@ -70357,8 +70345,6 @@ shubadubadlskjfkf.com CNAME .
 *.shubadubadlskjfkf.com CNAME .
 shudderconnecting.com CNAME .
 *.shudderconnecting.com CNAME .
-shudderloverparties.com CNAME .
-*.shudderloverparties.com CNAME .
 shudi8.com CNAME .
 *.shudi8.com CNAME .
 shuffele.com CNAME .
@@ -83021,8 +83007,6 @@ vmvajwc.com CNAME .
 *.vmvajwc.com CNAME .
 vnadssb.com CNAME .
 *.vnadssb.com CNAME .
-vnbbrx.top CNAME .
-*.vnbbrx.top CNAME .
 vnbrcfmdndguz.life CNAME .
 *.vnbrcfmdndguz.life CNAME .
 vnhmdeyzvmgho.love CNAME .
@@ -84941,8 +84925,6 @@ wingjav11.fun CNAME .
 *.wingjav11.fun CNAME .
 wingstoesassemble.com CNAME .
 *.wingstoesassemble.com CNAME .
-winkexpandingsleigh.com CNAME .
-*.winkexpandingsleigh.com CNAME .
 winneradsmedia.com CNAME .
 *.winneradsmedia.com CNAME .
 winnersolutions.net CNAME .
