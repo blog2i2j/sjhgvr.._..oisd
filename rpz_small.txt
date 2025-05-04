@@ -1,9 +1,9 @@
-; Version: 202505041110
+; Version: 202505041211
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88734
-; Last modified: 2025-05-04T11:10:48+0000
+; Entries: 88722
+; Last modified: 2025-05-04T12:11:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746356402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746360002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21969,8 +21969,6 @@ cn4.animehdl.net CNAME .
 *.cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
 *.cn4.cheemsporn.com CNAME .
-cn6x.com CNAME .
-*.cn6x.com CNAME .
 cn846.com CNAME .
 *.cn846.com CNAME .
 cnb.cnews.ru CNAME .
@@ -32087,8 +32085,6 @@ effectscouncilman.com CNAME .
 *.effectscouncilman.com CNAME .
 effectuallylazy.com CNAME .
 *.effectuallylazy.com CNAME .
-effeminatecementsold.com CNAME .
-*.effeminatecementsold.com CNAME .
 efficiencybate.com CNAME .
 *.efficiencybate.com CNAME .
 efficientorbit.co CNAME .
@@ -45183,8 +45179,6 @@ jopel.site CNAME .
 *.jopel.site CNAME .
 joqowqyaarewj.top CNAME .
 *.joqowqyaarewj.top CNAME .
-joqowqymkrowl.top CNAME .
-*.joqowqymkrowl.top CNAME .
 jorbfstarn.com CNAME .
 *.jorbfstarn.com CNAME .
 jordan.qunis.ru CNAME .
@@ -45807,8 +45801,6 @@ kaminari.space CNAME .
 *.kaminari.space CNAME .
 kaminari.systems CNAME .
 *.kaminari.systems CNAME .
-kamnebo.info CNAME .
-*.kamnebo.info CNAME .
 kamsinhokerly.click CNAME .
 *.kamsinhokerly.click CNAME .
 kangaroo.kraenk.de CNAME .
@@ -50175,8 +50167,6 @@ lzoorgpta.com CNAME .
 *.lzoorgpta.com CNAME .
 lzukrobrykk.com CNAME .
 *.lzukrobrykk.com CNAME .
-lzwscugghs.com CNAME .
-*.lzwscugghs.com CNAME .
 lzxdx24yib.com CNAME .
 *.lzxdx24yib.com CNAME .
 lzzqfj.xyz CNAME .
@@ -63325,8 +63315,6 @@ puvj-qvbjol.vip CNAME .
 *.puvj-qvbjol.vip CNAME .
 puwhoughaugn.com CNAME .
 *.puwhoughaugn.com CNAME .
-puwpush.com CNAME .
-*.puwpush.com CNAME .
 puxokvda.com CNAME .
 *.puxokvda.com CNAME .
 puysis.com CNAME .
