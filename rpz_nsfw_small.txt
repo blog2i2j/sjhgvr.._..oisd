@@ -1,9 +1,9 @@
-; Version: 202505042215
+; Version: 202505042314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41874
-; Last modified: 2025-05-04T22:15:12+0000
+; Entries: 41878
+; Last modified: 2025-05-04T23:14:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746396003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746399602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -12639,6 +12639,8 @@ gayheaven.org CNAME .
 *.gayheaven.org CNAME .
 gayheid.com CNAME .
 *.gayheid.com CNAME .
+gayhookupapp.com CNAME .
+*.gayhookupapp.com CNAME .
 gayhorse.net CNAME .
 *.gayhorse.net CNAME .
 gayhotmovies.com CNAME .
@@ -16155,6 +16157,8 @@ ichhier.de CNAME .
 *.ichhier.de CNAME .
 ichigocandy.com CNAME .
 *.ichigocandy.com CNAME .
+icp0.io CNAME .
+*.icp0.io CNAME .
 idates.com CNAME .
 *.idates.com CNAME .
 idbf.in CNAME .

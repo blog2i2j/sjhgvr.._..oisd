@@ -1,9 +1,9 @@
-# Version: 202505042215
+# Version: 202505042314
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20937
-# Last modified: 2025-05-04T22:15:12+0000
+# Entries: 20939
+# Last modified: 2025-05-04T23:14:29+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6324,6 +6324,7 @@ local-zone: "gayharem.com." always_null
 local-zone: "gayhaus.com." always_null
 local-zone: "gayheaven.org." always_null
 local-zone: "gayheid.com." always_null
+local-zone: "gayhookupapp.com." always_null
 local-zone: "gayhorse.net." always_null
 local-zone: "gayhotmovies.com." always_null
 local-zone: "gayhotvideos.com." always_null
@@ -8082,6 +8083,7 @@ local-zone: "icexnxx.com." always_null
 local-zone: "ichbindein.com." always_null
 local-zone: "ichhier.de." always_null
 local-zone: "ichigocandy.com." always_null
+local-zone: "icp0.io." always_null
 local-zone: "idates.com." always_null
 local-zone: "idbf.in." always_null
 local-zone: "idealgasm.com." always_null
