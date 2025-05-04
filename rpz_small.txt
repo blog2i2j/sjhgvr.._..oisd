@@ -1,9 +1,9 @@
-; Version: 202505040710
+; Version: 202505040810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88772
-; Last modified: 2025-05-04T07:10:24+0000
+; Entries: 88762
+; Last modified: 2025-05-04T08:10:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746342003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746345602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15881,8 +15881,6 @@ beneathgirlproceed.com CNAME .
 *.beneathgirlproceed.com CNAME .
 benefactorstoppedfeedback.com CNAME .
 *.benefactorstoppedfeedback.com CNAME .
-beneficialviewedallude.com CNAME .
-*.beneficialviewedallude.com CNAME .
 benefitanna.com CNAME .
 *.benefitanna.com CNAME .
 benefitssheasha.com CNAME .
@@ -31685,8 +31683,6 @@ ebooktheft.com CNAME .
 *.ebooktheft.com CNAME .
 ebp.renren.com CNAME .
 *.ebp.renren.com CNAME .
-ebroktean.com CNAME .
-*.ebroktean.com CNAME .
 eburnaboost.top CNAME .
 *.eburnaboost.top CNAME .
 eburnahornito.shop CNAME .
@@ -35325,8 +35321,6 @@ filterjavgg124.fun CNAME .
 *.filterjavgg124.fun CNAME .
 filternannewspaper.com CNAME .
 *.filternannewspaper.com CNAME .
-filtertopplescream.com CNAME .
-*.filtertopplescream.com CNAME .
 filthnair.click CNAME .
 *.filthnair.click CNAME .
 filthybudget.com CNAME .
@@ -41513,8 +41507,6 @@ hooptaik.net CNAME .
 *.hooptaik.net CNAME .
 hooterwas.com CNAME .
 *.hooterwas.com CNAME .
-hootravinedeface.com CNAME .
-*.hootravinedeface.com CNAME .
 hoowuliz.com CNAME .
 *.hoowuliz.com CNAME .
 hop.boutique CNAME .
@@ -82913,8 +82905,6 @@ violationspoonconfront.com CNAME .
 *.violationspoonconfront.com CNAME .
 violentinduce.com CNAME .
 *.violentinduce.com CNAME .
-violet-strip.pro CNAME .
-*.violet-strip.pro CNAME .
 vionito.com CNAME .
 *.vionito.com CNAME .
 viowrel.com CNAME .
