@@ -1,9 +1,9 @@
-; Version: 202505042111
+; Version: 202505042210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88652
-; Last modified: 2025-05-04T21:11:21+0000
+; Entries: 88636
+; Last modified: 2025-05-04T22:10:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746392402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746396003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15353,8 +15353,6 @@ bd43e502ad.4f8303ce57.com CNAME .
 *.bd43e502ad.4f8303ce57.com CNAME .
 bd51static.com CNAME .
 *.bd51static.com CNAME .
-bd64dc73db.com CNAME .
-*.bd64dc73db.com CNAME .
 bd6afd7ab5.com CNAME .
 *.bd6afd7ab5.com CNAME .
 bd742.com CNAME .
@@ -28033,8 +28031,6 @@ ddns.info CNAME .
 *.ddns.info CNAME .
 ddns.name CNAME .
 *.ddns.name CNAME .
-ddow.cn CNAME .
-*.ddow.cn CNAME .
 ddqmlfu.icu CNAME .
 *.ddqmlfu.icu CNAME .
 ddrsemxv.com CNAME .
@@ -46449,8 +46445,6 @@ knubletupgrow.shop CNAME .
 *.knubletupgrow.shop CNAME .
 knutenegros.pro CNAME .
 *.knutenegros.pro CNAME .
-knwucnd.top CNAME .
-*.knwucnd.top CNAME .
 ko9t6qv2kt8psullo7pputs.xyz CNAME .
 *.ko9t6qv2kt8psullo7pputs.xyz CNAME .
 koacucooptour.com CNAME .
@@ -47979,8 +47973,6 @@ lightningcast.net CNAME .
 *.lightningcast.net CNAME .
 lightspeedcash.com CNAME .
 *.lightspeedcash.com CNAME .
-lightsriot.com CNAME .
-*.lightsriot.com CNAME .
 lightstep.medium.systems CNAME .
 *.lightstep.medium.systems CNAME .
 liglomsoltuwhax.net CNAME .
@@ -54127,8 +54119,6 @@ naverpa-phinf.pstatic.net CNAME .
 *.naverpa-phinf.pstatic.net CNAME .
 navigateconfuseanonymous.com CNAME .
 *.navigateconfuseanonymous.com CNAME .
-navigateembassy.com CNAME .
-*.navigateembassy.com CNAME .
 navigateiriswilliam.com CNAME .
 *.navigateiriswilliam.com CNAME .
 navigator-analytics.tweakwise.com CNAME .
@@ -56661,8 +56651,6 @@ oklstupu.com CNAME .
 *.oklstupu.com CNAME .
 oko.net CNAME .
 *.oko.net CNAME .
-okpl05030ai.com CNAME .
-*.okpl05030ai.com CNAME .
 okrasbj6.de CNAME .
 *.okrasbj6.de CNAME .
 oksjustlikeana.org CNAME .
@@ -62443,8 +62431,6 @@ pshqumvrasdlspe.com CNAME .
 *.pshqumvrasdlspe.com CNAME .
 pshtop.com CNAME .
 *.pshtop.com CNAME .
-pshtrk.com CNAME .
-*.pshtrk.com CNAME .
 psi.lbesecapi.com CNAME .
 *.psi.lbesecapi.com CNAME .
 psichoafouts.xyz CNAME .
@@ -83335,8 +83321,6 @@ vtydavos.com CNAME .
 *.vtydavos.com CNAME .
 vu-kgxwyxpr.online CNAME .
 *.vu-kgxwyxpr.online CNAME .
-vudoutch.com CNAME .
-*.vudoutch.com CNAME .
 vudqth.icu CNAME .
 *.vudqth.icu CNAME .
 vufaurgoojoats.net CNAME .
