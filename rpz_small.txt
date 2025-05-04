@@ -1,9 +1,9 @@
-; Version: 202505041912
+; Version: 202505042011
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88682
-; Last modified: 2025-05-04T19:12:12+0000
+; Entries: 88670
+; Last modified: 2025-05-04T20:11:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746385203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746388802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12319,8 +12319,6 @@ apronstrongly.com CNAME .
 *.apronstrongly.com CNAME .
 apsmediaagency.com CNAME .
 *.apsmediaagency.com CNAME .
-apsoacou.xyz CNAME .
-*.apsoacou.xyz CNAME .
 apsrgeo.amap.com CNAME .
 *.apsrgeo.amap.com CNAME .
 apstrfanba.com CNAME .
@@ -24227,8 +24225,6 @@ crophysi.ru CNAME .
 *.crophysi.ru CNAME .
 croplake.com CNAME .
 *.croplake.com CNAME .
-croqoltdp.com CNAME .
-*.croqoltdp.com CNAME .
 crossadsapi.ecomobileapp.com CNAME .
 *.crossadsapi.ecomobileapp.com CNAME .
 crosspromo.voodoo.io CNAME .
@@ -33113,8 +33109,6 @@ ethecityonata.com CNAME .
 *.ethecityonata.com CNAME .
 ethelvampirecasket.com CNAME .
 *.ethelvampirecasket.com CNAME .
-etherart.online CNAME .
-*.etherart.online CNAME .
 ethereum-cashcard.com CNAME .
 *.ethereum-cashcard.com CNAME .
 ethereum-pocket.com CNAME .
@@ -49745,8 +49739,6 @@ lpyyzoetztnmv.one CNAME .
 *.lpyyzoetztnmv.one CNAME .
 lqbvjmkoomerm.top CNAME .
 *.lqbvjmkoomerm.top CNAME .
-lqbzvmmojjkk.top CNAME .
-*.lqbzvmmojjkk.top CNAME .
 lqcaznzllnrfh.com CNAME .
 *.lqcaznzllnrfh.com CNAME .
 lqcngjecijy.rocks CNAME .
@@ -66387,8 +66379,6 @@ rmuahxbcepu.com CNAME .
 *.rmuahxbcepu.com CNAME .
 rmuogjdip.com CNAME .
 *.rmuogjdip.com CNAME .
-rmvvawqleqrov.top CNAME .
-*.rmvvawqleqrov.top CNAME .
 rmyfiwopdzf.com CNAME .
 *.rmyfiwopdzf.com CNAME .
 rmygfurfa.com CNAME .
@@ -87819,8 +87809,6 @@ ytdut.online CNAME .
 *.ytdut.online CNAME .
 yterxv.com CNAME .
 *.yterxv.com CNAME .
-ytgngedq.xyz CNAME .
-*.ytgngedq.xyz CNAME .
 ytihp.com CNAME .
 *.ytihp.com CNAME .
 ytqeavc.icu CNAME .
