@@ -1,9 +1,9 @@
-; Version: 202505050809
+; Version: 202505050909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88770
-; Last modified: 2025-05-05T08:09:56+0000
+; Entries: 88766
+; Last modified: 2025-05-05T09:09:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746432003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746435604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -37027,8 +37027,6 @@ gaghygienetheir.com CNAME .
 *.gaghygienetheir.com CNAME .
 gagowtvi.com CNAME .
 *.gagowtvi.com CNAME .
-gaietyexhalerucksack.com CNAME .
-*.gaietyexhalerucksack.com CNAME .
 gaihoumauwha.com CNAME .
 *.gaihoumauwha.com CNAME .
 gaimauroogrou.net CNAME .
@@ -40553,8 +40551,6 @@ heartbeats.prd.data.s.joyn.de CNAME .
 *.heartbeats.prd.data.s.joyn.de CNAME .
 heartbreakslotserpent.com CNAME .
 *.heartbreakslotserpent.com CNAME .
-heartedshapelessforbes.com CNAME .
-*.heartedshapelessforbes.com CNAME .
 hearthmint.com CNAME .
 *.hearthmint.com CNAME .
 heartilyscales.com CNAME .
