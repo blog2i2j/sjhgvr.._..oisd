@@ -1,9 +1,9 @@
-; Version: 202505052115
+; Version: 202505052214
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41950
-; Last modified: 2025-05-05T21:15:22+0000
+; Entries: 41954
+; Last modified: 2025-05-05T22:14:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746478803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746482404 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -23503,6 +23503,8 @@ noojav.com CNAME .
 *.noojav.com CNAME .
 nookies.com CNAME .
 *.nookies.com CNAME .
+nordichardware.se CNAME .
+*.nordichardware.se CNAME .
 nosexo.com CNAME .
 *.nosexo.com CNAME .
 nostringsfun.com CNAME .
@@ -34097,6 +34099,8 @@ taadd.com CNAME .
 *.taadd.com CNAME .
 tablago.com CNAME .
 *.tablago.com CNAME .
+taboo-game.com CNAME .
+*.taboo-game.com CNAME .
 taboo.desi CNAME .
 *.taboo.desi CNAME .
 taboo.mom CNAME .
