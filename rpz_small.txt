@@ -1,9 +1,9 @@
-; Version: 202505051510
+; Version: 202505051610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88750
-; Last modified: 2025-05-05T15:10:01+0000
+; Entries: 88746
+; Last modified: 2025-05-05T16:10:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746457201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746460802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -45187,8 +45187,6 @@ jooneetak.net CNAME .
 *.jooneetak.net CNAME .
 joopaish.com CNAME .
 *.joopaish.com CNAME .
-joorqfiyzti.com CNAME .
-*.joorqfiyzti.com CNAME .
 joothasofacauwu.net CNAME .
 *.joothasofacauwu.net CNAME .
 jootizud.net CNAME .
@@ -85043,8 +85041,6 @@ wingads.com CNAME .
 *.wingads.com CNAME .
 wingjav11.fun CNAME .
 *.wingjav11.fun CNAME .
-wingstoesassemble.com CNAME .
-*.wingstoesassemble.com CNAME .
 winneradsmedia.com CNAME .
 *.winneradsmedia.com CNAME .
 winnersolutions.net CNAME .
