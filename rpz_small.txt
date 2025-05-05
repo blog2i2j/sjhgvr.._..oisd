@@ -1,9 +1,9 @@
-; Version: 202505050009
+; Version: 202505050109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88604
-; Last modified: 2025-05-05T00:09:04+0000
+; Entries: 88586
+; Last modified: 2025-05-05T01:09:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746403203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746406802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -29461,8 +29461,6 @@ ditwrite.com CNAME .
 *.ditwrite.com CNAME .
 divasoberly.top CNAME .
 *.divasoberly.top CNAME .
-divehope.com CNAME .
-*.divehope.com CNAME .
 divekcl7q9fxi.cloudfront.net CNAME .
 *.divekcl7q9fxi.cloudfront.net CNAME .
 diverhaul.com CNAME .
@@ -44123,8 +44121,6 @@ isparkmedia.com CNAME .
 *.isparkmedia.com CNAME .
 isquitehappymut.org CNAME .
 *.isquitehappymut.org CNAME .
-isready2.online CNAME .
-*.isready2.online CNAME .
 isreputysolomo.com CNAME .
 *.isreputysolomo.com CNAME .
 isrv07.com CNAME .
@@ -48517,8 +48513,6 @@ loaptaijuw.com CNAME .
 *.loaptaijuw.com CNAME .
 loastees.net CNAME .
 *.loastees.net CNAME .
-loathecurvedrepress.com CNAME .
-*.loathecurvedrepress.com CNAME .
 loatheskeletonethic.com CNAME .
 *.loatheskeletonethic.com CNAME .
 loavouduleem.net CNAME .
@@ -52925,8 +52919,6 @@ moradu.com CNAME .
 *.moradu.com CNAME .
 moral-enthusiasm.pro CNAME .
 *.moral-enthusiasm.pro CNAME .
-moralitylameinviting.com CNAME .
-*.moralitylameinviting.com CNAME .
 mordeegroo.net CNAME .
 *.mordeegroo.net CNAME .
 mordoops.com CNAME .
@@ -57201,8 +57193,6 @@ opcpicocja.com CNAME .
 *.opcpicocja.com CNAME .
 opcqrorr.com CNAME .
 *.opcqrorr.com CNAME .
-opdomains.space CNAME .
-*.opdomains.space CNAME .
 opdxpycrizuq.com CNAME .
 *.opdxpycrizuq.com CNAME .
 opealleven.com CNAME .
@@ -60715,8 +60705,6 @@ ploteight.com CNAME .
 *.ploteight.com CNAME .
 ploud-crew.net CNAME .
 *.ploud-crew.net CNAME .
-ploughbrushed.com CNAME .
-*.ploughbrushed.com CNAME .
 ploughplbroch.com CNAME .
 *.ploughplbroch.com CNAME .
 plowh.com CNAME .
@@ -63693,8 +63681,6 @@ qmgpfrwyhtwp.com CNAME .
 *.qmgpfrwyhtwp.com CNAME .
 qmgria.cn CNAME .
 *.qmgria.cn CNAME .
-qmixnhyxc.com CNAME .
-*.qmixnhyxc.com CNAME .
 qmkackqmigezu.club CNAME .
 *.qmkackqmigezu.club CNAME .
 qmpolidwfefrxem.com CNAME .
@@ -68749,8 +68735,6 @@ scidationgly.com CNAME .
 *.scidationgly.com CNAME .
 scientific-doubt.com CNAME .
 *.scientific-doubt.com CNAME .
-scientificdimly.com CNAME .
-*.scientificdimly.com CNAME .
 scisselfungus.com CNAME .
 *.scisselfungus.com CNAME .
 scissordisciplinaryrace.com CNAME .
@@ -70517,8 +70501,6 @@ simplebrutedigestive.com CNAME .
 *.simplebrutedigestive.com CNAME .
 simpli.fi CNAME .
 *.simpli.fi CNAME .
-simplistic-king.pro CNAME .
-*.simplistic-king.pro CNAME .
 simpunok.com CNAME .
 *.simpunok.com CNAME .
 simqirrzao.com CNAME .
