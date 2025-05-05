@@ -1,9 +1,9 @@
-; Version: 202505042310
+; Version: 202505050009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88618
-; Last modified: 2025-05-04T23:10:04+0000
+; Entries: 88604
+; Last modified: 2025-05-05T00:09:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746399602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746403203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13477,8 +13477,6 @@ atterrhagmall.shop CNAME .
 *.atterrhagmall.shop CNAME .
 attestcribaccording.com CNAME .
 *.attestcribaccording.com CNAME .
-attesthelium.com CNAME .
-*.attesthelium.com CNAME .
 attictop.com CNAME .
 *.attictop.com CNAME .
 attirecideryeah.com CNAME .
@@ -18645,8 +18643,6 @@ c26b742fa3.com CNAME .
 *.c26b742fa3.com CNAME .
 c27902fb3d.com CNAME .
 *.c27902fb3d.com CNAME .
-c285e18a9b.com CNAME .
-*.c285e18a9b.com CNAME .
 c296565d82.f32bcceea3.com CNAME .
 *.c296565d82.f32bcceea3.com CNAME .
 c2a0076d.xyz CNAME .
@@ -52427,8 +52423,6 @@ mms.theroot.com CNAME .
 *.mms.theroot.com CNAME .
 mmtracking.com CNAME .
 *.mmtracking.com CNAME .
-mmxshltodupdlr.xyz CNAME .
-*.mmxshltodupdlr.xyz CNAME .
 mn230126pb.com CNAME .
 *.mn230126pb.com CNAME .
 mnaspm.com CNAME .
@@ -60215,8 +60209,6 @@ pivxkeppgtc.life CNAME .
 *.pivxkeppgtc.life CNAME .
 piwik.filecrypt.cc CNAME .
 *.piwik.filecrypt.cc CNAME .
-piwvbroxtol.com CNAME .
-*.piwvbroxtol.com CNAME .
 pix.boursorama.com CNAME .
 *.pix.boursorama.com CNAME .
 pix.eads.com CNAME .
@@ -66149,8 +66141,6 @@ rigill.com CNAME .
 *.rigill.com CNAME .
 rignaursoals.net CNAME .
 *.rignaursoals.net CNAME .
-rigourbackward.com CNAME .
-*.rigourbackward.com CNAME .
 rigourgovernessanxiety.com CNAME .
 *.rigourgovernessanxiety.com CNAME .
 rigourpreludefelon.com CNAME .
@@ -84475,8 +84465,6 @@ whhasymvi.com CNAME .
 *.whhasymvi.com CNAME .
 whiceega.com CNAME .
 *.whiceega.com CNAME .
-which-comfortable.pro CNAME .
-*.which-comfortable.pro CNAME .
 whichcandiedhandgrip.com CNAME .
 *.whichcandiedhandgrip.com CNAME .
 whilstrorty.com CNAME .
@@ -87053,8 +87041,6 @@ xwlfmnfnffkixgm.com CNAME .
 *.xwlfmnfnffkixgm.com CNAME .
 xwlketvkzf.com CNAME .
 *.xwlketvkzf.com CNAME .
-xwmr.com.cn CNAME .
-*.xwmr.com.cn CNAME .
 xwqea.com CNAME .
 *.xwqea.com CNAME .
 xwqvytuiko.com CNAME .
