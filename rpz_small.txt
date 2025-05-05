@@ -1,9 +1,9 @@
-; Version: 202505050709
+; Version: 202505050809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88780
-; Last modified: 2025-05-05T07:09:32+0000
+; Entries: 88770
+; Last modified: 2025-05-05T08:09:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746428403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746432003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31297,8 +31297,6 @@ e.fomo.com CNAME .
 *.e.fomo.com CNAME .
 e.kde.cz CNAME .
 *.e.kde.cz CNAME .
-e.mp4.center CNAME .
-*.e.mp4.center CNAME .
 e.qq.com CNAME .
 *.e.qq.com CNAME .
 e.sexbule.xxx CNAME .
@@ -31995,8 +31993,6 @@ eengange.com CNAME .
 *.eengange.com CNAME .
 eentent.streampiay.me CNAME .
 *.eentent.streampiay.me CNAME .
-eeobkxidaak.com CNAME .
-*.eeobkxidaak.com CNAME .
 eephaush.com CNAME .
 *.eephaush.com CNAME .
 eephoawaum.com CNAME .
@@ -44959,8 +44955,6 @@ jiggerporge.shop CNAME .
 *.jiggerporge.shop CNAME .
 jiggledanezeh.top CNAME .
 *.jiggledanezeh.top CNAME .
-jighucme.com CNAME .
-*.jighucme.com CNAME .
 jigsawchristianlive.com CNAME .
 *.jigsawchristianlive.com CNAME .
 jigsawthirsty.com CNAME .
@@ -81013,8 +81007,6 @@ ulogs1.ksapisrv.com CNAME .
 *.ulogs1.ksapisrv.com CNAME .
 ulogs2.ksapisrv.com CNAME .
 *.ulogs2.ksapisrv.com CNAME .
-ulsmcdn.com CNAME .
-*.ulsmcdn.com CNAME .
 ulteriorthemselves.com CNAME .
 *.ulteriorthemselves.com CNAME .
 ultetrailways.info CNAME .
@@ -81189,8 +81181,6 @@ undergodoublycongruous.com CNAME .
 *.undergodoublycongruous.com CNAME .
 undergoneentitled.com CNAME .
 *.undergoneentitled.com CNAME .
-undergroundbrows.com CNAME .
-*.undergroundbrows.com CNAME .
 underminesprout.com CNAME .
 *.underminesprout.com CNAME .
 underpantscostsdirection.com CNAME .
