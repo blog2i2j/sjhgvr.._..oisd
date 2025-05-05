@@ -1,9 +1,9 @@
-; Version: 202505050413
+; Version: 202505050612
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41920
-; Last modified: 2025-05-05T04:13:14+0000
+; Entries: 41926
+; Last modified: 2025-05-05T06:12:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746417602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746424803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -16847,6 +16847,8 @@ informe.com CNAME .
 *.informe.com CNAME .
 infotechconnect.net CNAME .
 *.infotechconnect.net CNAME .
+infy.uk CNAME .
+*.infy.uk CNAME .
 ingyen.icu CNAME .
 *.ingyen.icu CNAME .
 ingyenporno.biz CNAME .
@@ -23295,6 +23297,8 @@ nhentai.gg CNAME .
 *.nhentai.gg CNAME .
 nhentai.io CNAME .
 *.nhentai.io CNAME .
+nhentai.moe CNAME .
+*.nhentai.moe CNAME .
 nhentai.net CNAME .
 *.nhentai.net CNAME .
 nhentai.net.br CNAME .
@@ -39351,6 +39355,8 @@ xnxx-ru5.com CNAME .
 *.xnxx-ru5.com CNAME .
 xnxx-rus.com CNAME .
 *.xnxx-rus.com CNAME .
+xnxx-rus1.com CNAME .
+*.xnxx-rus1.com CNAME .
 xnxx-rus2.com CNAME .
 *.xnxx-rus2.com CNAME .
 xnxx-sex-videos.com CNAME .
