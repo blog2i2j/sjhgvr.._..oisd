@@ -1,9 +1,9 @@
-; Version: 202505051810
+; Version: 202505051911
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88744
-; Last modified: 2025-05-05T18:10:40+0000
+; Entries: 88732
+; Last modified: 2025-05-05T19:11:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746468001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746471602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11523,8 +11523,6 @@ antananarbdivu.com CNAME .
 *.antananarbdivu.com CNAME .
 antarcticoffended.com CNAME .
 *.antarcticoffended.com CNAME .
-antaresarcturus.com CNAME .
-*.antaresarcturus.com CNAME .
 antcompany.com CNAME .
 *.antcompany.com CNAME .
 antdomeneuch.click CNAME .
@@ -17271,8 +17269,6 @@ booshoatoocotez.net CNAME .
 *.booshoatoocotez.net CNAME .
 boost-next.co.jp CNAME .
 *.boost-next.co.jp CNAME .
-boostads.net CNAME .
-*.boostads.net CNAME .
 boostaubeehy.net CNAME .
 *.boostaubeehy.net CNAME .
 boostclic.com CNAME .
@@ -33131,8 +33127,6 @@ etargetnet.com CNAME .
 *.etargetnet.com CNAME .
 etchantmegger.click CNAME .
 *.etchantmegger.click CNAME .
-etemis.com CNAME .
-*.etemis.com CNAME .
 eteveredgove.info CNAME .
 *.eteveredgove.info CNAME .
 etflpbk.com CNAME .
@@ -43893,8 +43887,6 @@ investigationsuperbprone.com CNAME .
 *.investigationsuperbprone.com CNAME .
 invibravaa.com CNAME .
 *.invibravaa.com CNAME .
-invisiblepine.com CNAME .
-*.invisiblepine.com CNAME .
 invite.baomoi.com CNAME .
 *.invite.baomoi.com CNAME .
 invite.leanlab.co CNAME .
@@ -57331,8 +57323,6 @@ openfpcdn.io CNAME .
 *.openfpcdn.io CNAME .
 opengalaxyapps.monster CNAME .
 *.opengalaxyapps.monster CNAME .
-openinggloryfin.com CNAME .
-*.openinggloryfin.com CNAME .
 openingmetabound.com CNAME .
 *.openingmetabound.com CNAME .
 openmindedaching.com CNAME .
@@ -87689,8 +87679,6 @@ yogaprimarilyformation.com CNAME .
 *.yogaprimarilyformation.com CNAME .
 yogar2ti8nf09.com CNAME .
 *.yogar2ti8nf09.com CNAME .
-yohavemix.live CNAME .
-*.yohavemix.live CNAME .
 yoibbka.com CNAME .
 *.yoibbka.com CNAME .
 yojbiagdemrac.buzz CNAME .
