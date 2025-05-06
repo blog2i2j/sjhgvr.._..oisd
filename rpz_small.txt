@@ -1,9 +1,9 @@
-; Version: 202505060408
+; Version: 202505060509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88940
-; Last modified: 2025-05-06T04:08:58+0000
+; Entries: 88930
+; Last modified: 2025-05-06T05:09:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746504003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746507603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31893,8 +31893,6 @@ ed746fc307.813c214a4e.com CNAME .
 *.ed746fc307.813c214a4e.com CNAME .
 ed956f23ae.23cc6cc4e9.com CNAME .
 *.ed956f23ae.23cc6cc4e9.com CNAME .
-edaciousedaciousflaxalso.com CNAME .
-*.edaciousedaciousflaxalso.com CNAME .
 edaciousedacioushandkerchiefcol.com CNAME .
 *.edaciousedacioushandkerchiefcol.com CNAME .
 edadmy.xyz CNAME .
@@ -35623,8 +35621,6 @@ fitcenterz.com CNAME .
 *.fitcenterz.com CNAME .
 fitsazx.xyz CNAME .
 *.fitsazx.xyz CNAME .
-fitsjamescommunicated.com CNAME .
-*.fitsjamescommunicated.com CNAME .
 fitssheashasvs.info CNAME .
 *.fitssheashasvs.info CNAME .
 fittiercutlets.top CNAME .
@@ -37433,8 +37429,6 @@ gaumymilage.com CNAME .
 *.gaumymilage.com CNAME .
 gaunchdelimes.com CNAME .
 *.gaunchdelimes.com CNAME .
-gauntletjanitorjail.com CNAME .
-*.gauntletjanitorjail.com CNAME .
 gauntletslacken.com CNAME .
 *.gauntletslacken.com CNAME .
 gaupaufi.net CNAME .
@@ -43451,8 +43445,6 @@ inetlog.ru CNAME .
 *.inetlog.ru CNAME .
 inexpedientcunning.com CNAME .
 *.inexpedientcunning.com CNAME .
-inexpedientdatagourmet.com CNAME .
-*.inexpedientdatagourmet.com CNAME .
 inexplicablecarelessfairly.com CNAME .
 *.inexplicablecarelessfairly.com CNAME .
 inf.miui.com CNAME .
@@ -64021,8 +64013,6 @@ qqgiopiwwuv.com CNAME .
 *.qqgiopiwwuv.com CNAME .
 qqjfvepr.com CNAME .
 *.qqjfvepr.com CNAME .
-qqosk05041llo.com CNAME .
-*.qqosk05041llo.com CNAME .
 qqqdsrjovklsr.today CNAME .
 *.qqqdsrjovklsr.today CNAME .
 qqqwes.com CNAME .
