@@ -1,9 +1,9 @@
-; Version: 202505060810
+; Version: 202505060910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88896
-; Last modified: 2025-05-06T08:10:46+0000
+; Entries: 88888
+; Last modified: 2025-05-06T09:10:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746518403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746522002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5859,8 +5859,6 @@ adjustbedevilsweep.com CNAME .
 *.adjustbedevilsweep.com CNAME .
 adjustlinklifting.com CNAME .
 *.adjustlinklifting.com CNAME .
-adjustmentconfide.com CNAME .
-*.adjustmentconfide.com CNAME .
 adjustmentthesilver.com CNAME .
 *.adjustmentthesilver.com CNAME .
 adjustnetwork.com CNAME .
@@ -10517,8 +10515,6 @@ analytics-wcms.joins.net CNAME .
 *.analytics-wcms.joins.net CNAME .
 analytics.300624.com CNAME .
 *.analytics.300624.com CNAME .
-analytics.3c5.com CNAME .
-*.analytics.3c5.com CNAME .
 analytics.74.ru CNAME .
 *.analytics.74.ru CNAME .
 analytics.a-f.io CNAME .
@@ -24839,8 +24835,6 @@ cybkit.com CNAME .
 *.cybkit.com CNAME .
 cycledaction.com CNAME .
 *.cycledaction.com CNAME .
-cycndlhot.xyz CNAME .
-*.cycndlhot.xyz CNAME .
 cyeqeewyr.com CNAME .
 *.cyeqeewyr.com CNAME .
 cyg-byzlgtns.world CNAME .
@@ -27287,8 +27281,6 @@ d5yoctgpv4cpx.cloudfront.net CNAME .
 *.d5yoctgpv4cpx.cloudfront.net CNAME .
 d5z42oph1suk.cloudfront.net CNAME .
 *.d5z42oph1suk.cloudfront.net CNAME .
-d6030fe5c6.com CNAME .
-*.d6030fe5c6.com CNAME .
 d61dd0cad8.edeaa80ace.com CNAME .
 *.d61dd0cad8.edeaa80ace.com CNAME .
 d63a3au5lqmtu.cloudfront.net CNAME .
