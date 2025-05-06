@@ -1,9 +1,9 @@
-; Version: 202505061812
+; Version: 202505061912
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88792
-; Last modified: 2025-05-06T18:12:00+0000
+; Entries: 88786
+; Last modified: 2025-05-06T19:12:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746554405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746558003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -43813,8 +43813,6 @@ interclics.com CNAME .
 *.interclics.com CNAME .
 interdfp.com CNAME .
 *.interdfp.com CNAME .
-interestalonginsensitive.com CNAME .
-*.interestalonginsensitive.com CNAME .
 interestededit.com CNAME .
 *.interestededit.com CNAME .
 interestingpracticable.com CNAME .
@@ -45751,8 +45749,6 @@ jyzkut.com CNAME .
 *.jyzkut.com CNAME .
 jz4u1.icu CNAME .
 *.jz4u1.icu CNAME .
-jzmwipkal.com CNAME .
-*.jzmwipkal.com CNAME .
 jzplabcvvy.com CNAME .
 *.jzplabcvvy.com CNAME .
 jzqbyykbrrbkq.top CNAME .
@@ -50553,8 +50549,6 @@ majesticsecondary.com CNAME .
 *.majesticsecondary.com CNAME .
 majile.vip CNAME .
 *.majile.vip CNAME .
-majime-site-rk.com CNAME .
-*.majime-site-rk.com CNAME .
 majmotlee.com CNAME .
 *.majmotlee.com CNAME .
 majoagna.com CNAME .
