@@ -1,9 +1,9 @@
-; Version: 202505061411
+; Version: 202505061511
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88828
-; Last modified: 2025-05-06T14:11:18+0000
+; Entries: 88818
+; Last modified: 2025-05-06T15:11:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746540002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746543602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -54591,8 +54591,6 @@ neverthelessdepression.com CNAME .
 *.neverthelessdepression.com CNAME .
 nevillepreserved.com CNAME .
 *.nevillepreserved.com CNAME .
-nevtrelathgd.com CNAME .
-*.nevtrelathgd.com CNAME .
 new-access802.net CNAME .
 *.new-access802.net CNAME .
 new-incoming.email CNAME .
@@ -58783,8 +58781,6 @@ palmfulcultivateemergency.com CNAME .
 *.palmfulcultivateemergency.com CNAME .
 palmfulvisitsbalk.com CNAME .
 *.palmfulvisitsbalk.com CNAME .
-palmkindnesspee.com CNAME .
-*.palmkindnesspee.com CNAME .
 palmmalice.com CNAME .
 *.palmmalice.com CNAME .
 palofvqp.com CNAME .
@@ -84073,8 +84069,6 @@ wdt9iaspfv3o.com CNAME .
 *.wdt9iaspfv3o.com CNAME .
 wdtyl.xyz CNAME .
 *.wdtyl.xyz CNAME .
-wduqxbvhpwd.xyz CNAME .
-*.wduqxbvhpwd.xyz CNAME .
 weakcompromise.com CNAME .
 *.weakcompromise.com CNAME .
 wealthextend.com CNAME .
@@ -85425,8 +85419,6 @@ wonderful-day.club CNAME .
 *.wonderful-day.club CNAME .
 wonderhsjnsd.com CNAME .
 *.wonderhsjnsd.com CNAME .
-wonderlandads.com CNAME .
-*.wonderlandads.com CNAME .
 wondersgedact.top CNAME .
 *.wondersgedact.top CNAME .
 wondoads.de CNAME .
@@ -87921,8 +87913,6 @@ yqohoxwuyu.club CNAME .
 *.yqohoxwuyu.club CNAME .
 yqp-oxzxjecq.world CNAME .
 *.yqp-oxzxjecq.world CNAME .
-yqqv.cn CNAME .
-*.yqqv.cn CNAME .
 yr9n47004g.com CNAME .
 *.yr9n47004g.com CNAME .
 yremovementxvi.org CNAME .
