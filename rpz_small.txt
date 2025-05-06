@@ -1,9 +1,9 @@
-; Version: 202505060208
+; Version: 202505060308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88974
-; Last modified: 2025-05-06T02:08:29+0000
+; Entries: 88966
+; Last modified: 2025-05-06T03:08:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746496801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746500402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -787,8 +787,6 @@ $TTL 30
 *.1ns1rosb.de CNAME .
 1odi7j43c.de CNAME .
 *.1odi7j43c.de CNAME .
-1p1eqpotato.com CNAME .
-*.1p1eqpotato.com CNAME .
 1p3opxwwet.ru CNAME .
 *.1p3opxwwet.ru CNAME .
 1p3yg.icu CNAME .
@@ -7233,8 +7231,6 @@ ads180.com CNAME .
 *.ads180.com CNAME .
 ads2.brazzers.com CNAME .
 *.ads2.brazzers.com CNAME .
-ads2.gamecity.net CNAME .
-*.ads2.gamecity.net CNAME .
 ads2.hsoub.com CNAME .
 *.ads2.hsoub.com CNAME .
 ads2.jubii.dk CNAME .
@@ -43311,8 +43307,6 @@ in.unext.jp CNAME .
 *.in.unext.jp CNAME .
 inabsolor.com CNAME .
 *.inabsolor.com CNAME .
-inaccessiblefebruaryimmunity.com CNAME .
-*.inaccessiblefebruaryimmunity.com CNAME .
 inadmissiblesomehow.com CNAME .
 *.inadmissiblesomehow.com CNAME .
 inagtwo.live CNAME .
@@ -88941,8 +88935,6 @@ zxclan.com CNAME .
 *.zxclan.com CNAME .
 zxcvbnmasdfghjklqwertyuiop.work CNAME .
 *.zxcvbnmasdfghjklqwertyuiop.work CNAME .
-zxiws.cn CNAME .
-*.zxiws.cn CNAME .
 zxmojgj.com CNAME .
 *.zxmojgj.com CNAME .
 zxqiwe.cn CNAME .
