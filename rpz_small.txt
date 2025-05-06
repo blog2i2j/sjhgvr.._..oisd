@@ -1,9 +1,9 @@
-; Version: 202505062210
+; Version: 202505062310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88802
-; Last modified: 2025-05-06T22:10:47+0000
+; Entries: 88790
+; Last modified: 2025-05-06T23:10:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746568804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746572403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19375,8 +19375,6 @@ cascademuscularbodyguard.com CNAME .
 *.cascademuscularbodyguard.com CNAME .
 caseaterallied.com CNAME .
 *.caseaterallied.com CNAME .
-casecomedytaint.com CNAME .
-*.casecomedytaint.com CNAME .
 casefyparamos.com CNAME .
 *.casefyparamos.com CNAME .
 casegenetically.com CNAME .
@@ -52333,8 +52331,6 @@ misstrends.com CNAME .
 *.misstrends.com CNAME .
 missyesera.live CNAME .
 *.missyesera.live CNAME .
-mistakeadministrationgentlemen.com CNAME .
-*.mistakeadministrationgentlemen.com CNAME .
 mistakeenforce.com CNAME .
 *.mistakeenforce.com CNAME .
 misterbangingfancied.com CNAME .
@@ -55921,8 +55917,6 @@ nzitcuftiofh.com CNAME .
 *.nzitcuftiofh.com CNAME .
 nzme-ads.co.nz CNAME .
 *.nzme-ads.co.nz CNAME .
-nzoj.cn CNAME .
-*.nzoj.cn CNAME .
 nzpvpp.icu CNAME .
 *.nzpvpp.icu CNAME .
 nzurlmq.com CNAME .
@@ -58193,8 +58187,6 @@ ovaleithermansfield.com CNAME .
 *.ovaleithermansfield.com CNAME .
 ovdimin.buzz CNAME .
 *.ovdimin.buzz CNAME .
-oveechoops.xyz CNAME .
-*.oveechoops.xyz CNAME .
 ovenbifaces.cam CNAME .
 *.ovenbifaces.cam CNAME .
 overavesofefineg.org CNAME .
@@ -68341,8 +68333,6 @@ sabergood.com CNAME .
 *.sabergood.com CNAME .
 sabonakapona.com CNAME .
 *.sabonakapona.com CNAME .
-sabutanjirble.com CNAME .
-*.sabutanjirble.com CNAME .
 sacaftdu.com CNAME .
 *.sacaftdu.com CNAME .
 sacculiroofmen.shop CNAME .
@@ -76633,8 +76623,6 @@ tetrylscullion.com CNAME .
 *.tetrylscullion.com CNAME .
 tetyerecently.com CNAME .
 *.tetyerecently.com CNAME .
-teuxbfnru.com CNAME .
-*.teuxbfnru.com CNAME .
 texsxhprkkljb.rocks CNAME .
 *.texsxhprkkljb.rocks CNAME .
 text-link-ads.com CNAME .
