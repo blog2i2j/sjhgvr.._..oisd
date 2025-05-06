@@ -1,9 +1,9 @@
-; Version: 202505061711
+; Version: 202505061812
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88802
-; Last modified: 2025-05-06T17:11:54+0000
+; Entries: 88792
+; Last modified: 2025-05-06T18:12:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746550802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746554405 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4513,8 +4513,6 @@ acobnnvet.com CNAME .
 *.acobnnvet.com CNAME .
 acofrnsr44es3954b.com CNAME .
 *.acofrnsr44es3954b.com CNAME .
-acoossa.top CNAME .
-*.acoossa.top CNAME .
 acoossz.top CNAME .
 *.acoossz.top CNAME .
 acornfacilitatechecking.com CNAME .
@@ -39175,8 +39173,6 @@ gratis.sms.senden.sms13.de CNAME .
 *.gratis.sms.senden.sms13.de CNAME .
 gratisweb.com CNAME .
 *.gratisweb.com CNAME .
-gratitudeobservestayed.com CNAME .
-*.gratitudeobservestayed.com CNAME .
 gratituderefused.com CNAME .
 *.gratituderefused.com CNAME .
 grauglak.com CNAME .
@@ -59565,8 +59561,6 @@ pepebalance.com CNAME .
 *.pepebalance.com CNAME .
 pepepush.net CNAME .
 *.pepepush.net CNAME .
-pepiggies.xyz CNAME .
-*.pepiggies.xyz CNAME .
 pepperunmoveddecipher.com CNAME .
 *.pepperunmoveddecipher.com CNAME .
 peppy2lon1g1stalk.com CNAME .
@@ -66711,8 +66705,6 @@ roopefostaji.net CNAME .
 *.roopefostaji.net CNAME .
 rooptawu.net CNAME .
 *.rooptawu.net CNAME .
-roostedessive.com CNAME .
-*.roostedessive.com CNAME .
 rooster.cashforcolumbushouses.com CNAME .
 *.rooster.cashforcolumbushouses.com CNAME .
 rooster.ohqcloud.com CNAME .
@@ -84583,8 +84575,6 @@ wheeledqat.com CNAME .
 *.wheeledqat.com CNAME .
 wheelify.cartzy.com CNAME .
 *.wheelify.cartzy.com CNAME .
-wheelsbullyingindolent.com CNAME .
-*.wheelsbullyingindolent.com CNAME .
 wheelsetsur.net CNAME .
 *.wheelsetsur.net CNAME .
 wheelssightsdisappointed.com CNAME .
