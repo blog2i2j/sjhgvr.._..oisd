@@ -1,9 +1,9 @@
-; Version: 202505060308
+; Version: 202505060408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88966
-; Last modified: 2025-05-06T03:08:55+0000
+; Entries: 88940
+; Last modified: 2025-05-06T04:08:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746500402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746504003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3047,8 +3047,6 @@ $TTL 30
 *.99ef5999fe.ff73564366.com CNAME .
 99jinpin.com CNAME .
 *.99jinpin.com CNAME .
-9a55672b0c.com CNAME .
-*.9a55672b0c.com CNAME .
 9a71b08258.com CNAME .
 *.9a71b08258.com CNAME .
 9a8f641701.com CNAME .
@@ -3351,8 +3349,6 @@ a.letsjerk.tv CNAME .
 *.a.letsjerk.tv CNAME .
 a.lewxi.online CNAME .
 *.a.lewxi.online CNAME .
-a.llysc.cn CNAME .
-*.a.llysc.cn CNAME .
 a.mabipa.com CNAME .
 *.a.mabipa.com CNAME .
 a.markporn.com CNAME .
@@ -17203,8 +17199,6 @@ boksaumetaixa.net CNAME .
 *.boksaumetaixa.net CNAME .
 bolayaros.com CNAME .
 *.bolayaros.com CNAME .
-boldboycott.com CNAME .
-*.boldboycott.com CNAME .
 boldcupid.com CNAME .
 *.boldcupid.com CNAME .
 boldlydaisy.com CNAME .
@@ -21067,8 +21061,6 @@ cigar.pt CNAME .
 *.cigar.pt CNAME .
 cigarette-online.com CNAME .
 *.cigarette-online.com CNAME .
-cigaretteintervals.com CNAME .
-*.cigaretteintervals.com CNAME .
 cigarettenotablymaker.com CNAME .
 *.cigarettenotablymaker.com CNAME .
 cigfhaztaqu.com CNAME .
@@ -32869,8 +32861,6 @@ enviousthread.com CNAME .
 *.enviousthread.com CNAME .
 environmental3x.fun CNAME .
 *.environmental3x.fun CNAME .
-envoystormy.com CNAME .
-*.envoystormy.com CNAME .
 enzav.xyz CNAME .
 *.enzav.xyz CNAME .
 enzymescapitan.click CNAME .
@@ -37827,8 +37817,6 @@ germinatewishesholder.com CNAME .
 *.germinatewishesholder.com CNAME .
 germlesslukewarmmold.com CNAME .
 *.germlesslukewarmmold.com CNAME .
-germmasonportfolio.com CNAME .
-*.germmasonportfolio.com CNAME .
 gesanbarrat.com CNAME .
 *.gesanbarrat.com CNAME .
 gessiptoab.net CNAME .
@@ -45355,8 +45343,6 @@ jorttiuyng.com CNAME .
 *.jorttiuyng.com CNAME .
 josephtotters.top CNAME .
 *.josephtotters.top CNAME .
-josieunethical.com CNAME .
-*.josieunethical.com CNAME .
 jostegroossu.net CNAME .
 *.jostegroossu.net CNAME .
 jotchidoun.net CNAME .
@@ -63911,8 +63897,6 @@ qituduwios.com CNAME .
 *.qituduwios.com CNAME .
 qivaiw.com CNAME .
 *.qivaiw.com CNAME .
-qiwqaagnaell.com CNAME .
-*.qiwqaagnaell.com CNAME .
 qiyeb.iaskbus.com CNAME .
 *.qiyeb.iaskbus.com CNAME .
 qiyegongqiu1.qiyegongqiu.com CNAME .
@@ -64603,8 +64587,6 @@ railingperformance.com CNAME .
 *.railingperformance.com CNAME .
 railroadlineal.com CNAME .
 *.railroadlineal.com CNAME .
-railroadmanytwitch.com CNAME .
-*.railroadmanytwitch.com CNAME .
 railroadunofficial.com CNAME .
 *.railroadunofficial.com CNAME .
 rainbo9.com CNAME .
@@ -70943,8 +70925,6 @@ sixft-apart.com CNAME .
 *.sixft-apart.com CNAME .
 sixsigmatraffic.com CNAME .
 *.sixsigmatraffic.com CNAME .
-siyaukq.com CNAME .
-*.siyaukq.com CNAME .
 sizefencing.com CNAME .
 *.sizefencing.com CNAME .
 sjbaiduadv1.redou.com CNAME .
@@ -71251,8 +71231,6 @@ sluicedevastating.com CNAME .
 *.sluicedevastating.com CNAME .
 sluicehamate.com CNAME .
 *.sluicehamate.com CNAME .
-slumberloandefine.com CNAME .
-*.slumberloandefine.com CNAME .
 slushdevastating.com CNAME .
 *.slushdevastating.com CNAME .
 slushhelmetmirth.com CNAME .
@@ -81687,8 +81665,6 @@ up1app.com CNAME .
 *.up1app.com CNAME .
 up2cdn.com CNAME .
 *.up2cdn.com CNAME .
-upaicpa.com CNAME .
-*.upaicpa.com CNAME .
 upalytics.com CNAME .
 *.upalytics.com CNAME .
 uparceuson.com CNAME .
@@ -86015,8 +85991,6 @@ wyhifdpatl.com CNAME .
 *.wyhifdpatl.com CNAME .
 wyidsbopxpifd.love CNAME .
 *.wyidsbopxpifd.love CNAME .
-wymymep.com CNAME .
-*.wymymep.com CNAME .
 wynather.com CNAME .
 *.wynather.com CNAME .
 wynvalur.com CNAME .
