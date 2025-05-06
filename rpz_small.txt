@@ -1,9 +1,9 @@
-; Version: 202505061511
+; Version: 202505061611
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88818
-; Last modified: 2025-05-06T15:11:24+0000
+; Entries: 88810
+; Last modified: 2025-05-06T16:11:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746543602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746547203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20175,8 +20175,6 @@ cee1.iteye.com CNAME .
 *.cee1.iteye.com CNAME .
 ceechuwaukah.com CNAME .
 *.ceechuwaukah.com CNAME .
-ceefsyqotuagk.com CNAME .
-*.ceefsyqotuagk.com CNAME .
 ceegrezushu.net CNAME .
 *.ceegrezushu.net CNAME .
 ceegriwuwoa.net CNAME .
@@ -60791,8 +60789,6 @@ playvideoclub.com CNAME .
 *.playvideoclub.com CNAME .
 playvideodirect.com CNAME .
 *.playvideodirect.com CNAME .
-playwrightsovietcommentary.com CNAME .
-*.playwrightsovietcommentary.com CNAME .
 pldlz.com CNAME .
 *.pldlz.com CNAME .
 pleasantinformation.com CNAME .
@@ -61991,8 +61987,6 @@ prisma-tr.prismamedia.com CNAME .
 *.prisma-tr.prismamedia.com CNAME .
 prismlacers.top CNAME .
 *.prismlacers.top CNAME .
-prisonfirmlyswallow.com CNAME .
-*.prisonfirmlyswallow.com CNAME .
 pritesol.com CNAME .
 *.pritesol.com CNAME .
 privacy-sandbox.appsflyersdk.com CNAME .
@@ -83797,8 +83791,6 @@ wanderingchimneypainting.com CNAME .
 *.wanderingchimneypainting.com CNAME .
 wangfenxi.com CNAME .
 *.wangfenxi.com CNAME .
-wanintrudeabbey.com CNAME .
-*.wanintrudeabbey.com CNAME .
 wanlyavower.com CNAME .
 *.wanlyavower.com CNAME .
 wannessdebus.com CNAME .
