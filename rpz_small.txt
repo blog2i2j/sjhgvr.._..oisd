@@ -1,9 +1,9 @@
-; Version: 202505060657
+; Version: 202505060810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88910
-; Last modified: 2025-05-06T06:57:02+0000
+; Entries: 88896
+; Last modified: 2025-05-06T08:10:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746511201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746518403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8137,8 +8137,6 @@ advmonie.com CNAME .
 *.advmonie.com CNAME .
 advnt.com CNAME .
 *.advnt.com CNAME .
-advocacyforgiveness.com CNAME .
-*.advocacyforgiveness.com CNAME .
 advocate420.fun CNAME .
 *.advocate420.fun CNAME .
 advombat.ru CNAME .
@@ -11463,8 +11461,6 @@ animatedjumpydisappointing.com CNAME .
 *.animatedjumpydisappointing.com CNAME .
 animatedprosecutedangerous.com CNAME .
 *.animatedprosecutedangerous.com CNAME .
-animaterecover.com CNAME .
-*.animaterecover.com CNAME .
 animebest.zone CNAME .
 *.animebest.zone CNAME .
 animegofan.ru CNAME .
@@ -58279,8 +58275,6 @@ overfixhater.top CNAME .
 *.overfixhater.top CNAME .
 overgotsnecker.com CNAME .
 *.overgotsnecker.com CNAME .
-overheadnell.com CNAME .
-*.overheadnell.com CNAME .
 overhearpeasantenough.com CNAME .
 *.overhearpeasantenough.com CNAME .
 overjoyeddarkenedrecord.com CNAME .
@@ -59269,8 +59263,6 @@ patentjav128.fun CNAME .
 *.patentjav128.fun CNAME .
 paternalrepresentation.com CNAME .
 *.paternalrepresentation.com CNAME .
-paternityfourth.com CNAME .
-*.paternityfourth.com CNAME .
 patgsrv.com CNAME .
 *.patgsrv.com CNAME .
 pathfinder.analytics.komoot.net CNAME .
@@ -64049,8 +64041,6 @@ qsmnt.online CNAME .
 *.qsmnt.online CNAME .
 qsvbi.space CNAME .
 *.qsvbi.space CNAME .
-qtdopwuau.xyz CNAME .
-*.qtdopwuau.xyz CNAME .
 qtoxhaamntfi.com CNAME .
 *.qtoxhaamntfi.com CNAME .
 qtozipscid.com CNAME .
@@ -76335,8 +76325,6 @@ teachingrespectfully.com CNAME .
 *.teachingrespectfully.com CNAME .
 teachingwere.com CNAME .
 *.teachingwere.com CNAME .
-teachleaseholderpractitioner.com CNAME .
-*.teachleaseholderpractitioner.com CNAME .
 teachmeiwnd.com CNAME .
 *.teachmeiwnd.com CNAME .
 teachmewind.com CNAME .
@@ -78259,8 +78247,6 @@ tpstelemetry.tencent.com CNAME .
 *.tpstelemetry.tencent.com CNAME .
 tpvmdlxpvcenz.vip CNAME .
 *.tpvmdlxpvcenz.vip CNAME .
-tpwtjya.com CNAME .
-*.tpwtjya.com CNAME .
 tpx.tesseradigital.com CNAME .
 *.tpx.tesseradigital.com CNAME .
 tq-apac.klmretul.online CNAME .
