@@ -1,9 +1,9 @@
-; Version: 202505061011
+; Version: 202505061111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88872
-; Last modified: 2025-05-06T10:11:08+0000
+; Entries: 88860
+; Last modified: 2025-05-06T11:11:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746525603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746529202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34383,8 +34383,6 @@ fairlyleadingenquiry.com CNAME .
 *.fairlyleadingenquiry.com CNAME .
 fairmonks.com CNAME .
 *.fairmonks.com CNAME .
-fairnessels.com CNAME .
-*.fairnessels.com CNAME .
 faisaphoofa.net CNAME .
 *.faisaphoofa.net CNAME .
 faised.com CNAME .
@@ -38161,8 +38159,6 @@ givingpokunt.shop CNAME .
 *.givingpokunt.shop CNAME .
 givingsol.com CNAME .
 *.givingsol.com CNAME .
-giwkclu.com CNAME .
-*.giwkclu.com CNAME .
 gixeedsute.net CNAME .
 *.gixeedsute.net CNAME .
 gixiluros.com CNAME .
@@ -39435,8 +39431,6 @@ grmzwc.icu CNAME .
 *.grmzwc.icu CNAME .
 groagneeckaifoo.com CNAME .
 *.groagneeckaifoo.com CNAME .
-groameeb.com CNAME .
-*.groameeb.com CNAME .
 groampez.xyz CNAME .
 *.groampez.xyz CNAME .
 groamsal.net CNAME .
@@ -39795,8 +39789,6 @@ guerrilla-links.com CNAME .
 *.guerrilla-links.com CNAME .
 guesswhatnews.com CNAME .
 *.guesswhatnews.com CNAME .
-guestsfingertipchristian.com CNAME .
-*.guestsfingertipchristian.com CNAME .
 guhomnfuzq.com CNAME .
 *.guhomnfuzq.com CNAME .
 guhscaafjp.com CNAME .
@@ -53643,8 +53635,6 @@ musselchangeableskier.com CNAME .
 *.musselchangeableskier.com CNAME .
 mustang-browser.com CNAME .
 *.mustang-browser.com CNAME .
-mustdealingfrustration.com CNAME .
-*.mustdealingfrustration.com CNAME .
 mustersvyrnwy.top CNAME .
 *.mustersvyrnwy.top CNAME .
 mutcheng.net CNAME .
@@ -64121,8 +64111,6 @@ queerygenets.com CNAME .
 *.queerygenets.com CNAME .
 quelea.llresearch.dev CNAME .
 *.quelea.llresearch.dev CNAME .
-quellbustle.com CNAME .
-*.quellbustle.com CNAME .
 quellyawncoke.com CNAME .
 *.quellyawncoke.com CNAME .
 quelmesale.com CNAME .
