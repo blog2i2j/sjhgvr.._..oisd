@@ -1,9 +1,9 @@
-; Version: 202505061211
+; Version: 202505061311
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88842
-; Last modified: 2025-05-06T12:11:30+0000
+; Entries: 88830
+; Last modified: 2025-05-06T13:11:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746532802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746536403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -269,8 +269,6 @@ $TTL 30
 *.1.07swz.com CNAME .
 1.1010pic.com CNAME .
 *.1.1010pic.com CNAME .
-1.11130.com.cn CNAME .
-*.1.11130.com.cn CNAME .
 1.11467.com CNAME .
 *.1.11467.com CNAME .
 1.201980.com CNAME .
@@ -9037,8 +9035,6 @@ airborneassaultshrink.com CNAME .
 *.airborneassaultshrink.com CNAME .
 airbornemiser.com CNAME .
 *.airbornemiser.com CNAME .
-airconditionpianoembarrassment.com CNAME .
-*.airconditionpianoembarrassment.com CNAME .
 aircraftairliner.com CNAME .
 *.aircraftairliner.com CNAME .
 aircraftreign.com CNAME .
@@ -28385,8 +28381,6 @@ degg.site CNAME .
 *.degg.site CNAME .
 deghooda.net CNAME .
 *.deghooda.net CNAME .
-degradationrethink.com CNAME .
-*.degradationrethink.com CNAME .
 degradationtransaction.com CNAME .
 *.degradationtransaction.com CNAME .
 degradeaccusationshrink.com CNAME .
@@ -31113,8 +31107,6 @@ dvxrxm-cxo.top CNAME .
 *.dvxrxm-cxo.top CNAME .
 dvypar.com CNAME .
 *.dvypar.com CNAME .
-dvzkkug.com CNAME .
-*.dvzkkug.com CNAME .
 dw-eu.com.com CNAME .
 *.dw-eu.com.com CNAME .
 dw55pg05c2rl5.cloudfront.net CNAME .
@@ -42679,8 +42671,6 @@ ifdnzact.com CNAME .
 *.ifdnzact.com CNAME .
 ifigent.com CNAME .
 *.ifigent.com CNAME .
-ifjbtjf.com CNAME .
-*.ifjbtjf.com CNAME .
 ifleadhad.live CNAME .
 *.ifleadhad.live CNAME .
 ifmccdn.icu CNAME .
@@ -76505,8 +76495,6 @@ telemetry.vtex.com CNAME .
 *.telemetry.vtex.com CNAME .
 teleport.soom.la CNAME .
 *.teleport.soom.la CNAME .
-telescopesemiprominent.com CNAME .
-*.telescopesemiprominent.com CNAME .
 televisionjitter.com CNAME .
 *.televisionjitter.com CNAME .
 teliad.de CNAME .
