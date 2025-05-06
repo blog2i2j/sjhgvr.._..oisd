@@ -1,9 +1,9 @@
-; Version: 202505060008
+; Version: 202505060108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88988
-; Last modified: 2025-05-06T00:08:32+0000
+; Entries: 88976
+; Last modified: 2025-05-06T01:08:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746489602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746493203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20549,8 +20549,6 @@ changedmuffin.com CNAME .
 *.changedmuffin.com CNAME .
 changejav128.fun CNAME .
 *.changejav128.fun CNAME .
-changelifer.biz CNAME .
-*.changelifer.biz CNAME .
 chango.com CNAME .
 *.chango.com CNAME .
 channeldrag.com CNAME .
@@ -50671,8 +50669,6 @@ maithigloab.net CNAME .
 *.maithigloab.net CNAME .
 majesticsecondary.com CNAME .
 *.majesticsecondary.com CNAME .
-majestybrightennext.com CNAME .
-*.majestybrightennext.com CNAME .
 majile.vip CNAME .
 *.majile.vip CNAME .
 majime-site-rk.com CNAME .
@@ -66029,8 +66025,6 @@ results.uservalidate.co.uk CNAME .
 *.results.uservalidate.co.uk CNAME .
 resultsz.com CNAME .
 *.resultsz.com CNAME .
-resumeconcurrence.com CNAME .
-*.resumeconcurrence.com CNAME .
 resurrectionincomplete.com CNAME .
 *.resurrectionincomplete.com CNAME .
 retagro.com CNAME .
@@ -68007,8 +68001,6 @@ rxexiaam.guru CNAME .
 *.rxexiaam.guru CNAME .
 rxjfh.com CNAME .
 *.rxjfh.com CNAME .
-rxtgbihqbs99.com CNAME .
-*.rxtgbihqbs99.com CNAME .
 rxthdr.com CNAME .
 *.rxthdr.com CNAME .
 rxvej.com CNAME .
@@ -71065,8 +71057,6 @@ skillsombineukdw.com CNAME .
 *.skillsombineukdw.com CNAME .
 skilyake.net CNAME .
 *.skilyake.net CNAME .
-skimmemorandum.com CNAME .
-*.skimmemorandum.com CNAME .
 skimwhiskersmakeup.com CNAME .
 *.skimwhiskersmakeup.com CNAME .
 skink.asorman.io CNAME .
@@ -88333,8 +88323,6 @@ zaloads-480.zdn.vn CNAME .
 *.zaloads-480.zdn.vn CNAME .
 zaltaumi.net CNAME .
 *.zaltaumi.net CNAME .
-zalwlraoazu.com CNAME .
-*.zalwlraoazu.com CNAME .
 zambiandirexit.top CNAME .
 *.zambiandirexit.top CNAME .
 zamiasbrass.top CNAME .
