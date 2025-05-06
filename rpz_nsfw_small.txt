@@ -1,9 +1,9 @@
-; Version: 202505060514
+; Version: 202505060715
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41988
-; Last modified: 2025-05-06T05:14:17+0000
+; Entries: 41998
+; Last modified: 2025-05-06T07:15:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746507603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746514804 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9783,6 +9783,8 @@ errio.net CNAME .
 *.errio.net CNAME .
 errotica-archives.com CNAME .
 *.errotica-archives.com CNAME .
+errrotica.com CNAME .
+*.errrotica.com CNAME .
 erry.one CNAME .
 *.erry.one CNAME .
 ersties.com CNAME .
@@ -15117,6 +15119,8 @@ hindisexvideos.xyz CNAME .
 *.hindisexvideos.xyz CNAME .
 hindisexvideosx.cam CNAME .
 *.hindisexvideosx.cam CNAME .
+hindisexxvideos.com CNAME .
+*.hindisexxvideos.com CNAME .
 hindisexyvideo.me CNAME .
 *.hindisexyvideo.me CNAME .
 hindisexyvideo.net CNAME .
@@ -15943,6 +15947,8 @@ hqporn.su CNAME .
 *.hqporn.su CNAME .
 hqporn.xxx CNAME .
 *.hqporn.xxx CNAME .
+hqpornblogs.com CNAME .
+*.hqpornblogs.com CNAME .
 hqporncolor.com CNAME .
 *.hqporncolor.com CNAME .
 hqporncomics.com CNAME .
@@ -16279,6 +16285,8 @@ ihentai.blog CNAME .
 *.ihentai.blog CNAME .
 ihentai.com CNAME .
 *.ihentai.com CNAME .
+ihentai.men CNAME .
+*.ihentai.men CNAME .
 ihentai.us CNAME .
 *.ihentai.us CNAME .
 ijavhd.com CNAME .
@@ -39355,6 +39363,8 @@ xnhub.com CNAME .
 *.xnhub.com CNAME .
 xnlog.com CNAME .
 *.xnlog.com CNAME .
+xnnn.org CNAME .
+*.xnnn.org CNAME .
 xnnx.icu CNAME .
 *.xnnx.icu CNAME .
 xnnx.name CNAME .
