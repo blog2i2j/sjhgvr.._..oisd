@@ -1,9 +1,9 @@
-# Version: 202505070114
+# Version: 202505070214
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21006
-# Last modified: 2025-05-07T01:14:04+0000
+# Entries: 21007
+# Last modified: 2025-05-07T02:14:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3198,6 +3198,7 @@ local-zone: "chaat.fr." always_null
 local-zone: "changethai.ru." always_null
 local-zone: "channel5.com." always_null
 local-zone: "channelmyanmar.org." always_null
+local-zone: "channels.nl." always_null
 local-zone: "chaopescao.cl." always_null
 local-zone: "character-tavern.com." always_null
 local-zone: "charmfling.com." always_null
