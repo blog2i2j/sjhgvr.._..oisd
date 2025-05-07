@@ -1,9 +1,9 @@
-; Version: 202505070816
+; Version: 202505071015
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42044
-; Last modified: 2025-05-07T08:16:31+0000
+; Entries: 42048
+; Last modified: 2025-05-07T10:15:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746604803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746612002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9045,6 +9045,8 @@ ebenporno.com CNAME .
 *.ebenporno.com CNAME .
 eblinet.one CNAME .
 *.eblinet.one CNAME .
+eblorus.info CNAME .
+*.eblorus.info CNAME .
 eboblack.com CNAME .
 *.eboblack.com CNAME .
 ebonan.top CNAME .
@@ -32959,6 +32961,8 @@ simplyhentai.red CNAME .
 *.simplyhentai.red CNAME .
 simpshub.com CNAME .
 *.simpshub.com CNAME .
+simptown.su CNAME .
+*.simptown.su CNAME .
 sincanburada.com CNAME .
 *.sincanburada.com CNAME .
 sincansaglik.com CNAME .
