@@ -1,9 +1,9 @@
-; Version: 202505071254
+; Version: 202505071416
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42046
-; Last modified: 2025-05-07T12:54:13+0000
+; Entries: 42048
+; Last modified: 2025-05-07T14:16:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746622434 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746626402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7111,6 +7111,8 @@ commissie.online CNAME .
 *.commissie.online CNAME .
 commonsupport.com CNAME .
 *.commonsupport.com CNAME .
+company.site CNAME .
+*.company.site CNAME .
 completeporndatabase.com CNAME .
 *.completeporndatabase.com CNAME .
 compressorair.ru CNAME .
@@ -17767,6 +17769,8 @@ javhdporntube.com CNAME .
 *.javhdporntube.com CNAME .
 javhdpro.cc CNAME .
 *.javhdpro.cc CNAME .
+javhdpro.com CNAME .
+*.javhdpro.com CNAME .
 javhds.com CNAME .
 *.javhds.com CNAME .
 javhdworld.com CNAME .
@@ -25201,8 +25205,6 @@ phimsexau.net CNAME .
 *.phimsexau.net CNAME .
 phimsexcap2.pro CNAME .
 *.phimsexcap2.pro CNAME .
-phimsexcapba.net CNAME .
-*.phimsexcapba.net CNAME .
 phimsexchaua.net CNAME .
 *.phimsexchaua.net CNAME .
 phimsexchauau.biz CNAME .
