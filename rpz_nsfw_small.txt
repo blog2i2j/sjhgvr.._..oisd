@@ -1,9 +1,9 @@
-; Version: 202505070414
+; Version: 202505070515
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42028
-; Last modified: 2025-05-07T04:14:17+0000
+; Entries: 42030
+; Last modified: 2025-05-07T05:15:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746590404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746594002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7035,6 +7035,8 @@ collectionofbestporn.com CNAME .
 *.collectionofbestporn.com CNAME .
 collegegaymovies.com CNAME .
 *.collegegaymovies.com CNAME .
+collegehumor.com CNAME .
+*.collegehumor.com CNAME .
 collegeporn.xxx CNAME .
 *.collegeporn.xxx CNAME .
 collegerules.com CNAME .
@@ -32119,8 +32121,6 @@ sexvideochat.video CNAME .
 *.sexvideochat.video CNAME .
 sexvideocom.net CNAME .
 *.sexvideocom.net CNAME .
-sexvideohub.pro CNAME .
-*.sexvideohub.pro CNAME .
 sexvideos-gratis.com CNAME .
 *.sexvideos-gratis.com CNAME .
 sexvideos-hd.com CNAME .
@@ -34917,6 +34917,8 @@ theloddonfoundation.co.uk CNAME .
 *.theloddonfoundation.co.uk CNAME .
 thelordofporn.com CNAME .
 *.thelordofporn.com CNAME .
+themailorderbride.com CNAME .
+*.themailorderbride.com CNAME .
 thematureladies.com CNAME .
 *.thematureladies.com CNAME .
 thematureporn.net CNAME .
