@@ -1,9 +1,9 @@
-; Version: 202505070009
+; Version: 202505070109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88778
-; Last modified: 2025-05-07T00:09:45+0000
+; Entries: 88758
+; Last modified: 2025-05-07T01:09:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746576005 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746579602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12349,8 +12349,6 @@ appzery.com CNAME .
 *.appzery.com CNAME .
 aprilads.space CNAME .
 *.aprilads.space CNAME .
-aprilineffective.com CNAME .
-*.aprilineffective.com CNAME .
 apritifka.click CNAME .
 *.apritifka.click CNAME .
 apritvun.com CNAME .
@@ -34695,8 +34693,6 @@ fd.bawag.at CNAME .
 *.fd.bawag.at CNAME .
 fd01ce9a02.0012e30263.com CNAME .
 *.fd01ce9a02.0012e30263.com CNAME .
-fd1.eye.to CNAME .
-*.fd1.eye.to CNAME .
 fd4.eye.to CNAME .
 *.fd4.eye.to CNAME .
 fd5orie8e.com CNAME .
@@ -52039,8 +52035,6 @@ middleagedreminderoperational.com CNAME .
 *.middleagedreminderoperational.com CNAME .
 midgerelativelyhoax.com CNAME .
 *.midgerelativelyhoax.com CNAME .
-midgetincidentally.com CNAME .
-*.midgetincidentally.com CNAME .
 midgetmaying.com CNAME .
 *.midgetmaying.com CNAME .
 midistortrix.com CNAME .
@@ -59817,8 +59811,6 @@ pgorttohwo.info CNAME .
 *.pgorttohwo.info CNAME .
 pgpartner.com CNAME .
 *.pgpartner.com CNAME .
-pgssjxz.com CNAME .
-*.pgssjxz.com CNAME .
 pgssl.com CNAME .
 *.pgssl.com CNAME .
 pgt1.voyage-prive.es CNAME .
@@ -60893,8 +60885,6 @@ plumpdianafraud.com CNAME .
 *.plumpdianafraud.com CNAME .
 plumperblocage.top CNAME .
 *.plumperblocage.top CNAME .
-plumpgrabbedseventy.com CNAME .
-*.plumpgrabbedseventy.com CNAME .
 plumpmom.com CNAME .
 *.plumpmom.com CNAME .
 plumsbusiness.com CNAME .
@@ -63455,8 +63445,6 @@ px3792.com CNAME .
 *.px3792.com CNAME .
 px9.nuderedtube.com CNAME .
 *.px9.nuderedtube.com CNAME .
-pxdroqjkqw.com CNAME .
-*.pxdroqjkqw.com CNAME .
 pxhuiben.com CNAME .
 *.pxhuiben.com CNAME .
 pxl.knam.pro CNAME .
@@ -70341,8 +70329,6 @@ shon.xyz CNAME .
 *.shon.xyz CNAME .
 shoofabhalu.com CNAME .
 *.shoofabhalu.com CNAME .
-shoojouh.xyz CNAME .
-*.shoojouh.xyz CNAME .
 shooloaree.net CNAME .
 *.shooloaree.net CNAME .
 shooltuca.net CNAME .
@@ -75591,8 +75577,6 @@ taco.sexreels.net CNAME .
 *.taco.sexreels.net CNAME .
 tacoda.net CNAME .
 *.tacoda.net CNAME .
-tacticmuseumbed.com CNAME .
-*.tacticmuseumbed.com CNAME .
 tacticsadamant.com CNAME .
 *.tacticsadamant.com CNAME .
 tacticschangebabysitting.com CNAME .
@@ -85039,8 +85023,6 @@ window.nixnet.cz CNAME .
 *.window.nixnet.cz CNAME .
 windows-pro.net CNAME .
 *.windows-pro.net CNAME .
-windowsuseful.com CNAME .
-*.windowsuseful.com CNAME .
 windrightyshade.com CNAME .
 *.windrightyshade.com CNAME .
 windsattributeron.com CNAME .
@@ -86783,8 +86765,6 @@ xml.foseller-a.online CNAME .
 *.xml.foseller-a.online CNAME .
 xml.foseller-c.online CNAME .
 *.xml.foseller-c.online CNAME .
-xml.foseller-d.online CNAME .
-*.xml.foseller-d.online CNAME .
 xml.fstsrv10.com CNAME .
 *.xml.fstsrv10.com CNAME .
 xml.fstsrv11.com CNAME .
