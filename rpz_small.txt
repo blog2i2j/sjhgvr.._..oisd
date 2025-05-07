@@ -1,9 +1,9 @@
-; Version: 202505071610
+; Version: 202505071811
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88446
-; Last modified: 2025-05-07T16:10:44+0000
+; Entries: 88442
+; Last modified: 2025-05-07T18:11:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746633602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746640802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -79783,8 +79783,6 @@ ts.sopornvideos.com CNAME .
 *.ts.sopornvideos.com CNAME .
 ts.tradetracker.net CNAME .
 *.ts.tradetracker.net CNAME .
-ts134lnki1zd5.pro CNAME .
-*.ts134lnki1zd5.pro CNAME .
 ts166.net CNAME .
 *.ts166.net CNAME .
 ts2.hockey-talks.com CNAME .
@@ -84875,8 +84873,6 @@ wl.yna.co.kr CNAME .
 *.wl.yna.co.kr CNAME .
 wlafx4trk.com CNAME .
 *.wlafx4trk.com CNAME .
-wlberlaiw.com CNAME .
-*.wlberlaiw.com CNAME .
 wlmarketing.com CNAME .
 *.wlmarketing.com CNAME .
 wlog.ifdo.co.kr CNAME .
