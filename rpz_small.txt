@@ -1,9 +1,9 @@
-; Version: 202505070109
+; Version: 202505070209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88758
-; Last modified: 2025-05-07T01:09:26+0000
+; Entries: 88736
+; Last modified: 2025-05-07T02:09:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746579602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746583204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3689,8 +3689,6 @@ a91e9c75f8.com CNAME .
 *.a91e9c75f8.com CNAME .
 a9529eca57.100b57dcae.com CNAME .
 *.a9529eca57.100b57dcae.com CNAME .
-a9ae7df45f.com CNAME .
-*.a9ae7df45f.com CNAME .
 a9o.youlikeboys.com CNAME .
 *.a9o.youlikeboys.com CNAME .
 aa-metrics.beauty.hotpepper.jp CNAME .
@@ -4017,8 +4015,6 @@ ableandworld.info CNAME .
 *.ableandworld.info CNAME .
 ableandworldwid.com CNAME .
 *.ableandworldwid.com CNAME .
-ablebodiedsweatisolated.com CNAME .
-*.ablebodiedsweatisolated.com CNAME .
 ablecheap.com CNAME .
 *.ablecheap.com CNAME .
 ablecolony.com CNAME .
@@ -8309,8 +8305,6 @@ aeelookithdifyf.com CNAME .
 *.aeelookithdifyf.com CNAME .
 aeffe3nhrua5hua.com CNAME .
 *.aeffe3nhrua5hua.com CNAME .
-aefjru.com CNAME .
-*.aefjru.com CNAME .
 aegagrilariats.top CNAME .
 *.aegagrilariats.top CNAME .
 aegis.qq.com CNAME .
@@ -29077,8 +29071,6 @@ difficultfog.com CNAME .
 *.difficultfog.com CNAME .
 difficultyanthonymode.com CNAME .
 *.difficultyanthonymode.com CNAME .
-difficultyearliestclerk.com CNAME .
-*.difficultyearliestclerk.com CNAME .
 difformcanzoni.shop CNAME .
 *.difformcanzoni.shop CNAME .
 diffusedpassionquaking.com CNAME .
@@ -37375,8 +37367,6 @@ gauzelike26.fun CNAME .
 *.gauzelike26.fun CNAME .
 gavearsonistclever.com CNAME .
 *.gavearsonistclever.com CNAME .
-gawnaze.com CNAME .
-*.gawnaze.com CNAME .
 gay-hotvideo.net CNAME .
 *.gay-hotvideo.net CNAME .
 gay.trkpop.click CNAME .
@@ -44851,8 +44841,6 @@ jennyunfit.com CNAME .
 *.jennyunfit.com CNAME .
 jenonaw.com CNAME .
 *.jenonaw.com CNAME .
-jeoawamqybkeb.top CNAME .
-*.jeoawamqybkeb.top CNAME .
 jeopardycruel.com CNAME .
 *.jeopardycruel.com CNAME .
 jeoway.com CNAME .
@@ -46787,8 +46775,6 @@ kskillsombineu.com CNAME .
 *.kskillsombineu.com CNAME .
 ksnbtmz.com CNAME .
 *.ksnbtmz.com CNAME .
-kspmaaiayadg.com CNAME .
-*.kspmaaiayadg.com CNAME .
 kstnyuhvyrtpp.club CNAME .
 *.kstnyuhvyrtpp.club CNAME .
 kstream.xyz CNAME .
@@ -64171,8 +64157,6 @@ quokkasgraf.com CNAME .
 *.quokkasgraf.com CNAME .
 quotationfirearmrevision.com CNAME .
 *.quotationfirearmrevision.com CNAME .
-quotationindolent.com CNAME .
-*.quotationindolent.com CNAME .
 quotes.com CNAME .
 *.quotes.com CNAME .
 quwkke.xyz CNAME .
@@ -74607,8 +74591,6 @@ sufferlatitude.com CNAME .
 *.sufferlatitude.com CNAME .
 sugar.zhihu.com CNAME .
 *.sugar.zhihu.com CNAME .
-sugaryambition.pro CNAME .
-*.sugaryambition.pro CNAME .
 suggestedasstrategic.com CNAME .
 *.suggestedasstrategic.com CNAME .
 suggestnotegotistical.com CNAME .
@@ -78231,8 +78213,6 @@ tqnupxrwvo.com CNAME .
 *.tqnupxrwvo.com CNAME .
 tqrgivpfygemxft.com CNAME .
 *.tqrgivpfygemxft.com CNAME .
-tquvbfl.com CNAME .
-*.tquvbfl.com CNAME .
 tr-boost.com CNAME .
 *.tr-boost.com CNAME .
 tr-bouncer.com CNAME .
@@ -81105,8 +81085,6 @@ unauthorizedsufficientlysensitivity.com CNAME .
 *.unauthorizedsufficientlysensitivity.com CNAME .
 unautonsure.shop CNAME .
 *.unautonsure.shop CNAME .
-unawaredisk.com CNAME .
-*.unawaredisk.com CNAME .
 unbeedrillom.com CNAME .
 *.unbeedrillom.com CNAME .
 unbelievableheartbreak.com CNAME .
