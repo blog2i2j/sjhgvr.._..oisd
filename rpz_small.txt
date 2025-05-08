@@ -1,9 +1,9 @@
-; Version: 202505080209
+; Version: 202505080309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88408
-; Last modified: 2025-05-08T02:09:35+0000
+; Entries: 88398
+; Last modified: 2025-05-08T03:09:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746669603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746673201 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19609,8 +19609,6 @@ ccn08sth.de CNAME .
 *.ccn08sth.de CNAME .
 ccobksxz.icu CNAME .
 *.ccobksxz.icu CNAME .
-ccryxqgqf.com CNAME .
-*.ccryxqgqf.com CNAME .
 ccyaxntr.com CNAME .
 *.ccyaxntr.com CNAME .
 ccyowxwhuov.com CNAME .
@@ -36973,8 +36971,6 @@ galepush.net CNAME .
 *.galepush.net CNAME .
 galetmurrs.shop CNAME .
 *.galetmurrs.shop CNAME .
-galffguslcxvk.com CNAME .
-*.galffguslcxvk.com CNAME .
 galgkaaqhxhuz.world CNAME .
 *.galgkaaqhxhuz.world CNAME .
 galhelpfur.live CNAME .
@@ -55681,8 +55677,6 @@ nythingamglad.com CNAME .
 *.nythingamglad.com CNAME .
 nytrng.com CNAME .
 *.nytrng.com CNAME .
-nyutkikha.info CNAME .
-*.nyutkikha.info CNAME .
 nzfcvv.xyz CNAME .
 *.nzfcvv.xyz CNAME .
 nzisaqcad.com CNAME .
@@ -57243,8 +57237,6 @@ oppfamily.shop CNAME .
 *.oppfamily.shop CNAME .
 opponenteaster.com CNAME .
 *.opponenteaster.com CNAME .
-opportunitygrandchildrenbadge.com CNAME .
-*.opportunitygrandchildrenbadge.com CNAME .
 opportunitysearch.net CNAME .
 *.opportunitysearch.net CNAME .
 oppositeemperorcollected.com CNAME .
@@ -65847,8 +65839,6 @@ rghptoxhai.com CNAME .
 *.rghptoxhai.com CNAME .
 rgrd.xyz CNAME .
 *.rgrd.xyz CNAME .
-rgwyljdsutb.com CNAME .
-*.rgwyljdsutb.com CNAME .
 rhasonimbrown.top CNAME .
 *.rhasonimbrown.top CNAME .
 rhasuecism.top CNAME .
