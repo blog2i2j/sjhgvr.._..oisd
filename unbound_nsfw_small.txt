@@ -1,9 +1,9 @@
-# Version: 202505080858
+# Version: 202505080917
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21029
-# Last modified: 2025-05-08T08:58:38+0000
+# Entries: 21030
+# Last modified: 2025-05-08T09:17:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14625,6 +14625,7 @@ local-zone: "rapeme.biz." always_null
 local-zone: "rapeporn.mobi." always_null
 local-zone: "rapeporn.name." always_null
 local-zone: "rapeporn.tv." always_null
+local-zone: "rapesection.com." always_null
 local-zone: "rapesexvideo.com." always_null
 local-zone: "rapetaboo.com." always_null
 local-zone: "rapetub.net." always_null
