@@ -1,9 +1,9 @@
-; Version: 202505081812
+; Version: 202505081912
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88326
-; Last modified: 2025-05-08T18:12:13+0000
+; Entries: 88318
+; Last modified: 2025-05-08T19:12:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746727201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746730802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15247,8 +15247,6 @@ bbad91e014.com CNAME .
 *.bbad91e014.com CNAME .
 bbb32b6dd7.119d54cc74.com CNAME .
 *.bbb32b6dd7.119d54cc74.com CNAME .
-bbbtttjjj.com CNAME .
-*.bbbtttjjj.com CNAME .
 bbcrgate.com CNAME .
 *.bbcrgate.com CNAME .
 bbd834il.de CNAME .
@@ -76581,8 +76579,6 @@ thinnerwishingeccentric.com CNAME .
 *.thinnerwishingeccentric.com CNAME .
 thinpaltrydistrust.com CNAME .
 *.thinpaltrydistrust.com CNAME .
-thinperspectivetales.com CNAME .
-*.thinperspectivetales.com CNAME .
 thioninkalwar.top CNAME .
 *.thioninkalwar.top CNAME .
 thiraq.com CNAME .
@@ -79831,8 +79827,6 @@ tubewalk.com CNAME .
 *.tubewalk.com CNAME .
 tubfurryhen.com CNAME .
 *.tubfurryhen.com CNAME .
-tubpwpxupjrw.com CNAME .
-*.tubpwpxupjrw.com CNAME .
 tubroaffs.org CNAME .
 *.tubroaffs.org CNAME .
 tuckedmajor.com CNAME .
@@ -81519,8 +81513,6 @@ uurhhtymipx.com CNAME .
 *.uurhhtymipx.com CNAME .
 uuso05080qhs.xyz CNAME .
 *.uuso05080qhs.xyz CNAME .
-uuso05081qhs.xyz CNAME .
-*.uuso05081qhs.xyz CNAME .
 uutytp.com CNAME .
 *.uutytp.com CNAME .
 uuyhonsdpa.com CNAME .
