@@ -1,9 +1,9 @@
-; Version: 202505080510
+; Version: 202505080609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88388
-; Last modified: 2025-05-08T05:10:05+0000
+; Entries: 88378
+; Last modified: 2025-05-08T06:09:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746680403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746684002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15183,8 +15183,6 @@ batheunits.com CNAME .
 *.batheunits.com CNAME .
 bathfoot.com CNAME .
 *.bathfoot.com CNAME .
-bathroombornsharp.com CNAME .
-*.bathroombornsharp.com CNAME .
 bathtub.pics CNAME .
 *.bathtub.pics CNAME .
 baticalfelixstown.org CNAME .
@@ -36739,8 +36737,6 @@ fwecargurha.com CNAME .
 *.fwecargurha.com CNAME .
 fwedzajar.com CNAME .
 *.fwedzajar.com CNAME .
-fwqmwyuokcyvom.xyz CNAME .
-*.fwqmwyuokcyvom.xyz CNAME .
 fwtrck.com CNAME .
 *.fwtrck.com CNAME .
 fx.gtop.ro CNAME .
@@ -44629,8 +44625,6 @@ jekkfqndxe.com CNAME .
 *.jekkfqndxe.com CNAME .
 jekotyay.com CNAME .
 *.jekotyay.com CNAME .
-jekzyyyljvrbl.top CNAME .
-*.jekzyyyljvrbl.top CNAME .
 jelliconitrate.shop CNAME .
 *.jelliconitrate.shop CNAME .
 jelllearnedhungry.com CNAME .
@@ -61647,8 +61641,6 @@ pricklymine.com CNAME .
 *.pricklymine.com CNAME .
 pridenovicescammer.com CNAME .
 *.pridenovicescammer.com CNAME .
-prideorectic.top CNAME .
-*.prideorectic.top CNAME .
 pridyglirine.top CNAME .
 *.pridyglirine.top CNAME .
 priestboundsay.com CNAME .
@@ -63573,8 +63565,6 @@ qnsr.com CNAME .
 *.qnsr.com CNAME .
 qnsxtvhfnajnw.global CNAME .
 *.qnsxtvhfnajnw.global CNAME .
-qnyysdideo.com CNAME .
-*.qnyysdideo.com CNAME .
 qoaaa.com CNAME .
 *.qoaaa.com CNAME .
 qobuz.surveysparrow.com CNAME .
