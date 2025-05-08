@@ -1,9 +1,9 @@
-; Version: 202505080609
+; Version: 202505080710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88378
-; Last modified: 2025-05-08T06:09:58+0000
+; Entries: 88368
+; Last modified: 2025-05-08T07:10:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746684002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746687602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -44651,8 +44651,6 @@ jeoway.com CNAME .
 *.jeoway.com CNAME .
 jepsauveel.net CNAME .
 *.jepsauveel.net CNAME .
-jeqjawqyvboqj.top CNAME .
-*.jeqjawqyvboqj.top CNAME .
 jeqsuyzlpwjzy.rocks CNAME .
 *.jeqsuyzlpwjzy.rocks CNAME .
 jerboasjourney.com CNAME .
@@ -65797,8 +65795,6 @@ rfdqlehuiufyk.click CNAME .
 *.rfdqlehuiufyk.click CNAME .
 rferl.c.goolara.net CNAME .
 *.rferl.c.goolara.net CNAME .
-rfgsdgg.top CNAME .
-*.rfgsdgg.top CNAME .
 rficarolnak.com CNAME .
 *.rficarolnak.com CNAME .
 rfidpytri.com CNAME .
@@ -69957,8 +69953,6 @@ shindnx.site CNAME .
 *.shindnx.site CNAME .
 shindyhygienic.com CNAME .
 *.shindyhygienic.com CNAME .
-shindystubble.com CNAME .
-*.shindystubble.com CNAME .
 shinebliss.com CNAME .
 *.shinebliss.com CNAME .
 shingleexpressing.com CNAME .
@@ -77329,8 +77323,6 @@ toequiet.website CNAME .
 *.toequiet.website CNAME .
 toesixover.live CNAME .
 *.toesixover.live CNAME .
-toffeebigot.com CNAME .
-*.toffeebigot.com CNAME .
 toforebhut.top CNAME .
 *.toforebhut.top CNAME .
 togemantedious.top CNAME .
@@ -81559,8 +81551,6 @@ uue2.destinia.ir CNAME .
 *.uue2.destinia.ir CNAME .
 uuidksinc.net CNAME .
 *.uuidksinc.net CNAME .
-uuisnvtqtuc.com CNAME .
-*.uuisnvtqtuc.com CNAME .
 uujtmrxf.xyz CNAME .
 *.uujtmrxf.xyz CNAME .
 uuodktlatjmkfq.com CNAME .
