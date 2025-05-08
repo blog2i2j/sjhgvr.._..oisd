@@ -1,9 +1,9 @@
-; Version: 202505081016
+; Version: 202505081116
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42058
-; Last modified: 2025-05-08T10:16:07+0000
+; Entries: 42060
+; Last modified: 2025-05-08T11:16:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746698404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746702001 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -35631,6 +35631,8 @@ topsites24.de CNAME .
 *.topsites24.de CNAME .
 topstransbrasil.com.br CNAME .
 *.topstransbrasil.com.br CNAME .
+topteens.link CNAME .
+*.topteens.link CNAME .
 topteensex.com CNAME .
 *.topteensex.com CNAME .
 toptencams.com CNAME .
