@@ -1,9 +1,9 @@
-; Version: 202505072310
+; Version: 202505080009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88436
-; Last modified: 2025-05-07T23:10:16+0000
+; Entries: 88420
+; Last modified: 2025-05-08T00:09:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746658801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746662403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -933,8 +933,6 @@ $TTL 30
 *.222aa333bb.com CNAME .
 224cc86d.xyz CNAME .
 *.224cc86d.xyz CNAME .
-22a008da69.com CNAME .
-*.22a008da69.com CNAME .
 22b664d9ce.com CNAME .
 *.22b664d9ce.com CNAME .
 22blqkmkg.de CNAME .
@@ -3223,8 +3221,6 @@ a.csfd.cz CNAME .
 *.a.csfd.cz CNAME .
 a.cylek.site CNAME .
 *.a.cylek.site CNAME .
-a.dboobs.tv CNAME .
-*.a.dboobs.tv CNAME .
 a.ddli.jp CNAME .
 *.a.ddli.jp CNAME .
 a.deadlinefunnel.com CNAME .
@@ -10297,8 +10293,6 @@ anaemiaperceivedverge.com CNAME .
 *.anaemiaperceivedverge.com CNAME .
 anaheimarider.shop CNAME .
 *.anaheimarider.shop CNAME .
-anahitagirted.uno CNAME .
-*.anahitagirted.uno CNAME .
 anahtars.com CNAME .
 *.anahtars.com CNAME .
 anal-acrobats.com CNAME .
@@ -17343,8 +17337,6 @@ bothoorgoamsab.net CNAME .
 *.bothoorgoamsab.net CNAME .
 bothpersonality.com CNAME .
 *.bothpersonality.com CNAME .
-bothsemicolon.com CNAME .
-*.bothsemicolon.com CNAME .
 bothwest.pro CNAME .
 *.bothwest.pro CNAME .
 botkano.info CNAME .
@@ -27447,8 +27439,6 @@ daiwhesho.com CNAME .
 *.daiwhesho.com CNAME .
 daizoode.com CNAME .
 *.daizoode.com CNAME .
-dajiahao3.top CNAME .
-*.dajiahao3.top CNAME .
 dajswiacllfy.com CNAME .
 *.dajswiacllfy.com CNAME .
 dajtamnrat.com CNAME .
@@ -40625,8 +40615,6 @@ hercockremarke.info CNAME .
 *.hercockremarke.info CNAME .
 herconsequence.com CNAME .
 *.herconsequence.com CNAME .
-herdethi.net CNAME .
-*.herdethi.net CNAME .
 herdicchilla.shop CNAME .
 *.herdicchilla.shop CNAME .
 herdmenrations.com CNAME .
@@ -72187,8 +72175,6 @@ squadapologiesscalp.com CNAME .
 *.squadapologiesscalp.com CNAME .
 square-direction.com CNAME .
 *.square-direction.com CNAME .
-squarkpygidia.com CNAME .
-*.squarkpygidia.com CNAME .
 squashclatter.com CNAME .
 *.squashclatter.com CNAME .
 squashwithholdcame.com CNAME .
@@ -81041,8 +81027,6 @@ unmistdistune.guru CNAME .
 *.unmistdistune.guru CNAME .
 unmutedharls.com CNAME .
 *.unmutedharls.com CNAME .
-unnecessarydispleasedleak.com CNAME .
-*.unnecessarydispleasedleak.com CNAME .
 unoblotto.net CNAME .
 *.unoblotto.net CNAME .
 unoptedcoupe.top CNAME .
