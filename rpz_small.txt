@@ -1,9 +1,9 @@
-; Version: 202505081111
+; Version: 202505081211
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88402
-; Last modified: 2025-05-08T11:11:22+0000
+; Entries: 88394
+; Last modified: 2025-05-08T12:11:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746702001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746705601 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32843,8 +32843,6 @@ eresultedinncre.info CNAME .
 *.eresultedinncre.info CNAME .
 ereyoumate.org CNAME .
 *.ereyoumate.org CNAME .
-erfoslajxhoc.com CNAME .
-*.erfoslajxhoc.com CNAME .
 erg.ihclam.cn CNAME .
 *.erg.ihclam.cn CNAME .
 ergadx.com CNAME .
@@ -52065,8 +52063,6 @@ mislaidshakos.shop CNAME .
 *.mislaidshakos.shop CNAME .
 misputidemetome.com CNAME .
 *.misputidemetome.com CNAME .
-missaidcanopid.shop CNAME .
-*.missaidcanopid.shop CNAME .
 missaliambize.shop CNAME .
 *.missaliambize.shop CNAME .
 misselchyme.shop CNAME .
@@ -81239,8 +81235,6 @@ uponsurskita.com CNAME .
 *.uponsurskita.com CNAME .
 upontogeticr.com CNAME .
 *.upontogeticr.com CNAME .
-uposnmb.icu CNAME .
-*.uposnmb.icu CNAME .
 upperseeker.com CNAME .
 *.upperseeker.com CNAME .
 uppsyduckan.com CNAME .
@@ -86669,8 +86663,6 @@ xn--u1aaw.xn--p1ai CNAME .
 *.xn--u1aaw.xn--p1ai CNAME .
 xn--w9q675dm1p7em.net CNAME .
 *.xn--w9q675dm1p7em.net CNAME .
-xn860wu.vlxue.cn CNAME .
-*.xn860wu.vlxue.cn CNAME .
 xnoztzcdyawlx.love CNAME .
 *.xnoztzcdyawlx.love CNAME .
 xoarmpftxu.com CNAME .
