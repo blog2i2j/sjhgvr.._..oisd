@@ -1,9 +1,9 @@
-; Version: 202505081010
+; Version: 202505081111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88408
-; Last modified: 2025-05-08T10:10:59+0000
+; Entries: 88402
+; Last modified: 2025-05-08T11:11:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746698404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746702001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -44329,8 +44329,6 @@ jackpotcollation.com CNAME .
 *.jackpotcollation.com CNAME .
 jackpotcontribute.com CNAME .
 *.jackpotcontribute.com CNAME .
-jacksonours.com CNAME .
-*.jacksonours.com CNAME .
 jaclottens.live CNAME .
 *.jaclottens.live CNAME .
 jacmolta.com CNAME .
@@ -46387,8 +46385,6 @@ kocairdo.net CNAME .
 *.kocairdo.net CNAME .
 kochiayaboo.top CNAME .
 *.kochiayaboo.top CNAME .
-kodmagic1.me CNAME .
-*.kodmagic1.me CNAME .
 kogutcho.net CNAME .
 *.kogutcho.net CNAME .
 koi.artsvp.co CNAME .
@@ -61345,8 +61341,6 @@ pphlobola.shop CNAME .
 *.pphlobola.shop CNAME .
 ppi.terra.com.br CNAME .
 *.ppi.terra.com.br CNAME .
-ppimdog.com CNAME .
-*.ppimdog.com CNAME .
 pplkrh.xyz CNAME .
 *.pplkrh.xyz CNAME .
 pppbr.com CNAME .
