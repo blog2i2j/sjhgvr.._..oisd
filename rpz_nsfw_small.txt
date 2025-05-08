@@ -1,9 +1,9 @@
-; Version: 202505081116
+; Version: 202505081216
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 42060
-; Last modified: 2025-05-08T11:16:28+0000
+; Last modified: 2025-05-08T12:16:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746702001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746705601 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -21807,6 +21807,8 @@ mkiska.net CNAME .
 *.mkiska.net CNAME .
 mkiska.vip CNAME .
 *.mkiska.vip CNAME .
+mkiska.xyz CNAME .
+*.mkiska.xyz CNAME .
 mlive8.com CNAME .
 *.mlive8.com CNAME .
 mlivevk.com CNAME .
@@ -25203,8 +25205,6 @@ phimsex93.pro CNAME .
 *.phimsex93.pro CNAME .
 phimsexapp.net CNAME .
 *.phimsexapp.net CNAME .
-phimsexasia.net CNAME .
-*.phimsexasia.net CNAME .
 phimsexau.net CNAME .
 *.phimsexau.net CNAME .
 phimsexcap2.pro CNAME .
