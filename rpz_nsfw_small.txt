@@ -1,9 +1,9 @@
-; Version: 202505081917
+; Version: 202505082117
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42062
-; Last modified: 2025-05-08T19:17:46+0000
+; Entries: 42060
+; Last modified: 2025-05-08T21:17:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746730802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746738005 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -20129,8 +20129,6 @@ loved.porn CNAME .
 *.loved.porn CNAME .
 lovefootjob.com CNAME .
 *.lovefootjob.com CNAME .
-lovegirls.cam CNAME .
-*.lovegirls.cam CNAME .
 loveh.org CNAME .
 *.loveh.org CNAME .
 loveherboobs.com CNAME .
