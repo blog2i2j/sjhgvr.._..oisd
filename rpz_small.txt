@@ -1,9 +1,9 @@
-; Version: 202505081611
+; Version: 202505081711
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88350
-; Last modified: 2025-05-08T16:11:42+0000
+; Entries: 88334
+; Last modified: 2025-05-08T17:11:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746720003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746723602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15909,8 +15909,6 @@ berp.com CNAME .
 *.berp.com CNAME .
 berriesstring.com CNAME .
 *.berriesstring.com CNAME .
-berryheight.com CNAME .
-*.berryheight.com CNAME .
 berryhillfarmgwent.com CNAME .
 *.berryhillfarmgwent.com CNAME .
 berthashuzzard.shop CNAME .
@@ -34757,8 +34755,6 @@ fetanews.com CNAME .
 *.fetanews.com CNAME .
 fetchergumdrop.com CNAME .
 *.fetchergumdrop.com CNAME .
-fetidgossipleaflets.com CNAME .
-*.fetidgossipleaflets.com CNAME .
 feturequalms.shop CNAME .
 *.feturequalms.shop CNAME .
 feuageepitoke.com CNAME .
@@ -41975,8 +41971,6 @@ hw-ot-ad.a.yximgs.com CNAME .
 *.hw-ot-ad.a.yximgs.com CNAME .
 hwa.his.huawei.com CNAME .
 *.hwa.his.huawei.com CNAME .
-hwhqbjhrqekbvh.com CNAME .
-*.hwhqbjhrqekbvh.com CNAME .
 hwpnocpctu.com CNAME .
 *.hwpnocpctu.com CNAME .
 hwtadf.icu CNAME .
@@ -44379,8 +44373,6 @@ janitorhalfchronicle.com CNAME .
 *.janitorhalfchronicle.com CNAME .
 janitorprecisiontrio.com CNAME .
 *.janitorprecisiontrio.com CNAME .
-januaryprinter.com CNAME .
-*.januaryprinter.com CNAME .
 japanbros.com CNAME .
 *.japanbros.com CNAME .
 japanhotties.jp CNAME .
@@ -58425,8 +58417,6 @@ pahtwt.tech CNAME .
 *.pahtwt.tech CNAME .
 pahtzh.tech CNAME .
 *.pahtzh.tech CNAME .
-paibauwho.com CNAME .
-*.paibauwho.com CNAME .
 paid.outbrain.com CNAME .
 *.paid.outbrain.com CNAME .
 paiglumousty.net CNAME .
@@ -66285,8 +66275,6 @@ rofant.com CNAME .
 *.rofant.com CNAME .
 rofitstefukhatexc.com CNAME .
 *.rofitstefukhatexc.com CNAME .
-rofxiufqch.com CNAME .
-*.rofxiufqch.com CNAME .
 roguehideevening.com CNAME .
 *.roguehideevening.com CNAME .
 roharoagloh.net CNAME .
@@ -77861,8 +77849,6 @@ tqjojh.icu CNAME .
 *.tqjojh.icu CNAME .
 tqlqfhmvainmn.one CNAME .
 *.tqlqfhmvainmn.one CNAME .
-tqnupxrwvo.com CNAME .
-*.tqnupxrwvo.com CNAME .
 tqrgivpfygemxft.com CNAME .
 *.tqrgivpfygemxft.com CNAME .
 tr-boost.com CNAME .
@@ -88197,8 +88183,6 @@ zqjljeyqbejrb.top CNAME .
 *.zqjljeyqbejrb.top CNAME .
 zqkxlf.com CNAME .
 *.zqkxlf.com CNAME .
-zqpztal.com CNAME .
-*.zqpztal.com CNAME .
 zqvee2re50mr.com CNAME .
 *.zqvee2re50mr.com CNAME .
 zrakos.com CNAME .
