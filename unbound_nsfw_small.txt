@@ -1,9 +1,9 @@
-# Version: 202505072315
+# Version: 202505080014
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21027
-# Last modified: 2025-05-07T23:15:07+0000
+# Entries: 21028
+# Last modified: 2025-05-08T00:14:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11499,6 +11499,7 @@ local-zone: "namethatpornad.com." always_null
 local-zone: "namethatporno.com." always_null
 local-zone: "namethatpornstar.com." always_null
 local-zone: "namjai.net." always_null
+local-zone: "nan.co.jp." always_null
 local-zone: "nangcuc.live." always_null
 local-zone: "nangcuc.tel." always_null
 local-zone: "nangiphotos.com." always_null
