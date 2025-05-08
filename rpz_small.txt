@@ -1,9 +1,9 @@
-; Version: 202505080853
+; Version: 202505081010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88412
-; Last modified: 2025-05-08T08:53:20+0000
+; Entries: 88408
+; Last modified: 2025-05-08T10:10:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746691202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746698404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -54379,8 +54379,6 @@ newbluetrue.xyz CNAME .
 *.newbluetrue.xyz CNAME .
 newbornprayerseagle.com CNAME .
 *.newbornprayerseagle.com CNAME .
-newcagblkyuyh.com CNAME .
-*.newcagblkyuyh.com CNAME .
 newcategory.pro CNAME .
 *.newcategory.pro CNAME .
 newdisplayformats.com CNAME .
@@ -61067,8 +61065,6 @@ popularmedia.net CNAME .
 *.popularmedia.net CNAME .
 populartooth.com CNAME .
 *.populartooth.com CNAME .
-populationencouragingunsuccessful.com CNAME .
-*.populationencouragingunsuccessful.com CNAME .
 populationrind.com CNAME .
 *.populationrind.com CNAME .
 populationstring.com CNAME .
