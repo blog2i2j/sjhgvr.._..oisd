@@ -1,9 +1,9 @@
-; Version: 202505081711
+; Version: 202505081812
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88334
-; Last modified: 2025-05-08T17:11:19+0000
+; Entries: 88326
+; Last modified: 2025-05-08T18:12:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746723602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746727201 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20515,8 +20515,6 @@ cheapererred.click CNAME .
 *.cheapererred.click CNAME .
 cheatingagricultural.com CNAME .
 *.cheatingagricultural.com CNAME .
-cheatinghans.com CNAME .
-*.cheatinghans.com CNAME .
 checbox.cc CNAME .
 *.checbox.cc CNAME .
 check-now.online CNAME .
@@ -24721,8 +24719,6 @@ cygnus.com CNAME .
 *.cygnus.com CNAME .
 cyksmcjfyyxxu.rocks CNAME .
 *.cyksmcjfyyxxu.rocks CNAME .
-cylnkee.com CNAME .
-*.cylnkee.com CNAME .
 cymeletmetin.click CNAME .
 *.cymeletmetin.click CNAME .
 cyneburg-yam.com CNAME .
@@ -41895,8 +41891,6 @@ hupot.site CNAME .
 *.hupot.site CNAME .
 huqbeiy.com CNAME .
 *.huqbeiy.com CNAME .
-hur05071kns.com CNAME .
-*.hur05071kns.com CNAME .
 hurdlesomehowpause.com CNAME .
 *.hurdlesomehowpause.com CNAME .
 hurkarubypaths.com CNAME .
@@ -83089,8 +83083,6 @@ vvdrhe.win CNAME .
 *.vvdrhe.win CNAME .
 vvfgjzwa.icu CNAME .
 *.vvfgjzwa.icu CNAME .
-vvmkzawomeywq.top CNAME .
-*.vvmkzawomeywq.top CNAME .
 vvprcztaw.com CNAME .
 *.vvprcztaw.com CNAME .
 vvrgyaoymtf.com CNAME .
