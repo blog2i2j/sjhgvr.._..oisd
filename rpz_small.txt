@@ -1,9 +1,9 @@
-; Version: 202505080409
+; Version: 202505080510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88392
-; Last modified: 2025-05-08T04:09:27+0000
+; Entries: 88388
+; Last modified: 2025-05-08T05:10:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746676805 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746680403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -23077,8 +23077,6 @@ conveniencepickedegoism.com CNAME .
 *.conveniencepickedegoism.com CNAME .
 convenientcertificate.com CNAME .
 *.convenientcertificate.com CNAME .
-conventional-nurse.pro CNAME .
-*.conventional-nurse.pro CNAME .
 conventionalrestaurant.com CNAME .
 *.conventionalrestaurant.com CNAME .
 conventionalsecond.pro CNAME .
@@ -81329,8 +81327,6 @@ urgentprotections.com CNAME .
 *.urgentprotections.com CNAME .
 urimnugocfr.com CNAME .
 *.urimnugocfr.com CNAME .
-urinebladdernovember.com CNAME .
-*.urinebladdernovember.com CNAME .
 urinousbiriba.com CNAME .
 *.urinousbiriba.com CNAME .
 urjvnagk.com CNAME .
