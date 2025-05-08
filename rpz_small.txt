@@ -1,9 +1,9 @@
-; Version: 202505081411
+; Version: 202505081511
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88364
-; Last modified: 2025-05-08T14:11:33+0000
+; Entries: 88360
+; Last modified: 2025-05-08T15:11:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746712803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746716404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -37725,8 +37725,6 @@ gggpnuppr.com CNAME .
 *.gggpnuppr.com CNAME .
 gggtrenks.com CNAME .
 *.gggtrenks.com CNAME .
-ggjqqmwwolbmhkr.com CNAME .
-*.ggjqqmwwolbmhkr.com CNAME .
 ggjs.d17.cc CNAME .
 *.ggjs.d17.cc CNAME .
 gglnntqufw.life CNAME .
@@ -41917,8 +41915,6 @@ hurlyzamorin.top CNAME .
 *.hurlyzamorin.top CNAME .
 huronews.com CNAME .
 *.huronews.com CNAME .
-hurricanedigitalmedia.com CNAME .
-*.hurricanedigitalmedia.com CNAME .
 hurriedboob.com CNAME .
 *.hurriedboob.com CNAME .
 hurriedcomae.com CNAME .
