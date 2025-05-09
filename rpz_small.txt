@@ -1,9 +1,9 @@
-; Version: 202505090110
+; Version: 202505090209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88346
-; Last modified: 2025-05-09T01:10:05+0000
+; Entries: 88328
+; Last modified: 2025-05-09T02:09:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746752402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746756002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9433,8 +9433,6 @@ algat.intergoles.me CNAME .
 *.algat.intergoles.me CNAME .
 algerianembassy.co.in CNAME .
 *.algerianembassy.co.in CNAME .
-algiersreests.com CNAME .
-*.algiersreests.com CNAME .
 algo.creepingbrings.com CNAME .
 *.algo.creepingbrings.com CNAME .
 algodon.net CNAME .
@@ -11781,8 +11779,6 @@ aphid.smartjournal.no CNAME .
 *.aphid.smartjournal.no CNAME .
 aphizoguntaken.click CNAME .
 *.aphizoguntaken.click CNAME .
-aphodustwibils.com CNAME .
-*.aphodustwibils.com CNAME .
 aphrodisia01.free.fr CNAME .
 *.aphrodisia01.free.fr CNAME .
 api-a.op-mobile.opera.com CNAME .
@@ -31953,8 +31949,6 @@ ef6c4fca52.3dcca6931d.com CNAME .
 *.ef6c4fca52.3dcca6931d.com CNAME .
 ef9i0f3oev47.com CNAME .
 *.ef9i0f3oev47.com CNAME .
-efanyorgagetni.info CNAME .
-*.efanyorgagetni.info CNAME .
 efdjelx.com CNAME .
 *.efdjelx.com CNAME .
 efef322148.com CNAME .
@@ -32081,8 +32075,6 @@ ei1s7b.cn CNAME .
 *.ei1s7b.cn CNAME .
 eidersalias.com CNAME .
 *.eidersalias.com CNAME .
-eidersrettory.com CNAME .
-*.eidersrettory.com CNAME .
 eidoscruster.com CNAME .
 *.eidoscruster.com CNAME .
 eikegolehem.com CNAME .
@@ -44981,8 +44973,6 @@ joinpropeller.com CNAME .
 *.joinpropeller.com CNAME .
 joinsportsnow.com CNAME .
 *.joinsportsnow.com CNAME .
-jojqyxrmh.com CNAME .
-*.jojqyxrmh.com CNAME .
 jokersguaiac.shop CNAME .
 *.jokersguaiac.shop CNAME .
 jolecyclist.com CNAME .
@@ -49515,8 +49505,6 @@ loverevenue.com CNAME .
 *.loverevenue.com CNAME .
 loverfellow.com CNAME .
 *.loverfellow.com CNAME .
-loverssloppy.com CNAME .
-*.loverssloppy.com CNAME .
 lovescontactthemeetup.com CNAME .
 *.lovescontactthemeetup.com CNAME .
 lovesparkle.space CNAME .
@@ -51409,8 +51397,6 @@ mericantpastellih.org CNAME .
 *.mericantpastellih.org CNAME .
 mericefem.shop CNAME .
 *.mericefem.shop CNAME .
-meritabroadauthor.com CNAME .
-*.meritabroadauthor.com CNAME .
 merterpazar.com CNAME .
 *.merterpazar.com CNAME .
 meshsensorcuriosity.com CNAME .
@@ -68985,8 +68971,6 @@ seenportnan.live CNAME .
 *.seenportnan.live CNAME .
 seeonderfulstatue.com CNAME .
 *.seeonderfulstatue.com CNAME .
-seepsocu.net CNAME .
-*.seepsocu.net CNAME .
 seeptoafuko.com CNAME .
 *.seeptoafuko.com CNAME .
 seeptoag.net CNAME .
@@ -87261,8 +87245,6 @@ ymehnthakutyfor.com CNAME .
 *.ymehnthakutyfor.com CNAME .
 ymewsu.xyz CNAME .
 *.ymewsu.xyz CNAME .
-ymfmfkxytgxc.com CNAME .
-*.ymfmfkxytgxc.com CNAME .
 ymprove.gmx.net CNAME .
 *.ymprove.gmx.net CNAME .
 ymprove.web.de CNAME .
