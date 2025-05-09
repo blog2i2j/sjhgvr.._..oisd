@@ -1,9 +1,9 @@
-# Version: 202505092114
+# Version: 202505092313
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21031
-# Last modified: 2025-05-09T21:14:07+0000
+# Entries: 21032
+# Last modified: 2025-05-09T23:13:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -185,6 +185,7 @@ local=/24pornvideos.tv/
 local=/24rolika.ru/
 local=/24video.lol/
 local=/24video.one/
+local=/24video.porn/
 local=/24videos.cc/
 local=/24wink.com/
 local=/24xxx-x.com/
