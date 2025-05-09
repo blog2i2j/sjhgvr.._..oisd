@@ -1,9 +1,9 @@
-; Version: 202505090928
+; Version: 202505091013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42124
-; Last modified: 2025-05-09T09:28:48+0000
+; Entries: 42126
+; Last modified: 2025-05-09T10:13:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746781203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746784803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -4939,6 +4939,8 @@ bokepindosex.space CNAME .
 *.bokepindosex.space CNAME .
 bokepjilbab.cc CNAME .
 *.bokepjilbab.cc CNAME .
+bokepkamu.com CNAME .
+*.bokepkamu.com CNAME .
 bokeplay.com CNAME .
 *.bokeplay.com CNAME .
 bokepmontok.com CNAME .
