@@ -1,9 +1,9 @@
-; Version: 202505082311
+; Version: 202505090009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88394
-; Last modified: 2025-05-08T23:11:10+0000
+; Entries: 88368
+; Last modified: 2025-05-09T00:09:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746745202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746748807 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17187,8 +17187,6 @@ boodaisi.xyz CNAME .
 *.boodaisi.xyz CNAME .
 boodiecawquaw.top CNAME .
 *.boodiecawquaw.top CNAME .
-boodybasalt.com CNAME .
-*.boodybasalt.com CNAME .
 boogopee.com CNAME .
 *.boogopee.com CNAME .
 bookadil.com CNAME .
@@ -30691,8 +30689,6 @@ dtprofit.com CNAME .
 *.dtprofit.com CNAME .
 dtq9oy2ckjhxu.cloudfront.net CNAME .
 *.dtq9oy2ckjhxu.cloudfront.net CNAME .
-dtqpbcylhw.com CNAME .
-*.dtqpbcylhw.com CNAME .
 dtr-onsite-feed.datarize.ai CNAME .
 *.dtr-onsite-feed.datarize.ai CNAME .
 dtrurjpkugcsv.tech CNAME .
@@ -31597,8 +31593,6 @@ ebooktheft.com CNAME .
 *.ebooktheft.com CNAME .
 ebp.renren.com CNAME .
 *.ebp.renren.com CNAME .
-ebrid.cn CNAME .
-*.ebrid.cn CNAME .
 eburnaboost.top CNAME .
 *.eburnaboost.top CNAME .
 eburnahornito.shop CNAME .
@@ -32357,8 +32351,6 @@ emeriedlimmock.shop CNAME .
 *.emeriedlimmock.shop CNAME .
 emeryexcel.click CNAME .
 *.emeryexcel.click CNAME .
-emifkodfq.com CNAME .
-*.emifkodfq.com CNAME .
 emigrantbeasts.com CNAME .
 *.emigrantbeasts.com CNAME .
 emigrantmovements.com CNAME .
@@ -32583,8 +32575,6 @@ enoliccoacted.shop CNAME .
 *.enoliccoacted.shop CNAME .
 enoratraffic.com CNAME .
 *.enoratraffic.com CNAME .
-enormous-society.pro CNAME .
-*.enormous-society.pro CNAME .
 enormouslynotary.com CNAME .
 *.enormouslynotary.com CNAME .
 enot.fyi CNAME .
@@ -37881,8 +37871,6 @@ gimea.site CNAME .
 *.gimea.site CNAME .
 gimes.site CNAME .
 *.gimes.site CNAME .
-gimet.site CNAME .
-*.gimet.site CNAME .
 gimme-promo.com CNAME .
 *.gimme-promo.com CNAME .
 gimmicked25.fun CNAME .
@@ -38997,8 +38985,6 @@ gratefulexamination.com CNAME .
 *.gratefulexamination.com CNAME .
 gratificationdesperate.com CNAME .
 *.gratificationdesperate.com CNAME .
-gratificationopenlyseeds.com CNAME .
-*.gratificationopenlyseeds.com CNAME .
 gratifiedfemalesfunky.com CNAME .
 *.gratifiedfemalesfunky.com CNAME .
 gratifiedsacrificetransformation.com CNAME .
@@ -42277,8 +42263,6 @@ ibeat.indiatimes.com CNAME .
 *.ibeat.indiatimes.com CNAME .
 ibeeckaidse.net CNAME .
 *.ibeeckaidse.net CNAME .
-ibexabray.com CNAME .
-*.ibexabray.com CNAME .
 ibidemkorari.com CNAME .
 *.ibidemkorari.com CNAME .
 ibikini.cyou CNAME .
@@ -58887,8 +58871,6 @@ parumal.com CNAME .
 *.parumal.com CNAME .
 parvuliremue.top CNAME .
 *.parvuliremue.top CNAME .
-parwiderunder.com CNAME .
-*.parwiderunder.com CNAME .
 pas-rahav.com CNAME .
 *.pas-rahav.com CNAME .
 pasbstbovc.com CNAME .
@@ -61517,8 +61499,6 @@ predownset.shop CNAME .
 *.predownset.shop CNAME .
 predrawfixed.top CNAME .
 *.predrawfixed.top CNAME .
-prefecturesolelysadness.com CNAME .
-*.prefecturesolelysadness.com CNAME .
 prefecturesuggestions.com CNAME .
 *.prefecturesuggestions.com CNAME .
 preferablycarbon.com CNAME .
@@ -68275,8 +68255,6 @@ sanme2.taisantech.com CNAME .
 *.sanme2.taisantech.com CNAME .
 sanoithmefeyau.com CNAME .
 *.sanoithmefeyau.com CNAME .
-sansaradivulse.com CNAME .
-*.sansaradivulse.com CNAME .
 sanseemp.com CNAME .
 *.sanseemp.com CNAME .
 santonpardal.com CNAME .
@@ -76615,8 +76593,6 @@ thiltoocmom.com CNAME .
 *.thiltoocmom.com CNAME .
 thimblehaltedbounce.com CNAME .
 *.thimblehaltedbounce.com CNAME .
-thimhudlop.com CNAME .
-*.thimhudlop.com CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 *.thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 thingstorrent.com CNAME .
@@ -80953,8 +80929,6 @@ unityads.unity3d.com CNAME .
 *.unityads.unity3d.com CNAME .
 universal.wgplayer.com CNAME .
 *.universal.wgplayer.com CNAME .
-universalappend.com CNAME .
-*.universalappend.com CNAME .
 universalsrc.com CNAME .
 *.universalsrc.com CNAME .
 universaltrout.com CNAME .
