@@ -1,9 +1,9 @@
-; Version: 202505101509
+; Version: 202505101626
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88962
-; Last modified: 2025-05-10T15:09:44+0000
+; Entries: 88954
+; Last modified: 2025-05-10T16:26:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746889201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746892803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17593,8 +17593,6 @@ braidrainhypocrite.com CNAME .
 *.braidrainhypocrite.com CNAME .
 braidsagria.com CNAME .
 *.braidsagria.com CNAME .
-braidsmbalolo.top CNAME .
-*.braidsmbalolo.top CNAME .
 brainberries.co CNAME .
 *.brainberries.co CNAME .
 braincash.com CNAME .
@@ -20013,10 +20011,14 @@ cdn.vinit.cloud CNAME .
 *.cdn.vinit.cloud CNAME .
 cdn.wuyou.ca CNAME .
 *.cdn.wuyou.ca CNAME .
+cdn.wwfx.xyz CNAME .
+*.cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
 *.cdn.xbcpcn.com CNAME .
 cdn.xpln.tech CNAME .
 *.cdn.xpln.tech CNAME .
+cdn.zxclan.com CNAME .
+*.cdn.zxclan.com CNAME .
 cdn1.lp.saboom.com CNAME .
 *.cdn1.lp.saboom.com CNAME .
 cdn1.memojav.com CNAME .
@@ -28457,8 +28459,6 @@ dehua.ixinfan.com CNAME .
 *.dehua.ixinfan.com CNAME .
 deicticwidgie.shop CNAME .
 *.deicticwidgie.shop CNAME .
-deimosfestuca.com CNAME .
-*.deimosfestuca.com CNAME .
 deisd5o6v8rgq.cloudfront.net CNAME .
 *.deisd5o6v8rgq.cloudfront.net CNAME .
 deismpaho.com CNAME .
@@ -48031,8 +48031,6 @@ lfflvh.icu CNAME .
 *.lfflvh.icu CNAME .
 lfhqslstrnkcd.com CNAME .
 *.lfhqslstrnkcd.com CNAME .
-lflcbcb.com CNAME .
-*.lflcbcb.com CNAME .
 lfmcxivswsbenec.com CNAME .
 *.lfmcxivswsbenec.com CNAME .
 lfmetrics.loyalfans.com CNAME .
@@ -53523,6 +53521,8 @@ mstat.acestream.net CNAME .
 *.mstat.acestream.net CNAME .
 mstm.motorsport.com CNAME .
 *.mstm.motorsport.com CNAME .
+mt.deimosfestuca.com CNAME .
+*.mt.deimosfestuca.com CNAME .
 mt.gigazine.net CNAME .
 *.mt.gigazine.net CNAME .
 mt.ssai.peacocktv.com CNAME .
@@ -83713,8 +83713,6 @@ vyfrxuytzn.com CNAME .
 *.vyfrxuytzn.com CNAME .
 vyhxugizkaktg.tech CNAME .
 *.vyhxugizkaktg.tech CNAME .
-vymybkyrzvwyj.top CNAME .
-*.vymybkyrzvwyj.top CNAME .
 vyocqq.com CNAME .
 *.vyocqq.com CNAME .
 vyomkbmowzmzm.top CNAME .
@@ -85937,12 +85935,8 @@ wwbdayuvbvrsr.rocks CNAME .
 *.wwbdayuvbvrsr.rocks CNAME .
 wwenifnijjpi.com CNAME .
 *.wwenifnijjpi.com CNAME .
-wwfx.xyz CNAME .
-*.wwfx.xyz CNAME .
 wwija.com CNAME .
 *.wwija.com CNAME .
-wwjnoafuexamtg.com CNAME .
-*.wwjnoafuexamtg.com CNAME .
 wwowww.xyz CNAME .
 *.wwowww.xyz CNAME .
 wwpon365.ru CNAME .
@@ -88921,8 +88915,6 @@ zx.docin.com CNAME .
 *.zx.docin.com CNAME .
 zxcdn.com CNAME .
 *.zxcdn.com CNAME .
-zxclan.com CNAME .
-*.zxclan.com CNAME .
 zxcvbnmasdfghjklqwertyuiop.work CNAME .
 *.zxcvbnmasdfghjklqwertyuiop.work CNAME .
 zxqiwe.cn CNAME .
