@@ -1,9 +1,9 @@
-; Version: 202505100208
+; Version: 202505100308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88826
-; Last modified: 2025-05-10T02:08:31+0000
+; Entries: 88822
+; Last modified: 2025-05-10T03:08:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746842401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746846002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17571,8 +17571,6 @@ brackenclomped.com CNAME .
 *.brackenclomped.com CNAME .
 bracketauthorizedportray.com CNAME .
 *.bracketauthorizedportray.com CNAME .
-bractepizzoa.com CNAME .
-*.bractepizzoa.com CNAME .
 bradleyincorrect.com CNAME .
 *.bradleyincorrect.com CNAME .
 braflipperstense.com CNAME .
@@ -50257,8 +50255,6 @@ lzoorgpta.com CNAME .
 *.lzoorgpta.com CNAME .
 lzukrobrykk.com CNAME .
 *.lzukrobrykk.com CNAME .
-lzvwybvvyrqyk.top CNAME .
-*.lzvwybvvyrqyk.top CNAME .
 lzxdx24yib.com CNAME .
 *.lzxdx24yib.com CNAME .
 lzzqfj.xyz CNAME .
