@@ -1,9 +1,9 @@
-; Version: 202505100609
+; Version: 202505100709
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88784
-; Last modified: 2025-05-10T06:09:02+0000
+; Entries: 88776
+; Last modified: 2025-05-10T07:09:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746856802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746860403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19019,8 +19019,6 @@ calmbytedishwater.com CNAME .
 *.calmbytedishwater.com CNAME .
 calmlyilldollars.com CNAME .
 *.calmlyilldollars.com CNAME .
-calmlyvacuumwidth.com CNAME .
-*.calmlyvacuumwidth.com CNAME .
 calomelsiti.com CNAME .
 *.calomelsiti.com CNAME .
 caltertangintin.com CNAME .
@@ -24353,8 +24351,6 @@ crtracklink.com CNAME .
 *.crtracklink.com CNAME .
 crtv.mate1.com CNAME .
 *.crtv.mate1.com CNAME .
-crudelouisa.com CNAME .
-*.crudelouisa.com CNAME .
 crudemonarchychill.com CNAME .
 *.crudemonarchychill.com CNAME .
 crudenessfinishersacred.com CNAME .
@@ -50143,8 +50139,6 @@ lxiapwwqfcbms.tech CNAME .
 *.lxiapwwqfcbms.tech CNAME .
 lxkzcss.xyz CNAME .
 *.lxkzcss.xyz CNAME .
-lxlpoydodf.com CNAME .
-*.lxlpoydodf.com CNAME .
 lxnkuie.com CNAME .
 *.lxnkuie.com CNAME .
 lxoycrhawqjvk.com CNAME .
@@ -83401,8 +83395,6 @@ vtabnalp.net CNAME .
 *.vtabnalp.net CNAME .
 vtbkhl.icu CNAME .
 *.vtbkhl.icu CNAME .
-vteflygt.com CNAME .
-*.vteflygt.com CNAME .
 vtipsgwmhwflc.com CNAME .
 *.vtipsgwmhwflc.com CNAME .
 vtjbnb.xyz CNAME .
