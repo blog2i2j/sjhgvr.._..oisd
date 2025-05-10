@@ -1,9 +1,9 @@
-; Version: 202505101709
+; Version: 202505101810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88944
-; Last modified: 2025-05-10T17:09:57+0000
+; Entries: 88930
+; Last modified: 2025-05-10T18:10:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746896402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746900001 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16677,8 +16677,6 @@ bl.wavecdn.de CNAME .
 *.bl.wavecdn.de CNAME .
 bl230126pb.com CNAME .
 *.bl230126pb.com CNAME .
-blabbasket.com CNAME .
-*.blabbasket.com CNAME .
 black6adv.com CNAME .
 *.black6adv.com CNAME .
 black77854.com CNAME .
@@ -18311,8 +18309,6 @@ burgeraphrite.top CNAME .
 *.burgeraphrite.top CNAME .
 burgerrelationscrash.com CNAME .
 *.burgerrelationscrash.com CNAME .
-burglaryrunner.com CNAME .
-*.burglaryrunner.com CNAME .
 burialgrief.com CNAME .
 *.burialgrief.com CNAME .
 burialsupple.com CNAME .
@@ -32099,8 +32095,6 @@ eertoamogn.net CNAME .
 *.eertoamogn.net CNAME .
 eesidesukbeingaj.com CNAME .
 *.eesidesukbeingaj.com CNAME .
-eesnfoxhh.com CNAME .
-*.eesnfoxhh.com CNAME .
 eessoong.com CNAME .
 *.eessoong.com CNAME .
 eetazicmee.net CNAME .
@@ -47033,8 +47027,6 @@ kwanvibist.com CNAME .
 *.kwanvibist.com CNAME .
 kwbgmufi.com CNAME .
 *.kwbgmufi.com CNAME .
-kwdflqos.com CNAME .
-*.kwdflqos.com CNAME .
 kwlotting.shop CNAME .
 *.kwlotting.shop CNAME .
 kwqmugaonqtqa.com CNAME .
@@ -67995,8 +67987,6 @@ ryeprior.com CNAME .
 *.ryeprior.com CNAME .
 ryeweaver.com CNAME .
 *.ryeweaver.com CNAME .
-ryhmoxhbsfxk.com CNAME .
-*.ryhmoxhbsfxk.com CNAME .
 ryllae.com CNAME .
 *.ryllae.com CNAME .
 ryminos.com CNAME .
@@ -69309,8 +69299,6 @@ seasideextinguishprinciples.com CNAME .
 *.seasideextinguishprinciples.com CNAME .
 seasx.cfd CNAME .
 *.seasx.cfd CNAME .
-seatedparanoiaenslave.com CNAME .
-*.seatedparanoiaenslave.com CNAME .
 seatrackingdomain.com CNAME .
 *.seatrackingdomain.com CNAME .
 seatsswedish.shop CNAME .
@@ -84137,8 +84125,6 @@ wbilvnmool.com CNAME .
 *.wbilvnmool.com CNAME .
 wbkdsg.xyz CNAME .
 *.wbkdsg.xyz CNAME .
-wbkfklsl.com CNAME .
-*.wbkfklsl.com CNAME .
 wbkokfwzpfuai.life CNAME .
 *.wbkokfwzpfuai.life CNAME .
 wboptim.online CNAME .
