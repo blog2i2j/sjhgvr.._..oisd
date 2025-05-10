@@ -1,9 +1,9 @@
-; Version: 202505101909
+; Version: 202505102009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88894
-; Last modified: 2025-05-10T19:09:47+0000
+; Entries: 88870
+; Last modified: 2025-05-10T20:09:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746903601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746907202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -531,8 +531,6 @@ $TTL 30
 *.15272973.xyz CNAME .
 1529462937.rsc.cdn77.org CNAME .
 *.1529462937.rsc.cdn77.org CNAME .
-1531317231.rsc.cdn77.org CNAME .
-*.1531317231.rsc.cdn77.org CNAME .
 15337f077d.2f6dbda127.com CNAME .
 *.15337f077d.2f6dbda127.com CNAME .
 153acc74fd.com CNAME .
@@ -24187,8 +24185,6 @@ credentialstrapdoormagnet.com CNAME .
 *.credentialstrapdoormagnet.com CNAME .
 creditbitesize.com CNAME .
 *.creditbitesize.com CNAME .
-credotrigona.com CNAME .
-*.credotrigona.com CNAME .
 creedthrough.com CNAME .
 *.creedthrough.com CNAME .
 creeksettingbates.com CNAME .
@@ -30697,8 +30693,6 @@ drumfailedthy.com CNAME .
 *.drumfailedthy.com CNAME .
 drumskilxoa.click CNAME .
 *.drumskilxoa.click CNAME .
-drunkendecembermediocre.com CNAME .
-*.drunkendecembermediocre.com CNAME .
 drunkindigenouswaitress.com CNAME .
 *.drunkindigenouswaitress.com CNAME .
 drvdb9rcebidk.cloudfront.net CNAME .
@@ -32377,8 +32371,6 @@ elephantdata.net CNAME .
 *.elephantdata.net CNAME .
 elephoch.com CNAME .
 *.elephoch.com CNAME .
-elewasgiwiththi.info CNAME .
-*.elewasgiwiththi.info CNAME .
 elfishtutman.click CNAME .
 *.elfishtutman.click CNAME .
 elfnuhdfebphr.life CNAME .
@@ -46271,8 +46263,6 @@ kibmswncw.com CNAME .
 *.kibmswncw.com CNAME .
 kibyglsp.top CNAME .
 *.kibyglsp.top CNAME .
-kiczrqo.com CNAME .
-*.kiczrqo.com CNAME .
 kidimportant.com CNAME .
 *.kidimportant.com CNAME .
 kidjackson.com CNAME .
@@ -52311,8 +52301,6 @@ minutedeplorable.com CNAME .
 *.minutedeplorable.com CNAME .
 minutesdevise.com CNAME .
 *.minutesdevise.com CNAME .
-mipfohaby.com CNAME .
-*.mipfohaby.com CNAME .
 miptj.space CNAME .
 *.miptj.space CNAME .
 miqorhogxc.com CNAME .
@@ -53115,8 +53103,6 @@ mopub-win-us-east.bksn.se CNAME .
 *.mopub-win-us-east.bksn.se CNAME .
 mopub.com CNAME .
 *.mopub.com CNAME .
-moqbfkfuex.com CNAME .
-*.moqbfkfuex.com CNAME .
 moqdy.icu CNAME .
 *.moqdy.icu CNAME .
 moradu.com CNAME .
@@ -54761,8 +54747,6 @@ news-getogo.com CNAME .
 *.news-getogo.com CNAME .
 news-headlines.co CNAME .
 *.news-headlines.co CNAME .
-news-jelafa.com CNAME .
-*.news-jelafa.com CNAME .
 news-place1.xyz CNAME .
 *.news-place1.xyz CNAME .
 news-portals1.xyz CNAME .
@@ -56187,8 +56171,6 @@ oasheftoaque.net CNAME .
 *.oasheftoaque.net CNAME .
 oashoard.net CNAME .
 *.oashoard.net CNAME .
-oasishonestydemented.com CNAME .
-*.oasishonestydemented.com CNAME .
 oassackegh.net CNAME .
 *.oassackegh.net CNAME .
 oassimpi.net CNAME .
@@ -56259,8 +56241,6 @@ oblfhahmy.com CNAME .
 *.oblfhahmy.com CNAME .
 obligebuffaloirresolute.com CNAME .
 *.obligebuffaloirresolute.com CNAME .
-obliterateminingarise.com CNAME .
-*.obliterateminingarise.com CNAME .
 oblivionpie.com CNAME .
 *.oblivionpie.com CNAME .
 oblivionthreatjeopardy.com CNAME .
@@ -61245,8 +61225,6 @@ political-effort.com CNAME .
 *.political-effort.com CNAME .
 politicallyartisticsocks.com CNAME .
 *.politicallyartisticsocks.com CNAME .
-politiciancuckoo.com CNAME .
-*.politiciancuckoo.com CNAME .
 polityimpetussensible.com CNAME .
 *.polityimpetussensible.com CNAME .
 pollentdalaga.shop CNAME .
@@ -83247,8 +83225,6 @@ vnie0kj3.cfd CNAME .
 *.vnie0kj3.cfd CNAME .
 vnn-tracking.vnncdn.net CNAME .
 *.vnn-tracking.vnncdn.net CNAME .
-vnpxxrqlhpre.com CNAME .
-*.vnpxxrqlhpre.com CNAME .
 vnrbjvbwbqfob.click CNAME .
 *.vnrbjvbwbqfob.click CNAME .
 vnrdmijgkcgmwu.com CNAME .
