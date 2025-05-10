@@ -1,9 +1,9 @@
-; Version: 202505100012
+; Version: 202505100212
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 42066
-; Last modified: 2025-05-10T00:12:27+0000
+; Last modified: 2025-05-10T02:12:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746835203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746842401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11447,8 +11447,6 @@ fotki.com CNAME .
 *.fotki.com CNAME .
 fotodepenis.com CNAME .
 *.fotodepenis.com CNAME .
-fotodesigna.ru CNAME .
-*.fotodesigna.ru CNAME .
 fotonovelasxxx.com CNAME .
 *.fotonovelasxxx.com CNAME .
 fotopornomature.com CNAME .
@@ -40617,6 +40615,8 @@ xxxbokepindo.icu CNAME .
 *.xxxbokepindo.icu CNAME .
 xxxbold.com CNAME .
 *.xxxbold.com CNAME .
+xxxbold25.online CNAME .
+*.xxxbold25.online CNAME .
 xxxbolivianas.com CNAME .
 *.xxxbolivianas.com CNAME .
 xxxbox.me CNAME .
