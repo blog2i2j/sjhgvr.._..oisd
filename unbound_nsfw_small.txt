@@ -1,9 +1,9 @@
-# Version: 202505092313
+# Version: 202505100012
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21032
-# Last modified: 2025-05-09T23:13:05+0000
+# Entries: 21033
+# Last modified: 2025-05-10T00:12:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9207,6 +9207,7 @@ local-zone: "justpicsplease.com." always_null
 local-zone: "justporn.com." always_null
 local-zone: "justporn.tv." always_null
 local-zone: "justpornflix.com." always_null
+local-zone: "justrooting.com." always_null
 local-zone: "justsay.ru." always_null
 local-zone: "justsex.co.za." always_null
 local-zone: "justsextube.com." always_null
