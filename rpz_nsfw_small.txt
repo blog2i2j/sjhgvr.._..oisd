@@ -1,9 +1,9 @@
-; Version: 202505100513
+; Version: 202505100613
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42108
-; Last modified: 2025-05-10T05:13:13+0000
+; Entries: 42110
+; Last modified: 2025-05-10T06:13:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746853201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746856802 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -36665,6 +36665,8 @@ ubersite.com CNAME .
 *.ubersite.com CNAME .
 ucam.xxx CNAME .
 *.ucam.xxx CNAME .
+ucrazy.org CNAME .
+*.ucrazy.org CNAME .
 ucrazy.ru CNAME .
 *.ucrazy.ru CNAME .
 ud.gov.kg CNAME .
