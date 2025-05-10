@@ -1,9 +1,9 @@
-; Version: 202505101514
+; Version: 202505101631
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42134
-; Last modified: 2025-05-10T15:14:25+0000
+; Entries: 42140
+; Last modified: 2025-05-10T16:31:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746889201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746892803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7003,6 +7003,8 @@ clubtug.com CNAME .
 *.clubtug.com CNAME .
 clubuldechat.com CNAME .
 *.clubuldechat.com CNAME .
+clubv1.com CNAME .
+*.clubv1.com CNAME .
 clubwarp.com CNAME .
 *.clubwarp.com CNAME .
 cluset.com CNAME .
@@ -24355,6 +24357,8 @@ onlc.fr CNAME .
 *.onlc.fr CNAME .
 onliclub.com CNAME .
 *.onliclub.com CNAME .
+onlidex.com CNAME .
+*.onlidex.com CNAME .
 online-dating-singles.com CNAME .
 *.online-dating-singles.com CNAME .
 online.fr CNAME .
@@ -41939,6 +41943,8 @@ zoobeeg.net CNAME .
 *.zoobeeg.net CNAME .
 zoobonus.club CNAME .
 *.zoobonus.club CNAME .
+zoofiction.com CNAME .
+*.zoofiction.com CNAME .
 zoofilia.club CNAME .
 *.zoofilia.club CNAME .
 zoofilia.info CNAME .
