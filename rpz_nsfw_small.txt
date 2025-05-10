@@ -1,9 +1,9 @@
-; Version: 202505101214
+; Version: 202505101314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 42130
-; Last modified: 2025-05-10T12:14:44+0000
+; Last modified: 2025-05-10T13:14:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746878402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746882003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -13121,8 +13121,6 @@ getcosmetic.com CNAME .
 *.getcosmetic.com CNAME .
 getdare.com CNAME .
 *.getdare.com CNAME .
-getdesisex.com CNAME .
-*.getdesisex.com CNAME .
 getflixxx.com CNAME .
 *.getflixxx.com CNAME .
 getforge.io CNAME .
@@ -34455,6 +34453,8 @@ tarego.com CNAME .
 *.tarego.com CNAME .
 tarenoi.com CNAME .
 *.tarenoi.com CNAME .
+targetescorts.com CNAME .
+*.targetescorts.com CNAME .
 taribada.sbs CNAME .
 *.taribada.sbs CNAME .
 taschengeldladies.de CNAME .
