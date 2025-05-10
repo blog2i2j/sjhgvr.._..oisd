@@ -1,9 +1,9 @@
-; Version: 202505100508
+; Version: 202505100609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88796
-; Last modified: 2025-05-10T05:08:53+0000
+; Entries: 88784
+; Last modified: 2025-05-10T06:09:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746853201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746856802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34671,8 +34671,6 @@ fc5d7c4624.com CNAME .
 *.fc5d7c4624.com CNAME .
 fca6f.icu CNAME .
 *.fca6f.icu CNAME .
-fcb6adad17.com CNAME .
-*.fcb6adad17.com CNAME .
 fcc217ae84.com CNAME .
 *.fcc217ae84.com CNAME .
 fcc222dcb2.fe7fbef413.com CNAME .
@@ -36103,8 +36101,6 @@ forensicheavepolitically.com CNAME .
 *.forensicheavepolitically.com CNAME .
 forensicssociety.com CNAME .
 *.forensicssociety.com CNAME .
-foreseegigglepartially.com CNAME .
-*.foreseegigglepartially.com CNAME .
 forestallunconscious.com CNAME .
 *.forestallunconscious.com CNAME .
 forethema.com CNAME .
@@ -57703,8 +57699,6 @@ orhavingartisticta.com CNAME .
 *.orhavingartisticta.com CNAME .
 orientaldumbest.com CNAME .
 *.orientaldumbest.com CNAME .
-orientalrazor.com CNAME .
-*.orientalrazor.com CNAME .
 orientationphotographicmanslaughter.com CNAME .
 *.orientationphotographicmanslaughter.com CNAME .
 orientczarism.top CNAME .
@@ -75087,8 +75081,6 @@ swindleincreasing.com CNAME .
 *.swindleincreasing.com CNAME .
 swinegraveyardlegendary.com CNAME .
 *.swinegraveyardlegendary.com CNAME .
-swinehalurgy.com CNAME .
-*.swinehalurgy.com CNAME .
 swingdeceive.com CNAME .
 *.swingdeceive.com CNAME .
 swinity.com CNAME .
@@ -80823,8 +80815,6 @@ ufiler-pro2.ru CNAME .
 *.ufiler-pro2.ru CNAME .
 ufinkln.com CNAME .
 *.ufinkln.com CNAME .
-ufiuhnyydllpaed.com CNAME .
-*.ufiuhnyydllpaed.com CNAME .
 ufjwqdmqzlquq.world CNAME .
 *.ufjwqdmqzlquq.world CNAME .
 ufpcdn.com CNAME .
@@ -85727,8 +85717,6 @@ wuxlvvcv.com CNAME .
 *.wuxlvvcv.com CNAME .
 wuzbhjpvsf.com CNAME .
 *.wuzbhjpvsf.com CNAME .
-wvboajjti.com CNAME .
-*.wvboajjti.com CNAME .
 wvhba6470p.com CNAME .
 *.wvhba6470p.com CNAME .
 wvwaerpeqvzpb.fun CNAME .
