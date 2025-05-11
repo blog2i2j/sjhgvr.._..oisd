@@ -1,9 +1,9 @@
-; Version: 202505111810
+; Version: 202505111910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87956
-; Last modified: 2025-05-11T18:10:38+0000
+; Entries: 87918
+; Last modified: 2025-05-11T19:10:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746986401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746990003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14319,8 +14319,6 @@ b1.b2b168.com CNAME .
 *.b1.b2b168.com CNAME .
 b1.b2b168.net CNAME .
 *.b1.b2b168.net CNAME .
-b1.c1km4.com CNAME .
-*.b1.c1km4.com CNAME .
 b1.engdvd.com CNAME .
 *.b1.engdvd.com CNAME .
 b1.hentaibaka.one CNAME .
@@ -20001,8 +19999,6 @@ cdnweb2analytics.com CNAME .
 *.cdnweb2analytics.com CNAME .
 cdnweb3.pages.dev CNAME .
 *.cdnweb3.pages.dev CNAME .
-cdoqjxlnegnhm.com CNAME .
-*.cdoqjxlnegnhm.com CNAME .
 cdp.asia CNAME .
 *.cdp.asia CNAME .
 cdptracker.hocmai.com.vn CNAME .
@@ -22731,8 +22727,6 @@ confinemutual.com CNAME .
 *.confinemutual.com CNAME .
 confiningdrawshimmy.com CNAME .
 *.confiningdrawshimmy.com CNAME .
-confitreggie.top CNAME .
-*.confitreggie.top CNAME .
 conformcashier.com CNAME .
 *.conformcashier.com CNAME .
 conformfavoredgauging.com CNAME .
@@ -29153,8 +29147,6 @@ disappearanceinspiredscan.com CNAME .
 *.disappearanceinspiredscan.com CNAME .
 disappearancetickfilth.com CNAME .
 *.disappearancetickfilth.com CNAME .
-disappearedpuppetcovered.com CNAME .
-*.disappearedpuppetcovered.com CNAME .
 disappointally.com CNAME .
 *.disappointally.com CNAME .
 disapprovalpulpdiscourteous.com CNAME .
@@ -29827,8 +29819,6 @@ docomo-analytics.com CNAME .
 *.docomo-analytics.com CNAME .
 doctorhousing.com CNAME .
 *.doctorhousing.com CNAME .
-doctoryoungster.com CNAME .
-*.doctoryoungster.com CNAME .
 doctrinekettleworsening.com CNAME .
 *.doctrinekettleworsening.com CNAME .
 documentaryselfless.com CNAME .
@@ -30071,8 +30061,6 @@ dornpush.com CNAME .
 *.dornpush.com CNAME .
 dornslpyztlu.com CNAME .
 *.dornslpyztlu.com CNAME .
-dorogokupimnoutbuk.online CNAME .
-*.dorogokupimnoutbuk.online CNAME .
 dorpetor.com CNAME .
 *.dorpetor.com CNAME .
 dortmark.net CNAME .
@@ -35265,8 +35253,6 @@ firewoodpeerlessuphill.com CNAME .
 *.firewoodpeerlessuphill.com CNAME .
 fireworkadservices1.com CNAME .
 *.fireworkadservices1.com CNAME .
-fireworkraycompared.com CNAME .
-*.fireworkraycompared.com CNAME .
 fireworksane.com CNAME .
 *.fireworksane.com CNAME .
 firkedpace.life CNAME .
@@ -37129,8 +37115,6 @@ gayal.stockshouse.co CNAME .
 *.gayal.stockshouse.co CNAME .
 gayseatmot.live CNAME .
 *.gayseatmot.live CNAME .
-gaytwddahpave.com CNAME .
-*.gaytwddahpave.com CNAME .
 gaz-help.ru CNAME .
 *.gaz-help.ru CNAME .
 gazati.com CNAME .
@@ -45003,8 +44987,6 @@ jpush.io CNAME .
 *.jpush.io CNAME .
 jpwsuix.icu CNAME .
 *.jpwsuix.icu CNAME .
-jqjpwocbgtxlkw.com CNAME .
-*.jqjpwocbgtxlkw.com CNAME .
 jqmebwvmbbby.top CNAME .
 *.jqmebwvmbbby.top CNAME .
 jqmebwvmbrvz.top CNAME .
@@ -46483,8 +46465,6 @@ ktrackdata.com CNAME .
 *.ktrackdata.com CNAME .
 ktu.sv2.biz CNAME .
 *.ktu.sv2.biz CNAME .
-ktureukworekto.com CNAME .
-*.ktureukworekto.com CNAME .
 ktzvyiia.xyz CNAME .
 *.ktzvyiia.xyz CNAME .
 ku2d3a7pa8mdi.com CNAME .
@@ -51569,8 +51549,6 @@ mhbyzzp.com CNAME .
 *.mhbyzzp.com CNAME .
 mhcfsjbqw.com CNAME .
 *.mhcfsjbqw.com CNAME .
-mhfkleqnjlfbqe.com CNAME .
-*.mhfkleqnjlfbqe.com CNAME .
 mhhfgxvqgsxio.fun CNAME .
 *.mhhfgxvqgsxio.fun CNAME .
 mhiiopll.net CNAME .
@@ -55161,8 +55139,6 @@ nst.trex.media CNAME .
 *.nst.trex.media CNAME .
 nstat.headlines.pw CNAME .
 *.nstat.headlines.pw CNAME .
-nstoodthestatu.info CNAME .
-*.nstoodthestatu.info CNAME .
 nsultingcoe.net CNAME .
 *.nsultingcoe.net CNAME .
 nszbiwxorynnf.xyz CNAME .
@@ -56365,8 +56341,6 @@ oldforeyesheh.info CNAME .
 *.oldforeyesheh.info CNAME .
 oldgyhogola.com CNAME .
 *.oldgyhogola.com CNAME .
-olep.xyz CNAME .
-*.olep.xyz CNAME .
 olevole.ru CNAME .
 *.olevole.ru CNAME .
 olichoogrulsom.com CNAME .
@@ -58563,8 +58537,6 @@ parteonroll.xyz CNAME .
 *.parteonroll.xyz CNAME .
 partial-pair.pro CNAME .
 *.partial-pair.pro CNAME .
-partiallyexploitrabbit.com CNAME .
-*.partiallyexploitrabbit.com CNAME .
 participantderisive.com CNAME .
 *.participantderisive.com CNAME .
 participationwhitehandwriting.com CNAME .
@@ -63277,8 +63249,6 @@ qnajplxtvz-a.akamaihd.net CNAME .
 *.qnajplxtvz-a.akamaihd.net CNAME .
 qnesnufjs.com CNAME .
 *.qnesnufjs.com CNAME .
-qnhoqullbea.com CNAME .
-*.qnhoqullbea.com CNAME .
 qnhuxyqjv.com CNAME .
 *.qnhuxyqjv.com CNAME .
 qnmesegceogg.com CNAME .
@@ -65525,8 +65495,6 @@ rgbnqmz.com CNAME .
 *.rgbnqmz.com CNAME .
 rgddist.com CNAME .
 *.rgddist.com CNAME .
-rgeredrubygs.info CNAME .
-*.rgeredrubygs.info CNAME .
 rghptoxhai.com CNAME .
 *.rghptoxhai.com CNAME .
 rgrd.xyz CNAME .
@@ -75931,8 +75899,6 @@ tfosrv.com CNAME .
 *.tfosrv.com CNAME .
 tfpipnwengia.com CNAME .
 *.tfpipnwengia.com CNAME .
-tftnbbok.xyz CNAME .
-*.tftnbbok.xyz CNAME .
 tftrm.com CNAME .
 *.tftrm.com CNAME .
 tfzah.icu CNAME .
@@ -76615,8 +76581,6 @@ tingecauyuksehin.com CNAME .
 *.tingecauyuksehin.com CNAME .
 tingefifortwaukth.org CNAME .
 *.tingefifortwaukth.org CNAME .
-tingexcelelernodyden.info CNAME .
-*.tingexcelelernodyden.info CNAME .
 tingisincused.com CNAME .
 *.tingisincused.com CNAME .
 tingswifing.click CNAME .
@@ -85329,8 +85293,6 @@ xivfusotcqw.com CNAME .
 *.xivfusotcqw.com CNAME .
 xivghukko.com CNAME .
 *.xivghukko.com CNAME .
-xjefqrxric.com CNAME .
-*.xjefqrxric.com CNAME .
 xjfqqyrcz.com CNAME .
 *.xjfqqyrcz.com CNAME .
 xjgilqkymq.com CNAME .
