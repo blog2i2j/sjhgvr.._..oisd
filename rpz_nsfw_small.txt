@@ -1,9 +1,9 @@
-; Version: 202505110814
+; Version: 202505110914
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42220
-; Last modified: 2025-05-11T08:14:25+0000
+; Entries: 42222
+; Last modified: 2025-05-11T09:14:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746950403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746954003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -433,6 +433,8 @@ $TTL 30
 *.2sex.info CNAME .
 2tube.com CNAME .
 *.2tube.com CNAME .
+2umovies.living CNAME .
+*.2umovies.living CNAME .
 321chat.com CNAME .
 *.321chat.com CNAME .
 321cuckold.com CNAME .
@@ -15219,8 +15221,6 @@ hindixxx.club CNAME .
 *.hindixxx.club CNAME .
 hindixxx.mobi CNAME .
 *.hindixxx.mobi CNAME .
-hindixxx.to CNAME .
-*.hindixxx.to CNAME .
 hindixxx.xyz CNAME .
 *.hindixxx.xyz CNAME .
 hindixxxbf.com CNAME .
@@ -38737,6 +38737,8 @@ wyylde.com CNAME .
 *.wyylde.com CNAME .
 x-change.life CNAME .
 *.x-change.life CNAME .
+x-chat.club CNAME .
+*.x-chat.club CNAME .
 x-chel.xyz CNAME .
 *.x-chel.xyz CNAME .
 x-glamour.com CNAME .
