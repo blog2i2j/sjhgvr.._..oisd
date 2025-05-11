@@ -1,9 +1,9 @@
-; Version: 202505110213
+; Version: 202505110513
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42144
-; Last modified: 2025-05-11T02:13:25+0000
+; Entries: 42142
+; Last modified: 2025-05-11T05:13:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746928801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746939602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -30859,8 +30859,6 @@ severinelapaye.com CNAME .
 *.severinelapaye.com CNAME .
 severstroysnab.ru CNAME .
 *.severstroysnab.ru CNAME .
-sevgilim.pro CNAME .
-*.sevgilim.pro CNAME .
 sex-animals.site CNAME .
 *.sex-animals.site CNAME .
 sex-arab-xxx.ink CNAME .
