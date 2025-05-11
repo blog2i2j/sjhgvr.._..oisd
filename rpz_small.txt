@@ -1,9 +1,9 @@
-; Version: 202505112210
+; Version: 202505112309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87870
-; Last modified: 2025-05-11T22:10:31+0000
+; Entries: 87850
+; Last modified: 2025-05-11T23:09:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747000805 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747004402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7325,8 +7325,6 @@ adserve.donanimhaber.com CNAME .
 *.adserve.donanimhaber.com CNAME .
 adserve.lasentinelle.mu CNAME .
 *.adserve.lasentinelle.mu CNAME .
-adserve.ph CNAME .
-*.adserve.ph CNAME .
 adserved.net CNAME .
 *.adserved.net CNAME .
 adserver-2084671375.us-east-1.elb.amazonaws.com CNAME .
@@ -12147,8 +12145,6 @@ appendad.com CNAME .
 *.appendad.com CNAME .
 appendixballroom.com CNAME .
 *.appendixballroom.com CNAME .
-appendixbureaucracycommand.com CNAME .
-*.appendixbureaucracycommand.com CNAME .
 appendixwarmingauthors.com CNAME .
 *.appendixwarmingauthors.com CNAME .
 appetitecamisolereawake.com CNAME .
@@ -17465,8 +17461,6 @@ bracecherry.com CNAME .
 *.bracecherry.com CNAME .
 bracespickedsurprise.com CNAME .
 *.bracespickedsurprise.com CNAME .
-brachhoecake.top CNAME .
-*.brachhoecake.top CNAME .
 brackenclomped.com CNAME .
 *.brackenclomped.com CNAME .
 bracketauthorizedportray.com CNAME .
@@ -18371,8 +18365,6 @@ bxrtwyavhyb.online CNAME .
 *.bxrtwyavhyb.online CNAME .
 bxwetgpwlkr.com CNAME .
 *.bxwetgpwlkr.com CNAME .
-bxxibvjt.com CNAME .
-*.bxxibvjt.com CNAME .
 bxzlfr.icu CNAME .
 *.bxzlfr.icu CNAME .
 by.addrecipes.com CNAME .
@@ -39907,8 +39899,6 @@ handgripknuckle.com CNAME .
 *.handgripknuckle.com CNAME .
 handhadbeensotr.com CNAME .
 *.handhadbeensotr.com CNAME .
-handshakesexyconquer.com CNAME .
-*.handshakesexyconquer.com CNAME .
 handtub.com CNAME .
 *.handtub.com CNAME .
 handy-tab.com CNAME .
@@ -52489,8 +52479,6 @@ monthlypatient.com CNAME .
 *.monthlypatient.com CNAME .
 montondirgy.com CNAME .
 *.montondirgy.com CNAME .
-montrecamara.shop CNAME .
-*.montrecamara.shop CNAME .
 monu.delivery CNAME .
 *.monu.delivery CNAME .
 monumentsmaterialeasel.com CNAME .
@@ -53715,8 +53703,6 @@ nativex.com CNAME .
 *.nativex.com CNAME .
 natprb.ru CNAME .
 *.natprb.ru CNAME .
-natpygnk.com CNAME .
-*.natpygnk.com CNAME .
 natregs.com CNAME .
 *.natregs.com CNAME .
 natsdk.com CNAME .
@@ -61819,8 +61805,6 @@ provingkiers.shop CNAME .
 *.provingkiers.shop CNAME .
 provisionskiss.com CNAME .
 *.provisionskiss.com CNAME .
-prowesshearing.com CNAME .
-*.prowesshearing.com CNAME .
 prowlenthusiasticcongest.com CNAME .
 *.prowlenthusiasticcongest.com CNAME .
 proxena-images.reviveservers.com CNAME .
@@ -65827,8 +65811,6 @@ rnrycry.com CNAME .
 *.rnrycry.com CNAME .
 rnwbrm.com CNAME .
 *.rnwbrm.com CNAME .
-rnyvukdnylwnqtj.com CNAME .
-*.rnyvukdnylwnqtj.com CNAME .
 roadcontagion.com CNAME .
 *.roadcontagion.com CNAME .
 roadlittar.live CNAME .
@@ -75855,8 +75837,6 @@ tfla.xyz CNAME .
 *.tfla.xyz CNAME .
 tfosrv.com CNAME .
 *.tfosrv.com CNAME .
-tfpipnwengia.com CNAME .
-*.tfpipnwengia.com CNAME .
 tftrm.com CNAME .
 *.tftrm.com CNAME .
 tfzah.icu CNAME .
