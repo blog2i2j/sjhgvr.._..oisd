@@ -1,9 +1,9 @@
-; Version: 202505112010
+; Version: 202505112110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87904
-; Last modified: 2025-05-11T20:10:06+0000
+; Entries: 87886
+; Last modified: 2025-05-11T21:10:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746993602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746997203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1861,8 +1861,6 @@ $TTL 30
 *.4k6.4kporn.xxx CNAME .
 4k7kca7aj0s4.top CNAME .
 *.4k7kca7aj0s4.top CNAME .
-4ke5b4ila.codedge.de CNAME .
-*.4ke5b4ila.codedge.de CNAME .
 4love.info CNAME .
 *.4love.info CNAME .
 4m4ones1q.com CNAME .
@@ -17959,8 +17957,6 @@ bttrack.com CNAME .
 *.bttrack.com CNAME .
 btvhdscr.com CNAME .
 *.btvhdscr.com CNAME .
-btvuiqgio.xyz CNAME .
-*.btvuiqgio.xyz CNAME .
 btxxxnav.com CNAME .
 *.btxxxnav.com CNAME .
 bu1.duba.com CNAME .
@@ -23469,8 +23465,6 @@ counters.booking.com CNAME .
 *.counters.booking.com CNAME .
 counters.freewebs.com CNAME .
 *.counters.freewebs.com CNAME .
-countessrestrainasks.com CNAME .
-*.countessrestrainasks.com CNAME .
 counting.kmindex.ru CNAME .
 *.counting.kmindex.ru CNAME .
 countly.globaldelight.net CNAME .
@@ -29987,8 +29981,6 @@ doo9gpa5xdov2.cloudfront.net CNAME .
 *.doo9gpa5xdov2.cloudfront.net CNAME .
 doodiwom.com CNAME .
 *.doodiwom.com CNAME .
-doodlelegitimatebracelet.com CNAME .
-*.doodlelegitimatebracelet.com CNAME .
 doodoaru.net CNAME .
 *.doodoaru.net CNAME .
 dooloust.net CNAME .
@@ -32059,8 +32051,6 @@ ekmas.com CNAME .
 *.ekmas.com CNAME .
 ekont.site CNAME .
 *.ekont.site CNAME .
-ekxyrwvoegb.xyz CNAME .
-*.ekxyrwvoegb.xyz CNAME .
 ekykse.xyz CNAME .
 *.ekykse.xyz CNAME .
 ekzmk.icu CNAME .
@@ -53857,8 +53847,6 @@ ndenthaitingsho.com CNAME .
 *.ndenthaitingsho.com CNAME .
 nderfulstatuehelooksj.org CNAME .
 *.nderfulstatuehelooksj.org CNAME .
-nderpurganismpr.info CNAME .
-*.nderpurganismpr.info CNAME .
 nderthfeo.info CNAME .
 *.nderthfeo.info CNAME .
 ndha4sding6gf.com CNAME .
@@ -55181,8 +55169,6 @@ ntsnaeutglamx.rocks CNAME .
 *.ntsnaeutglamx.rocks CNAME .
 ntswithde.autos CNAME .
 *.ntswithde.autos CNAME .
-nttxkfgbdm.com CNAME .
-*.nttxkfgbdm.com CNAME .
 ntuulavmbjdgo.love CNAME .
 *.ntuulavmbjdgo.love CNAME .
 ntvk1.ru CNAME .
@@ -76243,8 +76229,6 @@ thoartuw.com CNAME .
 *.thoartuw.com CNAME .
 thofteert.com CNAME .
 *.thofteert.com CNAME .
-tholor.com CNAME .
-*.tholor.com CNAME .
 thomasalthoughhear.com CNAME .
 *.thomasalthoughhear.com CNAME .
 thomasmonks.com CNAME .
@@ -85175,8 +85159,6 @@ xdrlthfhikvgm.club CNAME .
 *.xdrlthfhikvgm.club CNAME .
 xdsgbkfkm.com CNAME .
 *.xdsgbkfkm.com CNAME .
-xebadu.com CNAME .
-*.xebadu.com CNAME .
 xebetp.icu CNAME .
 *.xebetp.icu CNAME .
 xegluwate.com CNAME .
