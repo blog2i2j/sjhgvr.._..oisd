@@ -1,9 +1,9 @@
-; Version: 202505111156
+; Version: 202505111310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88574
-; Last modified: 2025-05-11T11:56:11+0000
+; Entries: 88544
+; Last modified: 2025-05-11T13:10:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746961201 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746968403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18437,8 +18437,6 @@ bwstatistics.sapoapps.vn CNAME .
 *.bwstatistics.sapoapps.vn CNAME .
 bwtcilgll.com CNAME .
 *.bwtcilgll.com CNAME .
-bwtpaygvgunxx.com CNAME .
-*.bwtpaygvgunxx.com CNAME .
 bwuotrwahsij.com CNAME .
 *.bwuotrwahsij.com CNAME .
 bwvofgqhmab.com CNAME .
@@ -41103,8 +41101,6 @@ hinniedhajjes.shop CNAME .
 *.hinniedhajjes.shop CNAME .
 hinoidlingas.com CNAME .
 *.hinoidlingas.com CNAME .
-hintersmucosas.top CNAME .
-*.hintersmucosas.top CNAME .
 hintgroin.com CNAME .
 *.hintgroin.com CNAME .
 hip-97166b.com CNAME .
@@ -44435,8 +44431,6 @@ j927.statnews.com CNAME .
 *.j927.statnews.com CNAME .
 ja2n2u30a6rgyd.com CNAME .
 *.ja2n2u30a6rgyd.com CNAME .
-jaabviwvh.com CNAME .
-*.jaabviwvh.com CNAME .
 jaapsubsume.top CNAME .
 *.jaapsubsume.top CNAME .
 jaavnacsdw.com CNAME .
@@ -50403,8 +50397,6 @@ magic1.biz CNAME .
 *.magic1.biz CNAME .
 magic1.me CNAME .
 *.magic1.me CNAME .
-magicalbending.com CNAME .
-*.magicalbending.com CNAME .
 magicalfurnishcompatriot.com CNAME .
 *.magicalfurnishcompatriot.com CNAME .
 magicallyitalian.com CNAME .
@@ -50649,8 +50641,6 @@ manahegazedatth.info CNAME .
 *.manahegazedatth.info CNAME .
 manalyticshub.com CNAME .
 *.manalyticshub.com CNAME .
-manapecmfq.com CNAME .
-*.manapecmfq.com CNAME .
 manatee.biodom.bio CNAME .
 *.manatee.biodom.bio CNAME .
 manbycus.com CNAME .
@@ -55831,8 +55821,6 @@ nylghaudentin.com CNAME .
 *.nylghaudentin.com CNAME .
 nylonnickel.xyz CNAME .
 *.nylonnickel.xyz CNAME .
-nyorgagetnizati.info CNAME .
-*.nyorgagetnizati.info CNAME .
 nythathaveresul.org CNAME .
 *.nythathaveresul.org CNAME .
 nythingamglad.com CNAME .
@@ -58439,8 +58427,6 @@ p.gerdasetmay.site CNAME .
 *.p.gerdasetmay.site CNAME .
 p.gm99.com CNAME .
 *.p.gm99.com CNAME .
-p.junshi881.com CNAME .
-*.p.junshi881.com CNAME .
 p.junshifuxin.com CNAME .
 *.p.junshifuxin.com CNAME .
 p.lasexta.com CNAME .
@@ -63363,8 +63349,6 @@ python.jukejuke.app CNAME .
 *.python.jukejuke.app CNAME .
 pywhepteto.pro CNAME .
 *.pywhepteto.pro CNAME .
-pywymyplyg.com CNAME .
-*.pywymyplyg.com CNAME .
 pyxiscablese.com CNAME .
 *.pyxiscablese.com CNAME .
 pyxytj.icu CNAME .
@@ -64681,8 +64665,6 @@ rdtracer.com CNAME .
 *.rdtracer.com CNAME .
 rdtrck2.com CNAME .
 *.rdtrck2.com CNAME .
-rdut.cn CNAME .
-*.rdut.cn CNAME .
 rdwmct.com CNAME .
 *.rdwmct.com CNAME .
 re-captha-version-3-29.top CNAME .
@@ -68389,8 +68371,6 @@ sanalytics.ncaa.com CNAME .
 *.sanalytics.ncaa.com CNAME .
 sancontr.com CNAME .
 *.sancontr.com CNAME .
-sanctioncurtain.com CNAME .
-*.sanctioncurtain.com CNAME .
 sandelf.com CNAME .
 *.sandelf.com CNAME .
 sandwich3452.fun CNAME .
@@ -70529,8 +70509,6 @@ singlesgetmatched.com CNAME .
 *.singlesgetmatched.com CNAME .
 singulardisplace.com CNAME .
 *.singulardisplace.com CNAME .
-singularheroic.com CNAME .
-*.singularheroic.com CNAME .
 sinisterbatchoddly.com CNAME .
 *.sinisterbatchoddly.com CNAME .
 sinisterdrippingcircuit.com CNAME .
@@ -74131,8 +74109,6 @@ strangineer.info CNAME .
 *.strangineer.info CNAME .
 strangineersalyl.org CNAME .
 *.strangineersalyl.org CNAME .
-strangledisposalfox.com CNAME .
-*.strangledisposalfox.com CNAME .
 strangleslogan.com CNAME .
 *.strangleslogan.com CNAME .
 strastconversity.com CNAME .
@@ -77921,8 +77897,6 @@ toxemichallows.shop CNAME .
 *.toxemichallows.shop CNAME .
 toxtren.com CNAME .
 *.toxtren.com CNAME .
-toyarableits.com CNAME .
-*.toyarableits.com CNAME .
 tozoruaon.com CNAME .
 *.tozoruaon.com CNAME .
 tp.content-score.com CNAME .
@@ -82031,8 +82005,6 @@ varycares.com CNAME .
 *.varycares.com CNAME .
 varyingsnarl.com CNAME .
 *.varyingsnarl.com CNAME .
-vasfmbody.com CNAME .
-*.vasfmbody.com CNAME .
 vashoot.com CNAME .
 *.vashoot.com CNAME .
 vasia.bluentated.racing CNAME .
@@ -84979,8 +84951,6 @@ wkpgetvhidtj.com CNAME .
 *.wkpgetvhidtj.com CNAME .
 wktyyxtvwthxp.one CNAME .
 *.wktyyxtvwthxp.one CNAME .
-wkvpvglcjsagi.xyz CNAME .
-*.wkvpvglcjsagi.xyz CNAME .
 wkzw.me CNAME .
 *.wkzw.me CNAME .
 wl-analytics.tsp.li CNAME .
