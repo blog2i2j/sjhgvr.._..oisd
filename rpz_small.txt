@@ -1,9 +1,9 @@
-; Version: 202505110509
+; Version: 202505110609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88628
-; Last modified: 2025-05-11T05:09:02+0000
+; Entries: 88606
+; Last modified: 2025-05-11T06:09:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746939602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746943203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21133,8 +21133,6 @@ cjbyfsmr.life CNAME .
 *.cjbyfsmr.life CNAME .
 cjewz.com CNAME .
 *.cjewz.com CNAME .
-cjgrlbxciqsbr.com CNAME .
-*.cjgrlbxciqsbr.com CNAME .
 cjlog.com CNAME .
 *.cjlog.com CNAME .
 cjlph.com CNAME .
@@ -37395,8 +37393,6 @@ gcsimltwr.com CNAME .
 *.gcsimltwr.com CNAME .
 gcvir.xyz CNAME .
 *.gcvir.xyz CNAME .
-gcybnvhleaebkp.com CNAME .
-*.gcybnvhleaebkp.com CNAME .
 gd-stats.jpush.cn CNAME .
 *.gd-stats.jpush.cn CNAME .
 gdajuytgupptx.world CNAME .
@@ -51333,8 +51329,6 @@ mediabridge.cc CNAME .
 *.mediabridge.cc CNAME .
 mediacdn.x1hub.com CNAME .
 *.mediacdn.x1hub.com CNAME .
-mediacharger.com CNAME .
-*.mediacharger.com CNAME .
 mediacpc.com CNAME .
 *.mediacpc.com CNAME .
 mediacpm.com CNAME .
@@ -60071,8 +60065,6 @@ pig.nigano.com CNAME .
 *.pig.nigano.com CNAME .
 pig.notion.chat CNAME .
 *.pig.notion.chat CNAME .
-pigcomprisegruff.com CNAME .
-*.pigcomprisegruff.com CNAME .
 pigeon.surtitlesolutions.com CNAME .
 *.pigeon.surtitlesolutions.com CNAME .
 pigeon.thankyuu.com CNAME .
@@ -62525,8 +62517,6 @@ psurigrabi.com CNAME .
 *.psurigrabi.com CNAME .
 psvpromo.psvgamestudio.com CNAME .
 *.psvpromo.psvgamestudio.com CNAME .
-pswfwedv.com CNAME .
-*.pswfwedv.com CNAME .
 pswticsbnt.com CNAME .
 *.pswticsbnt.com CNAME .
 psykterfaulter.com CNAME .
@@ -70465,8 +70455,6 @@ signamentswithd.com CNAME .
 *.signamentswithd.com CNAME .
 signamentswithded.com CNAME .
 *.signamentswithded.com CNAME .
-signatureoutskirts.com CNAME .
-*.signatureoutskirts.com CNAME .
 signcalamity.com CNAME .
 *.signcalamity.com CNAME .
 significantdoubloons.com CNAME .
@@ -81525,8 +81513,6 @@ urest.org CNAME .
 *.urest.org CNAME .
 uretalzonated.com CNAME .
 *.uretalzonated.com CNAME .
-urfzuvxzd.com CNAME .
-*.urfzuvxzd.com CNAME .
 urgentlyrightypast.com CNAME .
 *.urgentlyrightypast.com CNAME .
 urgentprotections.com CNAME .
@@ -81695,8 +81681,6 @@ usurv.com CNAME .
 *.usurv.com CNAME .
 uswardwot.com CNAME .
 *.uswardwot.com CNAME .
-usxabwaiinnu.com CNAME .
-*.usxabwaiinnu.com CNAME .
 ut.gamersyde.com CNAME .
 *.ut.gamersyde.com CNAME .
 utarget.co.uk CNAME .
@@ -83273,8 +83257,6 @@ vtbkhl.icu CNAME .
 *.vtbkhl.icu CNAME .
 vthruucceod.com CNAME .
 *.vthruucceod.com CNAME .
-vtipsgwmhwflc.com CNAME .
-*.vtipsgwmhwflc.com CNAME .
 vtjbnb.xyz CNAME .
 *.vtjbnb.xyz CNAME .
 vtrk.dv.tech CNAME .
@@ -83889,8 +83871,6 @@ wearevaporatewhip.com CNAME .
 *.wearevaporatewhip.com CNAME .
 wearychallengeraise.com CNAME .
 *.wearychallengeraise.com CNAME .
-wearyvolcano.com CNAME .
-*.wearyvolcano.com CNAME .
 weasel.madebytune.be CNAME .
 *.weasel.madebytune.be CNAME .
 weaselmicroscope.com CNAME .
@@ -85871,8 +85851,6 @@ xctoquhnalqgn.vip CNAME .
 *.xctoquhnalqgn.vip CNAME .
 xcuffrzha.com CNAME .
 *.xcuffrzha.com CNAME .
-xcvonjcf.com CNAME .
-*.xcvonjcf.com CNAME .
 xdfrdcuiug.com CNAME .
 *.xdfrdcuiug.com CNAME .
 xdisplay.site CNAME .
