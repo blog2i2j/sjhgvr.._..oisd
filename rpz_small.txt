@@ -1,9 +1,9 @@
-; Version: 202505110008
+; Version: 202505110108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88764
-; Last modified: 2025-05-11T00:08:27+0000
+; Entries: 88740
+; Last modified: 2025-05-11T01:08:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746921608 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746925202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16175,8 +16175,6 @@ betteradsystem.com CNAME .
 *.betteradsystem.com CNAME .
 bettercontentservice.top CNAME .
 *.bettercontentservice.top CNAME .
-betterdirectit.com CNAME .
-*.betterdirectit.com CNAME .
 bettin2you.com CNAME .
 *.bettin2you.com CNAME .
 bettingads.365scores.com CNAME .
@@ -18233,8 +18231,6 @@ bumpingcarfax.com CNAME .
 *.bumpingcarfax.com CNAME .
 bumpmoss.com CNAME .
 *.bumpmoss.com CNAME .
-bumpthank.com CNAME .
-*.bumpthank.com CNAME .
 bumslauded.shop CNAME .
 *.bumslauded.shop CNAME .
 bumxmomcu.com CNAME .
@@ -23707,8 +23703,6 @@ coyote.pbnbuilds.com CNAME .
 *.coyote.pbnbuilds.com CNAME .
 coyote.txet.ch CNAME .
 *.coyote.txet.ch CNAME .
-cozeswracks.com CNAME .
-*.cozeswracks.com CNAME .
 cp.7y7.com CNAME .
 *.cp.7y7.com CNAME .
 cp.jfcdns.com CNAME .
@@ -32169,8 +32163,6 @@ efullofeedshen.com CNAME .
 *.efullofeedshen.com CNAME .
 efully.info CNAME .
 *.efully.info CNAME .
-efvvoyok.com CNAME .
-*.efvvoyok.com CNAME .
 egalitysarking.com CNAME .
 *.egalitysarking.com CNAME .
 egazedatthe.xyz CNAME .
@@ -36411,8 +36403,6 @@ freakperjurylanentablelanentable.com CNAME .
 *.freakperjurylanentablelanentable.com CNAME .
 freckedpotboil.shop CNAME .
 *.freckedpotboil.shop CNAME .
-freddycalathi.shop CNAME .
-*.freddycalathi.shop CNAME .
 fredmoresco.com CNAME .
 *.fredmoresco.com CNAME .
 free-cdn.oss-cn-shanghai.aliyuncs.com CNAME .
@@ -40959,8 +40949,6 @@ hgkqdpjck.com CNAME .
 *.hgkqdpjck.com CNAME .
 hgmrydbveueanc.com CNAME .
 *.hgmrydbveueanc.com CNAME .
-hgtokjbpw.com CNAME .
-*.hgtokjbpw.com CNAME .
 hgub2polye.com CNAME .
 *.hgub2polye.com CNAME .
 hh.jiankang.com CNAME .
@@ -41643,8 +41631,6 @@ horizontallypolluteembroider.com CNAME .
 *.horizontallypolluteembroider.com CNAME .
 horizontallywept.com CNAME .
 *.horizontallywept.com CNAME .
-hormosdebris.com CNAME .
-*.hormosdebris.com CNAME .
 hornet.amandaheal.com.au CNAME .
 *.hornet.amandaheal.com.au CNAME .
 hornet.energizer.co.za CNAME .
@@ -42863,8 +42849,6 @@ illuminatedusing.com CNAME .
 *.illuminatedusing.com CNAME .
 illuminateinconveniencenutrient.com CNAME .
 *.illuminateinconveniencenutrient.com CNAME .
-illuminatelocks.com CNAME .
-*.illuminatelocks.com CNAME .
 illusiondramaexploration.com CNAME .
 *.illusiondramaexploration.com CNAME .
 illusorslacks.shop CNAME .
@@ -43497,8 +43481,6 @@ ingesteer.services-prod.nsvcs.net CNAME .
 *.ingesteer.services-prod.nsvcs.net CNAME .
 ingigalitha.com CNAME .
 *.ingigalitha.com CNAME .
-ingotheremplo.info CNAME .
-*.ingotheremplo.info CNAME .
 ingredientwritten.com CNAME .
 *.ingredientwritten.com CNAME .
 ingress.trendii.com CNAME .
@@ -43983,8 +43965,6 @@ iociley.com CNAME .
 *.iociley.com CNAME .
 iodideeyebath.cam CNAME .
 *.iodideeyebath.cam CNAME .
-iodinedulylisten.com CNAME .
-*.iodinedulylisten.com CNAME .
 iodineprudishlysubtly.com CNAME .
 *.iodineprudishlysubtly.com CNAME .
 iodolruddock.com CNAME .
@@ -63833,8 +63813,6 @@ qnhuxyqjv.com CNAME .
 *.qnhuxyqjv.com CNAME .
 qnmesegceogg.com CNAME .
 *.qnmesegceogg.com CNAME .
-qnowyhbtjqvyn.com CNAME .
-*.qnowyhbtjqvyn.com CNAME .
 qnp16tstw.com CNAME .
 *.qnp16tstw.com CNAME .
 qnqtgyq.icu CNAME .
@@ -76357,8 +76335,6 @@ teildult.shop CNAME .
 *.teildult.shop CNAME .
 teindsoutsea.shop CNAME .
 *.teindsoutsea.shop CNAME .
-teinlbw.com CNAME .
-*.teinlbw.com CNAME .
 tejoafotocmal.com CNAME .
 *.tejoafotocmal.com CNAME .
 teknologia.co CNAME .
