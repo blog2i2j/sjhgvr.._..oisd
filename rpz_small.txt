@@ -1,9 +1,9 @@
-; Version: 202505110709
+; Version: 202505110809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88570
-; Last modified: 2025-05-11T07:09:21+0000
+; Entries: 88552
+; Last modified: 2025-05-11T08:09:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746946803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746950403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16229,8 +16229,6 @@ bfleitfh.com CNAME .
 *.bfleitfh.com CNAME .
 bfmio.com CNAME .
 *.bfmio.com CNAME .
-bfnsnehjbkewk.com CNAME .
-*.bfnsnehjbkewk.com CNAME .
 bftrziwxumrpe.online CNAME .
 *.bftrziwxumrpe.online CNAME .
 bfxytxdpnk.com CNAME .
@@ -24415,8 +24413,6 @@ cscdispace.top CNAME .
 *.cscdispace.top CNAME .
 cschyogh.com CNAME .
 *.cschyogh.com CNAME .
-csdf4dn.pro CNAME .
-*.csdf4dn.pro CNAME .
 cseuegsbjb.com CNAME .
 *.cseuegsbjb.com CNAME .
 csk.ru CNAME .
@@ -29085,8 +29081,6 @@ difzhd.icu CNAME .
 *.difzhd.icu CNAME .
 dig.bdurl.net CNAME .
 *.dig.bdurl.net CNAME .
-digamycurried.top CNAME .
-*.digamycurried.top CNAME .
 digestivepresenceclimb.com CNAME .
 *.digestivepresenceclimb.com CNAME .
 diggingrebbes.com CNAME .
@@ -29667,8 +29661,6 @@ dl37p9e5e1vn0.cloudfront.net CNAME .
 *.dl37p9e5e1vn0.cloudfront.net CNAME .
 dl5ft52dtazxd.cloudfront.net CNAME .
 *.dl5ft52dtazxd.cloudfront.net CNAME .
-dlbldltwdbx.com CNAME .
-*.dlbldltwdbx.com CNAME .
 dle-news.xyz CNAME .
 *.dle-news.xyz CNAME .
 dlem1deojpcg7.cloudfront.net CNAME .
@@ -42699,8 +42691,6 @@ ijhxe.com CNAME .
 *.ijhxe.com CNAME .
 ijhyugb.com CNAME .
 *.ijhyugb.com CNAME .
-ijjorsrnydjcwx.com CNAME .
-*.ijjorsrnydjcwx.com CNAME .
 ijkcmm.com CNAME .
 *.ijkcmm.com CNAME .
 ijksec.xyz CNAME .
@@ -50685,8 +50675,6 @@ manomincasaque.com CNAME .
 *.manomincasaque.com CNAME .
 manompas.com CNAME .
 *.manompas.com CNAME .
-manorfunctions.com CNAME .
-*.manorfunctions.com CNAME .
 manpowerspiritualunrented.com CNAME .
 *.manpowerspiritualunrented.com CNAME .
 manrec.cc CNAME .
@@ -59555,8 +59543,6 @@ perigshfnon.com CNAME .
 *.perigshfnon.com CNAME .
 perilastronaut.com CNAME .
 *.perilastronaut.com CNAME .
-periodicjotrickle.com CNAME .
-*.periodicjotrickle.com CNAME .
 periodicpole.com CNAME .
 *.periodicpole.com CNAME .
 periodspoppyrefuge.com CNAME .
@@ -68359,8 +68345,6 @@ same.chinadaily.com.cn CNAME .
 *.same.chinadaily.com.cn CNAME .
 same.eastmoney.com CNAME .
 *.same.eastmoney.com CNAME .
-samghasps.com CNAME .
-*.samghasps.com CNAME .
 samiana.com CNAME .
 *.samiana.com CNAME .
 samianepa.top CNAME .
@@ -81067,8 +81051,6 @@ unheadedsouptotal.com CNAME .
 *.unheadedsouptotal.com CNAME .
 unhealthybravelyemployee.com CNAME .
 *.unhealthybravelyemployee.com CNAME .
-unhhsrraf.com CNAME .
-*.unhhsrraf.com CNAME .
 unicainstrumentacao.com.br CNAME .
 *.unicainstrumentacao.com.br CNAME .
 unicume.com CNAME .
