@@ -1,9 +1,9 @@
-; Version: 202505110308
+; Version: 202505110408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88676
-; Last modified: 2025-05-11T03:08:41+0000
+; Entries: 88652
+; Last modified: 2025-05-11T04:08:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746932401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746936003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -403,8 +403,6 @@ $TTL 30
 *.11152646.xyz CNAME .
 11235813.webzdarma.cz CNAME .
 *.11235813.webzdarma.cz CNAME .
-1165571007.rsc.cdn77.org CNAME .
-*.1165571007.rsc.cdn77.org CNAME .
 11778562.xyz CNAME .
 *.11778562.xyz CNAME .
 1187531871.rsc.cdn77.org CNAME .
@@ -14247,8 +14245,6 @@ azj57rjy.com CNAME .
 *.azj57rjy.com CNAME .
 azjmp.com CNAME .
 *.azjmp.com CNAME .
-azkwwrejomzbj.top CNAME .
-*.azkwwrejomzbj.top CNAME .
 azlajdli.com CNAME .
 *.azlajdli.com CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
@@ -20431,8 +20427,6 @@ chacmausto.net CNAME .
 *.chacmausto.net CNAME .
 chaerel.com CNAME .
 *.chaerel.com CNAME .
-chafeestafa.shop CNAME .
-*.chafeestafa.shop CNAME .
 chaghets.net CNAME .
 *.chaghets.net CNAME .
 chaibsoacmo.com CNAME .
@@ -32121,8 +32115,6 @@ effectiveratecpm.com CNAME .
 *.effectiveratecpm.com CNAME .
 effectscouncilman.com CNAME .
 *.effectscouncilman.com CNAME .
-efficiencybate.com CNAME .
-*.efficiencybate.com CNAME .
 efficientorbit.co CNAME .
 *.efficientorbit.co CNAME .
 effluveputting.com CNAME .
@@ -34459,8 +34451,6 @@ faqkfuxadok.com CNAME .
 *.faqkfuxadok.com CNAME .
 faqserv.com CNAME .
 *.faqserv.com CNAME .
-faquirrelot.com CNAME .
-*.faquirrelot.com CNAME .
 farawayinstallation.com CNAME .
 *.farawayinstallation.com CNAME .
 farbankthy.live CNAME .
@@ -49513,8 +49503,6 @@ loneday.com CNAME .
 *.loneday.com CNAME .
 loneinner.com CNAME .
 *.loneinner.com CNAME .
-lonelytransienttrail.com CNAME .
-*.lonelytransienttrail.com CNAME .
 lonerdrawn.com CNAME .
 *.lonerdrawn.com CNAME .
 lonerprevailed.com CNAME .
@@ -50539,8 +50527,6 @@ maipheeg.com CNAME .
 *.maipheeg.com CNAME .
 maithigloab.net CNAME .
 *.maithigloab.net CNAME .
-majesticsecondary.com CNAME .
-*.majesticsecondary.com CNAME .
 majile.vip CNAME .
 *.majile.vip CNAME .
 majmotlee.com CNAME .
@@ -51493,8 +51479,6 @@ meet4youu.net CNAME .
 *.meet4youu.net CNAME .
 meetaffiliate.com CNAME .
 *.meetaffiliate.com CNAME .
-meetingcoffeenostrils.com CNAME .
-*.meetingcoffeenostrils.com CNAME .
 meetingrailroad.com CNAME .
 *.meetingrailroad.com CNAME .
 meetmagsuit.live CNAME .
@@ -56241,8 +56225,6 @@ ocelot.pixlwebs.nl CNAME .
 *.ocelot.pixlwebs.nl CNAME .
 ocelot.sonicumonitoring.com CNAME .
 *.ocelot.sonicumonitoring.com CNAME .
-ocgbexwybtjrai.xyz CNAME .
-*.ocgbexwybtjrai.xyz CNAME .
 ocgrhygw.com CNAME .
 *.ocgrhygw.com CNAME .
 ocheeglouzo.com CNAME .
@@ -63725,8 +63707,6 @@ qjwvwu.xyz CNAME .
 *.qjwvwu.xyz CNAME .
 qkgllif.icu CNAME .
 *.qkgllif.icu CNAME .
-qkjlwdkk.com CNAME .
-*.qkjlwdkk.com CNAME .
 qksrv.cc CNAME .
 *.qksrv.cc CNAME .
 qktmhrkfhdyrm.com CNAME .
@@ -76225,8 +76205,6 @@ tedseekpeak.live CNAME .
 *.tedseekpeak.live CNAME .
 tedtaxi.com CNAME .
 *.tedtaxi.com CNAME .
-tedtug.com CNAME .
-*.tedtug.com CNAME .
 teedastoowu.net CNAME .
 *.teedastoowu.net CNAME .
 teedipoaduw.net CNAME .
@@ -85201,8 +85179,6 @@ woapheer.com CNAME .
 *.woapheer.com CNAME .
 woareejoaley.net CNAME .
 *.woareejoaley.net CNAME .
-woarlegpyuf.com CNAME .
-*.woarlegpyuf.com CNAME .
 woazohetour.net CNAME .
 *.woazohetour.net CNAME .
 wobbly-birth.com CNAME .
