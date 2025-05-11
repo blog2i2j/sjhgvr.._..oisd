@@ -1,9 +1,9 @@
-; Version: 202505111410
+; Version: 202505111510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88034
-; Last modified: 2025-05-11T14:10:47+0000
+; Entries: 88016
+; Last modified: 2025-05-11T15:10:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746972003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746975603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -285,8 +285,6 @@ $TTL 30
 *.1.95ye.com CNAME .
 1.arpun.com CNAME .
 *.1.arpun.com CNAME .
-1.bh5.com.cn CNAME .
-*.1.bh5.com.cn CNAME .
 1.bunkr-cache.se CNAME .
 *.1.bunkr-cache.se CNAME .
 1.codesdq.com CNAME .
@@ -18375,8 +18373,6 @@ bxbkh.love CNAME .
 *.bxbkh.love CNAME .
 bxdupj.icu CNAME .
 *.bxdupj.icu CNAME .
-bxejfqxxm.com CNAME .
-*.bxejfqxxm.com CNAME .
 bxlmfnnooejkuj.com CNAME .
 *.bxlmfnnooejkuj.com CNAME .
 bxlulr.icu CNAME .
@@ -38679,8 +38675,6 @@ gorillatrking.com CNAME .
 *.gorillatrking.com CNAME .
 gorod.tunt.lv CNAME .
 *.gorod.tunt.lv CNAME .
-gorsesgauby.top CNAME .
-*.gorsesgauby.top CNAME .
 goruli.com CNAME .
 *.goruli.com CNAME .
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com CNAME .
@@ -47727,8 +47721,6 @@ liestseiser.shop CNAME .
 *.liestseiser.shop CNAME .
 lifadfxkid.com CNAME .
 *.lifadfxkid.com CNAME .
-lifeboatdetrimentlibrarian.com CNAME .
-*.lifeboatdetrimentlibrarian.com CNAME .
 lifeimpressions.net CNAME .
 *.lifeimpressions.net CNAME .
 lifemoodmichelle.com CNAME .
@@ -55175,8 +55167,6 @@ ns2l8nn10rns-6rlr38mp.xyz CNAME .
 *.ns2l8nn10rns-6rlr38mp.xyz CNAME .
 ns336739.ip-37-187-249.eu CNAME .
 *.ns336739.ip-37-187-249.eu CNAME .
-nsbmfllp.com CNAME .
-*.nsbmfllp.com CNAME .
 nsclick.baidu.com CNAME .
 *.nsclick.baidu.com CNAME .
 nsdsvc.com CNAME .
@@ -58797,8 +58787,6 @@ pattedearnestly.com CNAME .
 *.pattedearnestly.com CNAME .
 patteefief.shop CNAME .
 *.patteefief.shop CNAME .
-patternimaginationbull.com CNAME .
-*.patternimaginationbull.com CNAME .
 pattwyda.com CNAME .
 *.pattwyda.com CNAME .
 pattyheadlong.com CNAME .
@@ -74247,8 +74235,6 @@ surprisingarsonistcooperate.com CNAME .
 *.surprisingarsonistcooperate.com CNAME .
 surprisinglystaunchdemocratic.com CNAME .
 *.surprisinglystaunchdemocratic.com CNAME .
-surrenderdownload.com CNAME .
-*.surrenderdownload.com CNAME .
 surrounddiscord.com CNAME .
 *.surrounddiscord.com CNAME .
 surroundfeathers.com CNAME .
@@ -80445,8 +80431,6 @@ unbelievablydemocrat.com CNAME .
 *.unbelievablydemocrat.com CNAME .
 unblitzlean.com CNAME .
 *.unblitzlean.com CNAME .
-unblock2303.xyz CNAME .
-*.unblock2303.xyz CNAME .
 unblock2304.xyz CNAME .
 *.unblock2304.xyz CNAME .
 uncalmgermane.top CNAME .
@@ -83625,8 +83609,6 @@ wejeestuze.net CNAME .
 *.wejeestuze.net CNAME .
 wel-wel-fie.com CNAME .
 *.wel-wel-fie.com CNAME .
-welbljlvmmjej.top CNAME .
-*.welbljlvmmjej.top CNAME .
 welcomeargument.com CNAME .
 *.welcomeargument.com CNAME .
 welcomeneat.pro CNAME .
