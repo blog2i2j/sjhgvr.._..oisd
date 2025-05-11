@@ -1,9 +1,9 @@
-; Version: 202505110809
+; Version: 202505110909
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 88552
-; Last modified: 2025-05-11T08:09:27+0000
+; Entries: 88528
+; Last modified: 2025-05-11T09:09:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746950403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1746954003 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16841,8 +16841,6 @@ blok.link CNAME .
 *.blok.link CNAME .
 blondspeaker.com CNAME .
 *.blondspeaker.com CNAME .
-bloodlessarchives.com CNAME .
-*.bloodlessarchives.com CNAME .
 blossomfertilizerproperly.com CNAME .
 *.blossomfertilizerproperly.com CNAME .
 blotecardthumb.com CNAME .
@@ -17795,8 +17793,6 @@ broadstreetads.com CNAME .
 *.broadstreetads.com CNAME .
 broadsview.site CNAME .
 *.broadsview.site CNAME .
-brocardcored.com CNAME .
-*.brocardcored.com CNAME .
 brocode2s.com CNAME .
 *.brocode2s.com CNAME .
 brocode3s.com CNAME .
@@ -38979,8 +38975,6 @@ gqfuf.com CNAME .
 *.gqfuf.com CNAME .
 gqjdweqs.com CNAME .
 *.gqjdweqs.com CNAME .
-gqjeqaqrxexmd.com CNAME .
-*.gqjeqaqrxexmd.com CNAME .
 gqmacifyutqtx.xyz CNAME .
 *.gqmacifyutqtx.xyz CNAME .
 gqnfkfrunjxdw.world CNAME .
@@ -51165,8 +51159,6 @@ mcs.tiktokw.us CNAME .
 *.mcs.tiktokw.us CNAME .
 mcs.zijieapi.com CNAME .
 *.mcs.zijieapi.com CNAME .
-mcvfjyhvyvp.com CNAME .
-*.mcvfjyhvyvp.com CNAME .
 mcxmke.com CNAME .
 *.mcxmke.com CNAME .
 mcytxdrqjmrly.fun CNAME .
@@ -54699,8 +54691,6 @@ nf1nknlw.mateforevents.com CNAME .
 *.nf1nknlw.mateforevents.com CNAME .
 nfgxadlbfzuy.click CNAME .
 *.nfgxadlbfzuy.click CNAME .
-nfjdxtfpclfh.com CNAME .
-*.nfjdxtfpclfh.com CNAME .
 nfts-opensea.web.app CNAME .
 *.nfts-opensea.web.app CNAME .
 nfvetkycvdkaw.life CNAME .
@@ -56289,8 +56279,6 @@ odqxukovk.com CNAME .
 *.odqxukovk.com CNAME .
 odutxioc.com CNAME .
 *.odutxioc.com CNAME .
-odvrjedubvedqs.com CNAME .
-*.odvrjedubvedqs.com CNAME .
 oecdupuvlbvjs.space CNAME .
 *.oecdupuvlbvjs.space CNAME .
 oeciyalb.top CNAME .
@@ -62605,8 +62593,6 @@ ptolemyvolga.life CNAME .
 *.ptolemyvolga.life CNAME .
 ptomitsi.com CNAME .
 *.ptomitsi.com CNAME .
-ptonauls.net CNAME .
-*.ptonauls.net CNAME .
 ptongouh.net CNAME .
 *.ptongouh.net CNAME .
 ptooftouss.net CNAME .
@@ -66885,8 +66871,6 @@ rtb-eu-v4.rnkclkres.com CNAME .
 *.rtb-eu-v4.rnkclkres.com CNAME .
 rtb-eu-v4.rxnetwork.net CNAME .
 *.rtb-eu-v4.rxnetwork.net CNAME .
-rtb-eu-v4.saroadexchange.com CNAME .
-*.rtb-eu-v4.saroadexchange.com CNAME .
 rtb-eu-v4.search-house.co CNAME .
 *.rtb-eu-v4.search-house.co CNAME .
 rtb-eu-v4.servvidisplay.com CNAME .
@@ -70287,8 +70271,6 @@ shrimpsaitesis.shop CNAME .
 *.shrimpsaitesis.shop CNAME .
 shrubjessamy.com CNAME .
 *.shrubjessamy.com CNAME .
-shrubsnaturalintense.com CNAME .
-*.shrubsnaturalintense.com CNAME .
 shticksyahuna.com CNAME .
 *.shticksyahuna.com CNAME .
 shtrack.kingsoft.jp CNAME .
@@ -79127,8 +79109,6 @@ trackmundo.com CNAME .
 *.trackmundo.com CNAME .
 trackmysales.com CNAME .
 *.trackmysales.com CNAME .
-tracknopo.online CNAME .
-*.tracknopo.online CNAME .
 trackor.net CNAME .
 *.trackor.net CNAME .
 trackpshgoto.win CNAME .
@@ -80639,8 +80619,6 @@ ugcbrainient-a.akamaihd.net CNAME .
 *.ugcbrainient-a.akamaihd.net CNAME .
 ughesterurelanderp.org CNAME .
 *.ughesterurelanderp.org CNAME .
-ughtanothin.info CNAME .
-*.ughtanothin.info CNAME .
 ughtipless.shop CNAME .
 *.ughtipless.shop CNAME .
 ugloubeehun.com CNAME .
@@ -83135,8 +83113,6 @@ vpxzunvaldxcp.world CNAME .
 *.vpxzunvaldxcp.world CNAME .
 vq4b0q.fun CNAME .
 *.vq4b0q.fun CNAME .
-vqfumxea.com CNAME .
-*.vqfumxea.com CNAME .
 vqhrqt.com CNAME .
 *.vqhrqt.com CNAME .
 vqnjrz.top CNAME .
