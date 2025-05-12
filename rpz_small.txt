@@ -1,9 +1,9 @@
-; Version: 202505122010
+; Version: 202505122110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87878
-; Last modified: 2025-05-12T20:10:06+0000
+; Entries: 87846
+; Last modified: 2025-05-12T21:10:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747080002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747083603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8645,8 +8645,6 @@ afm01.com CNAME .
 *.afm01.com CNAME .
 afnhc.com CNAME .
 *.afnhc.com CNAME .
-afnyfiexpecttha.info CNAME .
-*.afnyfiexpecttha.info CNAME .
 afodreet.net CNAME .
 *.afodreet.net CNAME .
 afqaphpu.com CNAME .
@@ -13353,8 +13351,6 @@ atenpegman.com CNAME .
 *.atenpegman.com CNAME .
 aterroppop.com CNAME .
 *.aterroppop.com CNAME .
-atethebenefitsshe.com CNAME .
-*.atethebenefitsshe.com CNAME .
 ateyfathertold.org CNAME .
 *.ateyfathertold.org CNAME .
 atgahsskoa.com CNAME .
@@ -17919,8 +17915,6 @@ bsantycbjnf.com CNAME .
 *.bsantycbjnf.com CNAME .
 bsbrcdna.com CNAME .
 *.bsbrcdna.com CNAME .
-bsbxgphqrmbhy.com CNAME .
-*.bsbxgphqrmbhy.com CNAME .
 bscz3136.com CNAME .
 *.bscz3136.com CNAME .
 bserver.gp-guia.net CNAME .
@@ -27379,8 +27373,6 @@ daily-info.live CNAME .
 *.daily-info.live CNAME .
 daily-theromancespot.com CNAME .
 *.daily-theromancespot.com CNAME .
-daily-thesweet-finds.com CNAME .
-*.daily-thesweet-finds.com CNAME .
 daily.thezebra.org CNAME .
 *.daily.thezebra.org CNAME .
 daily.yubanet.com CNAME .
@@ -29485,8 +29477,6 @@ dk4w74mt6naf3.cloudfront.net CNAME .
 *.dk4w74mt6naf3.cloudfront.net CNAME .
 dk57sacpbi4by.cloudfront.net CNAME .
 *.dk57sacpbi4by.cloudfront.net CNAME .
-dkdipdowi.com CNAME .
-*.dkdipdowi.com CNAME .
 dkeakszrup.com CNAME .
 *.dkeakszrup.com CNAME .
 dkeolzolnwun.com CNAME .
@@ -37197,8 +37187,6 @@ gdajuytgupptx.world CNAME .
 *.gdajuytgupptx.world CNAME .
 gdasaasnt.com CNAME .
 *.gdasaasnt.com CNAME .
-gdecording.info CNAME .
-*.gdecording.info CNAME .
 gdecordingholo.info CNAME .
 *.gdecordingholo.info CNAME .
 gdeigri.com CNAME .
@@ -43755,8 +43743,6 @@ iq.afterpay.com CNAME .
 *.iq.afterpay.com CNAME .
 iq.sixaxisllc.com CNAME .
 *.iq.sixaxisllc.com CNAME .
-iqcjbsti.com CNAME .
-*.iqcjbsti.com CNAME .
 iqcxhe04fnic.com CNAME .
 *.iqcxhe04fnic.com CNAME .
 iqi4l.icu CNAME .
@@ -49471,8 +49457,6 @@ lsgpxqe.com CNAME .
 *.lsgpxqe.com CNAME .
 lsihkmqojoh.com CNAME .
 *.lsihkmqojoh.com CNAME .
-lsjarh.top CNAME .
-*.lsjarh.top CNAME .
 lsjazn.xyz CNAME .
 *.lsjazn.xyz CNAME .
 lsjne.com CNAME .
@@ -55029,8 +55013,6 @@ npvos.com CNAME .
 *.npvos.com CNAME .
 npykxfaypqrtf.love CNAME .
 *.npykxfaypqrtf.love CNAME .
-nqbtlgapfspoy.com CNAME .
-*.nqbtlgapfspoy.com CNAME .
 nqn7la7.de CNAME .
 *.nqn7la7.de CNAME .
 nqowmugodougu.com CNAME .
@@ -57467,8 +57449,6 @@ oulsools.com CNAME .
 *.oulsools.com CNAME .
 oultoheboalte.net CNAME .
 *.oultoheboalte.net CNAME .
-oumainseeba.xyz CNAME .
-*.oumainseeba.xyz CNAME .
 oumtirsu.com CNAME .
 *.oumtirsu.com CNAME .
 ounceanalogous.com CNAME .
@@ -58427,8 +58407,6 @@ paregospeltheir.com CNAME .
 *.paregospeltheir.com CNAME .
 parentlargevia.com CNAME .
 *.parentlargevia.com CNAME .
-parentsatellitecheque.com CNAME .
-*.parentsatellitecheque.com CNAME .
 paripartner.com CNAME .
 *.paripartner.com CNAME .
 paripartners.ru CNAME .
@@ -59281,8 +59259,6 @@ phanquang.vn CNAME .
 *.phanquang.vn CNAME .
 pharmcash.com CNAME .
 *.pharmcash.com CNAME .
-pharoilrw.com CNAME .
-*.pharoilrw.com CNAME .
 phasmidaiawong.top CNAME .
 *.phasmidaiawong.top CNAME .
 phastoag.com CNAME .
@@ -59999,8 +59975,6 @@ pkvjrb.icu CNAME .
 *.pkvjrb.icu CNAME .
 pkycugri.com CNAME .
 *.pkycugri.com CNAME .
-pkyffuewwuhnld.com CNAME .
-*.pkyffuewwuhnld.com CNAME .
 pkyjuc.cn CNAME .
 *.pkyjuc.cn CNAME .
 pl.connatix.com CNAME .
@@ -67007,8 +66981,6 @@ rum.uptime.com CNAME .
 *.rum.uptime.com CNAME .
 rum39bxk.fun CNAME .
 *.rum39bxk.fun CNAME .
-rumkhprg.com CNAME .
-*.rumkhprg.com CNAME .
 rummageengineneedle.com CNAME .
 *.rummageengineneedle.com CNAME .
 rummyaffiliates.com CNAME .
@@ -81211,8 +81183,6 @@ vacqfuaggah.com CNAME .
 *.vacqfuaggah.com CNAME .
 vacuagustard.top CNAME .
 *.vacuagustard.top CNAME .
-vacuefydefiner.top CNAME .
-*.vacuefydefiner.top CNAME .
 vacuomedogeys.com CNAME .
 *.vacuomedogeys.com CNAME .
 vacwrite.com CNAME .
@@ -85279,8 +85249,6 @@ xjwzbo.com CNAME .
 *.xjwzbo.com CNAME .
 xkacs5av.xyz CNAME .
 *.xkacs5av.xyz CNAME .
-xklv.cn CNAME .
-*.xklv.cn CNAME .
 xkpbcd.com CNAME .
 *.xkpbcd.com CNAME .
 xktxemf.com CNAME .
