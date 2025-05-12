@@ -1,9 +1,9 @@
-; Version: 202505121710
+; Version: 202505121811
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87942
-; Last modified: 2025-05-12T17:10:52+0000
+; Entries: 87918
+; Last modified: 2025-05-12T18:11:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747069203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747072802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12975,8 +12975,6 @@ ashamedtriumphant.com CNAME .
 *.ashamedtriumphant.com CNAME .
 ashasvsucoce.com CNAME .
 *.ashasvsucoce.com CNAME .
-ashasvsucocesis.com CNAME .
-*.ashasvsucocesis.com CNAME .
 ashcdn.com CNAME .
 *.ashcdn.com CNAME .
 ashetandrew.com CNAME .
@@ -20319,8 +20317,6 @@ cfzrh-xqwrv.site CNAME .
 *.cfzrh-xqwrv.site CNAME .
 cgbupajpzo-t.rocks CNAME .
 *.cgbupajpzo-t.rocks CNAME .
-cgcobmihb.com CNAME .
-*.cgcobmihb.com CNAME .
 cgeckmydirect.biz CNAME .
 *.cgeckmydirect.biz CNAME .
 cgfvmpkypav.com CNAME .
@@ -20423,8 +20419,6 @@ chapcompletefire.com CNAME .
 *.chapcompletefire.com CNAME .
 chappalanatum.com CNAME .
 *.chappalanatum.com CNAME .
-chappallars.com CNAME .
-*.chappallars.com CNAME .
 characterlinguinisnarl.com CNAME .
 *.characterlinguinisnarl.com CNAME .
 chargeit.baby CNAME .
@@ -22647,8 +22641,6 @@ compteur.websiteout.net CNAME .
 *.compteur.websiteout.net CNAME .
 compucelunlock.net CNAME .
 *.compucelunlock.net CNAME .
-computeafterthoughtspeedometer.com CNAME .
-*.computeafterthoughtspeedometer.com CNAME .
 comscore.com CNAME .
 *.comscore.com CNAME .
 comsprague.com CNAME .
@@ -31601,8 +31593,6 @@ eca8bef536.com CNAME .
 *.eca8bef536.com CNAME .
 ecd2f27cc8.d0056a5b0b.com CNAME .
 *.ecd2f27cc8.d0056a5b0b.com CNAME .
-ecerpgqnohelf.com CNAME .
-*.ecerpgqnohelf.com CNAME .
 ecf076c000.3fe21d10b7.com CNAME .
 *.ecf076c000.3fe21d10b7.com CNAME .
 echidna.hellotomorrow.agency CNAME .
@@ -35213,8 +35203,6 @@ find-newgirl.com CNAME .
 *.find-newgirl.com CNAME .
 findbetterresults.com CNAME .
 *.findbetterresults.com CNAME .
-findcommerce.com CNAME .
-*.findcommerce.com CNAME .
 finder2024.com CNAME .
 *.finder2024.com CNAME .
 findgirlsdream.com CNAME .
@@ -37545,8 +37533,6 @@ getalltraffic.com CNAME .
 *.getalltraffic.com CNAME .
 getb.7ya.ru CNAME .
 *.getb.7ya.ru CNAME .
-getbrowbeatgroup.com CNAME .
-*.getbrowbeatgroup.com CNAME .
 getclicky.com CNAME .
 *.getclicky.com CNAME .
 getgx.net CNAME .
@@ -39701,8 +39687,6 @@ gxpomhvalxwuh.com CNAME .
 *.gxpomhvalxwuh.com CNAME .
 gxrpbnhskxrtj.vip CNAME .
 *.gxrpbnhskxrtj.vip CNAME .
-gxsdfcnyrgxdb.com CNAME .
-*.gxsdfcnyrgxdb.com CNAME .
 gxzvrffzlfxyq.global CNAME .
 *.gxzvrffzlfxyq.global CNAME .
 gycbpuyulmeji.xyz CNAME .
@@ -44441,8 +44425,6 @@ jcfbgdbd.top CNAME .
 *.jcfbgdbd.top CNAME .
 jclrwjceymgec.com CNAME .
 *.jclrwjceymgec.com CNAME .
-jcosjpir.com CNAME .
-*.jcosjpir.com CNAME .
 jcount.com CNAME .
 *.jcount.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
@@ -69887,8 +69869,6 @@ sifflettreetop.com CNAME .
 *.sifflettreetop.com CNAME .
 siftdivorced.com CNAME .
 *.siftdivorced.com CNAME .
-sigheemibod.xyz CNAME .
-*.sigheemibod.xyz CNAME .
 sightdisintegrate.com CNAME .
 *.sightdisintegrate.com CNAME .
 sightshumble.com CNAME .
@@ -79129,8 +79109,6 @@ trkunited.com CNAME .
 *.trkunited.com CNAME .
 trkwinaff13.com CNAME .
 *.trkwinaff13.com CNAME .
-trlptm.top CNAME .
-*.trlptm.top CNAME .
 trmobc.com CNAME .
 *.trmobc.com CNAME .
 trmzum.com CNAME .
@@ -87041,8 +87019,6 @@ yrhnw7h63.com CNAME .
 *.yrhnw7h63.com CNAME .
 yrincelewasgiw.info CNAME .
 *.yrincelewasgiw.info CNAME .
-yrmqfojomlwh.com CNAME .
-*.yrmqfojomlwh.com CNAME .
 yrsnkqbmivsns.com CNAME .
 *.yrsnkqbmivsns.com CNAME .
 yrwqquykdja.com CNAME .
