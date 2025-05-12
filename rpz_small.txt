@@ -1,9 +1,9 @@
-; Version: 202505120008
+; Version: 202505120109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87828
-; Last modified: 2025-05-12T00:08:48+0000
+; Entries: 87806
+; Last modified: 2025-05-12T01:09:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747008008 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747011603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -419,8 +419,6 @@ $TTL 30
 *.12.cookcai.com CNAME .
 1200555.com CNAME .
 *.1200555.com CNAME .
-1201091638.rsc.cdn77.org CNAME .
-*.1201091638.rsc.cdn77.org CNAME .
 1208344341.rsc.cdn77.org CNAME .
 *.1208344341.rsc.cdn77.org CNAME .
 12112336.pix-cdn.org CNAME .
@@ -15665,8 +15663,6 @@ beehiveavertconfessed.com CNAME .
 *.beehiveavertconfessed.com CNAME .
 beehivematty.top CNAME .
 *.beehivematty.top CNAME .
-beemauhu.xyz CNAME .
-*.beemauhu.xyz CNAME .
 beemolgator.com CNAME .
 *.beemolgator.com CNAME .
 beenoper.com CNAME .
@@ -24581,8 +24577,6 @@ cv-tracker.stanby.com CNAME .
 *.cv-tracker.stanby.com CNAME .
 cv.bentsdiorism.com CNAME .
 *.cv.bentsdiorism.com CNAME .
-cvaetfspprbnt.com CNAME .
-*.cvaetfspprbnt.com CNAME .
 cvehbcrq.com CNAME .
 *.cvehbcrq.com CNAME .
 cvfuyogxbcweq.tech CNAME .
@@ -29141,8 +29135,6 @@ dischargemakerfringe.com CNAME .
 *.dischargemakerfringe.com CNAME .
 disciplecousinendorse.com CNAME .
 *.disciplecousinendorse.com CNAME .
-disciplineinspirecapricorn.com CNAME .
-*.disciplineinspirecapricorn.com CNAME .
 discloseapplicationtreason.com CNAME .
 *.discloseapplicationtreason.com CNAME .
 disclosestockingsprestigious.com CNAME .
@@ -31827,8 +31819,6 @@ eeriemediocre.com CNAME .
 *.eeriemediocre.com CNAME .
 eertoamogn.net CNAME .
 *.eertoamogn.net CNAME .
-eesidesukbeingaj.com CNAME .
-*.eesidesukbeingaj.com CNAME .
 eessoong.com CNAME .
 *.eessoong.com CNAME .
 eetazicmee.net CNAME .
@@ -40363,8 +40353,6 @@ helicopterskull.com CNAME .
 *.helicopterskull.com CNAME .
 helipsymphony.com CNAME .
 *.helipsymphony.com CNAME .
-hellerraucous.top CNAME .
-*.hellerraucous.top CNAME .
 hello.staticstuff.net CNAME .
 *.hello.staticstuff.net CNAME .
 hellobar.com CNAME .
@@ -43447,8 +43435,6 @@ interdfp.com CNAME .
 *.interdfp.com CNAME .
 interestingpracticable.com CNAME .
 *.interestingpracticable.com CNAME .
-interestsubsidereason.com CNAME .
-*.interestsubsidereason.com CNAME .
 interesttingg.com CNAME .
 *.interesttingg.com CNAME .
 interference350.fun CNAME .
@@ -44181,8 +44167,6 @@ jailabridge.com CNAME .
 *.jailabridge.com CNAME .
 jaimirozadair.net CNAME .
 *.jaimirozadair.net CNAME .
-jainjkal.com CNAME .
-*.jainjkal.com CNAME .
 jaiphoaptom.net CNAME .
 *.jaiphoaptom.net CNAME .
 jakseegrutso.net CNAME .
@@ -57691,8 +57675,6 @@ overnumeler.com CNAME .
 *.overnumeler.com CNAME .
 overonixa.com CNAME .
 *.overonixa.com CNAME .
-overratedlively.com CNAME .
-*.overratedlively.com CNAME .
 overreactperverse.com CNAME .
 *.overreactperverse.com CNAME .
 overseasearchopped.com CNAME .
@@ -65393,8 +65375,6 @@ rewriteworse.com CNAME .
 *.rewriteworse.com CNAME .
 rewsawanincreasei.com CNAME .
 *.rewsawanincreasei.com CNAME .
-rexneedleinterfere.com CNAME .
-*.rexneedleinterfere.com CNAME .
 rexsrv.com CNAME .
 *.rexsrv.com CNAME .
 reyehathick.info CNAME .
@@ -69153,8 +69133,6 @@ sftrack.searchforce.net CNAME .
 *.sftrack.searchforce.net CNAME .
 sfulylydeveloped.org CNAME .
 *.sfulylydeveloped.org CNAME .
-sfwehgedquq.com CNAME .
-*.sfwehgedquq.com CNAME .
 sg-public-data-api.hoyoverse.com CNAME .
 *.sg-public-data-api.hoyoverse.com CNAME .
 sg.log.ulivetv.net CNAME .
