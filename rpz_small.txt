@@ -1,9 +1,9 @@
-; Version: 202505121910
+; Version: 202505122010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87902
-; Last modified: 2025-05-12T19:10:49+0000
+; Entries: 87878
+; Last modified: 2025-05-12T20:10:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747076402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747080002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17861,8 +17861,6 @@ browsiprod.com CNAME .
 *.browsiprod.com CNAME .
 browsobsolete.com CNAME .
 *.browsobsolete.com CNAME .
-brqfqlsssthfg.com CNAME .
-*.brqfqlsssthfg.com CNAME .
 brt.studylabs.cn CNAME .
 *.brt.studylabs.cn CNAME .
 brtsumthree.com CNAME .
@@ -29251,8 +29249,6 @@ dishesha.net CNAME .
 *.dishesha.net CNAME .
 dishevelledoughtshall.com CNAME .
 *.dishevelledoughtshall.com CNAME .
-dishonourfondness.com CNAME .
-*.dishonourfondness.com CNAME .
 dishtrekkerunderfoot.com CNAME .
 *.dishtrekkerunderfoot.com CNAME .
 dishwaterconcedehearty.com CNAME .
@@ -29661,8 +29657,6 @@ dmhclkohnrpvg.com CNAME .
 *.dmhclkohnrpvg.com CNAME .
 dmiredindeed.com CNAME .
 *.dmiredindeed.com CNAME .
-dmiredindeed.info CNAME .
-*.dmiredindeed.info CNAME .
 dmkdtkad2jyb9.cloudfront.net CNAME .
 *.dmkdtkad2jyb9.cloudfront.net CNAME .
 dmkt.point-ad-game.com CNAME .
@@ -37191,8 +37185,6 @@ gcocaxgrao.com CNAME .
 *.gcocaxgrao.com CNAME .
 gcprivacy.com CNAME .
 *.gcprivacy.com CNAME .
-gcpusibqpnulkg.com CNAME .
-*.gcpusibqpnulkg.com CNAME .
 gcqbwsehx.com CNAME .
 *.gcqbwsehx.com CNAME .
 gcsimltwr.com CNAME .
@@ -40701,8 +40693,6 @@ hhorkypapnri.com CNAME .
 *.hhorkypapnri.com CNAME .
 hhrerv.xyz CNAME .
 *.hhrerv.xyz CNAME .
-hhsp2.com CNAME .
-*.hhsp2.com CNAME .
 hhuobnajd.com CNAME .
 *.hhuobnajd.com CNAME .
 hhuohqramjit.com CNAME .
@@ -46183,8 +46173,6 @@ knowgrownupdoomed.com CNAME .
 *.knowgrownupdoomed.com CNAME .
 knowing-upstairs.pro CNAME .
 *.knowing-upstairs.pro CNAME .
-knowledconsideunden.info CNAME .
-*.knowledconsideunden.info CNAME .
 knowledgeable-tree.com CNAME .
 *.knowledgeable-tree.com CNAME .
 knowmakeshalfmoon.com CNAME .
@@ -56317,8 +56305,6 @@ oldeststrickenambulance.com CNAME .
 *.oldeststrickenambulance.com CNAME .
 oldfashionedmadewhiskers.com CNAME .
 *.oldfashionedmadewhiskers.com CNAME .
-oldforeyesheh.info CNAME .
-*.oldforeyesheh.info CNAME .
 oldgyhogola.com CNAME .
 *.oldgyhogola.com CNAME .
 olevole.ru CNAME .
@@ -57087,8 +57073,6 @@ oqrzuvarwgm.com CNAME .
 *.oqrzuvarwgm.com CNAME .
 oquaysx.club CNAME .
 *.oquaysx.club CNAME .
-oquftwsabsep.xyz CNAME .
-*.oquftwsabsep.xyz CNAME .
 oqxogfazdz.com CNAME .
 *.oqxogfazdz.com CNAME .
 oraefleers.top CNAME .
@@ -57751,8 +57735,6 @@ overture.com CNAME .
 *.overture.com CNAME .
 overwhelmpeacock.com CNAME .
 *.overwhelmpeacock.com CNAME .
-ovfmeawrciuajgb.com CNAME .
-*.ovfmeawrciuajgb.com CNAME .
 ovgohkmh.com CNAME .
 *.ovgohkmh.com CNAME .
 ovibospeseta.com CNAME .
@@ -69353,8 +69335,6 @@ shamelessappellation.com CNAME .
 *.shamelessappellation.com CNAME .
 shamelessnullneutrality.com CNAME .
 *.shamelessnullneutrality.com CNAME .
-shamnmalcwob.com CNAME .
-*.shamnmalcwob.com CNAME .
 shanaurg.net CNAME .
 *.shanaurg.net CNAME .
 shangwenchao4.cn CNAME .
@@ -70263,10 +70243,6 @@ sleazysoundbegins.com CNAME .
 *.sleazysoundbegins.com CNAME .
 sledgedcooping.com CNAME .
 *.sledgedcooping.com CNAME .
-sleepytoadfrosty.com CNAME .
-*.sleepytoadfrosty.com CNAME .
-sleeveturbulent.com CNAME .
-*.sleeveturbulent.com CNAME .
 sleptbereave.com CNAME .
 *.sleptbereave.com CNAME .
 sleptfearseal.com CNAME .
