@@ -1,9 +1,9 @@
-; Version: 202505122110
+; Version: 202505122209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87846
-; Last modified: 2025-05-12T21:10:18+0000
+; Entries: 87822
+; Last modified: 2025-05-12T22:09:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747083603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747087205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1863,8 +1863,6 @@ $TTL 30
 *.4g0b1inr.de CNAME .
 4gforkh4.icu CNAME .
 *.4gforkh4.icu CNAME .
-4hfchest5kdnfnut.com CNAME .
-*.4hfchest5kdnfnut.com CNAME .
 4iazoa.xyz CNAME .
 *.4iazoa.xyz CNAME .
 4ir17.icu CNAME .
@@ -9575,8 +9573,6 @@ aljassarengineering.com CNAME .
 *.aljassarengineering.com CNAME .
 aljotkamkf.com CNAME .
 *.aljotkamkf.com CNAME .
-aljurqbdsxhcgh.com CNAME .
-*.aljurqbdsxhcgh.com CNAME .
 alkentinedaugha.com CNAME .
 *.alkentinedaugha.com CNAME .
 alklinker.com CNAME .
@@ -12621,8 +12617,6 @@ arfobkorfa.com CNAME .
 *.arfobkorfa.com CNAME .
 argenabovethe.com CNAME .
 *.argenabovethe.com CNAME .
-argeredru.info CNAME .
-*.argeredru.info CNAME .
 arglingpistole.com CNAME .
 *.arglingpistole.com CNAME .
 argondenial.com CNAME .
@@ -15301,8 +15295,6 @@ bbelements.com CNAME .
 *.bbelements.com CNAME .
 bbgtranst.com CNAME .
 *.bbgtranst.com CNAME .
-bbiwvlyketvf.com CNAME .
-*.bbiwvlyketvf.com CNAME .
 bbn.img.com.ua CNAME .
 *.bbn.img.com.ua CNAME .
 bbnfcfrvjs.com CNAME .
@@ -20301,8 +20293,6 @@ cfvcjyksaerua.fun CNAME .
 *.cfvcjyksaerua.fun CNAME .
 cfwlvmg.top CNAME .
 *.cfwlvmg.top CNAME .
-cfxvutnbxvcbi.com CNAME .
-*.cfxvutnbxvcbi.com CNAME .
 cfzrh-xqwrv.site CNAME .
 *.cfzrh-xqwrv.site CNAME .
 cgbupajpzo-t.rocks CNAME .
@@ -23997,8 +23987,6 @@ creativedisplayformat.com CNAME .
 *.creativedisplayformat.com CNAME .
 creativedot.net CNAME .
 *.creativedot.net CNAME .
-creativefix.pro CNAME .
-*.creativefix.pro CNAME .
 creativeformatsnetwork.com CNAME .
 *.creativeformatsnetwork.com CNAME .
 creativelardyprevailed.com CNAME .
@@ -28183,8 +28171,6 @@ deebcards-themier.com CNAME .
 *.deebcards-themier.com CNAME .
 deedeedwinos.com CNAME .
 *.deedeedwinos.com CNAME .
-deedeisasbeaut.info CNAME .
-*.deedeisasbeaut.info CNAME .
 deedkernelhomesick.com CNAME .
 *.deedkernelhomesick.com CNAME .
 deefauph.com CNAME .
@@ -28291,8 +28277,6 @@ deitynosebleed.com CNAME .
 *.deitynosebleed.com CNAME .
 dejavu.mlapps.com CNAME .
 *.dejavu.mlapps.com CNAME .
-dejjjdbifojmi.com CNAME .
-*.dejjjdbifojmi.com CNAME .
 deksoarguph.net CNAME .
 *.deksoarguph.net CNAME .
 del-del-ete.com CNAME .
@@ -37085,8 +37069,6 @@ gaujokop.com CNAME .
 *.gaujokop.com CNAME .
 gaukeezeewha.net CNAME .
 *.gaukeezeewha.net CNAME .
-gaulshiite.life CNAME .
-*.gaulshiite.life CNAME .
 gaumymilage.com CNAME .
 *.gaumymilage.com CNAME .
 gaunchdelimes.com CNAME .
@@ -38009,8 +37991,6 @@ gleejoad.net CNAME .
 *.gleejoad.net CNAME .
 gleemahortus.com CNAME .
 *.gleemahortus.com CNAME .
-gleetedtalkers.shop CNAME .
-*.gleetedtalkers.shop CNAME .
 gleetresis.com CNAME .
 *.gleetresis.com CNAME .
 glempirteechacm.com CNAME .
@@ -51891,8 +51871,6 @@ mixablelathe.com CNAME .
 *.mixablelathe.com CNAME .
 mixadvert.com CNAME .
 *.mixadvert.com CNAME .
-mixbestboost.club CNAME .
-*.mixbestboost.club CNAME .
 mixedreading.com CNAME .
 *.mixedreading.com CNAME .
 mixer.sina.cn CNAME .
@@ -60739,8 +60717,6 @@ porcupine.dvresolve.com CNAME .
 *.porcupine.dvresolve.com CNAME .
 porcupine.reminyborg.com CNAME .
 *.porcupine.reminyborg.com CNAME .
-poredii.com CNAME .
-*.poredii.com CNAME .
 porikatha.com CNAME .
 *.porikatha.com CNAME .
 porkpielepidin.com CNAME .
