@@ -1,9 +1,9 @@
-; Version: 202505120810
+; Version: 202505120910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87700
-; Last modified: 2025-05-12T08:10:01+0000
+; Entries: 87674
+; Last modified: 2025-05-12T09:10:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747036802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747040404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -371,8 +371,6 @@ $TTL 30
 *.10523745.xyz CNAME .
 10614305.xyz CNAME .
 *.10614305.xyz CNAME .
-1070303257.rsc.cdn77.org CNAME .
-*.1070303257.rsc.cdn77.org CNAME .
 10753990.xyz CNAME .
 *.10753990.xyz CNAME .
 1080872514.rsc.cdn77.org CNAME .
@@ -18721,8 +18719,6 @@ ca9246.xyz CNAME .
 *.ca9246.xyz CNAME .
 caahwq.com CNAME .
 *.caahwq.com CNAME .
-caapuxmi.com CNAME .
-*.caapuxmi.com CNAME .
 cabbagereporterpayroll.com CNAME .
 *.cabbagereporterpayroll.com CNAME .
 cabbagesemestergeoffrey.com CNAME .
@@ -36561,8 +36557,6 @@ fxmnba.com CNAME .
 *.fxmnba.com CNAME .
 fxstyle.net CNAME .
 *.fxstyle.net CNAME .
-fxypenydiod.com CNAME .
-*.fxypenydiod.com CNAME .
 fy60.icu CNAME .
 *.fy60.icu CNAME .
 fyber.com CNAME .
@@ -42241,8 +42235,6 @@ iedtothema.org CNAME .
 *.iedtothema.org CNAME .
 iegrozrmvgjfp.online CNAME .
 *.iegrozrmvgjfp.online CNAME .
-ieluqiqttdwv.com CNAME .
-*.ieluqiqttdwv.com CNAME .
 iemiq.com CNAME .
 *.iemiq.com CNAME .
 ientent.stre4mplay.one CNAME .
@@ -45303,8 +45295,6 @@ jzplabcvvy.com CNAME .
 *.jzplabcvvy.com CNAME .
 jzqbyykbrrbkq.top CNAME .
 *.jzqbyykbrrbkq.top CNAME .
-jzqbyykjormlw.top CNAME .
-*.jzqbyykjormlw.top CNAME .
 jzqscvqlgasxh.buzz CNAME .
 *.jzqscvqlgasxh.buzz CNAME .
 jztwidpixa.icu CNAME .
@@ -61249,8 +61239,6 @@ primusad.com CNAME .
 *.primusad.com CNAME .
 princesinistervirus.com CNAME .
 *.princesinistervirus.com CNAME .
-princessdazzlepeacefully.com CNAME .
-*.princessdazzlepeacefully.com CNAME .
 principlede.info CNAME .
 *.principlede.info CNAME .
 pringed.space CNAME .
@@ -66335,8 +66323,6 @@ rtb-eu.rnkclkres.com CNAME .
 *.rtb-eu.rnkclkres.com CNAME .
 rtb-eu.rtbflairads.com CNAME .
 *.rtb-eu.rtbflairads.com CNAME .
-rtb-eu.saroadexchange.com CNAME .
-*.rtb-eu.saroadexchange.com CNAME .
 rtb-eu.servvidisplay.com CNAME .
 *.rtb-eu.servvidisplay.com CNAME .
 rtb-eu.showcasead.com CNAME .
@@ -71965,8 +71951,6 @@ startup-mobile.ap.yandex-net.ru CNAME .
 *.startup-mobile.ap.yandex-net.ru CNAME .
 startup.mobile.webvisor.com CNAME .
 *.startup.mobile.webvisor.com CNAME .
-startusdating.com CNAME .
-*.startusdating.com CNAME .
 starvalue-4.online CNAME .
 *.starvalue-4.online CNAME .
 starvationdefence.com CNAME .
@@ -77129,8 +77113,6 @@ toutsneskhi.com CNAME .
 *.toutsneskhi.com CNAME .
 tovespiquener.com CNAME .
 *.tovespiquener.com CNAME .
-tovwhxpomgkd.com CNAME .
-*.tovwhxpomgkd.com CNAME .
 towardcorporal.com CNAME .
 *.towardcorporal.com CNAME .
 towardsturtle.com CNAME .
@@ -80187,8 +80169,6 @@ undercoverbluffybluffybus.com CNAME .
 *.undercoverbluffybluffybus.com CNAME .
 undercoverchildbirthflimsy.com CNAME .
 *.undercoverchildbirthflimsy.com CNAME .
-undercoverwaterfront.com CNAME .
-*.undercoverwaterfront.com CNAME .
 underdog.media CNAME .
 *.underdog.media CNAME .
 undere.com CNAME .
@@ -83395,8 +83375,6 @@ wetsireoverload.com CNAME .
 *.wetsireoverload.com CNAME .
 wettestspanemy.com CNAME .
 *.wettestspanemy.com CNAME .
-wewlorozwolrr.top CNAME .
-*.wewlorozwolrr.top CNAME .
 wexevoom.net CNAME .
 *.wexevoom.net CNAME .
 wextap.com CNAME .
@@ -86227,8 +86205,6 @@ xxxx88xxxx.com CNAME .
 *.xxxx88xxxx.com CNAME .
 xxxx96xxxx.com CNAME .
 *.xxxx96xxxx.com CNAME .
-xxyrgvielmehx.com CNAME .
-*.xxyrgvielmehx.com CNAME .
 xy33.smallable.com CNAME .
 *.xy33.smallable.com CNAME .
 xydbpbnmo.com CNAME .
@@ -87409,8 +87385,6 @@ zmysashrep.com CNAME .
 *.zmysashrep.com CNAME .
 zmytkaoh.com CNAME .
 *.zmytkaoh.com CNAME .
-zmzwloelrajoq.top CNAME .
-*.zmzwloelrajoq.top CNAME .
 zng.com CNAME .
 *.zng.com CNAME .
 zniwiarz.topagrar.pl CNAME .
