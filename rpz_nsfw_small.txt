@@ -1,9 +1,9 @@
-; Version: 202505121015
+; Version: 202505121315
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42314
-; Last modified: 2025-05-12T10:15:28+0000
+; Entries: 42322
+; Last modified: 2025-05-12T13:15:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747044003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747054801 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1771,6 +1771,8 @@ allpher.com CNAME .
 *.allpher.com CNAME .
 allporncomic.com CNAME .
 *.allporncomic.com CNAME .
+allporncomic.io CNAME .
+*.allporncomic.io CNAME .
 allporncomics.co CNAME .
 *.allporncomics.co CNAME .
 allporncomix.com CNAME .
@@ -10341,6 +10343,8 @@ faitpastafarouche.com CNAME .
 *.faitpastafarouche.com CNAME .
 fakboi.org CNAME .
 *.fakboi.org CNAME .
+fakebokep.today CNAME .
+*.fakebokep.today CNAME .
 fakedriver.net CNAME .
 *.fakedriver.net CNAME .
 fakehub.com CNAME .
@@ -11201,8 +11205,6 @@ fimsex.info CNAME .
 *.fimsex.info CNAME .
 finalteens.com CNAME .
 *.finalteens.com CNAME .
-finance.blog CNAME .
-*.finance.blog CNAME .
 find-local-milfs.com CNAME .
 *.find-local-milfs.com CNAME .
 find-me-sex.com CNAME .
@@ -14323,6 +14325,8 @@ hdpornmovies.xxx CNAME .
 *.hdpornmovies.xxx CNAME .
 hdporno.cam CNAME .
 *.hdporno.cam CNAME .
+hdporno.homes CNAME .
+*.hdporno.homes CNAME .
 hdporno.tv CNAME .
 *.hdporno.tv CNAME .
 hdporno720.info CNAME .
@@ -15649,6 +15653,8 @@ hotandgirls.site CNAME .
 *.hotandgirls.site CNAME .
 hotasianp.com CNAME .
 *.hotasianp.com CNAME .
+hotasianporn.sbs CNAME .
+*.hotasianporn.sbs CNAME .
 hotasianporn.video CNAME .
 *.hotasianporn.video CNAME .
 hotavenuex.com CNAME .
@@ -26593,6 +26599,8 @@ porngg5.net CNAME .
 *.porngg5.net CNAME .
 porngif.co CNAME .
 *.porngif.co CNAME .
+porngifer.com CNAME .
+*.porngifer.com CNAME .
 porngifmag.com CNAME .
 *.porngifmag.com CNAME .
 porngifs.ca CNAME .
