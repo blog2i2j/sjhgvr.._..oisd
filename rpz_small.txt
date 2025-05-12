@@ -1,9 +1,9 @@
-; Version: 202505121811
+; Version: 202505121910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87918
-; Last modified: 2025-05-12T18:11:05+0000
+; Entries: 87902
+; Last modified: 2025-05-12T19:10:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747072802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747076402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13975,8 +13975,6 @@ awbbcre.com CNAME .
 *.awbbcre.com CNAME .
 awbbjmp.com CNAME .
 *.awbbjmp.com CNAME .
-awcnsvikjfvh.com CNAME .
-*.awcnsvikjfvh.com CNAME .
 awcrpu.com CNAME .
 *.awcrpu.com CNAME .
 awdeliverynet.com CNAME .
@@ -24639,8 +24637,6 @@ cvxwaslonejulyha.info CNAME .
 *.cvxwaslonejulyha.info CNAME .
 cwchmb.com CNAME .
 *.cwchmb.com CNAME .
-cwfpkipntwfudvo.com CNAME .
-*.cwfpkipntwfudvo.com CNAME .
 cwhwdhamljp.com CNAME .
 *.cwhwdhamljp.com CNAME .
 cwicawat.com CNAME .
@@ -29473,8 +29469,6 @@ djnaivalj34ub.cloudfront.net CNAME .
 *.djnaivalj34ub.cloudfront.net CNAME .
 djr4k68f8n55o.cloudfront.net CNAME .
 *.djr4k68f8n55o.cloudfront.net CNAME .
-djrsvwtt.com CNAME .
-*.djrsvwtt.com CNAME .
 djs.baomihua.com CNAME .
 *.djs.baomihua.com CNAME .
 djsoo8p407d6p.cloudfront.net CNAME .
@@ -36133,8 +36127,6 @@ fqirjff.com CNAME .
 *.fqirjff.com CNAME .
 fqnhjt.icu CNAME .
 *.fqnhjt.icu CNAME .
-fqnojp.top CNAME .
-*.fqnojp.top CNAME .
 fqqcfpka-ui.top CNAME .
 *.fqqcfpka-ui.top CNAME .
 fqtag.com CNAME .
@@ -41349,8 +41341,6 @@ hoppopoult.shop CNAME .
 *.hoppopoult.shop CNAME .
 hoptopboy.com CNAME .
 *.hoptopboy.com CNAME .
-hoqqrdynd.com CNAME .
-*.hoqqrdynd.com CNAME .
 horacegreater.com CNAME .
 *.horacegreater.com CNAME .
 horizon-track.globo.com CNAME .
@@ -42525,8 +42515,6 @@ ilajaing.com CNAME .
 *.ilajaing.com CNAME .
 ilaterdeallyig.info CNAME .
 *.ilaterdeallyig.info CNAME .
-ilaterdeallyighab.info CNAME .
-*.ilaterdeallyighab.info CNAME .
 ildrenastheycam.org CNAME .
 *.ildrenastheycam.org CNAME .
 ildrendreaminger.org CNAME .
@@ -45193,8 +45181,6 @@ jsqygwl.top CNAME .
 *.jsqygwl.top CNAME .
 jsretra.com CNAME .
 *.jsretra.com CNAME .
-jsrietozbpfsj.com CNAME .
-*.jsrietozbpfsj.com CNAME .
 jssearch.net CNAME .
 *.jssearch.net CNAME .
 jsyefc.com CNAME .
@@ -82575,8 +82561,6 @@ vtabnalp.net CNAME .
 *.vtabnalp.net CNAME .
 vtbkhl.icu CNAME .
 *.vtbkhl.icu CNAME .
-vthruucceod.com CNAME .
-*.vthruucceod.com CNAME .
 vtjbnb.xyz CNAME .
 *.vtjbnb.xyz CNAME .
 vtpyvbwtldlvl.site CNAME .
