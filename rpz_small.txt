@@ -1,9 +1,9 @@
-; Version: 202505132211
+; Version: 202505132311
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87358
-; Last modified: 2025-05-13T22:11:27+0000
+; Entries: 87332
+; Last modified: 2025-05-13T23:11:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747173605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747177203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1599,8 +1599,6 @@ $TTL 30
 *.3p8801.co CNAME .
 3pkf5m0gd.com CNAME .
 *.3pkf5m0gd.com CNAME .
-3q1lsj.cn CNAME .
-*.3q1lsj.cn CNAME .
 3qfe1gfa.de CNAME .
 *.3qfe1gfa.de CNAME .
 3r1kwxcd.top CNAME .
@@ -13841,8 +13839,6 @@ avthelkp.net CNAME .
 *.avthelkp.net CNAME .
 avvelwamqkaev.top CNAME .
 *.avvelwamqkaev.top CNAME .
-avvelwavlkjev.top CNAME .
-*.avvelwavlkjev.top CNAME .
 avview3431.fun CNAME .
 *.avview3431.fun CNAME .
 avvodmjpabin.com CNAME .
@@ -18937,8 +18933,6 @@ canceltrustingunderuse.com CNAME .
 *.canceltrustingunderuse.com CNAME .
 cancriberths.com CNAME .
 *.cancriberths.com CNAME .
-cancritory.com CNAME .
-*.cancritory.com CNAME .
 candiddugprecedent.com CNAME .
 *.candiddugprecedent.com CNAME .
 candleannihilationretrieval.com CNAME .
@@ -23463,8 +23457,6 @@ coyote.txet.ch CNAME .
 *.coyote.txet.ch CNAME .
 cp.7y7.com CNAME .
 *.cp.7y7.com CNAME .
-cp.jfcdns.com CNAME .
-*.cp.jfcdns.com CNAME .
 cp.official-coupons.com CNAME .
 *.cp.official-coupons.com CNAME .
 cp.official-deals.co.uk CNAME .
@@ -31225,8 +31217,6 @@ earbossysavvy.com CNAME .
 *.earbossysavvy.com CNAME .
 eardepth-prisists.com CNAME .
 *.eardepth-prisists.com CNAME .
-earinglestpeoples.info CNAME .
-*.earinglestpeoples.info CNAME .
 earlapssmalm.com CNAME .
 *.earlapssmalm.com CNAME .
 earlierindians.com CNAME .
@@ -32331,8 +32321,6 @@ enhalodialup.top CNAME .
 *.enhalodialup.top CNAME .
 enhanceconnection.co.in CNAME .
 *.enhanceconnection.co.in CNAME .
-enhclxug.xyz CNAME .
-*.enhclxug.xyz CNAME .
 enherappedo.cc CNAME .
 *.enherappedo.cc CNAME .
 enigmacrabwind.com CNAME .
@@ -36421,8 +36409,6 @@ fuwn782kk.alphaporno.com CNAME .
 *.fuwn782kk.alphaporno.com CNAME .
 fuwomhcumac.com CNAME .
 *.fuwomhcumac.com CNAME .
-fuyhvgvvhyp.com CNAME .
-*.fuyhvgvvhyp.com CNAME .
 fuyviz.com CNAME .
 *.fuyviz.com CNAME .
 fuywsmvxhtg.com CNAME .
@@ -47799,8 +47785,6 @@ ljbiynvyhfteq.rocks CNAME .
 *.ljbiynvyhfteq.rocks CNAME .
 ljbrbz.xyz CNAME .
 *.ljbrbz.xyz CNAME .
-ljnulatbntogvd.com CNAME .
-*.ljnulatbntogvd.com CNAME .
 ljsr-ijbcxvq.online CNAME .
 *.ljsr-ijbcxvq.online CNAME .
 ljun8zm9.com CNAME .
@@ -49137,8 +49121,6 @@ lppfnf.icu CNAME .
 *.lppfnf.icu CNAME .
 lptrck.com CNAME .
 *.lptrck.com CNAME .
-lptyuosfcv.com CNAME .
-*.lptyuosfcv.com CNAME .
 lpuafmkidvm.com CNAME .
 *.lpuafmkidvm.com CNAME .
 lpyyzoetztnmv.one CNAME .
@@ -52485,8 +52467,6 @@ mplaylist-ads.zascdn.me CNAME .
 *.mplaylist-ads.zascdn.me CNAME .
 mpnrs.com CNAME .
 *.mpnrs.com CNAME .
-mppanittie.com CNAME .
-*.mppanittie.com CNAME .
 mpqgoircwb.com CNAME .
 *.mpqgoircwb.com CNAME .
 mpraven.org CNAME .
@@ -67785,8 +67765,6 @@ scorchstrung.com CNAME .
 *.scorchstrung.com CNAME .
 score-feed.com CNAME .
 *.score-feed.com CNAME .
-scoreheadingbabysitting.com CNAME .
-*.scoreheadingbabysitting.com CNAME .
 scormationwind.org CNAME .
 *.scormationwind.org CNAME .
 scornbob.com CNAME .
@@ -74655,8 +74633,6 @@ talmudconcher.shop CNAME .
 *.talmudconcher.shop CNAME .
 talsauve.com CNAME .
 *.talsauve.com CNAME .
-talsindustrateb.info CNAME .
-*.talsindustrateb.info CNAME .
 talsindustratebil.com CNAME .
 *.talsindustratebil.com CNAME .
 tamberkabbala.top CNAME .
@@ -75927,8 +75903,6 @@ tiddygrylli.shop CNAME .
 *.tiddygrylli.shop CNAME .
 tideairtight.com CNAME .
 *.tideairtight.com CNAME .
-tidewayconrail.shop CNAME .
-*.tidewayconrail.shop CNAME .
 tidiferhagose.shop CNAME .
 *.tidiferhagose.shop CNAME .
 tidint.pro CNAME .
