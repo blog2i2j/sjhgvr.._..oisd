@@ -1,9 +1,9 @@
-; Version: 202505131009
+; Version: 202505131110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87472
-; Last modified: 2025-05-13T10:09:52+0000
+; Entries: 87446
+; Last modified: 2025-05-13T11:10:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747130406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747134004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8925,8 +8925,6 @@ ai.thanhnien.vn CNAME .
 *.ai.thanhnien.vn CNAME .
 aiactiv.io CNAME .
 *.aiactiv.io CNAME .
-aiauqmtsvqoxho.com CNAME .
-*.aiauqmtsvqoxho.com CNAME .
 aibseensoo.net CNAME .
 *.aibseensoo.net CNAME .
 aibsgc.com CNAME .
@@ -14657,8 +14655,6 @@ bakertangiblebehaved.com CNAME .
 *.bakertangiblebehaved.com CNAME .
 bakingbeheld.com CNAME .
 *.bakingbeheld.com CNAME .
-bakld.com CNAME .
-*.bakld.com CNAME .
 baktceamrlic.com CNAME .
 *.baktceamrlic.com CNAME .
 bakteso.ru CNAME .
@@ -17067,8 +17063,6 @@ boldcupid.com CNAME .
 *.boldcupid.com CNAME .
 boldlydaisy.com CNAME .
 *.boldlydaisy.com CNAME .
-boldscantyfrustrating.com CNAME .
-*.boldscantyfrustrating.com CNAME .
 boledrouth.top CNAME .
 *.boledrouth.top CNAME .
 bollyocean.com CNAME .
@@ -19167,8 +19161,6 @@ caressleazy.com CNAME .
 *.caressleazy.com CNAME .
 carfulsranquel.com CNAME .
 *.carfulsranquel.com CNAME .
-caribedkurukh.com CNAME .
-*.caribedkurukh.com CNAME .
 caribou.mcgregorpublishing.com CNAME .
 *.caribou.mcgregorpublishing.com CNAME .
 caricaturechampionshipeye.com CNAME .
@@ -29981,8 +29973,6 @@ dormouse.consentkit.com CNAME .
 *.dormouse.consentkit.com CNAME .
 dornpush.com CNAME .
 *.dornpush.com CNAME .
-dornslpyztlu.com CNAME .
-*.dornslpyztlu.com CNAME .
 dorpetor.com CNAME .
 *.dorpetor.com CNAME .
 dortmark.net CNAME .
@@ -31871,8 +31861,6 @@ eflewroundand.com CNAME .
 *.eflewroundand.com CNAME .
 efrnedmiralpenb.info CNAME .
 *.efrnedmiralpenb.info CNAME .
-efrunuoozskl.com CNAME .
-*.efrunuoozskl.com CNAME .
 efullofeedshen.com CNAME .
 *.efullofeedshen.com CNAME .
 efully.info CNAME .
@@ -38087,8 +38075,6 @@ gluttonydressed.com CNAME .
 *.gluttonydressed.com CNAME .
 glvhvesvnp.com CNAME .
 *.glvhvesvnp.com CNAME .
-glwmjwwi.com CNAME .
-*.glwmjwwi.com CNAME .
 glxtest.site CNAME .
 *.glxtest.site CNAME .
 glymanicale.com CNAME .
@@ -44409,8 +44395,6 @@ jgtdptiivqmxubk.com CNAME .
 *.jgtdptiivqmxubk.com CNAME .
 jgubbpypmlxbk.one CNAME .
 *.jgubbpypmlxbk.one CNAME .
-jguhqbe.top CNAME .
-*.jguhqbe.top CNAME .
 jgvkxp.xyz CNAME .
 *.jgvkxp.xyz CNAME .
 jgxirv.icu CNAME .
@@ -47995,8 +47979,6 @@ lnkfast.com CNAME .
 *.lnkfast.com CNAME .
 lnkrdr.com CNAME .
 *.lnkrdr.com CNAME .
-lnkvv.com CNAME .
-*.lnkvv.com CNAME .
 lnnahh.xyz CNAME .
 *.lnnahh.xyz CNAME .
 lnnsvj.xyz CNAME .
@@ -62965,8 +62947,6 @@ qpoe.com CNAME .
 *.qpoe.com CNAME .
 qppq166n.de CNAME .
 *.qppq166n.de CNAME .
-qpqp05101oki.com CNAME .
-*.qpqp05101oki.com CNAME .
 qprskl.com CNAME .
 *.qprskl.com CNAME .
 qpwvhsxxzwgft.global CNAME .
@@ -71477,8 +71457,6 @@ sscefsol.com CNAME .
 *.sscefsol.com CNAME .
 ssdcloudindia.net CNAME .
 *.ssdcloudindia.net CNAME .
-ssedonthep.info CNAME .
-*.ssedonthep.info CNAME .
 ssenciokvgk.com CNAME .
 *.ssenciokvgk.com CNAME .
 ssgg.chazidian.com CNAME .
@@ -80999,8 +80977,6 @@ variouscreativeformats.com CNAME .
 *.variouscreativeformats.com CNAME .
 variousformatscontent.com CNAME .
 *.variousformatscontent.com CNAME .
-varnishmosquitolocust.com CNAME .
-*.varnishmosquitolocust.com CNAME .
 varshacundy.com CNAME .
 *.varshacundy.com CNAME .
 vartoken.com CNAME .
@@ -83633,8 +83609,6 @@ wiinvent.com.vn CNAME .
 *.wiinvent.com.vn CNAME .
 wiinvent.tv CNAME .
 *.wiinvent.tv CNAME .
-wiiytwd.icu CNAME .
-*.wiiytwd.icu CNAME .
 wijmkizacdan.com CNAME .
 *.wijmkizacdan.com CNAME .
 wijnavoqca.com CNAME .
