@@ -1,9 +1,9 @@
-; Version: 202505130409
+; Version: 202505130509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87676
-; Last modified: 2025-05-13T04:09:35+0000
+; Entries: 87654
+; Last modified: 2025-05-13T05:09:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747108803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747112403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3101,8 +3101,6 @@ $TTL 30
 *.9eb10b7a3d04a.com CNAME .
 9eeb47afec.678aea51c0.com CNAME .
 *.9eeb47afec.678aea51c0.com CNAME .
-9efc2a7246.com CNAME .
-*.9efc2a7246.com CNAME .
 9f5d8401a2.9b35b3d653.com CNAME .
 *.9f5d8401a2.9b35b3d653.com CNAME .
 9fa67c2dc3.54a73dbcb6.com CNAME .
@@ -8943,8 +8941,6 @@ aibvlvplqwkq.com CNAME .
 *.aibvlvplqwkq.com CNAME .
 aickeebsi.com CNAME .
 *.aickeebsi.com CNAME .
-aicpeyeph.com CNAME .
-*.aicpeyeph.com CNAME .
 aidata.io CNAME .
 *.aidata.io CNAME .
 aidouzoumpe.net CNAME .
@@ -11685,8 +11681,6 @@ anunciospatrocinados.com CNAME .
 *.anunciospatrocinados.com CNAME .
 anurybolded.shop CNAME .
 *.anurybolded.shop CNAME .
-anvpgesutfndmi.com CNAME .
-*.anvpgesutfndmi.com CNAME .
 anwap.ru CNAME .
 *.anwap.ru CNAME .
 anxiousairliner.com CNAME .
@@ -32693,8 +32687,6 @@ erappeared.org CNAME .
 *.erappeared.org CNAME .
 eraudseen.xyz CNAME .
 *.eraudseen.xyz CNAME .
-eravesofefineg.info CNAME .
-*.eravesofefineg.info CNAME .
 eravesofefinegoldf.com CNAME .
 *.eravesofefinegoldf.com CNAME .
 ercockremarke.org CNAME .
@@ -36887,8 +36879,6 @@ ganaar.gertibaldi.com CNAME .
 *.ganaar.gertibaldi.com CNAME .
 ganalyticshub.net CNAME .
 *.ganalyticshub.net CNAME .
-gandmotivat.info CNAME .
-*.gandmotivat.info CNAME .
 gandmotivatin.info CNAME .
 *.gandmotivatin.info CNAME .
 gandrad.org CNAME .
@@ -47061,8 +47051,6 @@ lcidauv.top CNAME .
 *.lcidauv.top CNAME .
 lclqbh.icu CNAME .
 *.lclqbh.icu CNAME .
-lcolumnstoodth.info CNAME .
-*.lcolumnstoodth.info CNAME .
 lcs.loginfra.com CNAME .
 *.lcs.loginfra.com CNAME .
 lcs.modoo.at CNAME .
@@ -47091,8 +47079,6 @@ ldjfsdku.icu CNAME .
 *.ldjfsdku.icu CNAME .
 ldjudcpc-qxm.icu CNAME .
 *.ldjudcpc-qxm.icu CNAME .
-ldkgwoqtxzbolx.com CNAME .
-*.ldkgwoqtxzbolx.com CNAME .
 ldmeukeuktyoue.com CNAME .
 *.ldmeukeuktyoue.com CNAME .
 ldpsh.fashionnova.com CNAME .
@@ -50765,8 +50751,6 @@ measure.refinery89.com CNAME .
 *.measure.refinery89.com CNAME .
 measure.vndirect.com.vn CNAME .
 *.measure.vndirect.com.vn CNAME .
-measuredshared.com CNAME .
-*.measuredshared.com CNAME .
 measuremap.com CNAME .
 *.measuremap.com CNAME .
 measuring-pixel-service.alza.cz CNAME .
@@ -74211,8 +74195,6 @@ sy.tubeprnlist.online CNAME .
 *.sy.tubeprnlist.online CNAME .
 sya9yncn3q.com CNAME .
 *.sya9yncn3q.com CNAME .
-sybutrprd.com CNAME .
-*.sybutrprd.com CNAME .
 syclqphwqvv.com CNAME .
 *.syclqphwqvv.com CNAME .
 sycockmnioid.top CNAME .
@@ -82629,8 +82611,6 @@ waitheja.net CNAME .
 *.waitheja.net CNAME .
 waiting.biz CNAME .
 *.waiting.biz CNAME .
-wakemessyantenna.com CNAME .
-*.wakemessyantenna.com CNAME .
 wakenssponged.com CNAME .
 *.wakenssponged.com CNAME .
 wakpaqamxvum.com CNAME .
@@ -86341,8 +86321,6 @@ yawltelurgy.shop CNAME .
 *.yawltelurgy.shop CNAME .
 yaxgszv.com CNAME .
 *.yaxgszv.com CNAME .
-yayn.site CNAME .
-*.yayn.site CNAME .
 yazuda.xyz CNAME .
 *.yazuda.xyz CNAME .
 ybhyziittfg.com CNAME .
