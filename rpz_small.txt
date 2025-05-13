@@ -1,9 +1,9 @@
-; Version: 202505130108
+; Version: 202505130208
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87746
-; Last modified: 2025-05-13T01:08:59+0000
+; Entries: 87714
+; Last modified: 2025-05-13T02:08:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747098002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747101603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16661,8 +16661,6 @@ blanksuppoint.com CNAME .
 *.blanksuppoint.com CNAME .
 blaring-chocolate.com CNAME .
 *.blaring-chocolate.com CNAME .
-blarnidmallows.life CNAME .
-*.blarnidmallows.life CNAME .
 blasonsemiurn.shop CNAME .
 *.blasonsemiurn.shop CNAME .
 blasphemebelfry.com CNAME .
@@ -16961,8 +16959,6 @@ bnmtgboouf.com CNAME .
 *.bnmtgboouf.com CNAME .
 bnp3.com CNAME .
 *.bnp3.com CNAME .
-bnpknicjeb.com CNAME .
-*.bnpknicjeb.com CNAME .
 bnr.sys.lv CNAME .
 *.bnr.sys.lv CNAME .
 bnrdom.com CNAME .
@@ -29717,8 +29713,6 @@ dnh523js9661q.cloudfront.net CNAME .
 *.dnh523js9661q.cloudfront.net CNAME .
 dnhfi5nn2dt67.cloudfront.net CNAME .
 *.dnhfi5nn2dt67.cloudfront.net CNAME .
-dnirbpnvbggqgpt.com CNAME .
-*.dnirbpnvbggqgpt.com CNAME .
 dniyppubkuut7.cloudfront.net CNAME .
 *.dniyppubkuut7.cloudfront.net CNAME .
 dnjxds.top CNAME .
@@ -31927,8 +31921,6 @@ efullofeedshen.com CNAME .
 *.efullofeedshen.com CNAME .
 efully.info CNAME .
 *.efully.info CNAME .
-egalitysarking.com CNAME .
-*.egalitysarking.com CNAME .
 egazedatthe.xyz CNAME .
 *.egazedatthe.xyz CNAME .
 egeemsob.com CNAME .
@@ -33211,8 +33203,6 @@ eventbarricadewife.com CNAME .
 *.eventbarricadewife.com CNAME .
 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com CNAME .
 *.eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com CNAME .
-eventfulknights.com CNAME .
-*.eventfulknights.com CNAME .
 eventgateway.soundcloud.com CNAME .
 *.eventgateway.soundcloud.com CNAME .
 eventlog.chatlead.com CNAME .
@@ -36953,8 +36943,6 @@ garbageshallotsnowiness.com CNAME .
 *.garbageshallotsnowiness.com CNAME .
 garbanzos24.fun CNAME .
 *.garbanzos24.fun CNAME .
-gardenbilliontraced.com CNAME .
-*.gardenbilliontraced.com CNAME .
 gardoult.com CNAME .
 *.gardoult.com CNAME .
 gargantuan-menu.pro CNAME .
@@ -43859,8 +43847,6 @@ italarizege.xyz CNAME .
 *.italarizege.xyz CNAME .
 italianexpecting.com CNAME .
 *.italianexpecting.com CNAME .
-italianforesee.com CNAME .
-*.italianforesee.com CNAME .
 italianhackwary.com CNAME .
 *.italianhackwary.com CNAME .
 italianout.com CNAME .
@@ -52541,8 +52527,6 @@ mos05110o9i.com CNAME .
 *.mos05110o9i.com CNAME .
 mos05111o9i.com CNAME .
 *.mos05111o9i.com CNAME .
-mos05120o9i.com CNAME .
-*.mos05120o9i.com CNAME .
 mosqueventure.com CNAME .
 *.mosqueventure.com CNAME .
 mosqueworking.com CNAME .
@@ -54971,8 +54955,6 @@ nretholas.com CNAME .
 *.nretholas.com CNAME .
 nrged.com CNAME .
 *.nrged.com CNAME .
-nrlupu.top CNAME .
-*.nrlupu.top CNAME .
 nrnma.com CNAME .
 *.nrnma.com CNAME .
 nroruvsal.com CNAME .
@@ -59853,8 +59835,6 @@ pjagilteei.com CNAME .
 *.pjagilteei.com CNAME .
 pjbbhj.icu CNAME .
 *.pjbbhj.icu CNAME .
-pjcqzm.cn CNAME .
-*.pjcqzm.cn CNAME .
 pjiijynaari.xyz CNAME .
 *.pjiijynaari.xyz CNAME .
 pjjpp.com CNAME .
@@ -69809,8 +69789,6 @@ sinatraquonset.click CNAME .
 *.sinatraquonset.click CNAME .
 sincalled.com CNAME .
 *.sincalled.com CNAME .
-sincenturypro.org CNAME .
-*.sincenturypro.org CNAME .
 sincerelydarklarger.com CNAME .
 *.sincerelydarklarger.com CNAME .
 sincerelyseverelyminimum.com CNAME .
@@ -71185,8 +71163,6 @@ special-promotions.online CNAME .
 *.special-promotions.online CNAME .
 specialistrequirement.com CNAME .
 *.specialistrequirement.com CNAME .
-specialitypassagesfamous.com CNAME .
-*.specialitypassagesfamous.com CNAME .
 specially4u.net CNAME .
 *.specially4u.net CNAME .
 specialrecastwept.com CNAME .
@@ -75769,8 +75745,6 @@ thacursoomob.com CNAME .
 *.thacursoomob.com CNAME .
 thadairteetchar.net CNAME .
 *.thadairteetchar.net CNAME .
-thadaxizu.pro CNAME .
-*.thadaxizu.pro CNAME .
 thagegroom.net CNAME .
 *.thagegroom.net CNAME .
 thagrals.net CNAME .
@@ -81259,8 +81233,6 @@ vast.playmatic.video CNAME .
 *.vast.playmatic.video CNAME .
 vasteeds.net CNAME .
 *.vasteeds.net CNAME .
-vastlynoun.top CNAME .
-*.vastlynoun.top CNAME .
 vastroll.ru CNAME .
 *.vastroll.ru CNAME .
 vastserved.com CNAME .
@@ -81535,8 +81507,6 @@ vetchesthiever.com CNAME .
 *.vetchesthiever.com CNAME .
 vetoembrace.com CNAME .
 *.vetoembrace.com CNAME .
-vetrainingukm.info CNAME .
-*.vetrainingukm.info CNAME .
 vexevutus.com CNAME .
 *.vexevutus.com CNAME .
 vexolinu.com CNAME .
@@ -86897,8 +86867,6 @@ yudvl.org CNAME .
 *.yudvl.org CNAME .
 yuearanceofam.info CNAME .
 *.yuearanceofam.info CNAME .
-yueuucoxewemfb.com CNAME .
-*.yueuucoxewemfb.com CNAME .
 yugjwgg.icu CNAME .
 *.yugjwgg.icu CNAME .
 yugqqqq.icu CNAME .
