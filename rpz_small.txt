@@ -1,9 +1,9 @@
-; Version: 202505131911
+; Version: 202505132011
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87454
-; Last modified: 2025-05-13T19:11:11+0000
+; Entries: 87426
+; Last modified: 2025-05-13T20:11:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747162804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747166404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -491,8 +491,6 @@ $TTL 30
 *.138124e964.eda4dc1ffe.com CNAME .
 1386bd6fb0.52fa059b20.com CNAME .
 *.1386bd6fb0.52fa059b20.com CNAME .
-1388119814.rsc.cdn77.org CNAME .
-*.1388119814.rsc.cdn77.org CNAME .
 13c4491879.com CNAME .
 *.13c4491879.com CNAME .
 13p76nnir.de CNAME .
@@ -12867,8 +12865,6 @@ asg.mainos.pro CNAME .
 *.asg.mainos.pro CNAME .
 asg.mrporn.online CNAME .
 *.asg.mrporn.online CNAME .
-asg.page-x.com CNAME .
-*.asg.page-x.com CNAME .
 asg.pienude.com CNAME .
 *.asg.pienude.com CNAME .
 asg.poplink.info CNAME .
@@ -12993,8 +12989,6 @@ asnincadar.com CNAME .
 *.asnincadar.com CNAME .
 asnoibator.com CNAME .
 *.asnoibator.com CNAME .
-asnothycantyou.info CNAME .
-*.asnothycantyou.info CNAME .
 aso1.net CNAME .
 *.aso1.net CNAME .
 asogkhgmgh.com CNAME .
@@ -13711,8 +13705,6 @@ auto-im.com CNAME .
 *.auto-im.com CNAME .
 autoads.asia CNAME .
 *.autoads.asia CNAME .
-autochunkintriguing.com CNAME .
-*.autochunkintriguing.com CNAME .
 automatedtraffic.com CNAME .
 *.automatedtraffic.com CNAME .
 automateyourlist.com CNAME .
@@ -17411,8 +17403,6 @@ bpoyceyrj.com CNAME .
 *.bpoyceyrj.com CNAME .
 bpt.webedia-group.com CNAME .
 *.bpt.webedia-group.com CNAME .
-bptnzp.top CNAME .
-*.bptnzp.top CNAME .
 bpxxgkoj.icu CNAME .
 *.bpxxgkoj.icu CNAME .
 bqsnmpwxwd.buzz CNAME .
@@ -30257,8 +30247,6 @@ dramamutual.com CNAME .
 *.dramamutual.com CNAME .
 dramaticsalad.com CNAME .
 *.dramaticsalad.com CNAME .
-dramb.site CNAME .
-*.dramb.site CNAME .
 drapefabric.com CNAME .
 *.drapefabric.com CNAME .
 draperyrevolvertiara.com CNAME .
@@ -40305,8 +40293,6 @@ heratheacle.com CNAME .
 *.heratheacle.com CNAME .
 herbalaffiliateprogram.com CNAME .
 *.herbalaffiliateprogram.com CNAME .
-hercockremarke.info CNAME .
-*.hercockremarke.info CNAME .
 herconsequence.com CNAME .
 *.herconsequence.com CNAME .
 herdicchilla.shop CNAME .
@@ -41177,8 +41163,6 @@ horse.vesuvius-publishing.com CNAME .
 *.horse.vesuvius-publishing.com CNAME .
 horse.zwei-bags.com CNAME .
 *.horse.zwei-bags.com CNAME .
-horselygoanna.shop CNAME .
-*.horselygoanna.shop CNAME .
 hortestoz.com CNAME .
 *.hortestoz.com CNAME .
 hortitedigress.com CNAME .
@@ -41617,8 +41601,6 @@ hupot.site CNAME .
 *.hupot.site CNAME .
 huqbeiy.com CNAME .
 *.huqbeiy.com CNAME .
-hur05130kns.com CNAME .
-*.hur05130kns.com CNAME .
 hurdlesomehowpause.com CNAME .
 *.hurdlesomehowpause.com CNAME .
 hurkarubypaths.com CNAME .
@@ -42155,8 +42137,6 @@ iezxmddndn.com CNAME .
 *.iezxmddndn.com CNAME .
 ifa.tube8live.com CNAME .
 *.ifa.tube8live.com CNAME .
-ifcxhgxqw.com CNAME .
-*.ifcxhgxqw.com CNAME .
 ifdbdp.com CNAME .
 *.ifdbdp.com CNAME .
 ifdmuggdky.com CNAME .
@@ -44185,8 +44165,6 @@ jcafpiaqjoh.com CNAME .
 *.jcafpiaqjoh.com CNAME .
 jcfbgdbd.top CNAME .
 *.jcfbgdbd.top CNAME .
-jclrwjceymgec.com CNAME .
-*.jclrwjceymgec.com CNAME .
 jcount.com CNAME .
 *.jcount.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
@@ -73611,8 +73589,6 @@ supervisebradleyrapidly.com CNAME .
 *.supervisebradleyrapidly.com CNAME .
 supervisionbasketinhuman.com CNAME .
 *.supervisionbasketinhuman.com CNAME .
-supervisofosevera.com CNAME .
-*.supervisofosevera.com CNAME .
 superxxxfree.com CNAME .
 *.superxxxfree.com CNAME .
 suphelper.com CNAME .
@@ -78891,8 +78867,6 @@ ttauri.livescience.com CNAME .
 *.ttauri.livescience.com CNAME .
 ttbm.com CNAME .
 *.ttbm.com CNAME .
-ttdgbh.top CNAME .
-*.ttdgbh.top CNAME .
 ttdpxh.xyz CNAME .
 *.ttdpxh.xyz CNAME .
 ttedwm.com CNAME .
@@ -82137,8 +82111,6 @@ vufaurgoojoats.net CNAME .
 *.vufaurgoojoats.net CNAME .
 vufqinbxihvvf.buzz CNAME .
 *.vufqinbxihvvf.buzz CNAME .
-vufsqwipynwjp.com CNAME .
-*.vufsqwipynwjp.com CNAME .
 vuftouks.com CNAME .
 *.vuftouks.com CNAME .
 vugloubeky.net CNAME .
