@@ -1,9 +1,9 @@
-; Version: 202505131711
+; Version: 202505131812
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87504
-; Last modified: 2025-05-13T17:11:12+0000
+; Entries: 87474
+; Last modified: 2025-05-13T18:12:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747155602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747159205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9257,8 +9257,6 @@ akxopgjuw.com CNAME .
 *.akxopgjuw.com CNAME .
 akzawlykqleew.top CNAME .
 *.akzawlykqleew.top CNAME .
-akzawlyyllyew.top CNAME .
-*.akzawlyyllyew.top CNAME .
 al-adtech.com CNAME .
 *.al-adtech.com CNAME .
 al.newxue.com CNAME .
@@ -15005,8 +15003,6 @@ baptizespadeaccompanying.com CNAME .
 *.baptizespadeaccompanying.com CNAME .
 barbarasacredassort.com CNAME .
 *.barbarasacredassort.com CNAME .
-barbetsnervure.top CNAME .
-*.barbetsnervure.top CNAME .
 barbulerenigs.shop CNAME .
 *.barbulerenigs.shop CNAME .
 bardatm.ru CNAME .
@@ -16173,8 +16169,6 @@ bhclicks.com CNAME .
 *.bhclicks.com CNAME .
 bhddjf.top CNAME .
 *.bhddjf.top CNAME .
-bhdnti.top CNAME .
-*.bhdnti.top CNAME .
 bhigziaww.com CNAME .
 *.bhigziaww.com CNAME .
 bhlph.com CNAME .
@@ -24531,8 +24525,6 @@ cv-tracker.stanby.com CNAME .
 *.cv-tracker.stanby.com CNAME .
 cv.bentsdiorism.com CNAME .
 *.cv.bentsdiorism.com CNAME .
-cvehbcrq.com CNAME .
-*.cvehbcrq.com CNAME .
 cvfuyogxbcweq.tech CNAME .
 *.cvfuyogxbcweq.tech CNAME .
 cvgto-akmk.fun CNAME .
@@ -32181,8 +32173,6 @@ emitlavas.click CNAME .
 *.emitlavas.click CNAME .
 emittediodids.top CNAME .
 *.emittediodids.top CNAME .
-emittedstratal.com CNAME .
-*.emittedstratal.com CNAME .
 emjrwypl.xyz CNAME .
 *.emjrwypl.xyz CNAME .
 emjs.mkzhan.com CNAME .
@@ -36061,8 +36051,6 @@ freepay.com CNAME .
 *.freepay.com CNAME .
 freepopnews.skin CNAME .
 *.freepopnews.skin CNAME .
-freesoftwarelive.com CNAME .
-*.freesoftwarelive.com CNAME .
 freestar.io CNAME .
 *.freestar.io CNAME .
 freestats.com CNAME .
@@ -37055,8 +37043,6 @@ gdl.zmqdez.ru CNAME .
 *.gdl.zmqdez.ru CNAME .
 gdlhwcdjtqkjqcj.com CNAME .
 *.gdlhwcdjtqkjqcj.com CNAME .
-gdliuymvftdwvm.xyz CNAME .
-*.gdliuymvftdwvm.xyz CNAME .
 gdm1.toner.fr CNAME .
 *.gdm1.toner.fr CNAME .
 gdmconvtrck.com CNAME .
@@ -38579,8 +38565,6 @@ gpibcoogfb.com CNAME .
 *.gpibcoogfb.com CNAME .
 gpickufi.com CNAME .
 *.gpickufi.com CNAME .
-gplansforourcom.com CNAME .
-*.gplansforourcom.com CNAME .
 gplywfirosiwd.one CNAME .
 *.gplywfirosiwd.one CNAME .
 gpm-mon-sg.bytegsdk.com CNAME .
@@ -41961,8 +41945,6 @@ iairuo.xyz CNAME .
 *.iairuo.xyz CNAME .
 iaisvasxruxqv.life CNAME .
 *.iaisvasxruxqv.life CNAME .
-iakixtnaln.com CNAME .
-*.iakixtnaln.com CNAME .
 iam.datasavannah.com CNAME .
 *.iam.datasavannah.com CNAME .
 iambistbiuret.life CNAME .
@@ -42153,8 +42135,6 @@ idregie.com CNAME .
 *.idregie.com CNAME .
 idswinpole.casa CNAME .
 *.idswinpole.casa CNAME .
-idydlesswale.info CNAME .
-*.idydlesswale.info CNAME .
 ie8eamus.com CNAME .
 *.ie8eamus.com CNAME .
 iedtothema.org CNAME .
@@ -65647,8 +65627,6 @@ romance-net.com CNAME .
 *.romance-net.com CNAME .
 romancefever.com CNAME .
 *.romancefever.com CNAME .
-romancepotsexists.com CNAME .
-*.romancepotsexists.com CNAME .
 romances-connects.com CNAME .
 *.romances-connects.com CNAME .
 romanceswoman-romance.com CNAME .
@@ -65901,8 +65879,6 @@ rreftyonkak.com CNAME .
 *.rreftyonkak.com CNAME .
 rregahfuk.com CNAME .
 *.rregahfuk.com CNAME .
-rrgbjybt.com CNAME .
-*.rrgbjybt.com CNAME .
 rrmlejvyqwzk.top CNAME .
 *.rrmlejvyqwzk.top CNAME .
 rrqhieeaf.com CNAME .
@@ -69065,8 +69041,6 @@ shark.getplayback.com CNAME .
 *.shark.getplayback.com CNAME .
 shark.rockyourlife.de CNAME .
 *.shark.rockyourlife.de CNAME .
-sharkbleed.com CNAME .
-*.sharkbleed.com CNAME .
 sharkedmarque.com CNAME .
 *.sharkedmarque.com CNAME .
 sharkfirelife.com CNAME .
@@ -70005,8 +69979,6 @@ slowdn.net CNAME .
 *.slowdn.net CNAME .
 slowlythrobtreasurer.com CNAME .
 *.slowlythrobtreasurer.com CNAME .
-slpfgvuovgj.com CNAME .
-*.slpfgvuovgj.com CNAME .
 sltraffic.com CNAME .
 *.sltraffic.com CNAME .
 sluggedunbeget.top CNAME .
@@ -71681,8 +71653,6 @@ starkuno.com CNAME .
 *.starkuno.com CNAME .
 starlingposterity.com CNAME .
 *.starlingposterity.com CNAME .
-starlingpronouninsight.com CNAME .
-*.starlingpronouninsight.com CNAME .
 starman-jack.fathomdns.com CNAME .
 *.starman-jack.fathomdns.com CNAME .
 starman-new.fathomdns.com CNAME .
