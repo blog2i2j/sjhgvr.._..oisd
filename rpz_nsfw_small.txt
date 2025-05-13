@@ -1,9 +1,9 @@
-; Version: 202505131115
+; Version: 202505131359
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42376
-; Last modified: 2025-05-13T11:15:25+0000
+; Entries: 42378
+; Last modified: 2025-05-13T13:59:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747134004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747141202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1739,6 +1739,8 @@ allmalepornstars.com CNAME .
 *.allmalepornstars.com CNAME .
 allmanga.org CNAME .
 *.allmanga.org CNAME .
+allmaturefuck.cc CNAME .
+*.allmaturefuck.cc CNAME .
 allmaturepics.net CNAME .
 *.allmaturepics.net CNAME .
 allmatureporn.cc CNAME .
@@ -2935,8 +2937,6 @@ asiantolick.com CNAME .
 *.asiantolick.com CNAME .
 asiantsgirls.com CNAME .
 *.asiantsgirls.com CNAME .
-asiantube.tv CNAME .
-*.asiantube.tv CNAME .
 asiantubexxx.net CNAME .
 *.asiantubexxx.net CNAME .
 asiantv.fun CNAME .
@@ -42133,6 +42133,8 @@ zo3x.link CNAME .
 *.zo3x.link CNAME .
 zo3x.vip CNAME .
 *.zo3x.vip CNAME .
+zoazoa28.me CNAME .
+*.zoazoa28.me CNAME .
 zoekvinden.nl CNAME .
 *.zoekvinden.nl CNAME .
 zoig.com CNAME .
