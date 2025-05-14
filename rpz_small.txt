@@ -1,9 +1,9 @@
-; Version: 202505141211
+; Version: 202505141359
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87502
-; Last modified: 2025-05-14T12:11:46+0000
+; Entries: 87516
+; Last modified: 2025-05-14T13:59:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747224001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747227603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5885,6 +5885,8 @@ adlibr.com CNAME .
 *.adlibr.com CNAME .
 adligature.com CNAME .
 *.adligature.com CNAME .
+adlink.wurl.com CNAME .
+*.adlink.wurl.com CNAME .
 adlog.com.com CNAME .
 *.adlog.com.com CNAME .
 adlogists.com CNAME .
@@ -37399,6 +37401,8 @@ getoffers24.online CNAME .
 *.getoffers24.online CNAME .
 getpopunder.com CNAME .
 *.getpopunder.com CNAME .
+getrockerbox.com CNAME .
+*.getrockerbox.com CNAME .
 getrunbestlovemy.info CNAME .
 *.getrunbestlovemy.info CNAME .
 getrunkhomuto.info CNAME .
@@ -42597,6 +42601,8 @@ imp.accesstra.de CNAME .
 *.imp.accesstra.de CNAME .
 imp.ad-plus.cn CNAME .
 *.imp.ad-plus.cn CNAME .
+imp.datafyhq.com CNAME .
+*.imp.datafyhq.com CNAME .
 imp.dmm.co.jp CNAME .
 *.imp.dmm.co.jp CNAME .
 imp.dmm.com CNAME .
@@ -51581,6 +51587,8 @@ minutesdevise.com CNAME .
 *.minutesdevise.com CNAME .
 miptj.space CNAME .
 *.miptj.space CNAME .
+miqdigital.com CNAME .
+*.miqdigital.com CNAME .
 miqorhogxc.com CNAME .
 *.miqorhogxc.com CNAME .
 mir-stalkera.ru CNAME .
@@ -77311,6 +77319,8 @@ track.hydro.online CNAME .
 *.track.hydro.online CNAME .
 track.icheck.com.vn CNAME .
 *.track.icheck.com.vn CNAME .
+track.iegcom.com CNAME .
+*.track.iegcom.com CNAME .
 track.juno.com CNAME .
 *.track.juno.com CNAME .
 track.juststarz.com CNAME .
@@ -79081,6 +79091,8 @@ tufzdj.xyz CNAME .
 *.tufzdj.xyz CNAME .
 tugpoise.com CNAME .
 *.tugpoise.com CNAME .
+tuhesok.com CNAME .
+*.tuhesok.com CNAME .
 tuhmkjce.icu CNAME .
 *.tuhmkjce.icu CNAME .
 tuhqixonk.com CNAME .
@@ -86413,6 +86425,8 @@ ymehnthakutyfor.com CNAME .
 *.ymehnthakutyfor.com CNAME .
 ymewsu.xyz CNAME .
 *.ymewsu.xyz CNAME .
+ymgranque.com CNAME .
+*.ymgranque.com CNAME .
 ymprove.gmx.net CNAME .
 *.ymprove.gmx.net CNAME .
 ymprove.web.de CNAME .
