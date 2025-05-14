@@ -1,9 +1,9 @@
-; Version: 202505141015
+; Version: 202505141415
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42498
-; Last modified: 2025-05-14T10:15:34+0000
+; Entries: 42506
+; Last modified: 2025-05-14T14:15:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747216803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747231202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -16527,6 +16527,8 @@ ilovnudes.com CNAME .
 *.ilovnudes.com CNAME .
 iluvtoons.com CNAME .
 *.iluvtoons.com CNAME .
+im9.eu CNAME .
+*.im9.eu CNAME .
 imagearranger.com CNAME .
 *.imagearranger.com CNAME .
 imagefap.com CNAME .
@@ -22723,6 +22725,8 @@ myfreepornstars.com CNAME .
 *.myfreepornstars.com CNAME .
 myfreesexpics.com CNAME .
 *.myfreesexpics.com CNAME .
+myfreesites.net CNAME .
+*.myfreesites.net CNAME .
 myfreewebcam.org CNAME .
 *.myfreewebcam.org CNAME .
 myfreshp.com CNAME .
@@ -33771,6 +33775,8 @@ sosing.com CNAME .
 *.sosing.com CNAME .
 soski.click CNAME .
 *.soski.click CNAME .
+soski.top CNAME .
+*.soski.top CNAME .
 sosulki.com CNAME .
 *.sosulki.com CNAME .
 sosushka.fun CNAME .
@@ -41817,6 +41823,8 @@ yeptube.com CNAME .
 *.yeptube.com CNAME .
 yeptube.net CNAME .
 *.yeptube.net CNAME .
+yesaa.buzz CNAME .
+*.yesaa.buzz CNAME .
 yesbackpage.com CNAME .
 *.yesbackpage.com CNAME .
 yescams.com CNAME .
