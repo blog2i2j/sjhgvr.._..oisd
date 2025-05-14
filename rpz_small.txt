@@ -1,9 +1,9 @@
-; Version: 202505141359
+; Version: 202505141511
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87516
-; Last modified: 2025-05-14T13:59:42+0000
+; Entries: 87484
+; Last modified: 2025-05-14T15:11:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747227603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747234801 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -513,8 +513,6 @@ $TTL 30
 *.1437953666.rsc.cdn77.org CNAME .
 14381834.xyz CNAME .
 *.14381834.xyz CNAME .
-14474f114f.com CNAME .
-*.14474f114f.com CNAME .
 1482760194.rsc.cdn77.org CNAME .
 *.1482760194.rsc.cdn77.org CNAME .
 148dfe140d0f3d5e.com CNAME .
@@ -3765,8 +3763,6 @@ aanetwork.vn CNAME .
 *.aanetwork.vn CNAME .
 aanqylta.com CNAME .
 *.aanqylta.com CNAME .
-aapj.cn CNAME .
-*.aapj.cn CNAME .
 aapz.com CNAME .
 *.aapz.com CNAME .
 aarbur.com CNAME .
@@ -5885,8 +5881,6 @@ adlibr.com CNAME .
 *.adlibr.com CNAME .
 adligature.com CNAME .
 *.adligature.com CNAME .
-adlink.wurl.com CNAME .
-*.adlink.wurl.com CNAME .
 adlog.com.com CNAME .
 *.adlog.com.com CNAME .
 adlogists.com CNAME .
@@ -9255,8 +9249,6 @@ akmxts.com CNAME .
 *.akmxts.com CNAME .
 akn.analytics.autodesk.com CNAME .
 *.akn.analytics.autodesk.com CNAME .
-akoo0514uis.com CNAME .
-*.akoo0514uis.com CNAME .
 aksazkxmiopf.com CNAME .
 *.aksazkxmiopf.com CNAME .
 aksb-a.akamaihd.net CNAME .
@@ -13523,8 +13515,6 @@ aubaigeep.com CNAME .
 *.aubaigeep.com CNAME .
 auburn9819.com CNAME .
 *.auburn9819.com CNAME .
-aucdn.net CNAME .
-*.aucdn.net CNAME .
 auchoahy.net CNAME .
 *.auchoahy.net CNAME .
 auchoons.net CNAME .
@@ -16557,8 +16547,6 @@ bkojzevpe.com CNAME .
 *.bkojzevpe.com CNAME .
 bkokuwxfetah.com CNAME .
 *.bkokuwxfetah.com CNAME .
-bkqa.cn CNAME .
-*.bkqa.cn CNAME .
 bkr5xeg0c.com CNAME .
 *.bkr5xeg0c.com CNAME .
 bkrkv.com CNAME .
@@ -22475,8 +22463,6 @@ community.noozhawk.com CNAME .
 *.community.noozhawk.com CNAME .
 community.richlandsource.com CNAME .
 *.community.richlandsource.com CNAME .
-communitypetclinicmanteca.com CNAME .
-*.communitypetclinicmanteca.com CNAME .
 comoideludes.shop CNAME .
 *.comoideludes.shop CNAME .
 compactbanner.com CNAME .
@@ -23177,8 +23163,6 @@ cornerscheckbookprivilege.com CNAME .
 *.cornerscheckbookprivilege.com CNAME .
 cornflowershallow.com CNAME .
 *.cornflowershallow.com CNAME .
-cornofuggy.com CNAME .
-*.cornofuggy.com CNAME .
 coronafly.ru CNAME .
 *.coronafly.ru CNAME .
 corpustushing.com CNAME .
@@ -37259,8 +37243,6 @@ geodesykines.shop CNAME .
 *.geodesykines.shop CNAME .
 geogenyveered.com CNAME .
 *.geogenyveered.com CNAME .
-geoidcaccia.com CNAME .
-*.geoidcaccia.com CNAME .
 geoinfo.i2w.io CNAME .
 *.geoinfo.i2w.io CNAME .
 geoip.al.com CNAME .
@@ -38107,8 +38089,6 @@ gme-trking.com CNAME .
 *.gme-trking.com CNAME .
 gmehcotihh.com CNAME .
 *.gmehcotihh.com CNAME .
-gmendanln.com CNAME .
-*.gmendanln.com CNAME .
 gmiqicw.com CNAME .
 *.gmiqicw.com CNAME .
 gmkflsdaa.com CNAME .
@@ -41001,8 +40981,6 @@ hoggishtoraja.shop CNAME .
 *.hoggishtoraja.shop CNAME .
 hoglinsu.com CNAME .
 *.hoglinsu.com CNAME .
-hogtiedhalawi.com CNAME .
-*.hogtiedhalawi.com CNAME .
 hohosearch.com CNAME .
 *.hohosearch.com CNAME .
 hoickedfoamer.top CNAME .
@@ -42719,8 +42697,6 @@ improving.duckduckgo.com CNAME .
 *.improving.duckduckgo.com CNAME .
 improving.wuzhuiso.com CNAME .
 *.improving.wuzhuiso.com CNAME .
-impubicpuddly.com CNAME .
-*.impubicpuddly.com CNAME .
 impureattirebaking.com CNAME .
 *.impureattirebaking.com CNAME .
 imtijnluoailwb.com CNAME .
@@ -49523,8 +49499,6 @@ lvodomo.info CNAME .
 *.lvodomo.info CNAME .
 lvojjayaaoqym.top CNAME .
 *.lvojjayaaoqym.top CNAME .
-lvvbqeaqvrmvy.top CNAME .
-*.lvvbqeaqvrmvy.top CNAME .
 lvw7k4d3j.com CNAME .
 *.lvw7k4d3j.com CNAME .
 lw.musictarget.com CNAME .
@@ -54845,8 +54819,6 @@ nretholas.com CNAME .
 *.nretholas.com CNAME .
 nrged.com CNAME .
 *.nrged.com CNAME .
-nrgv.cn CNAME .
-*.nrgv.cn CNAME .
 nrnma.com CNAME .
 *.nrnma.com CNAME .
 nroruvsal.com CNAME .
@@ -57851,8 +57823,6 @@ pacquetenfin.top CNAME .
 *.pacquetenfin.top CNAME .
 pacteaten.com CNAME .
 *.pacteaten.com CNAME .
-pactionbandit.com CNAME .
-*.pactionbandit.com CNAME .
 paddlemenu.com CNAME .
 *.paddlemenu.com CNAME .
 padma-fed.com CNAME .
@@ -60913,8 +60883,6 @@ preclknu.com CNAME .
 *.preclknu.com CNAME .
 precmd.com CNAME .
 *.precmd.com CNAME .
-preconysemipro.com CNAME .
-*.preconysemipro.com CNAME .
 predataclient.b-cdn.net CNAME .
 *.predataclient.b-cdn.net CNAME .
 predatoryrucksack.com CNAME .
