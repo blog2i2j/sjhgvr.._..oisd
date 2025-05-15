@@ -1,9 +1,9 @@
-; Version: 202505152209
+; Version: 202505152308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87360
-; Last modified: 2025-05-15T22:09:00+0000
+; Entries: 87326
+; Last modified: 2025-05-15T23:08:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747346405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747350004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5797,8 +5797,6 @@ adimgs.sapo.pt CNAME .
 *.adimgs.sapo.pt CNAME .
 adimpact.com CNAME .
 *.adimpact.com CNAME .
-adincube.com CNAME .
-*.adincube.com CNAME .
 adinjector.net CNAME .
 *.adinjector.net CNAME .
 adinterax.com CNAME .
@@ -19353,8 +19351,6 @@ catsnthings.fun CNAME .
 *.catsnthings.fun CNAME .
 cattailpectinselected.com CNAME .
 *.cattailpectinselected.com CNAME .
-cattishinquiries.com CNAME .
-*.cattishinquiries.com CNAME .
 cattle.apisyouwonthate.com CNAME .
 *.cattle.apisyouwonthate.com CNAME .
 cattle.driftbot.io CNAME .
@@ -24531,8 +24527,6 @@ cvxwaslonejulyha.info CNAME .
 *.cvxwaslonejulyha.info CNAME .
 cwchmb.com CNAME .
 *.cwchmb.com CNAME .
-cwhwdhamljp.com CNAME .
-*.cwhwdhamljp.com CNAME .
 cwicawat.com CNAME .
 *.cwicawat.com CNAME .
 cwoapffh.com CNAME .
@@ -35915,8 +35909,6 @@ fpctraffic.com CNAME .
 *.fpctraffic.com CNAME .
 fpctraffic2.com CNAME .
 *.fpctraffic2.com CNAME .
-fpdhkgvwcryo.com CNAME .
-*.fpdhkgvwcryo.com CNAME .
 fpfhtr.icu CNAME .
 *.fpfhtr.icu CNAME .
 fpgedsewst.com CNAME .
@@ -35947,8 +35939,6 @@ fpxhdx.icu CNAME .
 *.fpxhdx.icu CNAME .
 fpzpmx.com CNAME .
 *.fpzpmx.com CNAME .
-fqanoreirlpa.com CNAME .
-*.fqanoreirlpa.com CNAME .
 fqertokpt.com CNAME .
 *.fqertokpt.com CNAME .
 fqhnnknhufocejx.com CNAME .
@@ -56635,8 +56625,6 @@ opienetwork.com CNAME .
 *.opienetwork.com CNAME .
 opkmio.xyz CNAME .
 *.opkmio.xyz CNAME .
-opkrerkaidf.com CNAME .
-*.opkrerkaidf.com CNAME .
 opleshouldthink.com CNAME .
 *.opleshouldthink.com CNAME .
 oply.hearstapps.com CNAME .
@@ -58041,8 +58029,6 @@ panther.tigil.rs CNAME .
 *.panther.tigil.rs CNAME .
 pantomimecattish.com CNAME .
 *.pantomimecattish.com CNAME .
-pantomimecommitmenttestify.com CNAME .
-*.pantomimecommitmenttestify.com CNAME .
 pantoumcausers.click CNAME .
 *.pantoumcausers.click CNAME .
 pantraidgeometry.com CNAME .
@@ -62743,8 +62729,6 @@ qgwgweoxulrb.com CNAME .
 *.qgwgweoxulrb.com CNAME .
 qgxbluhsgad.com CNAME .
 *.qgxbluhsgad.com CNAME .
-qgxlldywbcfrjoj.com CNAME .
-*.qgxlldywbcfrjoj.com CNAME .
 qhdhtd.com CNAME .
 *.qhdhtd.com CNAME .
 qhnojvbyxfgcf.click CNAME .
@@ -62815,8 +62799,6 @@ qkgllif.icu CNAME .
 *.qkgllif.icu CNAME .
 qksrv.cc CNAME .
 *.qksrv.cc CNAME .
-qktpyrtr.com CNAME .
-*.qktpyrtr.com CNAME .
 qkyojtlabrhy.com CNAME .
 *.qkyojtlabrhy.com CNAME .
 ql.uzuzuz.com CNAME .
@@ -64115,8 +64097,6 @@ redir.sunnyshore.xyz CNAME .
 *.redir.sunnyshore.xyz CNAME .
 redir.tropicalsands.club CNAME .
 *.redir.tropicalsands.club CNAME .
-redir.tropicalsummer.xyz CNAME .
-*.redir.tropicalsummer.xyz CNAME .
 redir.widebluetrue.xyz CNAME .
 *.redir.widebluetrue.xyz CNAME .
 redirect-path1.com CNAME .
@@ -67499,8 +67479,6 @@ sarrowgrivois.com CNAME .
 *.sarrowgrivois.com CNAME .
 sartolutus.com CNAME .
 *.sartolutus.com CNAME .
-saryprocedentw.info CNAME .
-*.saryprocedentw.info CNAME .
 sas.nsm-corp.com CNAME .
 *.sas.nsm-corp.com CNAME .
 sasinator.realestate.com.au CNAME .
@@ -67777,8 +67755,6 @@ scisselfungus.com CNAME .
 *.scisselfungus.com CNAME .
 scissordisciplinaryrace.com CNAME .
 *.scissordisciplinaryrace.com CNAME .
-scixlyampavogxp.com CNAME .
-*.scixlyampavogxp.com CNAME .
 scl6gc5l.site CNAME .
 *.scl6gc5l.site CNAME .
 scnd-tr.com CNAME .
@@ -67877,8 +67853,6 @@ scriveaerocar.top CNAME .
 *.scriveaerocar.top CNAME .
 scrollye.com CNAME .
 *.scrollye.com CNAME .
-scruboutdoorsoffensive.com CNAME .
-*.scruboutdoorsoffensive.com CNAME .
 scrubsky.com CNAME .
 *.scrubsky.com CNAME .
 scrubswim.com CNAME .
@@ -69009,8 +68983,6 @@ shaumtol.com CNAME .
 *.shaumtol.com CNAME .
 shaursar.net CNAME .
 *.shaursar.net CNAME .
-shavecleanupsedate.com CNAME .
-*.shavecleanupsedate.com CNAME .
 shaveeps.net CNAME .
 *.shaveeps.net CNAME .
 shawljeans.com CNAME .
@@ -76233,8 +76205,6 @@ tlootas.org CNAME .
 *.tlootas.org CNAME .
 tlrkcj17.de CNAME .
 *.tlrkcj17.de CNAME .
-tlsmluxersi.com CNAME .
-*.tlsmluxersi.com CNAME .
 tlswzfbujtgzi.buzz CNAME .
 *.tlswzfbujtgzi.buzz CNAME .
 tlvmedia.com CNAME .
@@ -85911,8 +85881,6 @@ xynfextpw.com CNAME .
 *.xynfextpw.com CNAME .
 xytcboyz.icu CNAME .
 *.xytcboyz.icu CNAME .
-xyuwbwtul.com CNAME .
-*.xyuwbwtul.com CNAME .
 xyx77.top CNAME .
 *.xyx77.top CNAME .
 xyxz.site CNAME .
@@ -86467,8 +86435,6 @@ yrgluooxoeeoh.com CNAME .
 *.yrgluooxoeeoh.com CNAME .
 yrhnw7h63.com CNAME .
 *.yrhnw7h63.com CNAME .
-yrsnkqbmivsns.com CNAME .
-*.yrsnkqbmivsns.com CNAME .
 yrwqquykdja.com CNAME .
 *.yrwqquykdja.com CNAME .
 ys-log-upload-os.hoyoverse.com CNAME .
