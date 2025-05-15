@@ -1,9 +1,9 @@
-; Version: 202505150918
+; Version: 202505151018
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42604
-; Last modified: 2025-05-15T09:18:44+0000
+; Entries: 42612
+; Last modified: 2025-05-15T10:18:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747299603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747303205 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1119,6 +1119,8 @@ adstub.net CNAME .
 *.adstub.net CNAME .
 adugames.com CNAME .
 *.adugames.com CNAME .
+adult CNAME .
+*.adult CNAME .
 adult-empire.com CNAME .
 *.adult-empire.com CNAME .
 adult-engine-search.com CNAME .
@@ -26173,6 +26175,8 @@ pormo.cam CNAME .
 *.pormo.cam CNAME .
 pormo.xyz CNAME .
 *.pormo.xyz CNAME .
+porn CNAME .
+*.porn CNAME .
 porn-app.com CNAME .
 *.porn-app.com CNAME .
 porn-arab.net CNAME .
@@ -30551,6 +30555,8 @@ russkoeporno24.net CNAME .
 *.russkoeporno24.net CNAME .
 russkoeporno365.com CNAME .
 *.russkoeporno365.com CNAME .
+russkoeporno365.me CNAME .
+*.russkoeporno365.me CNAME .
 russkoeporno365.today CNAME .
 *.russkoeporno365.today CNAME .
 russkoeporno365.vip CNAME .
@@ -31149,6 +31155,8 @@ severinelapaye.com CNAME .
 *.severinelapaye.com CNAME .
 severstroysnab.ru CNAME .
 *.severstroysnab.ru CNAME .
+sex CNAME .
+*.sex CNAME .
 sex-animals.site CNAME .
 *.sex-animals.site CNAME .
 sex-arab-xxx.ink CNAME .
@@ -40929,6 +40937,8 @@ xxvl.org CNAME .
 *.xxvl.org CNAME .
 xxvlxx.com CNAME .
 *.xxvlxx.com CNAME .
+xxx CNAME .
+*.xxx CNAME .
 xxx-anal-cams.bar CNAME .
 *.xxx-anal-cams.bar CNAME .
 xxx-anal-cams.ink CNAME .
@@ -41489,8 +41499,6 @@ xxxpornmaturevideos.com CNAME .
 *.xxxpornmaturevideos.com CNAME .
 xxxporno.cam CNAME .
 *.xxxporno.cam CNAME .
-xxxporno.win CNAME .
-*.xxxporno.win CNAME .
 xxxpornohub.net CNAME .
 *.xxxpornohub.net CNAME .
 xxxpornotube.com CNAME .
