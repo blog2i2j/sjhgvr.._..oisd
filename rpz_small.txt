@@ -1,9 +1,9 @@
-; Version: 202505152108
+; Version: 202505152209
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87386
-; Last modified: 2025-05-15T21:08:30+0000
+; Entries: 87360
+; Last modified: 2025-05-15T22:09:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747342802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747346405 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3849,8 +3849,6 @@ abamatoyer.com CNAME .
 *.abamatoyer.com CNAME .
 abanteswoodie.top CNAME .
 *.abanteswoodie.top CNAME .
-abanwthwitfb.com CNAME .
-*.abanwthwitfb.com CNAME .
 abaolokvmmblr.top CNAME .
 *.abaolokvmmblr.top CNAME .
 abaolokvmmvlv.top CNAME .
@@ -24523,8 +24521,6 @@ cvfuyogxbcweq.tech CNAME .
 *.cvfuyogxbcweq.tech CNAME .
 cvgto-akmk.fun CNAME .
 *.cvgto-akmk.fun CNAME .
-cvkloyexkinekp.com CNAME .
-*.cvkloyexkinekp.com CNAME .
 cvmuia.xyz CNAME .
 *.cvmuia.xyz CNAME .
 cvt-s2.agl005.tech CNAME .
@@ -30049,8 +30045,6 @@ doubtedprompts.com CNAME .
 *.doubtedprompts.com CNAME .
 doubtfulaviationhostility.com CNAME .
 *.doubtfulaviationhostility.com CNAME .
-doubtfulrainstorm.com CNAME .
-*.doubtfulrainstorm.com CNAME .
 doubtslutecia.com CNAME .
 *.doubtslutecia.com CNAME .
 doubtsuseless.com CNAME .
@@ -31321,8 +31315,6 @@ eastrk-dn.com CNAME .
 *.eastrk-dn.com CNAME .
 eastrk-lg.com CNAME .
 *.eastrk-lg.com CNAME .
-eastyewebaried.info CNAME .
-*.eastyewebaried.info CNAME .
 easy-contact-club.com CNAME .
 *.easy-contact-club.com CNAME .
 easy-dating.org CNAME .
@@ -47913,8 +47905,6 @@ llama.whatcha.io CNAME .
 *.llama.whatcha.io CNAME .
 llet787bww.com CNAME .
 *.llet787bww.com CNAME .
-lljultmdl.xyz CNAME .
-*.lljultmdl.xyz CNAME .
 llljoppanan.com CNAME .
 *.llljoppanan.com CNAME .
 llog.pl CNAME .
@@ -54507,8 +54497,6 @@ noondaylingers.com CNAME .
 *.noondaylingers.com CNAME .
 noopapnoeic.digital CNAME .
 *.noopapnoeic.digital CNAME .
-noopking.com CNAME .
-*.noopking.com CNAME .
 noopsaithu.net CNAME .
 *.noopsaithu.net CNAME .
 noowoochuveb.net CNAME .
@@ -56293,8 +56281,6 @@ one.iugbhsu.com CNAME .
 *.one.iugbhsu.com CNAME .
 oneandonlynetwork.com CNAME .
 *.oneandonlynetwork.com CNAME .
-oneaucys.com CNAME .
-*.oneaucys.com CNAME .
 oneclck.net CNAME .
 *.oneclck.net CNAME .
 oneclickpic.net CNAME .
@@ -60501,8 +60487,6 @@ port7.xhamster2.com CNAME .
 *.port7.xhamster2.com CNAME .
 port7.xhamster3.com CNAME .
 *.port7.xhamster3.com CNAME .
-portalhc.com CNAME .
-*.portalhc.com CNAME .
 portalible.fun CNAME .
 *.portalible.fun CNAME .
 portedmasondarn.com CNAME .
@@ -60537,12 +60521,8 @@ positeasysembl.org CNAME .
 *.positeasysembl.org CNAME .
 position3452.fun CNAME .
 *.position3452.fun CNAME .
-positioner.info CNAME .
-*.positioner.info CNAME .
 positive-ads.com CNAME .
 *.positive-ads.com CNAME .
-positive-hall.pro CNAME .
-*.positive-hall.pro CNAME .
 positivelyassertappreciation.com CNAME .
 *.positivelyassertappreciation.com CNAME .
 possessdolejest.com CNAME .
@@ -67755,8 +67735,6 @@ scenistgracy.life CNAME .
 *.scenistgracy.life CNAME .
 scented-leather.com CNAME .
 *.scented-leather.com CNAME .
-scentservers.com CNAME .
-*.scentservers.com CNAME .
 scfhspacial.com CNAME .
 *.scfhspacial.com CNAME .
 scfmfurls.shop CNAME .
@@ -79259,8 +79237,6 @@ typiccor.com CNAME .
 *.typiccor.com CNAME .
 tyqwjh23d.com CNAME .
 *.tyqwjh23d.com CNAME .
-tyranbrashore.com CNAME .
-*.tyranbrashore.com CNAME .
 tyrangrocersauce.com CNAME .
 *.tyrangrocersauce.com CNAME .
 tyranhorrid.com CNAME .
@@ -85793,8 +85769,6 @@ xue.zbyw.cn CNAME .
 *.xue.zbyw.cn CNAME .
 xueaaaw.cn CNAME .
 *.xueaaaw.cn CNAME .
-xuhqwkipf.com CNAME .
-*.xuhqwkipf.com CNAME .
 xukpqemfs.com CNAME .
 *.xukpqemfs.com CNAME .
 xulizui6.com CNAME .
