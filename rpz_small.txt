@@ -1,9 +1,9 @@
-; Version: 202505150812
+; Version: 202505150913
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87436
-; Last modified: 2025-05-15T08:12:08+0000
+; Entries: 87420
+; Last modified: 2025-05-15T09:13:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747296006 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747299603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24129,8 +24129,6 @@ crudemonarchychill.com CNAME .
 *.crudemonarchychill.com CNAME .
 crudenessfinishersacred.com CNAME .
 *.crudenessfinishersacred.com CNAME .
-crudequeenrome.com CNAME .
-*.crudequeenrome.com CNAME .
 cruiserx.net CNAME .
 *.cruiserx.net CNAME .
 crumblerefunddiana.com CNAME .
@@ -27319,8 +27317,6 @@ dajswiacllfy.com CNAME .
 *.dajswiacllfy.com CNAME .
 dajtamnrat.com CNAME .
 *.dajtamnrat.com CNAME .
-dajytkby.com CNAME .
-*.dajytkby.com CNAME .
 dakotasboreens.top CNAME .
 *.dakotasboreens.top CNAME .
 daksenskied.top CNAME .
@@ -42299,8 +42295,6 @@ ikunselt.com CNAME .
 *.ikunselt.com CNAME .
 ikxrfvrcpf.com CNAME .
 *.ikxrfvrcpf.com CNAME .
-ikxwupdcidp.com CNAME .
-*.ikxwupdcidp.com CNAME .
 ilajaing.com CNAME .
 *.ilajaing.com CNAME .
 ilaterdeallyig.info CNAME .
@@ -49231,8 +49225,6 @@ ls.srvcs.tumblr.com CNAME .
 *.ls.srvcs.tumblr.com CNAME .
 lsgpxqe.com CNAME .
 *.lsgpxqe.com CNAME .
-lsihkmqojoh.com CNAME .
-*.lsihkmqojoh.com CNAME .
 lsjazn.xyz CNAME .
 *.lsjazn.xyz CNAME .
 lsjne.com CNAME .
@@ -52935,8 +52927,6 @@ mvmzlg.xyz CNAME .
 *.mvmzlg.xyz CNAME .
 mw19c3mi5a.com CNAME .
 *.mw19c3mi5a.com CNAME .
-mwclanfwvgkje.com CNAME .
-*.mwclanfwvgkje.com CNAME .
 mwkusgotlzu.com CNAME .
 *.mwkusgotlzu.com CNAME .
 mwlle.com CNAME .
@@ -82049,8 +82039,6 @@ vq4b0q.fun CNAME .
 *.vq4b0q.fun CNAME .
 vqhrqt.com CNAME .
 *.vqhrqt.com CNAME .
-vqnjrz.top CNAME .
-*.vqnjrz.top CNAME .
 vqonjcnsl.com CNAME .
 *.vqonjcnsl.com CNAME .
 vqvdpaqhpuuf.com CNAME .
@@ -83895,8 +83883,6 @@ wm.szdushi.com.cn CNAME .
 *.wm.szdushi.com.cn CNAME .
 wma.io CNAME .
 *.wma.io CNAME .
-wmadmht.com CNAME .
-*.wmadmht.com CNAME .
 wmaoxrk.com CNAME .
 *.wmaoxrk.com CNAME .
 wmbd.gamersky.com CNAME .
@@ -86043,8 +86029,6 @@ y96q29a1fo.com CNAME .
 *.y96q29a1fo.com CNAME .
 yaarlnk.com CNAME .
 *.yaarlnk.com CNAME .
-yaaumqa.top CNAME .
-*.yaaumqa.top CNAME .
 yab-adimages.s3.amazonaws.com CNAME .
 *.yab-adimages.s3.amazonaws.com CNAME .
 yabbymosette.top CNAME .
