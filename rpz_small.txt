@@ -1,9 +1,9 @@
-; Version: 202505160209
+; Version: 202505160309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87244
-; Last modified: 2025-05-16T02:09:00+0000
+; Entries: 87216
+; Last modified: 2025-05-16T03:09:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747360804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747364402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9233,8 +9233,6 @@ akmxts.com CNAME .
 *.akmxts.com CNAME .
 akn.analytics.autodesk.com CNAME .
 *.akn.analytics.autodesk.com CNAME .
-akoo0515uis.com CNAME .
-*.akoo0515uis.com CNAME .
 aksazkxmiopf.com CNAME .
 *.aksazkxmiopf.com CNAME .
 aksb-a.akamaihd.net CNAME .
@@ -20121,8 +20119,6 @@ ceryldelaine.com CNAME .
 *.ceryldelaine.com CNAME .
 ces2007.org CNAME .
 *.ces2007.org CNAME .
-ceschemicalcovenings.info CNAME .
-*.ceschemicalcovenings.info CNAME .
 cesebsir.xyz CNAME .
 *.cesebsir.xyz CNAME .
 cessationcorrectmist.com CNAME .
@@ -23609,8 +23605,6 @@ cpmmedia.net CNAME .
 *.cpmmedia.net CNAME .
 cpmnetworkcontent.com CNAME .
 *.cpmnetworkcontent.com CNAME .
-cpmpodmkqdjlsb.com CNAME .
-*.cpmpodmkqdjlsb.com CNAME .
 cpmprofitablecontent.com CNAME .
 *.cpmprofitablecontent.com CNAME .
 cpmprofitablenetwork.com CNAME .
@@ -30581,8 +30575,6 @@ dubzenom.com CNAME .
 *.dubzenom.com CNAME .
 duchessefit.com CNAME .
 *.duchessefit.com CNAME .
-duckedabusechuckled.com CNAME .
-*.duckedabusechuckled.com CNAME .
 ducksintroduce.com CNAME .
 *.ducksintroduce.com CNAME .
 ducofagrigusor.com CNAME .
@@ -41345,8 +41337,6 @@ hpnkctxx.buzz CNAME .
 *.hpnkctxx.buzz CNAME .
 hps.pornpics.de CNAME .
 *.hps.pornpics.de CNAME .
-hptidc.top CNAME .
-*.hptidc.top CNAME .
 hpyjmp.com CNAME .
 *.hpyjmp.com CNAME .
 hq1.appsflyer.com CNAME .
@@ -44485,8 +44475,6 @@ jkyawbabvjeq.top CNAME .
 *.jkyawbabvjeq.top CNAME .
 jl63v3fp1.com CNAME .
 *.jl63v3fp1.com CNAME .
-jlnxjwmeadaw.com CNAME .
-*.jlnxjwmeadaw.com CNAME .
 jlxctoig.top CNAME .
 *.jlxctoig.top CNAME .
 jlxsgk.com CNAME .
@@ -45275,8 +45263,6 @@ kapitalrus.ru CNAME .
 *.kapitalrus.ru CNAME .
 kaplanindex.com CNAME .
 *.kaplanindex.com CNAME .
-kapnqcbhdxjfokr.com CNAME .
-*.kapnqcbhdxjfokr.com CNAME .
 kaqppajmofte.com CNAME .
 *.kaqppajmofte.com CNAME .
 karafutem.com CNAME .
@@ -45349,8 +45335,6 @@ kbnmnl.com CNAME .
 *.kbnmnl.com CNAME .
 kbqihabjlufvf.club CNAME .
 *.kbqihabjlufvf.club CNAME .
-kbrnghyurjxoxx.com CNAME .
-*.kbrnghyurjxoxx.com CNAME .
 kbugxeslbjc8.com CNAME .
 *.kbugxeslbjc8.com CNAME .
 kbumnvc.com CNAME .
@@ -50069,8 +50053,6 @@ map-s.online CNAME .
 *.map-s.online CNAME .
 mapamnni.com CNAME .
 *.mapamnni.com CNAME .
-mapiolaviwrba.com CNAME .
-*.mapiolaviwrba.com CNAME .
 maplecurriculum.com CNAME .
 *.maplecurriculum.com CNAME .
 maplin.hu CNAME .
@@ -57549,8 +57531,6 @@ oysterbywordwishful.com CNAME .
 *.oysterbywordwishful.com CNAME .
 oysterfoxfoe.com CNAME .
 *.oysterfoxfoe.com CNAME .
-oytoworkwithcatuk.com CNAME .
-*.oytoworkwithcatuk.com CNAME .
 oywhowascryingfo.com CNAME .
 *.oywhowascryingfo.com CNAME .
 oywzrri.com CNAME .
@@ -60623,8 +60603,6 @@ pqvzlltzxbs.global CNAME .
 *.pqvzlltzxbs.global CNAME .
 pqwvvqlklwbkng.com CNAME .
 *.pqwvvqlklwbkng.com CNAME .
-pqyydjswkyc.com CNAME .
-*.pqyydjswkyc.com CNAME .
 pqzjki.cn CNAME .
 *.pqzjki.cn CNAME .
 pr-bh.ybp.yahoo.com CNAME .
@@ -62429,8 +62407,6 @@ pxrbnf.icu CNAME .
 *.pxrbnf.icu CNAME .
 pxtjfmv.xyz CNAME .
 *.pxtjfmv.xyz CNAME .
-pxyepmwex.com CNAME .
-*.pxyepmwex.com CNAME .
 pyasgummas.shop CNAME .
 *.pyasgummas.shop CNAME .
 pycnictouchup.click CNAME .
@@ -66583,8 +66559,6 @@ russianfelt.com CNAME .
 *.russianfelt.com CNAME .
 russianoaths.shop CNAME .
 *.russianoaths.shop CNAME .
-rusticsnoop.com CNAME .
-*.rusticsnoop.com CNAME .
 rustycleartariff.com CNAME .
 *.rustycleartariff.com CNAME .
 rustyexquisite.com CNAME .
@@ -67159,8 +67133,6 @@ safebrowsdv.com CNAME .
 *.safebrowsdv.com CNAME .
 safeglimmerlongitude.com CNAME .
 *.safeglimmerlongitude.com CNAME .
-safeguardoperating.com CNAME .
-*.safeguardoperating.com CNAME .
 safejav12.fun CNAME .
 *.safejav12.fun CNAME .
 safelinkconverter.com CNAME .
