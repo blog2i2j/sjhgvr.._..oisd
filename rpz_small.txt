@@ -1,9 +1,9 @@
-; Version: 202505152308
+; Version: 202505160008
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87326
-; Last modified: 2025-05-15T23:08:33+0000
+; Entries: 87294
+; Last modified: 2025-05-16T00:08:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747350004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747353609 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1347,8 +1347,6 @@ $TTL 30
 *.30e4a37eb7.com CNAME .
 30e7ff2c41.com CNAME .
 *.30e7ff2c41.com CNAME .
-30hardcore.galleryprogram.com CNAME .
-*.30hardcore.galleryprogram.com CNAME .
 30hccor10.de CNAME .
 *.30hccor10.de CNAME .
 30koqnlks.de CNAME .
@@ -3879,8 +3877,6 @@ abberantpawnpalette.com CNAME .
 *.abberantpawnpalette.com CNAME .
 abbokqvabomz.com CNAME .
 *.abbokqvabomz.com CNAME .
-abbotinexperienced.com CNAME .
-*.abbotinexperienced.com CNAME .
 abbotpredicateemma.com CNAME .
 *.abbotpredicateemma.com CNAME .
 abbott.vo.llnwd.net CNAME .
@@ -6003,8 +5999,6 @@ adminshop.com CNAME .
 *.adminshop.com CNAME .
 admirablecraft.com CNAME .
 *.admirablecraft.com CNAME .
-admirableoverdone.com CNAME .
-*.admirableoverdone.com CNAME .
 admiralbusinesswilliam.com CNAME .
 *.admiralbusinesswilliam.com CNAME .
 admiralimaginablesnarl.com CNAME .
@@ -14055,8 +14049,6 @@ ax4.xmoviesland.com CNAME .
 *.ax4.xmoviesland.com CNAME .
 axalgyof.xyz CNAME .
 *.axalgyof.xyz CNAME .
-axaskafs.com CNAME .
-*.axaskafs.com CNAME .
 axbcipfigw.com CNAME .
 *.axbcipfigw.com CNAME .
 axbofpnri.com CNAME .
@@ -28393,8 +28385,6 @@ departgross.com CNAME .
 *.departgross.com CNAME .
 departjavgg124.fun CNAME .
 *.departjavgg124.fun CNAME .
-departmentcomplimentary.com CNAME .
-*.departmentcomplimentary.com CNAME .
 departmentscontinentalreveal.com CNAME .
 *.departmentscontinentalreveal.com CNAME .
 departurealtar.com CNAME .
@@ -31483,8 +31473,6 @@ ecommstats.s3.amazonaws.com CNAME .
 *.ecommstats.s3.amazonaws.com CNAME .
 econenectedith.info CNAME .
 *.econenectedith.info CNAME .
-econsistentlyplea.com CNAME .
-*.econsistentlyplea.com CNAME .
 econventa.com CNAME .
 *.econventa.com CNAME .
 ecoupons.com CNAME .
@@ -39035,8 +39023,6 @@ grs.hicloud.com CNAME .
 *.grs.hicloud.com CNAME .
 grt02.com CNAME .
 *.grt02.com CNAME .
-grtaanmdu.com CNAME .
-*.grtaanmdu.com CNAME .
 grtexch.com CNAME .
 *.grtexch.com CNAME .
 grubsnuchale.com CNAME .
@@ -41947,8 +41933,6 @@ iads.vision CNAME .
 *.iads.vision CNAME .
 iadsdk.apple.com CNAME .
 *.iadsdk.apple.com CNAME .
-iafg.cn CNAME .
-*.iafg.cn CNAME .
 iagrus.com CNAME .
 *.iagrus.com CNAME .
 iairuo.xyz CNAME .
@@ -47935,8 +47919,6 @@ lmorabfuj.com CNAME .
 *.lmorabfuj.com CNAME .
 lmp3.org CNAME .
 *.lmp3.org CNAME .
-lmukstyn.xyz CNAME .
-*.lmukstyn.xyz CNAME .
 lmvotk.cn CNAME .
 *.lmvotk.cn CNAME .
 lmzhpzoycxjfn.top CNAME .
@@ -49315,8 +49297,6 @@ lugwzalsqvacb.one CNAME .
 *.lugwzalsqvacb.one CNAME .
 luhhcodutax.com CNAME .
 *.luhhcodutax.com CNAME .
-luhmeqkcjix.com CNAME .
-*.luhmeqkcjix.com CNAME .
 luhoysvkxsewc.xyz CNAME .
 *.luhoysvkxsewc.xyz CNAME .
 lukeinoffensive.com CNAME .
@@ -60123,8 +60103,6 @@ poecileseiches.com CNAME .
 *.poecileseiches.com CNAME .
 poemblotrating.com CNAME .
 *.poemblotrating.com CNAME .
-poemsbedevil.com CNAME .
-*.poemsbedevil.com CNAME .
 poemsquack.com CNAME .
 *.poemsquack.com CNAME .
 poemswrestlingstrategy.com CNAME .
@@ -61837,8 +61815,6 @@ ptuksagidsie.net CNAME .
 *.ptuksagidsie.net CNAME .
 ptupsewo.net CNAME .
 *.ptupsewo.net CNAME .
-ptuquopnkhyew.com CNAME .
-*.ptuquopnkhyew.com CNAME .
 pturdaumpustool.net CNAME .
 *.pturdaumpustool.net CNAME .
 ptutchiz.com CNAME .
@@ -62401,8 +62377,6 @@ pvnwap.zol.com.cn CNAME .
 *.pvnwap.zol.com.cn CNAME .
 pvtqllwgu.com CNAME .
 *.pvtqllwgu.com CNAME .
-pvvxfh.top CNAME .
-*.pvvxfh.top CNAME .
 pvxzjdetbhrtz.top CNAME .
 *.pvxzjdetbhrtz.top CNAME .
 pw.gigazine.net CNAME .
@@ -64413,8 +64387,6 @@ releasedfinish.com CNAME .
 *.releasedfinish.com CNAME .
 releaseeviltoll.com CNAME .
 *.releaseeviltoll.com CNAME .
-releknhftovyjt.com CNAME .
-*.releknhftovyjt.com CNAME .
 relestar.com CNAME .
 *.relestar.com CNAME .
 relevanceads.com CNAME .
@@ -68321,8 +68293,6 @@ seoyoperseducat.org CNAME .
 *.seoyoperseducat.org CNAME .
 separatepattern.pro CNAME .
 *.separatepattern.pro CNAME .
-separatesilver.com CNAME .
-*.separatesilver.com CNAME .
 separationalphabet.com CNAME .
 *.separationalphabet.com CNAME .
 separationharmgreatest.com CNAME .
@@ -79483,8 +79453,6 @@ ufaexpert.com CNAME .
 *.ufaexpert.com CNAME .
 ufbcrgms.com CNAME .
 *.ufbcrgms.com CNAME .
-ufdgcvcrpuxdwhd.com CNAME .
-*.ufdgcvcrpuxdwhd.com CNAME .
 ufiledsit.com CNAME .
 *.ufiledsit.com CNAME .
 ufiler-pro2.ru CNAME .
