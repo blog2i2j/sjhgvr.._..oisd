@@ -1,9 +1,9 @@
-; Version: 202505162157
+; Version: 202505162309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87130
-; Last modified: 2025-05-16T21:57:32+0000
+; Entries: 87104
+; Last modified: 2025-05-16T23:09:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747429203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747436403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12425,8 +12425,6 @@ aqnobnhcod.com CNAME .
 *.aqnobnhcod.com CNAME .
 aqptziligoqn.com CNAME .
 *.aqptziligoqn.com CNAME .
-aqpwckoqbjikrg.xyz CNAME .
-*.aqpwckoqbjikrg.xyz CNAME .
 aqsossaj.com CNAME .
 *.aqsossaj.com CNAME .
 aqspcbz.com CNAME .
@@ -30207,8 +30205,6 @@ dragonflyproblemsubway.com CNAME .
 *.dragonflyproblemsubway.com CNAME .
 dragstergibletshaded.com CNAME .
 *.dragstergibletshaded.com CNAME .
-dragzebra.com CNAME .
-*.dragzebra.com CNAME .
 drakeswuzu.top CNAME .
 *.drakeswuzu.top CNAME .
 dralintheirbrightscar.org CNAME .
@@ -34387,8 +34383,6 @@ feignoccasionedmound.com CNAME .
 *.feignoccasionedmound.com CNAME .
 feilbeclaw.com CNAME .
 *.feilbeclaw.com CNAME .
-feintelbowsburglar.com CNAME .
-*.feintelbowsburglar.com CNAME .
 feistyhelicopter.com CNAME .
 *.feistyhelicopter.com CNAME .
 fejla.com CNAME .
@@ -37631,8 +37625,6 @@ gjjaefsketwgi.tech CNAME .
 *.gjjaefsketwgi.tech CNAME .
 gjnqoutbxohdb.site CNAME .
 *.gjnqoutbxohdb.site CNAME .
-gjpalpvgek.com CNAME .
-*.gjpalpvgek.com CNAME .
 gjtrack.uc.cn CNAME .
 *.gjtrack.uc.cn CNAME .
 gjwos.org CNAME .
@@ -39817,8 +39809,6 @@ hasomsdcoojm.com CNAME .
 *.hasomsdcoojm.com CNAME .
 hastecoat.com CNAME .
 *.hastecoat.com CNAME .
-hatablepuleyn.com CNAME .
-*.hatablepuleyn.com CNAME .
 hatagashira.com CNAME .
 *.hatagashira.com CNAME .
 hatboxsabre.top CNAME .
@@ -54455,8 +54445,6 @@ notdyedfinance.com CNAME .
 *.notdyedfinance.com CNAME .
 noted-factor.pro CNAME .
 *.noted-factor.pro CNAME .
-notepastaparliamentary.com CNAME .
-*.notepastaparliamentary.com CNAME .
 notes-analytics-events.apple.com CNAME .
 *.notes-analytics-events.apple.com CNAME .
 notesbook.in CNAME .
@@ -60097,8 +60085,6 @@ policecolugos.shop CNAME .
 *.policecolugos.shop CNAME .
 policesportsman.com CNAME .
 *.policesportsman.com CNAME .
-policydilapidationhypothetically.com CNAME .
-*.policydilapidationhypothetically.com CNAME .
 polite1266.fun CNAME .
 *.polite1266.fun CNAME .
 political-effort.com CNAME .
@@ -62385,8 +62371,6 @@ pylon.micstatic.com CNAME .
 *.pylon.micstatic.com CNAME .
 pyrenaasthma.top CNAME .
 *.pyrenaasthma.top CNAME .
-pyrincelewasgild.info CNAME .
-*.pyrincelewasgild.info CNAME .
 pyrrhaouterly.top CNAME .
 *.pyrrhaouterly.top CNAME .
 pyrroylceriums.com CNAME .
@@ -69249,8 +69233,6 @@ signalspotsharshly.com CNAME .
 *.signalspotsharshly.com CNAME .
 signamentswithd.com CNAME .
 *.signamentswithd.com CNAME .
-signamentswithded.com CNAME .
-*.signamentswithded.com CNAME .
 signcalamity.com CNAME .
 *.signcalamity.com CNAME .
 significantdoubloons.com CNAME .
@@ -76753,8 +76735,6 @@ tqoneyyivw.club CNAME .
 *.tqoneyyivw.club CNAME .
 tqphaqoye.com CNAME .
 *.tqphaqoye.com CNAME .
-tqrgivpfygemxft.com CNAME .
-*.tqrgivpfygemxft.com CNAME .
 tr-boost.com CNAME .
 *.tr-boost.com CNAME .
 tr-bouncer.com CNAME .
@@ -85679,8 +85659,6 @@ xylidichiatus.shop CNAME .
 *.xylidichiatus.shop CNAME .
 xylzwamxxshgw.click CNAME .
 *.xylzwamxxshgw.click CNAME .
-xynfextpw.com CNAME .
-*.xynfextpw.com CNAME .
 xytcboyz.icu CNAME .
 *.xytcboyz.icu CNAME .
 xyx77.top CNAME .
@@ -85771,8 +85749,6 @@ yak.gregsullivan.com CNAME .
 *.yak.gregsullivan.com CNAME .
 yakmakhond.top CNAME .
 *.yakmakhond.top CNAME .
-yaksgwrkhufex.com CNAME .
-*.yaksgwrkhufex.com CNAME .
 yamshikbrucia.top CNAME .
 *.yamshikbrucia.top CNAME .
 yandexadexchange.net CNAME .
@@ -86999,8 +86975,6 @@ zt.me.zing.vn CNAME .
 *.zt.me.zing.vn CNAME .
 zt1.me.zing.vn CNAME .
 *.zt1.me.zing.vn CNAME .
-ztdbfz.top CNAME .
-*.ztdbfz.top CNAME .
 ztdog.com CNAME .
 *.ztdog.com CNAME .
 ztevents.zaloapp.com CNAME .
