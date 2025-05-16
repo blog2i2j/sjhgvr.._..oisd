@@ -1,9 +1,9 @@
-; Version: 202505161510
+; Version: 202505161616
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87090
-; Last modified: 2025-05-16T15:10:06+0000
+; Entries: 87070
+; Last modified: 2025-05-16T16:16:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747407603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747411204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32721,8 +32721,6 @@ estat.zum.com CNAME .
 *.estat.zum.com CNAME .
 estate05032026.shop CNAME .
 *.estate05032026.shop CNAME .
-estatestrongest.com CNAME .
-*.estatestrongest.com CNAME .
 estaticos.soitu.es CNAME .
 *.estaticos.soitu.es CNAME .
 estatueofthea.info CNAME .
@@ -41611,8 +41609,6 @@ hvert.site CNAME .
 *.hvert.site CNAME .
 hvooyieoei.com CNAME .
 *.hvooyieoei.com CNAME .
-hvpmpettedcroqc.com CNAME .
-*.hvpmpettedcroqc.com CNAME .
 hvpsfsuruamnc.icu CNAME .
 *.hvpsfsuruamnc.icu CNAME .
 hvwqgedwpckc.com CNAME .
@@ -47785,8 +47781,6 @@ llama.whatcha.io CNAME .
 *.llama.whatcha.io CNAME .
 llet787bww.com CNAME .
 *.llet787bww.com CNAME .
-llljoppanan.com CNAME .
-*.llljoppanan.com CNAME .
 llog.pl CNAME .
 *.llog.pl CNAME .
 llpzoaezdwwah.tech CNAME .
@@ -54083,8 +54077,6 @@ nineteenthdipper.com CNAME .
 *.nineteenthdipper.com CNAME .
 nineteenthpurple.com CNAME .
 *.nineteenthpurple.com CNAME .
-nineteenthsoftballmorality.com CNAME .
-*.nineteenthsoftballmorality.com CNAME .
 ninetyfitful.com CNAME .
 *.ninetyfitful.com CNAME .
 ninetyninesec.com CNAME .
@@ -67755,8 +67747,6 @@ sdk.stats-locations.com CNAME .
 *.sdk.stats-locations.com CNAME .
 sdk4push.com CNAME .
 *.sdk4push.com CNAME .
-sdkfjxjertertry.com CNAME .
-*.sdkfjxjertertry.com CNAME .
 sdkl.info CNAME .
 *.sdkl.info CNAME .
 sdks.stats-locations.com CNAME .
@@ -73427,14 +73417,10 @@ surhaihaydn.com CNAME .
 *.surhaihaydn.com CNAME .
 suriquesyre.com CNAME .
 *.suriquesyre.com CNAME .
-surlydancerbalanced.com CNAME .
-*.surlydancerbalanced.com CNAME .
 surnamesubqueryaloft.com CNAME .
 *.surnamesubqueryaloft.com CNAME .
 surplusgreetingbusiness.com CNAME .
 *.surplusgreetingbusiness.com CNAME .
-surpriseenterprisingfin.com CNAME .
-*.surpriseenterprisingfin.com CNAME .
 surprisingarsonistcooperate.com CNAME .
 *.surprisingarsonistcooperate.com CNAME .
 surprisinglystaunchdemocratic.com CNAME .
@@ -80579,8 +80565,6 @@ valuepastscowl.com CNAME .
 *.valuepastscowl.com CNAME .
 valuerstarringarmistice.com CNAME .
 *.valuerstarringarmistice.com CNAME .
-valueslinear.com CNAME .
-*.valueslinear.com CNAME .
 valvyre.com CNAME .
 *.valvyre.com CNAME .
 vamgggllztusk.love CNAME .
@@ -81263,8 +81247,6 @@ vilerebuffcontact.com CNAME .
 *.vilerebuffcontact.com CNAME .
 viliaff.com CNAME .
 *.viliaff.com CNAME .
-villagerreporter.com CNAME .
-*.villagerreporter.com CNAME .
 villainous-appointment.com CNAME .
 *.villainous-appointment.com CNAME .
 vilreeroucm.net CNAME .
@@ -85775,8 +85757,6 @@ yazuda.xyz CNAME .
 *.yazuda.xyz CNAME .
 ybhyziittfg.com CNAME .
 *.ybhyziittfg.com CNAME .
-ybrwhqhjetuagi.com CNAME .
-*.ybrwhqhjetuagi.com CNAME .
 ybs2ffs7v.com CNAME .
 *.ybs2ffs7v.com CNAME .
 ybtkzjm.com CNAME .
