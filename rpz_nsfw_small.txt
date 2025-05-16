@@ -1,9 +1,9 @@
-; Version: 202505160013
+; Version: 202505160213
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42668
-; Last modified: 2025-05-16T00:13:02+0000
+; Entries: 42672
+; Last modified: 2025-05-16T02:13:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747353609 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747360804 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3461,6 +3461,8 @@ babextube.com CNAME .
 *.babextube.com CNAME .
 babezdoor.com CNAME .
 *.babezdoor.com CNAME .
+babiescb.cz CNAME .
+*.babiescb.cz CNAME .
 babijos.com CNAME .
 *.babijos.com CNAME .
 babiporno.com CNAME .
@@ -4625,6 +4627,8 @@ bigpornhd.mom CNAME .
 *.bigpornhd.mom CNAME .
 bigpornovideo.net CNAME .
 *.bigpornovideo.net CNAME .
+bigslapparty.com CNAME .
+*.bigslapparty.com CNAME .
 bigtenplus.com CNAME .
 *.bigtenplus.com CNAME .
 bigtit.xyz CNAME .
