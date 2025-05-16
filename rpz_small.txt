@@ -1,9 +1,9 @@
-; Version: 202505161409
+; Version: 202505161510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87114
-; Last modified: 2025-05-16T14:09:37+0000
+; Entries: 87090
+; Last modified: 2025-05-16T15:10:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747404005 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747407603 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8933,8 +8933,6 @@ aidsswaggertrimness.com CNAME .
 *.aidsswaggertrimness.com CNAME .
 aidsvc.netflix.com CNAME .
 *.aidsvc.netflix.com CNAME .
-aifuwgcygccfp.com CNAME .
-*.aifuwgcygccfp.com CNAME .
 aigfednd.icu CNAME .
 *.aigfednd.icu CNAME .
 aigheebsu.net CNAME .
@@ -24275,8 +24273,6 @@ ctr-opc.nmg.de CNAME .
 *.ctr-opc.nmg.de CNAME .
 ctr.po-kaki-to.com CNAME .
 *.ctr.po-kaki-to.com CNAME .
-ctralokppdug.com CNAME .
-*.ctralokppdug.com CNAME .
 ctrdwm.com CNAME .
 *.ctrdwm.com CNAME .
 ctrlaltdel99.com CNAME .
@@ -44117,8 +44113,6 @@ jcpjfyikk.dogbonemarket.com CNAME .
 *.jcpjfyikk.dogbonemarket.com CNAME .
 jcqwstedbayoo.com CNAME .
 *.jcqwstedbayoo.com CNAME .
-jcrgmcxyjnk.com CNAME .
-*.jcrgmcxyjnk.com CNAME .
 jcxkehjcdvziy.club CNAME .
 *.jcxkehjcdvziy.club CNAME .
 jcyjly.com CNAME .
@@ -49409,8 +49403,6 @@ lxvsjdmjygqcc.space CNAME .
 *.lxvsjdmjygqcc.space CNAME .
 lyappreciat.info CNAME .
 *.lyappreciat.info CNAME .
-lybywxurvxwsby.com CNAME .
-*.lybywxurvxwsby.com CNAME .
 lycheenews.com CNAME .
 *.lycheenews.com CNAME .
 lycoty.com CNAME .
@@ -54961,8 +54953,6 @@ nxfpjutby.com CNAME .
 *.nxfpjutby.com CNAME .
 nxgzeejhs.com CNAME .
 *.nxgzeejhs.com CNAME .
-nxnwwnbxbdznik.com CNAME .
-*.nxnwwnbxbdznik.com CNAME .
 nxrajr.xyz CNAME .
 *.nxrajr.xyz CNAME .
 nxszxho.com CNAME .
@@ -55847,8 +55837,6 @@ okikwul.icu CNAME .
 *.okikwul.icu CNAME .
 okitattler.top CNAME .
 *.okitattler.top CNAME .
-okivygduxl.com CNAME .
-*.okivygduxl.com CNAME .
 okjjwuru.com CNAME .
 *.okjjwuru.com CNAME .
 okjkidtajoh.com CNAME .
@@ -56515,8 +56503,6 @@ opoduchadmir.com CNAME .
 *.opoduchadmir.com CNAME .
 oponixa.com CNAME .
 *.oponixa.com CNAME .
-opositeasysemblyjus.info CNAME .
-*.opositeasysemblyjus.info CNAME .
 opossum.roleup.com CNAME .
 *.opossum.roleup.com CNAME .
 opossum.stephanieharari.com CNAME .
@@ -67043,8 +67029,6 @@ sacculiroofmen.shop CNAME .
 *.sacculiroofmen.shop CNAME .
 sacedoamte.net CNAME .
 *.sacedoamte.net CNAME .
-sackbarngroups.com CNAME .
-*.sackbarngroups.com CNAME .
 sackeelroy.net CNAME .
 *.sackeelroy.net CNAME .
 sadbasindinner.com CNAME .
@@ -80415,8 +80399,6 @@ uyjxzvu.com CNAME .
 *.uyjxzvu.com CNAME .
 uyledjlevq.com CNAME .
 *.uyledjlevq.com CNAME .
-uyqxfamwvpfrm.com CNAME .
-*.uyqxfamwvpfrm.com CNAME .
 uysladebgu.xyz CNAME .
 *.uysladebgu.xyz CNAME .
 uyybde07w.com CNAME .
@@ -82389,8 +82371,6 @@ wdcwmeklhgnfc.xyz CNAME .
 *.wdcwmeklhgnfc.xyz CNAME .
 wdig.vo.llnwd.net CNAME .
 *.wdig.vo.llnwd.net CNAME .
-wdnkjctmnhqui.com CNAME .
-*.wdnkjctmnhqui.com CNAME .
 wdohhlagnjzi.com CNAME .
 *.wdohhlagnjzi.com CNAME .
 wdoyouknowsai.org CNAME .
@@ -83497,8 +83477,6 @@ withdrawwantssheep.com CNAME .
 *.withdrawwantssheep.com CNAME .
 withmefeyaukn.com CNAME .
 *.withmefeyaukn.com CNAME .
-withmefeyaukna.com CNAME .
-*.withmefeyaukna.com CNAME .
 withyouryret.com CNAME .
 *.withyouryret.com CNAME .
 witnessjacket.com CNAME .
@@ -86333,8 +86311,6 @@ yxemekyjfn.com CNAME .
 *.yxemekyjfn.com CNAME .
 yxhouwezb.site CNAME .
 *.yxhouwezb.site CNAME .
-yxojmhfbewer.com CNAME .
-*.yxojmhfbewer.com CNAME .
 yxpmkgzsqcxyu.site CNAME .
 *.yxpmkgzsqcxyu.site CNAME .
 yxqmryq.top CNAME .
