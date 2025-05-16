@@ -1,9 +1,9 @@
-; Version: 202505161616
+; Version: 202505161723
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87070
-; Last modified: 2025-05-16T16:16:08+0000
+; Entries: 87054
+; Last modified: 2025-05-16T17:23:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747411204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747415634 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16115,8 +16115,6 @@ bfb9bc6900.e92030d8b1.com CNAME .
 *.bfb9bc6900.e92030d8b1.com CNAME .
 bfeajfakcvik.com CNAME .
 *.bfeajfakcvik.com CNAME .
-bfeisqaluv.com CNAME .
-*.bfeisqaluv.com CNAME .
 bfeoktgty.com CNAME .
 *.bfeoktgty.com CNAME .
 bfhueh.top CNAME .
@@ -39697,8 +39695,6 @@ happinessunderneathmotion.com CNAME .
 *.happinessunderneathmotion.com CNAME .
 happy-davinci-53144f.netlify.com CNAME .
 *.happy-davinci-53144f.netlify.com CNAME .
-happy2dates.com CNAME .
-*.happy2dates.com CNAME .
 happydate.today CNAME .
 *.happydate.today CNAME .
 happylength.com CNAME .
@@ -55605,8 +55601,6 @@ ofphanpytor.com CNAME .
 *.ofphanpytor.com CNAME .
 ofpmadgfo.com CNAME .
 *.ofpmadgfo.com CNAME .
-ofqcjonrcusvpok.com CNAME .
-*.ofqcjonrcusvpok.com CNAME .
 ofrapidashr.com CNAME .
 *.ofrapidashr.com CNAME .
 ofredirect.com CNAME .
@@ -68161,8 +68155,6 @@ sergeigagor.top CNAME .
 *.sergeigagor.top CNAME .
 sergeimckay.shop CNAME .
 *.sergeimckay.shop CNAME .
-seriousdates.net CNAME .
-*.seriousdates.net CNAME .
 sermondirt.com CNAME .
 *.sermondirt.com CNAME .
 sermonsbleeder.top CNAME .
@@ -69351,8 +69343,6 @@ sisterexpendabsolve.com CNAME .
 *.sisterexpendabsolve.com CNAME .
 sitabsorb.com CNAME .
 *.sitabsorb.com CNAME .
-sitamedal2.online CNAME .
-*.sitamedal2.online CNAME .
 sitamedal4.online CNAME .
 *.sitamedal4.online CNAME .
 sitaopiqure.com CNAME .
@@ -74683,8 +74673,6 @@ tblnreehmapc.com CNAME .
 *.tblnreehmapc.com CNAME .
 tbmods.ru CNAME .
 *.tbmods.ru CNAME .
-tbqgbyyju.com CNAME .
-*.tbqgbyyju.com CNAME .
 tbsxkmwsmksjj.buzz CNAME .
 *.tbsxkmwsmksjj.buzz CNAME .
 tbudz.co.in CNAME .
@@ -75925,8 +75913,6 @@ tjinit-global-register.babybus.com CNAME .
 *.tjinit-global-register.babybus.com CNAME .
 tjk-njk.com CNAME .
 *.tjk-njk.com CNAME .
-tjnvudmphx.com CNAME .
-*.tjnvudmphx.com CNAME .
 tjpzz.buzz CNAME .
 *.tjpzz.buzz CNAME .
 tjuspyk.icu CNAME .
@@ -85989,8 +85975,6 @@ ymehnthakutyfor.com CNAME .
 *.ymehnthakutyfor.com CNAME .
 ymewsu.xyz CNAME .
 *.ymewsu.xyz CNAME .
-ymgranque.com CNAME .
-*.ymgranque.com CNAME .
 ymprove.gmx.net CNAME .
 *.ymprove.gmx.net CNAME .
 ymprove.web.de CNAME .
