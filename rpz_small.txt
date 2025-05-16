@@ -1,9 +1,9 @@
-; Version: 202505160008
+; Version: 202505160108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87294
-; Last modified: 2025-05-16T00:08:44+0000
+; Entries: 87256
+; Last modified: 2025-05-16T01:08:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747353609 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747357202 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27723,8 +27723,6 @@ dbd9542946.dffc7e343b.com CNAME .
 *.dbd9542946.dffc7e343b.com CNAME .
 dbdophuz.icu CNAME .
 *.dbdophuz.icu CNAME .
-dbdrybib.com CNAME .
-*.dbdrybib.com CNAME .
 dbefaaec33.701ad069e2.com CNAME .
 *.dbefaaec33.701ad069e2.com CNAME .
 dberthformttete.com CNAME .
@@ -33353,8 +33351,6 @@ ewrgryxjaq.com CNAME .
 *.ewrgryxjaq.com CNAME .
 ewruuqe5p8ca.com CNAME .
 *.ewruuqe5p8ca.com CNAME .
-ewuvpujntjoael.com CNAME .
-*.ewuvpujntjoael.com CNAME .
 ewxufqs.cn CNAME .
 *.ewxufqs.cn CNAME .
 ex8.lostporntube.com CNAME .
@@ -36959,8 +36955,6 @@ gbfys.global CNAME .
 *.gbfys.global CNAME .
 gbqgwes.icu CNAME .
 *.gbqgwes.icu CNAME .
-gbsqwsjv.com CNAME .
-*.gbsqwsjv.com CNAME .
 gbztputcfgp.com CNAME .
 *.gbztputcfgp.com CNAME .
 gc.newsweek.com CNAME .
@@ -37387,8 +37381,6 @@ gfn1.ugap.fr CNAME .
 *.gfn1.ugap.fr CNAME .
 gforanythingam.com CNAME .
 *.gforanythingam.com CNAME .
-gfsdloocn.com CNAME .
-*.gfsdloocn.com CNAME .
 gfstrck.com CNAME .
 *.gfstrck.com CNAME .
 gfufutakba.com CNAME .
@@ -41681,8 +41673,6 @@ hvpmpettedcroqc.com CNAME .
 *.hvpmpettedcroqc.com CNAME .
 hvpsfsuruamnc.icu CNAME .
 *.hvpsfsuruamnc.icu CNAME .
-hvtsxseblxie.com CNAME .
-*.hvtsxseblxie.com CNAME .
 hvwqgedwpckc.com CNAME .
 *.hvwqgedwpckc.com CNAME .
 hvywllhiwgbjj.icu CNAME .
@@ -45759,8 +45749,6 @@ kizohilsoa.net CNAME .
 *.kizohilsoa.net CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
 *.kjdsfjisdfjr23.azurewebsites.net CNAME .
-kjebrhygakkbehl.com CNAME .
-*.kjebrhygakkbehl.com CNAME .
 kjixkjmned.xyz CNAME .
 *.kjixkjmned.xyz CNAME .
 kjmxyxgsi.com CNAME .
@@ -46907,8 +46895,6 @@ lb.secureweb24.net CNAME .
 *.lb.secureweb24.net CNAME .
 lb.usemaxserver.de CNAME .
 *.lb.usemaxserver.de CNAME .
-lbfrruxdynpunl.com CNAME .
-*.lbfrruxdynpunl.com CNAME .
 lbfwxr.icu CNAME .
 *.lbfwxr.icu CNAME .
 lbn.ru CNAME .
@@ -50563,8 +50549,6 @@ mdhv.io CNAME .
 *.mdhv.io CNAME .
 mdkewiwnsrgk.com CNAME .
 *.mdkewiwnsrgk.com CNAME .
-mdnwtuscsybglw.com CNAME .
-*.mdnwtuscsybglw.com CNAME .
 mdrwjsijuqvtn.rocks CNAME .
 *.mdrwjsijuqvtn.rocks CNAME .
 mdstats.info CNAME .
@@ -50847,8 +50831,6 @@ megawerbung.de CNAME .
 *.megawerbung.de CNAME .
 megdexchange.com CNAME .
 *.megdexchange.com CNAME .
-megkopuwtao.com CNAME .
-*.megkopuwtao.com CNAME .
 megmhokluck.shop CNAME .
 *.megmhokluck.shop CNAME .
 megroarsoy.net CNAME .
@@ -53595,8 +53577,6 @@ ndzoaaa.com CNAME .
 *.ndzoaaa.com CNAME .
 neads.delivery CNAME .
 *.neads.delivery CNAME .
-neandwillha.info CNAME .
-*.neandwillha.info CNAME .
 neapscinemas.shop CNAME .
 *.neapscinemas.shop CNAME .
 nearbyad.com CNAME .
@@ -54073,8 +54053,6 @@ ngupfromavi.org CNAME .
 *.ngupfromavi.org CNAME .
 nhbprf.xyz CNAME .
 *.nhbprf.xyz CNAME .
-nhdkovgsxbbn.com CNAME .
-*.nhdkovgsxbbn.com CNAME .
 nheappyrincen.info CNAME .
 *.nheappyrincen.info CNAME .
 nhgpidvhdzm.vip CNAME .
@@ -64707,8 +64685,6 @@ resniks.pro CNAME .
 *.resniks.pro CNAME .
 resnubdreich.com CNAME .
 *.resnubdreich.com CNAME .
-resolutethumb.com CNAME .
-*.resolutethumb.com CNAME .
 reson8.com CNAME .
 *.reson8.com CNAME .
 resonance.pk CNAME .
@@ -64815,8 +64791,6 @@ reth45dq.de CNAME .
 *.reth45dq.de CNAME .
 retharitus.com CNAME .
 *.retharitus.com CNAME .
-retherdoresper.info CNAME .
-*.retherdoresper.info CNAME .
 rethinkshone.com CNAME .
 *.rethinkshone.com CNAME .
 reticencecarefully.com CNAME .
@@ -65245,8 +65219,6 @@ ritzilypigless.top CNAME .
 *.ritzilypigless.top CNAME .
 rivalpout.com CNAME .
 *.rivalpout.com CNAME .
-rivareuyeom.com CNAME .
-*.rivareuyeom.com CNAME .
 rivatedqualizebruisi.info CNAME .
 *.rivatedqualizebruisi.info CNAME .
 riverdin.com CNAME .
@@ -67647,8 +67619,6 @@ scanscout.com CNAME .
 *.scanscout.com CNAME .
 scanunderstiff.com CNAME .
 *.scanunderstiff.com CNAME .
-scanwasted.com CNAME .
-*.scanwasted.com CNAME .
 scarcelypat.com CNAME .
 *.scarcelypat.com CNAME .
 scarcerpokomoo.com CNAME .
@@ -73619,8 +73589,6 @@ survey-daily-prizes.com CNAME .
 *.survey-daily-prizes.com CNAME .
 survey.interquest.com CNAME .
 *.survey.interquest.com CNAME .
-survey2you.co CNAME .
-*.survey2you.co CNAME .
 survey2you.net CNAME .
 *.survey2you.net CNAME .
 survey4you.co CNAME .
@@ -76211,8 +76179,6 @@ tmntft.com CNAME .
 *.tmntft.com CNAME .
 tmoclbf.icu CNAME .
 *.tmoclbf.icu CNAME .
-tmoznhnsy.com CNAME .
-*.tmoznhnsy.com CNAME .
 tmrjmp.com CNAME .
 *.tmrjmp.com CNAME .
 tms-collect.sony.jp CNAME .
@@ -79541,8 +79507,6 @@ uixml.bidcampaign.com CNAME .
 *.uixml.bidcampaign.com CNAME .
 uiypods.my CNAME .
 *.uiypods.my CNAME .
-ujjsiijbgxpk.com CNAME .
-*.ujjsiijbgxpk.com CNAME .
 ujlxkxgfl3.creativelandings.xyz CNAME .
 *.ujlxkxgfl3.creativelandings.xyz CNAME .
 ujovcb.cn CNAME .
@@ -86185,8 +86149,6 @@ ylog.huya.com CNAME .
 *.ylog.huya.com CNAME .
 ylog.nimo.tv CNAME .
 *.ylog.nimo.tv CNAME .
-yloshsblwkca.com CNAME .
-*.yloshsblwkca.com CNAME .
 ylrvjijsuafkdn.com CNAME .
 *.ylrvjijsuafkdn.com CNAME .
 ylscmihqxrrda.global CNAME .
