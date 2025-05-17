@@ -1,9 +1,9 @@
-; Version: 202505170210
+; Version: 202505170309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87190
-; Last modified: 2025-05-17T02:10:08+0000
+; Entries: 87176
+; Last modified: 2025-05-17T03:09:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747447203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747450801 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14501,8 +14501,6 @@ babylyst.com CNAME .
 *.babylyst.com CNAME .
 babyniceshark.com CNAME .
 *.babyniceshark.com CNAME .
-babysittingrainyoffend.com CNAME .
-*.babysittingrainyoffend.com CNAME .
 baccarat212.com CNAME .
 *.baccarat212.com CNAME .
 bacchaenaggar.com CNAME .
@@ -22709,8 +22707,6 @@ connectreadoasis.com CNAME .
 *.connectreadoasis.com CNAME .
 connecttoday.eu CNAME .
 *.connecttoday.eu CNAME .
-connext-cdn.azureedge.net CNAME .
-*.connext-cdn.azureedge.net CNAME .
 connextra.com CNAME .
 *.connextra.com CNAME .
 conoret.com CNAME .
@@ -23799,8 +23795,6 @@ crayfish.thecatherinewheel.co CNAME .
 *.crayfish.thecatherinewheel.co CNAME .
 crayon.meishichina.com CNAME .
 *.crayon.meishichina.com CNAME .
-crazefiles.com CNAME .
-*.crazefiles.com CNAME .
 crazesmalto.com CNAME .
 *.crazesmalto.com CNAME .
 crazy-baboon.com CNAME .
@@ -39395,8 +39389,6 @@ gutazngipaf.com CNAME .
 *.gutazngipaf.com CNAME .
 gutockeewhargo.net CNAME .
 *.gutockeewhargo.net CNAME .
-gutrnesak.com CNAME .
-*.gutrnesak.com CNAME .
 gutterjavgg124.fun CNAME .
 *.gutterjavgg124.fun CNAME .
 gutwortdishpan.top CNAME .
@@ -39767,8 +39759,6 @@ hapawaipsoor.net CNAME .
 *.hapawaipsoor.net CNAME .
 happen.spkt.io CNAME .
 *.happen.spkt.io CNAME .
-happenemerged.com CNAME .
-*.happenemerged.com CNAME .
 happeningflutter.com CNAME .
 *.happeningflutter.com CNAME .
 happinessunderneathmotion.com CNAME .
@@ -43747,8 +43737,6 @@ itheatmoran.com CNAME .
 *.itheatmoran.com CNAME .
 ithocawauthaglu.net CNAME .
 *.ithocawauthaglu.net CNAME .
-ithoughtsustache.info CNAME .
-*.ithoughtsustache.info CNAME .
 itinerarymonarchy.com CNAME .
 *.itinerarymonarchy.com CNAME .
 itlitleoan.com CNAME .
@@ -54981,8 +54969,6 @@ nutritious-month.com CNAME .
 *.nutritious-month.com CNAME .
 nutsinmid.live CNAME .
 *.nutsinmid.live CNAME .
-nuyqsshmxgukny.com CNAME .
-*.nuyqsshmxgukny.com CNAME .
 nuzostgcylun.com CNAME .
 *.nuzostgcylun.com CNAME .
 nv-ad.24hstatic.com CNAME .
