@@ -1,9 +1,9 @@
-; Version: 202505170916
+; Version: 202505171016
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43322
-; Last modified: 2025-05-17T09:16:05+0000
+; Entries: 43312
+; Last modified: 2025-05-17T10:16:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747472402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747476003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -569,6 +569,8 @@ $TTL 30
 *.3xpla.net CNAME .
 3xplanet.com CNAME .
 *.3xplanet.com CNAME .
+3xplanet.net CNAME .
+*.3xplanet.net CNAME .
 3xplanetimg.com CNAME .
 *.3xplanetimg.com CNAME .
 3xse.com CNAME .
@@ -747,8 +749,6 @@ $TTL 30
 *.69xxxtube.com CNAME .
 69yed.com CNAME .
 *.69yed.com CNAME .
-6buses.com CNAME .
-*.6buses.com CNAME .
 6chat.org CNAME .
 *.6chat.org CNAME .
 6chua.com CNAME .
@@ -5747,8 +5747,6 @@ bursaescortbayan.org CNAME .
 *.bursaescortbayan.org CNAME .
 bursaescorteu.com CNAME .
 *.bursaescorteu.com CNAME .
-bursaescortgorukle.com CNAME .
-*.bursaescortgorukle.com CNAME .
 bursaescorthot.com CNAME .
 *.bursaescorthot.com CNAME .
 buscandoligues.com CNAME .
@@ -9007,8 +9005,6 @@ doujins.com CNAME .
 *.doujins.com CNAME .
 doujinshell.com CNAME .
 *.doujinshell.com CNAME .
-doujinxhub.com CNAME .
-*.doujinxhub.com CNAME .
 doujinza.com CNAME .
 *.doujinza.com CNAME .
 douzin-q.com CNAME .
@@ -15937,8 +15933,6 @@ hosting4iran.com CNAME .
 *.hosting4iran.com CNAME .
 hostry.host CNAME .
 *.hostry.host CNAME .
-hostvds.com CNAME .
-*.hostvds.com CNAME .
 hot-cartoon.com CNAME .
 *.hot-cartoon.com CNAME .
 hot-girls-fuck.com CNAME .
@@ -17513,8 +17507,6 @@ iphimsexhay.com CNAME .
 *.iphimsexhay.com CNAME .
 iphimsexviet.com CNAME .
 *.iphimsexviet.com CNAME .
-iphimsexvn.com CNAME .
-*.iphimsexvn.com CNAME .
 iponel.net CNAME .
 *.iponel.net CNAME .
 iporder.icu CNAME .
@@ -23603,6 +23595,8 @@ namethatpornstar.com CNAME .
 *.namethatpornstar.com CNAME .
 namjai.net CNAME .
 *.namjai.net CNAME .
+nan.co.jp CNAME .
+*.nan.co.jp CNAME .
 nangcuc.live CNAME .
 *.nangcuc.live CNAME .
 nangcuc.tel CNAME .
@@ -25375,8 +25369,6 @@ packspormega.store CNAME .
 *.packspormega.store CNAME .
 packsxxx.vip CNAME .
 *.packsxxx.vip CNAME .
-pacopacomama.com CNAME .
-*.pacopacomama.com CNAME .
 pagalworld.asia CNAME .
 *.pagalworld.asia CNAME .
 pagina.nl CNAME .
@@ -33693,6 +33685,8 @@ shemalehere.com CNAME .
 *.shemalehere.com CNAME .
 shemalehub.com CNAME .
 *.shemalehub.com CNAME .
+shemaleklub.net CNAME .
+*.shemaleklub.net CNAME .
 shemaleleaks.com CNAME .
 *.shemaleleaks.com CNAME .
 shemalelisting.com CNAME .
@@ -33839,8 +33833,6 @@ shopstart.hu CNAME .
 *.shopstart.hu CNAME .
 shorts.xxx CNAME .
 *.shorts.xxx CNAME .
-shotaworld.com CNAME .
-*.shotaworld.com CNAME .
 shovavim.co.il CNAME .
 *.shovavim.co.il CNAME .
 show-sex.com CNAME .
@@ -37571,8 +37563,6 @@ twanal.com CNAME .
 *.twanal.com CNAME .
 twatis.com CNAME .
 *.twatis.com CNAME .
-twavi.com CNAME .
-*.twavi.com CNAME .
 twerkqueens.com CNAME .
 *.twerkqueens.com CNAME .
 twgays.com CNAME .
@@ -38873,6 +38863,8 @@ vn5phimsexhay.com CNAME .
 *.vn5phimsexhay.com CNAME .
 vn6phimsexhay.com CNAME .
 *.vn6phimsexhay.com CNAME .
+vn8phimsexhay.com CNAME .
+*.vn8phimsexhay.com CNAME .
 vndb.org CNAME .
 *.vndb.org CNAME .
 vnpocket.com CNAME .
@@ -40985,8 +40977,6 @@ xpics.me CNAME .
 *.xpics.me CNAME .
 xpiya.com CNAME .
 *.xpiya.com CNAME .
-xpizda.ru CNAME .
-*.xpizda.ru CNAME .
 xpogroup.com CNAME .
 *.xpogroup.com CNAME .
 xpoleuno.com CNAME .
