@@ -1,9 +1,9 @@
-; Version: 202505170309
+; Version: 202505170410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87176
-; Last modified: 2025-05-17T03:09:56+0000
+; Entries: 87152
+; Last modified: 2025-05-17T04:10:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747450801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747454402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24599,8 +24599,6 @@ cyneburg-yam.com CNAME .
 *.cyneburg-yam.com CNAME .
 cynem.xyz CNAME .
 *.cynem.xyz CNAME .
-cynkwpuoam.com CNAME .
-*.cynkwpuoam.com CNAME .
 cypresslocum.com CNAME .
 *.cypresslocum.com CNAME .
 cyrociest.shop CNAME .
@@ -28099,8 +28097,6 @@ deehalig.net CNAME .
 *.deehalig.net CNAME .
 deehatoa.net CNAME .
 *.deehatoa.net CNAME .
-deemconpier.com CNAME .
-*.deemconpier.com CNAME .
 deenoacepok.com CNAME .
 *.deenoacepok.com CNAME .
 deepdive.zum.com CNAME .
@@ -35677,8 +35673,6 @@ forceddenial.com CNAME .
 *.forceddenial.com CNAME .
 forcelessgreetingbust.com CNAME .
 *.forcelessgreetingbust.com CNAME .
-forcetwice.com CNAME .
-*.forcetwice.com CNAME .
 forcingclinch.com CNAME .
 *.forcingclinch.com CNAME .
 forducklettr.com CNAME .
@@ -36349,8 +36343,6 @@ fungus.online CNAME .
 *.fungus.online CNAME .
 fungusshapesniff.com CNAME .
 *.fungusshapesniff.com CNAME .
-funjoobpolicester.info CNAME .
-*.funjoobpolicester.info CNAME .
 funklicks.com CNAME .
 *.funklicks.com CNAME .
 funn.graphiq.com CNAME .
@@ -38829,8 +38821,6 @@ gresteedoong.net CNAME .
 *.gresteedoong.net CNAME .
 gretalimbas.com CNAME .
 *.gretalimbas.com CNAME .
-gretnsassn.com CNAME .
-*.gretnsassn.com CNAME .
 grewguested.top CNAME .
 *.grewguested.top CNAME .
 greworganizer.com CNAME .
@@ -45431,8 +45421,6 @@ kenduktur.com CNAME .
 *.kenduktur.com CNAME .
 kennelbakerybasketball.com CNAME .
 *.kennelbakerybasketball.com CNAME .
-kensecuryrentat.info CNAME .
-*.kensecuryrentat.info CNAME .
 kentaoz.xyz CNAME .
 *.kentaoz.xyz CNAME .
 kentent.stre4mplay.one CNAME .
@@ -53411,8 +53399,6 @@ nattepush.com CNAME .
 *.nattepush.com CNAME .
 naturebunk.com CNAME .
 *.naturebunk.com CNAME .
-naturewhatmotor.com CNAME .
-*.naturewhatmotor.com CNAME .
 naucaish.net CNAME .
 *.naucaish.net CNAME .
 naufauzo.net CNAME .
@@ -61923,8 +61909,6 @@ puhtml.com CNAME .
 *.puhtml.com CNAME .
 puitaexb.com CNAME .
 *.puitaexb.com CNAME .
-pukimuki.xyz CNAME .
-*.pukimuki.xyz CNAME .
 puldhukelpmet.com CNAME .
 *.puldhukelpmet.com CNAME .
 pulianmurkly.shop CNAME .
@@ -62581,8 +62565,6 @@ qdvkgjfculfmr.site CNAME .
 *.qdvkgjfculfmr.site CNAME .
 qdxpid-bxcy.today CNAME .
 *.qdxpid-bxcy.today CNAME .
-qdycmvvuspfk.com CNAME .
-*.qdycmvvuspfk.com CNAME .
 qdzyspjx.com CNAME .
 *.qdzyspjx.com CNAME .
 qebpwkxjz.com CNAME .
@@ -71171,8 +71153,6 @@ srwww1.com CNAME .
 *.srwww1.com CNAME .
 srxy.xyz CNAME .
 *.srxy.xyz CNAME .
-srysvqjjcjwjc.xyz CNAME .
-*.srysvqjjcjwjc.xyz CNAME .
 ss.azuremagazine.com CNAME .
 *.ss.azuremagazine.com CNAME .
 ss.esade.edu CNAME .
@@ -76691,8 +76671,6 @@ tq-eu.boardpress-c.online CNAME .
 *.tq-eu.boardpress-c.online CNAME .
 tq-eu.dkswshap-2.online CNAME .
 *.tq-eu.dkswshap-2.online CNAME .
-tq-eu.dkswshap-4.online CNAME .
-*.tq-eu.dkswshap-4.online CNAME .
 tq-eu.foseller-a.online CNAME .
 *.tq-eu.foseller-a.online CNAME .
 tq-eu.foseller-c.online CNAME .
@@ -84577,8 +84555,6 @@ xktxemf.com CNAME .
 *.xktxemf.com CNAME .
 xlbxsaxuc.com CNAME .
 *.xlbxsaxuc.com CNAME .
-xldncyivwazvfy.com CNAME .
-*.xldncyivwazvfy.com CNAME .
 xliirdr.com CNAME .
 *.xliirdr.com CNAME .
 xlirdr.com CNAME .
