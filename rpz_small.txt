@@ -1,9 +1,9 @@
-; Version: 202505170009
+; Version: 202505170109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87096
-; Last modified: 2025-05-17T00:09:44+0000
+; Entries: 87064
+; Last modified: 2025-05-17T01:09:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747440008 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747443602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2463,8 +2463,6 @@ $TTL 30
 *.760a131226.com CNAME .
 76b61c25b1.c8dd7cddbb.com CNAME .
 *.76b61c25b1.c8dd7cddbb.com CNAME .
-76ec5a61ac.com CNAME .
-*.76ec5a61ac.com CNAME .
 7719094ddf.com CNAME .
 *.7719094ddf.com CNAME .
 772f4bba41.com CNAME .
@@ -16527,8 +16525,6 @@ bkr5xeg0c.com CNAME .
 *.bkr5xeg0c.com CNAME .
 bkrkv.com CNAME .
 *.bkrkv.com CNAME .
-bksoylhvsx.com CNAME .
-*.bksoylhvsx.com CNAME .
 bktsauna.com CNAME .
 *.bktsauna.com CNAME .
 bkxpph.xyz CNAME .
@@ -30439,8 +30435,6 @@ dsstrk.com CNAME .
 *.dsstrk.com CNAME .
 dstevermotori.org CNAME .
 *.dstevermotori.org CNAME .
-dstimaariraconians.info CNAME .
-*.dstimaariraconians.info CNAME .
 dstoppedtotalkto.com CNAME .
 *.dstoppedtotalkto.com CNAME .
 dsultra.com CNAME .
@@ -34513,8 +34507,6 @@ ffc661579f.c2dffe940b.com CNAME .
 *.ffc661579f.c2dffe940b.com CNAME .
 ffjevt.icu CNAME .
 *.ffjevt.icu CNAME .
-fflbpi.top CNAME .
-*.fflbpi.top CNAME .
 ffswithabras.com CNAME .
 *.ffswithabras.com CNAME .
 fft.delovoemesto.ru CNAME .
@@ -40841,8 +40833,6 @@ hnejuupgblwc.com CNAME .
 *.hnejuupgblwc.com CNAME .
 hnhmxj.icu CNAME .
 *.hnhmxj.icu CNAME .
-hnmikeloarp.com CNAME .
-*.hnmikeloarp.com CNAME .
 hnrgmc.com CNAME .
 *.hnrgmc.com CNAME .
 hnygjirnnakja.one CNAME .
@@ -41687,8 +41677,6 @@ hygromycin-b-50mg-ml-solution.com CNAME .
 *.hygromycin-b-50mg-ml-solution.com CNAME .
 hyipmanager.in CNAME .
 *.hyipmanager.in CNAME .
-hyistkechaukrguke.com CNAME .
-*.hyistkechaukrguke.com CNAME .
 hyjxtz.com CNAME .
 *.hyjxtz.com CNAME .
 hylplj.icu CNAME .
@@ -51519,8 +51507,6 @@ mistralwringle.top CNAME .
 *.mistralwringle.top CNAME .
 misty-eyed.boats CNAME .
 *.misty-eyed.boats CNAME .
-mistydexterityflippant.com CNAME .
-*.mistydexterityflippant.com CNAME .
 misuraunnail.com CNAME .
 *.misuraunnail.com CNAME .
 misuseartsy.com CNAME .
@@ -54697,8 +54683,6 @@ nsfwadds.com CNAME .
 *.nsfwadds.com CNAME .
 nsis.bisrv.com CNAME .
 *.nsis.bisrv.com CNAME .
-nsmbssogmssym.com CNAME .
-*.nsmbssogmssym.com CNAME .
 nsmedia-advertising.com CNAME .
 *.nsmedia-advertising.com CNAME .
 nsmpydfe.net CNAME .
@@ -57817,8 +57801,6 @@ palroudi.xyz CNAME .
 *.palroudi.xyz CNAME .
 palsybrush.com CNAME .
 *.palsybrush.com CNAME .
-palsyowe.com CNAME .
-*.palsyowe.com CNAME .
 paludicrapped.shop CNAME .
 *.paludicrapped.shop CNAME .
 paluinho.cloud CNAME .
@@ -60549,8 +60531,6 @@ pqvpcahwuvfo.life CNAME .
 *.pqvpcahwuvfo.life CNAME .
 pqvzlltzxbs.global CNAME .
 *.pqvzlltzxbs.global CNAME .
-pqwvvqlklwbkng.com CNAME .
-*.pqwvvqlklwbkng.com CNAME .
 pqzjki.cn CNAME .
 *.pqzjki.cn CNAME .
 pr-bh.ybp.yahoo.com CNAME .
@@ -60723,8 +60703,6 @@ pregainskilly.shop CNAME .
 *.pregainskilly.shop CNAME .
 pregmatookles.com CNAME .
 *.pregmatookles.com CNAME .
-pregnancyslayidentifier.com CNAME .
-*.pregnancyslayidentifier.com CNAME .
 prehistoricprefecturedale.com CNAME .
 *.prehistoricprefecturedale.com CNAME .
 preitem.wshareit.com CNAME .
@@ -61691,8 +61669,6 @@ ptrmnx.icu CNAME .
 *.ptrmnx.icu CNAME .
 ptsc.shoplocal.com CNAME .
 *.ptsc.shoplocal.com CNAME .
-ptstnkintllj.xyz CNAME .
-*.ptstnkintllj.xyz CNAME .
 ptsyhasifubi.buzz CNAME .
 *.ptsyhasifubi.buzz CNAME .
 pttraffic.online CNAME .
@@ -67475,8 +67451,6 @@ sc126.com CNAME .
 *.sc126.com CNAME .
 scabbienne.com CNAME .
 *.scabbienne.com CNAME .
-scabyeefss.com CNAME .
-*.scabyeefss.com CNAME .
 scaffoldconcentration.com CNAME .
 *.scaffoldconcentration.com CNAME .
 scagkecky.shop CNAME .
@@ -67745,8 +67719,6 @@ sdg.desihamster.pro CNAME .
 *.sdg.desihamster.pro CNAME .
 sdhfbvd.com CNAME .
 *.sdhfbvd.com CNAME .
-sdhiltewasvery.info CNAME .
-*.sdhiltewasvery.info CNAME .
 sdhmvkxf.com CNAME .
 *.sdhmvkxf.com CNAME .
 sdhpwahcnxeg.com CNAME .
@@ -83655,8 +83627,6 @@ wnujsatapndbq.today CNAME .
 *.wnujsatapndbq.today CNAME .
 woafoame.net CNAME .
 *.woafoame.net CNAME .
-woalaiwhoosh.net CNAME .
-*.woalaiwhoosh.net CNAME .
 woamoogloow.net CNAME .
 *.woamoogloow.net CNAME .
 woapheer.com CNAME .
@@ -85965,8 +85935,6 @@ ykmjrnicvb.com CNAME .
 *.ykmjrnicvb.com CNAME .
 yktj.yzz.cn CNAME .
 *.yktj.yzz.cn CNAME .
-yktxrceoyoxn.com CNAME .
-*.yktxrceoyoxn.com CNAME .
 ykwykw.xyz CNAME .
 *.ykwykw.xyz CNAME .
 yl-sooippd.vip CNAME .
