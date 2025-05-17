@@ -1,9 +1,9 @@
-; Version: 202505170510
+; Version: 202505170610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87122
-; Last modified: 2025-05-17T05:10:29+0000
+; Entries: 87110
+; Last modified: 2025-05-17T06:10:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747458002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747461605 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15763,8 +15763,6 @@ believersymphonyaunt.com CNAME .
 *.believersymphonyaunt.com CNAME .
 believessway.com CNAME .
 *.believessway.com CNAME .
-beliketheappyri.info CNAME .
-*.beliketheappyri.info CNAME .
 belikewe.com CNAME .
 *.belikewe.com CNAME .
 bellacomparisonluke.com CNAME .
@@ -17961,8 +17959,6 @@ buckwheatchipwrinkle.com CNAME .
 *.buckwheatchipwrinkle.com CNAME .
 buddyguests.com CNAME .
 *.buddyguests.com CNAME .
-budfduwa.xyz CNAME .
-*.budfduwa.xyz CNAME .
 budgedsnavvle.com CNAME .
 *.budgedsnavvle.com CNAME .
 budgepenitent.com CNAME .
@@ -44545,8 +44541,6 @@ joinergothics.click CNAME .
 *.joinergothics.click CNAME .
 joiningindulgeyawn.com CNAME .
 *.joiningindulgeyawn.com CNAME .
-joiningwon.com CNAME .
-*.joiningwon.com CNAME .
 joinmy.site CNAME .
 *.joinmy.site CNAME .
 joinpropeller.com CNAME .
@@ -64407,8 +64401,6 @@ reorganizeglaze.com CNAME .
 *.reorganizeglaze.com CNAME .
 repaireddismalslightest.com CNAME .
 *.repaireddismalslightest.com CNAME .
-repaycucumbersbutler.com CNAME .
-*.repaycucumbersbutler.com CNAME .
 repdata.usatoday.com CNAME .
 *.repdata.usatoday.com CNAME .
 repeatedlyitsbrash.com CNAME .
@@ -76729,8 +76721,6 @@ tqlqfhmvainmn.one CNAME .
 *.tqlqfhmvainmn.one CNAME .
 tqoneyyivw.club CNAME .
 *.tqoneyyivw.club CNAME .
-tqphaqoye.com CNAME .
-*.tqphaqoye.com CNAME .
 tr-boost.com CNAME .
 *.tr-boost.com CNAME .
 tr-bouncer.com CNAME .
@@ -86205,8 +86195,6 @@ yptqys.tianqistatic.com CNAME .
 *.yptqys.tianqistatic.com CNAME .
 yqeuu.com CNAME .
 *.yqeuu.com CNAME .
-yqjfvjqijnuwd.com CNAME .
-*.yqjfvjqijnuwd.com CNAME .
 yqjshgx.bar CNAME .
 *.yqjshgx.bar CNAME .
 yqlxkzs.cn CNAME .
