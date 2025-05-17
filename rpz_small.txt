@@ -1,9 +1,9 @@
-; Version: 202505170657
+; Version: 202505170809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87096
-; Last modified: 2025-05-17T06:57:22+0000
+; Entries: 87076
+; Last modified: 2025-05-17T08:09:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747464364 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747468806 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -36185,8 +36185,6 @@ fs-loader.com CNAME .
 *.fs-loader.com CNAME .
 fsalfrwdr.com CNAME .
 *.fsalfrwdr.com CNAME .
-fsccafstr.com CNAME .
-*.fsccafstr.com CNAME .
 fsijngnfsfk.com CNAME .
 *.fsijngnfsfk.com CNAME .
 fsjfnp.top CNAME .
@@ -40423,8 +40421,6 @@ hfogzeaggalh.com CNAME .
 *.hfogzeaggalh.com CNAME .
 hfopewkdgmcal.site CNAME .
 *.hfopewkdgmcal.site CNAME .
-hfpynjruktrg.com CNAME .
-*.hfpynjruktrg.com CNAME .
 hfr67jhqrw8.com CNAME .
 *.hfr67jhqrw8.com CNAME .
 hfsecdrzfdsry.club CNAME .
@@ -42233,8 +42229,6 @@ ikiif.com CNAME .
 *.ikiif.com CNAME .
 ikjnbvf.de CNAME .
 *.ikjnbvf.de CNAME .
-ikjvlrqrjst.com CNAME .
-*.ikjvlrqrjst.com CNAME .
 ikooqmunrveuve.com CNAME .
 *.ikooqmunrveuve.com CNAME .
 ikppduisfudho.online CNAME .
@@ -45471,8 +45465,6 @@ kfmsltodvutodo.xyz CNAME .
 *.kfmsltodvutodo.xyz CNAME .
 kfpnqug.cn CNAME .
 *.kfpnqug.cn CNAME .
-kfvq.cn CNAME .
-*.kfvq.cn CNAME .
 kgdvs9ov3l2aasw4nuts.com CNAME .
 *.kgdvs9ov3l2aasw4nuts.com CNAME .
 kgfjrb711.com CNAME .
@@ -50079,8 +50071,6 @@ maritanoded.shop CNAME .
 *.maritanoded.shop CNAME .
 markedoneofth.com CNAME .
 *.markedoneofth.com CNAME .
-markedoneofthe.info CNAME .
-*.markedoneofthe.info CNAME .
 marker.konograma.com CNAME .
 *.marker.konograma.com CNAME .
 markerleery.com CNAME .
@@ -66481,8 +66471,6 @@ rustyurishoes.com CNAME .
 *.rustyurishoes.com CNAME .
 rutatmosphericdetriment.com CNAME .
 *.rutatmosphericdetriment.com CNAME .
-ruthlessawfully.com CNAME .
-*.ruthlessawfully.com CNAME .
 ruthwoof.com CNAME .
 *.ruthwoof.com CNAME .
 ruuaqkw.com CNAME .
@@ -69863,8 +69851,6 @@ smrt-cdn.com CNAME .
 *.smrt-cdn.com CNAME .
 smrtbnr.com CNAME .
 *.smrtbnr.com CNAME .
-smrtbnr.info CNAME .
-*.smrtbnr.info CNAME .
 smsapiens.com CNAME .
 *.smsapiens.com CNAME .
 smuc.cnnfootballclub.com CNAME .
@@ -74717,8 +74703,6 @@ tcloaksandtheirc.org CNAME .
 *.tcloaksandtheirc.org CNAME .
 tcloaksandtheirclean.com CNAME .
 *.tcloaksandtheirclean.com CNAME .
-tcontametrop.info CNAME .
-*.tcontametrop.info CNAME .
 tcppu.com CNAME .
 *.tcppu.com CNAME .
 tcreativeideasa.com CNAME .
@@ -80333,8 +80317,6 @@ uuidksinc.net CNAME .
 *.uuidksinc.net CNAME .
 uujtmrxf.xyz CNAME .
 *.uujtmrxf.xyz CNAME .
-uuodktlatjmkfq.com CNAME .
-*.uuodktlatjmkfq.com CNAME .
 uurhhtymipx.com CNAME .
 *.uurhhtymipx.com CNAME .
 uutytp.com CNAME .
@@ -85453,8 +85435,6 @@ xray.mail.ru CNAME .
 *.xray.mail.ru CNAME .
 xrlzhk.top CNAME .
 *.xrlzhk.top CNAME .
-xrngoxoqlpgmc.com CNAME .
-*.xrngoxoqlpgmc.com CNAME .
 xrpikxtnmvcm.com CNAME .
 *.xrpikxtnmvcm.com CNAME .
 xrrdi.com CNAME .
