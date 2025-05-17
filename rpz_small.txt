@@ -1,9 +1,9 @@
-; Version: 202505170610
+; Version: 202505170657
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87110
-; Last modified: 2025-05-17T06:10:51+0000
+; Entries: 87096
+; Last modified: 2025-05-17T06:57:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747461605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747464364 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -28403,8 +28403,6 @@ deporttideevenings.com CNAME .
 *.deporttideevenings.com CNAME .
 depotdesirabledyed.com CNAME .
 *.depotdesirabledyed.com CNAME .
-depravegypsyterrified.com CNAME .
-*.depravegypsyterrified.com CNAME .
 depreciateape.com CNAME .
 *.depreciateape.com CNAME .
 depressedchamber.com CNAME .
@@ -36295,8 +36293,6 @@ fulvenebocca.com CNAME .
 *.fulvenebocca.com CNAME .
 fulvideozrt.click CNAME .
 *.fulvideozrt.click CNAME .
-fulylydevelopeds.com CNAME .
-*.fulylydevelopeds.com CNAME .
 fulyvaxscaucd.club CNAME .
 *.fulyvaxscaucd.club CNAME .
 fumepurine.top CNAME .
@@ -46477,8 +46473,6 @@ ladybug.ficabo.com CNAME .
 *.ladybug.ficabo.com CNAME .
 ladybug.paulstovell.com CNAME .
 *.ladybug.paulstovell.com CNAME .
-ladyrottendrudgery.com CNAME .
-*.ladyrottendrudgery.com CNAME .
 laf1ma3eban85ana.com CNAME .
 *.laf1ma3eban85ana.com CNAME .
 lafastnews.com CNAME .
@@ -51139,8 +51133,6 @@ mfadsrvr.com CNAME .
 *.mfadsrvr.com CNAME .
 mfbvgcjkqpxup.xyz CNAME .
 *.mfbvgcjkqpxup.xyz CNAME .
-mfeqckmfw.com CNAME .
-*.mfeqckmfw.com CNAME .
 mfkfkhfhmfkfkhfh.top CNAME .
 *.mfkfkhfhmfkfkhfh.top CNAME .
 mfyavsmiha.com CNAME .
@@ -52999,8 +52991,6 @@ mypagerank.net CNAME .
 *.mypagerank.net CNAME .
 mypagerank.ru CNAME .
 *.mypagerank.ru CNAME .
-mypicparade.pics CNAME .
-*.mypicparade.pics CNAME .
 mypopadpro.com CNAME .
 *.mypopadpro.com CNAME .
 mypopads.com CNAME .
@@ -58999,8 +58989,6 @@ phoukridrap.net CNAME .
 *.phoukridrap.net CNAME .
 phoumsoomsoh.com CNAME .
 *.phoumsoomsoh.com CNAME .
-phouvemp.net CNAME .
-*.phouvemp.net CNAME .
 phovaiksou.net CNAME .
 *.phovaiksou.net CNAME .
 phpad.cqnews.net CNAME .
@@ -69833,8 +69821,6 @@ smetrics.washingtonpost.com CNAME .
 *.smetrics.washingtonpost.com CNAME .
 smigro.info CNAME .
 *.smigro.info CNAME .
-smikqbwrgttx.xyz CNAME .
-*.smikqbwrgttx.xyz CNAME .
 smileesidesuk.com CNAME .
 *.smileesidesuk.com CNAME .
 smilered.com CNAME .
