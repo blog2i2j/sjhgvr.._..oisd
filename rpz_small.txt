@@ -1,9 +1,9 @@
-; Version: 202505171711
+; Version: 202505171812
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86968
-; Last modified: 2025-05-17T17:11:25+0000
+; Entries: 86964
+; Last modified: 2025-05-17T18:12:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747501204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747504804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -64269,8 +64269,6 @@ remisstracesexplain.com CNAME .
 *.remisstracesexplain.com CNAME .
 remorsefulindependence.com CNAME .
 *.remorsefulindependence.com CNAME .
-remotelymanhoodongoing.com CNAME .
-*.remotelymanhoodongoing.com CNAME .
 remotepwn.com CNAME .
 *.remotepwn.com CNAME .
 remoterepentance.com CNAME .
@@ -85803,8 +85801,6 @@ yieldtrk.com CNAME .
 *.yieldtrk.com CNAME .
 yieldx.com CNAME .
 *.yieldx.com CNAME .
-yigvbmhqxwo.com CNAME .
-*.yigvbmhqxwo.com CNAME .
 yim3eyv5.top CNAME .
 *.yim3eyv5.top CNAME .
 yimemediatesup.com CNAME .
