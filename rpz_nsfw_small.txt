@@ -1,9 +1,9 @@
-; Version: 202505170716
+; Version: 202505170815
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43334
-; Last modified: 2025-05-17T07:16:16+0000
+; Entries: 43318
+; Last modified: 2025-05-17T08:15:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747465205 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747468806 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -163,6 +163,8 @@ $TTL 30
 *.18insta.com CNAME .
 18jav.tv CNAME .
 *.18jav.tv CNAME .
+18jtv.com CNAME .
+*.18jtv.com CNAME .
 18kit.com CNAME .
 *.18kit.com CNAME .
 18kitties.com CNAME .
@@ -1671,6 +1673,8 @@ alexmovs.com CNAME .
 *.alexmovs.com CNAME .
 alexpix.tv CNAME .
 *.alexpix.tv CNAME .
+alexporn.com CNAME .
+*.alexporn.com CNAME .
 alexysexy.com CNAME .
 *.alexysexy.com CNAME .
 alfacams.live CNAME .
@@ -2659,8 +2663,6 @@ arabsexi.info CNAME .
 *.arabsexi.info CNAME .
 arabshentai.com CNAME .
 *.arabshentai.com CNAME .
-arabshentai.net CNAME .
-*.arabshentai.net CNAME .
 arabskoe-porno.com CNAME .
 *.arabskoe-porno.com CNAME .
 arabsx.icu CNAME .
@@ -4563,8 +4565,6 @@ bfvideo.site CNAME .
 *.bfvideo.site CNAME .
 bfxxx.org CNAME .
 *.bfxxx.org CNAME .
-bg-mamma.com CNAME .
-*.bg-mamma.com CNAME .
 bgx.monster CNAME .
 *.bgx.monster CNAME .
 bhabhimassage.com CNAME .
@@ -6295,8 +6295,6 @@ caramelmature.com CNAME .
 *.caramelmature.com CNAME .
 carameltube.com CNAME .
 *.carameltube.com CNAME .
-caras.cl CNAME .
-*.caras.cl CNAME .
 care-india.com CNAME .
 *.care-india.com CNAME .
 carelessnaked.com CNAME .
@@ -13289,8 +13287,6 @@ gayvids.tube CNAME .
 *.gayvids.tube CNAME .
 gayvids.tv CNAME .
 *.gayvids.tv CNAME .
-gayvidsclub.com CNAME .
-*.gayvidsclub.com CNAME .
 gaywebcam.online CNAME .
 *.gaywebcam.online CNAME .
 gaywebcamblog.com CNAME .
@@ -17361,8 +17357,6 @@ ingyen.icu CNAME .
 *.ingyen.icu CNAME .
 ingyenporno.biz CNAME .
 *.ingyenporno.biz CNAME .
-ingyenporno.eu CNAME .
-*.ingyenporno.eu CNAME .
 ingyenporno.tv CNAME .
 *.ingyenporno.tv CNAME .
 inhit.net CNAME .
@@ -23817,8 +23811,6 @@ netflav.com CNAME .
 *.netflav.com CNAME .
 netflav5.com CNAME .
 *.netflav5.com CNAME .
-netflixmovies.com CNAME .
-*.netflixmovies.com CNAME .
 netfuck.net CNAME .
 *.netfuck.net CNAME .
 netki.club CNAME .
@@ -24075,8 +24067,6 @@ niksindian.com CNAME .
 *.niksindian.com CNAME .
 nimboxcrm.cloud CNAME .
 *.nimboxcrm.cloud CNAME .
-nimfetki.name CNAME .
-*.nimfetki.name CNAME .
 nimfomane.com CNAME .
 *.nimfomane.com CNAME .
 nimfomane.org CNAME .
@@ -24137,8 +24127,6 @@ nmsapps.com CNAME .
 *.nmsapps.com CNAME .
 nnm.ru CNAME .
 *.nnm.ru CNAME .
-nnmodels.gr CNAME .
-*.nnmodels.gr CNAME .
 nnnkx2.com CNAME .
 *.nnnkx2.com CNAME .
 no5marrickville.com CNAME .
@@ -26475,8 +26463,6 @@ pokerdombbd.top CNAME .
 *.pokerdombbd.top CNAME .
 pokerdomds.top CNAME .
 *.pokerdomds.top CNAME .
-pokerdomfog.top CNAME .
-*.pokerdomfog.top CNAME .
 pokerdomlen.top CNAME .
 *.pokerdomlen.top CNAME .
 pokerdomorgru.top CNAME .
@@ -29359,6 +29345,8 @@ pringgitan.com CNAME .
 *.pringgitan.com CNAME .
 prisma.net.bd CNAME .
 *.prisma.net.bd CNAME .
+privacygratis.tv CNAME .
+*.privacygratis.tv CNAME .
 privat-zapisi.co CNAME .
 *.privat-zapisi.co CNAME .
 privat-zapisi.com CNAME .
@@ -30119,8 +30107,6 @@ rarecams.com CNAME .
 *.rarecams.com CNAME .
 rareincest.vip CNAME .
 *.rareincest.vip CNAME .
-rarelust.com CNAME .
-*.rarelust.com CNAME .
 rarepornsex.com CNAME .
 *.rarepornsex.com CNAME .
 rargb.to CNAME .
@@ -33819,8 +33805,6 @@ shitporn.net CNAME .
 *.shitporn.net CNAME .
 shittytube.com CNAME .
 *.shittytube.com CNAME .
-shiwalism.net CNAME .
-*.shiwalism.net CNAME .
 shkokka.com CNAME .
 *.shkokka.com CNAME .
 shluhi.eu CNAME .
@@ -35035,6 +35019,8 @@ svscomics.com CNAME .
 *.svscomics.com CNAME .
 svsporngames.com CNAME .
 *.svsporngames.com CNAME .
+swaeras.com CNAME .
+*.swaeras.com CNAME .
 swag.live CNAME .
 *.swag.live CNAME .
 swagxxx.com CNAME .
@@ -38615,8 +38601,6 @@ vietsexhd.com CNAME .
 *.vietsexhd.com CNAME .
 vietsubsex18.net CNAME .
 *.vietsubsex18.net CNAME .
-viettelykset.com CNAME .
-*.viettelykset.com CNAME .
 viewaskew.com CNAME .
 *.viewaskew.com CNAME .
 viewero.com CNAME .
