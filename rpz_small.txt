@@ -1,9 +1,9 @@
-; Version: 202505170809
+; Version: 202505170910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87076
-; Last modified: 2025-05-17T08:09:53+0000
+; Entries: 87046
+; Last modified: 2025-05-17T09:10:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747468806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747472402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9069,8 +9069,6 @@ airsnowking.live CNAME .
 *.airsnowking.live CNAME .
 airtightcounty.com CNAME .
 *.airtightcounty.com CNAME .
-airyeject.com CNAME .
-*.airyeject.com CNAME .
 aiservice.vn CNAME .
 *.aiservice.vn CNAME .
 aisiteanalytics.com CNAME .
@@ -14635,8 +14633,6 @@ baihoagleewhaum.net CNAME .
 *.baihoagleewhaum.net CNAME .
 baileybenedictionphony.com CNAME .
 *.baileybenedictionphony.com CNAME .
-bainushe.com CNAME .
-*.bainushe.com CNAME .
 baipahanoop.net CNAME .
 *.baipahanoop.net CNAME .
 baiphefim.com CNAME .
@@ -37063,8 +37059,6 @@ gekeebsirs.com CNAME .
 *.gekeebsirs.com CNAME .
 gelatineabstainads.com CNAME .
 *.gelatineabstainads.com CNAME .
-gelatinelighter.com CNAME .
-*.gelatinelighter.com CNAME .
 gelhp.com CNAME .
 *.gelhp.com CNAME .
 gelopro.com CNAME .
@@ -45683,8 +45677,6 @@ kjdsfjisdfjr23.azurewebsites.net CNAME .
 *.kjdsfjisdfjr23.azurewebsites.net CNAME .
 kjixkjmned.xyz CNAME .
 *.kjixkjmned.xyz CNAME .
-kjmxyxgsi.com CNAME .
-*.kjmxyxgsi.com CNAME .
 kjsrpkibdjtyy.online CNAME .
 *.kjsrpkibdjtyy.online CNAME .
 kjsvvnzcto.com CNAME .
@@ -54981,8 +54973,6 @@ nxxkxr.xyz CNAME .
 *.nxxkxr.xyz CNAME .
 nxymehwu.com CNAME .
 *.nxymehwu.com CNAME .
-nxyorlyubhuid.com CNAME .
-*.nxyorlyubhuid.com CNAME .
 ny.foonerne.com CNAME .
 *.ny.foonerne.com CNAME .
 ny77jj.washingtonpost.com CNAME .
@@ -60527,8 +60517,6 @@ pqfpvb.icu CNAME .
 *.pqfpvb.icu CNAME .
 pqkpmqrzrrjrb.vip CNAME .
 *.pqkpmqrzrrjrb.vip CNAME .
-pqnonh.top CNAME .
-*.pqnonh.top CNAME .
 pqvpcahwuvfo.life CNAME .
 *.pqvpcahwuvfo.life CNAME .
 pqvzlltzxbs.global CNAME .
@@ -61077,8 +61065,6 @@ proforums.com CNAME .
 *.proforums.com CNAME .
 profoundbagpipeexaggerate.com CNAME .
 *.profoundbagpipeexaggerate.com CNAME .
-profoundflourishing.com CNAME .
-*.profoundflourishing.com CNAME .
 profusesupport.com CNAME .
 *.profusesupport.com CNAME .
 progaming.monster CNAME .
@@ -63009,8 +62995,6 @@ qvikar.com CNAME .
 *.qvikar.com CNAME .
 qvjqbtbt.com CNAME .
 *.qvjqbtbt.com CNAME .
-qvkrfcjwebgvyuw.com CNAME .
-*.qvkrfcjwebgvyuw.com CNAME .
 qvonje.cn CNAME .
 *.qvonje.cn CNAME .
 qwcpme.icu CNAME .
@@ -64793,8 +64777,6 @@ revokejav128.fun CNAME .
 *.revokejav128.fun CNAME .
 revolutionary2.fun CNAME .
 *.revolutionary2.fun CNAME .
-revolvemockerycopper.com CNAME .
-*.revolvemockerycopper.com CNAME .
 revolvingshine.pro CNAME .
 *.revolvingshine.pro CNAME .
 revopush.com CNAME .
@@ -76501,8 +76483,6 @@ totenoltood.com CNAME .
 *.totenoltood.com CNAME .
 totentacruelor.com CNAME .
 *.totentacruelor.com CNAME .
-totjbbqm.com CNAME .
-*.totjbbqm.com CNAME .
 totlnkbn.com CNAME .
 *.totlnkbn.com CNAME .
 totlnkcl.com CNAME .
@@ -82311,8 +82291,6 @@ wcbxugtfk.com CNAME .
 *.wcbxugtfk.com CNAME .
 wcigmepzygad.com CNAME .
 *.wcigmepzygad.com CNAME .
-wclrwpmyvoilyfi.com CNAME .
-*.wclrwpmyvoilyfi.com CNAME .
 wcmcs.net CNAME .
 *.wcmcs.net CNAME .
 wcnhhqqueu.com CNAME .
@@ -82637,8 +82615,6 @@ weeshounithula.net CNAME .
 *.weeshounithula.net CNAME .
 weethery.com CNAME .
 *.weethery.com CNAME .
-weevah2.top CNAME .
-*.weevah2.top CNAME .
 weeweesozoned.com CNAME .
 *.weeweesozoned.com CNAME .
 weewhaik.com CNAME .
@@ -82811,8 +82787,6 @@ whaleads.com CNAME .
 *.whaleads.com CNAME .
 whaleman.ru CNAME .
 *.whaleman.ru CNAME .
-whalems.com CNAME .
-*.whalems.com CNAME .
 whalepeacockwailing.com CNAME .
 *.whalepeacockwailing.com CNAME .
 whaleplayful.com CNAME .
@@ -84297,8 +84271,6 @@ xcams.net CNAME .
 *.xcams.net CNAME .
 xcdkxayfqe.com CNAME .
 *.xcdkxayfqe.com CNAME .
-xcdqbqduelix.com CNAME .
-*.xcdqbqduelix.com CNAME .
 xcec.ru CNAME .
 *.xcec.ru CNAME .
 xcellojapanelmon.org CNAME .
@@ -86179,8 +86151,6 @@ yremovementxvi.org CNAME .
 *.yremovementxvi.org CNAME .
 yresumeformor.com CNAME .
 *.yresumeformor.com CNAME .
-yrgluooxoeeoh.com CNAME .
-*.yrgluooxoeeoh.com CNAME .
 yrhnw7h63.com CNAME .
 *.yrhnw7h63.com CNAME .
 yrwqquykdja.com CNAME .
