@@ -1,9 +1,9 @@
-; Version: 202505172210
+; Version: 202505172310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87020
-; Last modified: 2025-05-17T22:10:36+0000
+; Entries: 86996
+; Last modified: 2025-05-17T23:10:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747519207 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747522804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11541,8 +11541,6 @@ anonymousads.com CNAME .
 *.anonymousads.com CNAME .
 anonymoustrunk.com CNAME .
 *.anonymoustrunk.com CNAME .
-anopportunitytost.info CNAME .
-*.anopportunitytost.info CNAME .
 anothereldestprogeny.com CNAME .
 *.anothereldestprogeny.com CNAME .
 anothermemory.pro CNAME .
@@ -24441,8 +24439,6 @@ cupriteshivas.shop CNAME .
 *.cupriteshivas.shop CNAME .
 cupswiss.com CNAME .
 *.cupswiss.com CNAME .
-cuqpi.cn CNAME .
-*.cuqpi.cn CNAME .
 curated.fieldtest.cc CNAME .
 *.curated.fieldtest.cc CNAME .
 curdierbefit.top CNAME .
@@ -30671,8 +30667,6 @@ dumae.site CNAME .
 *.dumae.site CNAME .
 dumay.site CNAME .
 *.dumay.site CNAME .
-dumbpop.com CNAME .
-*.dumbpop.com CNAME .
 dumedia.ru CNAME .
 *.dumedia.ru CNAME .
 dumkcuakrlka.com CNAME .
@@ -36195,8 +36189,6 @@ fsalfrwdr.com CNAME .
 *.fsalfrwdr.com CNAME .
 fsijngnfsfk.com CNAME .
 *.fsijngnfsfk.com CNAME .
-fsjfnp.top CNAME .
-*.fsjfnp.top CNAME .
 fsltwwmfxqh.fun CNAME .
 *.fsltwwmfxqh.fun CNAME .
 fsm2.spiegel.de CNAME .
@@ -44185,8 +44177,6 @@ jeewhaphoa.net CNAME .
 *.jeewhaphoa.net CNAME .
 jegnoocmoa.net CNAME .
 *.jegnoocmoa.net CNAME .
-jegoypoabxtrp.com CNAME .
-*.jegoypoabxtrp.com CNAME .
 jehobsee.com CNAME .
 *.jehobsee.com CNAME .
 jehudf.com CNAME .
@@ -51139,8 +51129,6 @@ mghkpg.com CNAME .
 *.mghkpg.com CNAME .
 mgid.com CNAME .
 *.mgid.com CNAME .
-mgisrlyu.xyz CNAME .
-*.mgisrlyu.xyz CNAME .
 mgladthereisso.com CNAME .
 *.mgladthereisso.com CNAME .
 mgqtcs.xyz CNAME .
@@ -54287,8 +54275,6 @@ nobodyengagement.com CNAME .
 *.nobodyengagement.com CNAME .
 nobodylightenacquaintance.com CNAME .
 *.nobodylightenacquaintance.com CNAME .
-noboqsmoqof.com CNAME .
-*.noboqsmoqof.com CNAME .
 noconversationh.com CNAME .
 *.noconversationh.com CNAME .
 nocturnal-employer.pro CNAME .
@@ -55235,8 +55221,6 @@ obeysatman.com CNAME .
 *.obeysatman.com CNAME .
 objective-wright-961fed.netlify.com CNAME .
 *.objective-wright-961fed.netlify.com CNAME .
-objectivepressure.com CNAME .
-*.objectivepressure.com CNAME .
 objectlesslatterdissolved.com CNAME .
 *.objectlesslatterdissolved.com CNAME .
 oblapdnhiz.com CNAME .
@@ -62751,8 +62735,6 @@ qronay.xyz CNAME .
 *.qronay.xyz CNAME .
 qrprobopassor.com CNAME .
 *.qrprobopassor.com CNAME .
-qrqpfviewuwxh.com CNAME .
-*.qrqpfviewuwxh.com CNAME .
 qrredraws.com CNAME .
 *.qrredraws.com CNAME .
 qrubv.buzz CNAME .
@@ -65577,8 +65559,6 @@ rptmoczqsf.com CNAME .
 *.rptmoczqsf.com CNAME .
 rqazepammrl.com CNAME .
 *.rqazepammrl.com CNAME .
-rqcwykfucoi.com CNAME .
-*.rqcwykfucoi.com CNAME .
 rqhajf.icu CNAME .
 *.rqhajf.icu CNAME .
 rqmob.com CNAME .
@@ -76767,8 +76747,6 @@ tracer.concung.com CNAME .
 *.tracer.concung.com CNAME .
 tracer.jp CNAME .
 *.tracer.jp CNAME .
-traceryhansa.top CNAME .
-*.traceryhansa.top CNAME .
 traces.sr.roku.com CNAME .
 *.traces.sr.roku.com CNAME .
 tracevictory.com CNAME .
@@ -81299,8 +81277,6 @@ visiblyhiemal.shop CNAME .
 *.visiblyhiemal.shop CNAME .
 visio-x.fr CNAME .
 *.visio-x.fr CNAME .
-visionchillystatus.com CNAME .
-*.visionchillystatus.com CNAME .
 visionvelvet.co CNAME .
 *.visionvelvet.co CNAME .
 visistat.com CNAME .
