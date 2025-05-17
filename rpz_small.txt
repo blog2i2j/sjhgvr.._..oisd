@@ -1,9 +1,9 @@
-; Version: 202505171310
+; Version: 202505171410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86960
-; Last modified: 2025-05-17T13:10:55+0000
+; Entries: 86942
+; Last modified: 2025-05-17T14:10:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747486803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747490403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11447,8 +11447,6 @@ anickeebsoon.com CNAME .
 *.anickeebsoon.com CNAME .
 anidianskirts.com CNAME .
 *.anidianskirts.com CNAME .
-anidublink.ru CNAME .
-*.anidublink.ru CNAME .
 anilibriaz.ru CNAME .
 *.anilibriaz.ru CNAME .
 animadulte.com CNAME .
@@ -11467,8 +11465,6 @@ animegofan.ru CNAME .
 *.animegofan.ru CNAME .
 animeplaynow.com CNAME .
 *.animeplaynow.com CNAME .
-animesvost.ru CNAME .
-*.animesvost.ru CNAME .
 animits.com CNAME .
 *.animits.com CNAME .
 animoseelegy.top CNAME .
@@ -30255,8 +30251,6 @@ drenchsealed.com CNAME .
 *.drenchsealed.com CNAME .
 dresserfindparlour.com CNAME .
 *.dresserfindparlour.com CNAME .
-dressmakertumble.com CNAME .
-*.dressmakertumble.com CNAME .
 dreuaxk.icu CNAME .
 *.dreuaxk.icu CNAME .
 dreyeli.info CNAME .
@@ -32067,6 +32061,8 @@ embedx.name CNAME .
 *.embedx.name CNAME .
 embezzlementthemselves.com CNAME .
 *.embezzlementthemselves.com CNAME .
+embi-media.com CNAME .
+*.embi-media.com CNAME .
 embirashires.top CNAME .
 *.embirashires.top CNAME .
 emblemexceptionscorer.com CNAME .
@@ -38271,8 +38267,6 @@ gomnlt.com CNAME .
 *.gomnlt.com CNAME .
 gomyonis.com CNAME .
 *.gomyonis.com CNAME .
-gondmemhoolpdd.xyz CNAME .
-*.gondmemhoolpdd.xyz CNAME .
 goneawaytogy.info CNAME .
 *.goneawaytogy.info CNAME .
 goo-access-analytics.appspot.com CNAME .
@@ -41899,6 +41893,8 @@ ibutheptesitrew.com CNAME .
 *.ibutheptesitrew.com CNAME .
 ibvfzddfxqwqg.love CNAME .
 *.ibvfzddfxqwqg.love CNAME .
+ic7.co CNAME .
+*.ic7.co CNAME .
 icalnormaticalacyc.info CNAME .
 *.icalnormaticalacyc.info CNAME .
 icandotech.in CNAME .
@@ -41919,8 +41915,6 @@ ichgcp.com CNAME .
 *.ichgcp.com CNAME .
 ichhar.sante-dz.com CNAME .
 *.ichhar.sante-dz.com CNAME .
-ichhereallyw.info CNAME .
-*.ichhereallyw.info CNAME .
 ichimaip.net CNAME .
 *.ichimaip.net CNAME .
 ichlnk.com CNAME .
@@ -49367,8 +49361,6 @@ lxstat.com CNAME .
 *.lxstat.com CNAME .
 lxvsjdmjygqcc.space CNAME .
 *.lxvsjdmjygqcc.space CNAME .
-lyappreciat.info CNAME .
-*.lyappreciat.info CNAME .
 lycheenews.com CNAME .
 *.lycheenews.com CNAME .
 lycoty.com CNAME .
@@ -54095,8 +54087,6 @@ niveauultion.shop CNAME .
 *.niveauultion.shop CNAME .
 niwooghu.com CNAME .
 *.niwooghu.com CNAME .
-niyeobmjpg.com CNAME .
-*.niyeobmjpg.com CNAME .
 nizarstream.xyz CNAME .
 *.nizarstream.xyz CNAME .
 nizationservanta.com CNAME .
@@ -58425,8 +58415,6 @@ pelamydlours.com CNAME .
 *.pelamydlours.com CNAME .
 pelamydsumatra.shop CNAME .
 *.pelamydsumatra.shop CNAME .
-pelghvmmtultsk.com CNAME .
-*.pelghvmmtultsk.com CNAME .
 pelican.jatikhwan.com CNAME .
 *.pelican.jatikhwan.com CNAME .
 pelliancalmato.com CNAME .
@@ -69299,8 +69287,6 @@ sjgtsqnmrqswz.space CNAME .
 *.sjgtsqnmrqswz.space CNAME .
 sjluuom.icu CNAME .
 *.sjluuom.icu CNAME .
-sjonkhydb.com CNAME .
-*.sjonkhydb.com CNAME .
 sjqgmtyxlrjlc.top CNAME .
 *.sjqgmtyxlrjlc.top CNAME .
 sjsabb.com CNAME .
@@ -83371,8 +83357,6 @@ wjct3s8at.com CNAME .
 *.wjct3s8at.com CNAME .
 wjqnenstfwelf.com CNAME .
 *.wjqnenstfwelf.com CNAME .
-wjqssnujrbyu.com CNAME .
-*.wjqssnujrbyu.com CNAME .
 wjvavwjyaso.com CNAME .
 *.wjvavwjyaso.com CNAME .
 wka4jursurf6.com CNAME .
@@ -86131,8 +86115,6 @@ yumenetworks.com CNAME .
 *.yumenetworks.com CNAME .
 yummyadvertiseexploded.com CNAME .
 *.yummyadvertiseexploded.com CNAME .
-yummyanimez.ru CNAME .
-*.yummyanimez.ru CNAME .
 yummycdn.com CNAME .
 *.yummycdn.com CNAME .
 yun-hl.3g.qq.com CNAME .
