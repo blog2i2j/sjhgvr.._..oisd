@@ -1,9 +1,9 @@
-; Version: 202505162309
+; Version: 202505170009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87104
-; Last modified: 2025-05-16T23:09:47+0000
+; Entries: 87096
+; Last modified: 2025-05-17T00:09:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747436403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747440008 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20803,8 +20803,6 @@ cigfhaztaqu.com CNAME .
 *.cigfhaztaqu.com CNAME .
 cigoadrouz.com CNAME .
 *.cigoadrouz.com CNAME .
-cigoqcq.top CNAME .
-*.cigoqcq.top CNAME .
 ciizxsdr.com CNAME .
 *.ciizxsdr.com CNAME .
 cijoorsairgusa.com CNAME .
@@ -50663,8 +50661,6 @@ medical-aid.net CNAME .
 *.medical-aid.net CNAME .
 medicalcandid.com CNAME .
 *.medicalcandid.com CNAME .
-medicationneglectedshared.com CNAME .
-*.medicationneglectedshared.com CNAME .
 medievalbraneedlework.com CNAME .
 *.medievalbraneedlework.com CNAME .
 meditateenhancements.com CNAME .
@@ -65161,8 +65157,6 @@ rjxphruqiu.com CNAME .
 *.rjxphruqiu.com CNAME .
 rk6h3.icu CNAME .
 *.rk6h3.icu CNAME .
-rkatamonju.info CNAME .
-*.rkatamonju.info CNAME .
 rkdpzcdehop.fun CNAME .
 *.rkdpzcdehop.fun CNAME .
 rkgwzfwjgk.com CNAME .
@@ -79225,8 +79219,6 @@ ucheephu.com CNAME .
 *.ucheephu.com CNAME .
 uchmuk.com CNAME .
 *.uchmuk.com CNAME .
-ucmhdmlqnr.com CNAME .
-*.ucmhdmlqnr.com CNAME .
 ucounter.ucoz.net CNAME .
 *.ucounter.ucoz.net CNAME .
 ucs.betwaygroup.com CNAME .
