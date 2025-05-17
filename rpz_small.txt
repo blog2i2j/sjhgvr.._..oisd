@@ -1,9 +1,9 @@
-; Version: 202505172016
+; Version: 202505172210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 87042
-; Last modified: 2025-05-17T20:16:32+0000
+; Entries: 87020
+; Last modified: 2025-05-17T22:10:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747512003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747519207 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3823,8 +3823,6 @@ aaronautosandtrucks.com CNAME .
 *.aaronautosandtrucks.com CNAME .
 aarossqnat.com CNAME .
 *.aarossqnat.com CNAME .
-aarunogldf.com CNAME .
-*.aarunogldf.com CNAME .
 aauedwmoofyox.buzz CNAME .
 *.aauedwmoofyox.buzz CNAME .
 aawdlvr.com CNAME .
@@ -17371,8 +17369,6 @@ bovytl.xyz CNAME .
 *.bovytl.xyz CNAME .
 bowcoolstop.live CNAME .
 *.bowcoolstop.live CNAME .
-bowedcounty.com CNAME .
-*.bowedcounty.com CNAME .
 boweddemand.com CNAME .
 *.boweddemand.com CNAME .
 bowelslipperypraised.com CNAME .
@@ -42195,8 +42191,6 @@ igwatrsthg.site CNAME .
 *.igwatrsthg.site CNAME .
 ih1.fileforums.com CNAME .
 *.ih1.fileforums.com CNAME .
-ihanarxsjiknhg.com CNAME .
-*.ihanarxsjiknhg.com CNAME .
 ihavelearnat.xyz CNAME .
 *.ihavelearnat.xyz CNAME .
 ihdjroansc.com CNAME .
@@ -44303,8 +44297,6 @@ jgntjtyf.icu CNAME .
 *.jgntjtyf.icu CNAME .
 jgqaainj.buzz CNAME .
 *.jgqaainj.buzz CNAME .
-jgtdptiivqmxubk.com CNAME .
-*.jgtdptiivqmxubk.com CNAME .
 jgubbpypmlxbk.one CNAME .
 *.jgubbpypmlxbk.one CNAME .
 jgvkxp.xyz CNAME .
@@ -49169,8 +49161,6 @@ lu2.luyouwang.com CNAME .
 *.lu2.luyouwang.com CNAME .
 lubowitz.biz CNAME .
 *.lubowitz.biz CNAME .
-lubricantexaminer.com CNAME .
-*.lubricantexaminer.com CNAME .
 lucanbloop.top CNAME .
 *.lucanbloop.top CNAME .
 lucgryxiw.com CNAME .
@@ -61381,8 +61371,6 @@ psaiwhoonax.net CNAME .
 *.psaiwhoonax.net CNAME .
 psaizausee.com CNAME .
 *.psaizausee.com CNAME .
-psalmexceptional.com CNAME .
-*.psalmexceptional.com CNAME .
 psaltauw.net CNAME .
 *.psaltauw.net CNAME .
 psaudous.com CNAME .
@@ -64073,8 +64061,6 @@ refraintupaiid.com CNAME .
 *.refraintupaiid.com CNAME .
 refugedcuber.com CNAME .
 *.refugedcuber.com CNAME .
-refundlikeness.com CNAME .
-*.refundlikeness.com CNAME .
 refundsexynarrow.com CNAME .
 *.refundsexynarrow.com CNAME .
 refundsreisner.life CNAME .
@@ -79141,8 +79127,6 @@ ubt-sgp.travix.com CNAME .
 *.ubt-sgp.travix.com CNAME .
 ubuyanalytics.ubuy.com CNAME .
 *.ubuyanalytics.ubuy.com CNAME .
-ubyetjmfbye.com CNAME .
-*.ubyetjmfbye.com CNAME .
 uc.ucweb.com CNAME .
 *.uc.ucweb.com CNAME .
 uc.xddi.ru CNAME .
@@ -80237,8 +80221,6 @@ uthorner.info CNAME .
 *.uthorner.info CNAME .
 utics.nodejibi.in CNAME .
 *.utics.nodejibi.in CNAME .
-utilizepersonalityillegible.com CNAME .
-*.utilizepersonalityillegible.com CNAME .
 utillib.xyz CNAME .
 *.utillib.xyz CNAME .
 utils.mediageneral.net CNAME .
@@ -82125,8 +82107,6 @@ warped-bus.com CNAME .
 *.warped-bus.com CNAME .
 warriorflowsweater.com CNAME .
 *.warriorflowsweater.com CNAME .
-warrtyguns.com CNAME .
-*.warrtyguns.com CNAME .
 warsabnormality.com CNAME .
 *.warsabnormality.com CNAME .
 warscoltmarvellous.com CNAME .
@@ -85941,8 +85921,6 @@ ylog.huya.com CNAME .
 *.ylog.huya.com CNAME .
 ylog.nimo.tv CNAME .
 *.ylog.nimo.tv CNAME .
-ylrvjijsuafkdn.com CNAME .
-*.ylrvjijsuafkdn.com CNAME .
 ylscmihqxrrda.global CNAME .
 *.ylscmihqxrrda.global CNAME .
 ylx-1.com CNAME .
