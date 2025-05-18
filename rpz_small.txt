@@ -1,9 +1,9 @@
-; Version: 202505180511
+; Version: 202505180611
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86836
-; Last modified: 2025-05-18T05:11:28+0000
+; Entries: 86814
+; Last modified: 2025-05-18T06:11:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747544406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747548006 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14729,8 +14729,6 @@ banawgaht.com CNAME .
 *.banawgaht.com CNAME .
 bance.jp CNAME .
 *.bance.jp CNAME .
-bandageretaliateemail.com CNAME .
-*.bandageretaliateemail.com CNAME .
 bandanamarhala.top CNAME .
 *.bandanamarhala.top CNAME .
 banddisordergraceless.com CNAME .
@@ -38747,8 +38745,6 @@ gremsaup.net CNAME .
 *.gremsaup.net CNAME .
 grene.site CNAME .
 *.grene.site CNAME .
-grenkolgav.com CNAME .
-*.grenkolgav.com CNAME .
 grepeiros.com CNAME .
 *.grepeiros.com CNAME .
 greroaso.com CNAME .
@@ -41381,8 +41377,6 @@ httpdns-push.heytapmobile.com CNAME .
 *.httpdns-push.heytapmobile.com CNAME .
 httpool.com CNAME .
 *.httpool.com CNAME .
-hturnshal.com CNAME .
-*.hturnshal.com CNAME .
 htxwzp.xyz CNAME .
 *.htxwzp.xyz CNAME .
 huawoyjmdtyag.love CNAME .
@@ -41517,8 +41511,6 @@ hunterlead.com CNAME .
 *.hunterlead.com CNAME .
 huntersaturateunbeaten.com CNAME .
 *.huntersaturateunbeaten.com CNAME .
-huntershoemaker.com CNAME .
-*.huntershoemaker.com CNAME .
 huntmad.com CNAME .
 *.huntmad.com CNAME .
 huohuo.huamuwo.com CNAME .
@@ -42465,8 +42457,6 @@ impactify.media CNAME .
 *.impactify.media CNAME .
 impactradius-go.com CNAME .
 *.impactradius-go.com CNAME .
-impactserving.com CNAME .
-*.impactserving.com CNAME .
 impactslam.com CNAME .
 *.impactslam.com CNAME .
 impala.vnv.nl CNAME .
@@ -61301,8 +61291,6 @@ psfdi.com CNAME .
 *.psfdi.com CNAME .
 pshmetrk.com CNAME .
 *.pshmetrk.com CNAME .
-pshqumvrasdlspe.com CNAME .
-*.pshqumvrasdlspe.com CNAME .
 pshtrk.com CNAME .
 *.pshtrk.com CNAME .
 psi.lbesecapi.com CNAME .
@@ -66201,8 +66189,6 @@ rudr-events.joybird.com CNAME .
 *.rudr-events.joybird.com CNAME .
 ruefulauthorizedguarded.com CNAME .
 *.ruefulauthorizedguarded.com CNAME .
-ruefultest.com CNAME .
-*.ruefultest.com CNAME .
 ruefuluphill.com CNAME .
 *.ruefuluphill.com CNAME .
 rufadses.net CNAME .
@@ -70479,8 +70465,6 @@ specifiedbloballowance.com CNAME .
 *.specifiedbloballowance.com CNAME .
 specimensraidragged.com CNAME .
 *.specimensraidragged.com CNAME .
-spectacuiardate.com CNAME .
-*.spectacuiardate.com CNAME .
 spectkuchean.com CNAME .
 *.spectkuchean.com CNAME .
 spediumege.com CNAME .
@@ -74513,8 +74497,6 @@ tc-log.mattel163.com CNAME .
 *.tc-log.mattel163.com CNAME .
 tc.fileplaneta.com CNAME .
 *.tc.fileplaneta.com CNAME .
-tc911.vip CNAME .
-*.tc911.vip CNAME .
 tcads.net CNAME .
 *.tcads.net CNAME .
 tcadserver.rain-digital.ca CNAME .
@@ -81277,8 +81259,6 @@ vnbrcfmdndguz.life CNAME .
 *.vnbrcfmdndguz.life CNAME .
 vnhmdeyzvmgho.love CNAME .
 *.vnhmdeyzvmgho.love CNAME .
-vnie0kj3.cfd CNAME .
-*.vnie0kj3.cfd CNAME .
 vnn-tracking.vnncdn.net CNAME .
 *.vnn-tracking.vnncdn.net CNAME .
 vnrbjvbwbqfob.click CNAME .
@@ -86677,8 +86657,6 @@ zqdekzkqwvzcl.buzz CNAME .
 *.zqdekzkqwvzcl.buzz CNAME .
 zqgixxp.icu CNAME .
 *.zqgixxp.icu CNAME .
-zqifmyt.icu CNAME .
-*.zqifmyt.icu CNAME .
 zqjklzajmmwq.top CNAME .
 *.zqjklzajmmwq.top CNAME .
 zqjljeyqbejrb.top CNAME .
