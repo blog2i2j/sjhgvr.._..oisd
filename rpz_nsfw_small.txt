@@ -1,9 +1,9 @@
-; Version: 202505180516
+; Version: 202505180617
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43268
-; Last modified: 2025-05-18T05:16:56+0000
+; Last modified: 2025-05-18T06:17:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747544406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747548006 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -955,8 +955,6 @@ aagmaal.to CNAME .
 *.aagmaal.to CNAME .
 aagmaal.tube CNAME .
 *.aagmaal.tube CNAME .
-aagmaal.watch CNAME .
-*.aagmaal.watch CNAME .
 aagmaal2.com CNAME .
 *.aagmaal2.com CNAME .
 aagmaal3.com CNAME .
@@ -8975,8 +8973,6 @@ dougajyanjyan.com CNAME .
 *.dougajyanjyan.com CNAME .
 doujin-eiku.com CNAME .
 *.doujin-eiku.com CNAME .
-doujin-eromanga.com CNAME .
-*.doujin-eromanga.com CNAME .
 doujin-freee.com CNAME .
 *.doujin-freee.com CNAME .
 doujin-new.com CNAME .
@@ -14233,8 +14229,6 @@ h-game18.xyz CNAME .
 *.h-game18.xyz CNAME .
 h-onnano.co CNAME .
 *.h-onnano.co CNAME .
-h-suki.com CNAME .
-*.h-suki.com CNAME .
 h-taikendan.net CNAME .
 *.h-taikendan.net CNAME .
 h0930.com CNAME .
@@ -18895,6 +18889,8 @@ justindiansex.com CNAME .
 *.justindiansex.com CNAME .
 justindianxporn.com CNAME .
 *.justindianxporn.com CNAME .
+justpaste.it CNAME .
+*.justpaste.it CNAME .
 justpicsof.com CNAME .
 *.justpicsof.com CNAME .
 justpicsplease.com CNAME .
@@ -20273,6 +20269,8 @@ linkgoed.nl CNAME .
 *.linkgoed.nl CNAME .
 linkgp.com.br CNAME .
 *.linkgp.com.br CNAME .
+linkhotel.nl CNAME .
+*.linkhotel.nl CNAME .
 linkiest.com CNAME .
 *.linkiest.com CNAME .
 linkmetoporn.com CNAME .
@@ -24691,6 +24689,8 @@ oedy9.com CNAME .
 *.oedy9.com CNAME .
 oesex.me CNAME .
 *.oesex.me CNAME .
+of.tv CNAME .
+*.of.tv CNAME .
 of996.com CNAME .
 *.of996.com CNAME .
 offrm.xyz CNAME .
@@ -33151,6 +33151,8 @@ sexvip18.net CNAME .
 *.sexvip18.net CNAME .
 sexvkl.top CNAME .
 *.sexvkl.top CNAME .
+sexvl.club CNAME .
+*.sexvl.club CNAME .
 sexvl.site CNAME .
 *.sexvl.site CNAME .
 sexvl.vip CNAME .
@@ -34553,8 +34555,6 @@ sssh.com CNAME .
 *.sssh.com CNAME .
 stadtgelueste.de CNAME .
 *.stadtgelueste.de CNAME .
-stal-sever.ru CNAME .
-*.stal-sever.ru CNAME .
 stalcraftx.ru CNAME .
 *.stalcraftx.ru CNAME .
 stallionanimaltube.cyou CNAME .
