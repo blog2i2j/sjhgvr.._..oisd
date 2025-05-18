@@ -1,9 +1,9 @@
-; Version: 202505180611
+; Version: 202505180712
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86814
-; Last modified: 2025-05-18T06:11:31+0000
+; Entries: 86776
+; Last modified: 2025-05-18T07:12:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747548006 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747551607 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3849,8 +3849,6 @@ ab.thepornstar.com CNAME .
 *.ab.thepornstar.com CNAME .
 ab199.de CNAME .
 *.ab199.de CNAME .
-ab4tn.com CNAME .
-*.ab4tn.com CNAME .
 ab823c0616.3397afa9b2.com CNAME .
 *.ab823c0616.3397afa9b2.com CNAME .
 ab913aa797e78b3.com CNAME .
@@ -9265,8 +9263,6 @@ akmxts.com CNAME .
 *.akmxts.com CNAME .
 akn.analytics.autodesk.com CNAME .
 *.akn.analytics.autodesk.com CNAME .
-akoo0516uis.com CNAME .
-*.akoo0516uis.com CNAME .
 aksazkxmiopf.com CNAME .
 *.aksazkxmiopf.com CNAME .
 aksb-a.akamaihd.net CNAME .
@@ -23069,8 +23065,6 @@ cootlogix.com CNAME .
 *.cootlogix.com CNAME .
 coovouch.com CNAME .
 *.coovouch.com CNAME .
-copacet.com CNAME .
-*.copacet.com CNAME .
 copalmsagency.com CNAME .
 *.copalmsagency.com CNAME .
 copalmsbeno.shop CNAME .
@@ -30047,8 +30041,6 @@ download-stats.mozilla.org CNAME .
 *.download-stats.mozilla.org CNAME .
 download4.cfd CNAME .
 *.download4.cfd CNAME .
-download4allfree.com CNAME .
-*.download4allfree.com CNAME .
 downloadboutique.com CNAME .
 *.downloadboutique.com CNAME .
 downloadfreemium.com CNAME .
@@ -37517,8 +37509,6 @@ gimoguvi.ru CNAME .
 *.gimoguvi.ru CNAME .
 gimpsgenips.com CNAME .
 *.gimpsgenips.com CNAME .
-ginbabxfjs.com CNAME .
-*.ginbabxfjs.com CNAME .
 ginchoirblessed.com CNAME .
 *.ginchoirblessed.com CNAME .
 gingagonkc.com CNAME .
@@ -42125,8 +42115,6 @@ ih1.fileforums.com CNAME .
 *.ih1.fileforums.com CNAME .
 ihavelearnat.xyz CNAME .
 *.ihavelearnat.xyz CNAME .
-ihdjroansc.com CNAME .
-*.ihdjroansc.com CNAME .
 ihdqhjrqhovcp.today CNAME .
 *.ihdqhjrqhovcp.today CNAME .
 ihi.flowplayer.com CNAME .
@@ -43951,8 +43939,6 @@ jaumevie.com CNAME .
 *.jaumevie.com CNAME .
 jaunithuw.com CNAME .
 *.jaunithuw.com CNAME .
-jauntycrystal.com CNAME .
-*.jauntycrystal.com CNAME .
 jauntyit.com CNAME .
 *.jauntyit.com CNAME .
 jaupaptaifoaw.net CNAME .
@@ -45605,8 +45591,6 @@ kizohilsoa.net CNAME .
 *.kizohilsoa.net CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
 *.kjdsfjisdfjr23.azurewebsites.net CNAME .
-kjixkjmned.xyz CNAME .
-*.kjixkjmned.xyz CNAME .
 kjsrpkibdjtyy.online CNAME .
 *.kjsrpkibdjtyy.online CNAME .
 kjsvvnzcto.com CNAME .
@@ -49287,8 +49271,6 @@ lwoqroszooq.com CNAME .
 *.lwoqroszooq.com CNAME .
 lwrnikzjpp.com CNAME .
 *.lwrnikzjpp.com CNAME .
-lwvgordcyuudsxa.com CNAME .
-*.lwvgordcyuudsxa.com CNAME .
 lwvrv.icu CNAME .
 *.lwvrv.icu CNAME .
 lwxegrybymzah.love CNAME .
@@ -51045,8 +51027,6 @@ mgqtcs.xyz CNAME .
 *.mgqtcs.xyz CNAME .
 mgs123.com CNAME .
 *.mgs123.com CNAME .
-mgtcouucmfjmowr.com CNAME .
-*.mgtcouucmfjmowr.com CNAME .
 mgyccfrshz.com CNAME .
 *.mgyccfrshz.com CNAME .
 mhamanoxsa.com CNAME .
@@ -57109,8 +57089,6 @@ ouvrefth.shop CNAME .
 *.ouvrefth.shop CNAME .
 ouweessougleji.net CNAME .
 *.ouweessougleji.net CNAME .
-ouwfrfxixetxuu.com CNAME .
-*.ouwfrfxixetxuu.com CNAME .
 ouzosbesiren.com CNAME .
 *.ouzosbesiren.com CNAME .
 ov.yahoo.co.jp CNAME .
@@ -59477,8 +59455,6 @@ plannedcardiac.com CNAME .
 *.plannedcardiac.com CNAME .
 planner.tiscali.it CNAME .
 *.planner.tiscali.it CNAME .
-plannersavour.com CNAME .
-*.plannersavour.com CNAME .
 planningdesigned.com CNAME .
 *.planningdesigned.com CNAME .
 planningwebviolently.com CNAME .
@@ -72919,8 +72895,6 @@ subscribe.hearstmags.com CNAME .
 *.subscribe.hearstmags.com CNAME .
 subscriberbeetlejackal.com CNAME .
 *.subscriberbeetlejackal.com CNAME .
-subsequentmean.com CNAME .
-*.subsequentmean.com CNAME .
 subsideagainstforbes.com CNAME .
 *.subsideagainstforbes.com CNAME .
 substantialequilibrium.com CNAME .
@@ -79815,8 +79789,6 @@ uptodatecraftsman.com CNAME .
 *.uptodatecraftsman.com CNAME .
 uptownrecycle.com CNAME .
 *.uptownrecycle.com CNAME .
-uptracepaphian.top CNAME .
-*.uptracepaphian.top CNAME .
 upu.samsungelectronics.com CNAME .
 *.upu.samsungelectronics.com CNAME .
 upufkg.icu CNAME .
@@ -80265,8 +80237,6 @@ vaigowoa.com CNAME .
 *.vaigowoa.com CNAME .
 vaigreekostique.com CNAME .
 *.vaigreekostique.com CNAME .
-vaikeeecvys.com CNAME .
-*.vaikeeecvys.com CNAME .
 vaikijie.net CNAME .
 *.vaikijie.net CNAME .
 vaimucuvikuwu.net CNAME .
@@ -82433,8 +82403,6 @@ weightythecata.top CNAME .
 *.weightythecata.top CNAME .
 weinas.co.in CNAME .
 *.weinas.co.in CNAME .
-weird-speed.pro CNAME .
-*.weird-speed.pro CNAME .
 weirdsentence.com CNAME .
 *.weirdsentence.com CNAME .
 wejeestuze.net CNAME .
@@ -85547,8 +85515,6 @@ yeah1publishing.com CNAME .
 *.yeah1publishing.com CNAME .
 yealnk.com CNAME .
 *.yealnk.com CNAME .
-yearnstocking.com CNAME .
-*.yearnstocking.com CNAME .
 yeastedbushpig.top CNAME .
 *.yeastedbushpig.top CNAME .
 yeastfeukufund.org CNAME .
@@ -85609,8 +85575,6 @@ yggtorrent.com CNAME .
 *.yggtorrent.com CNAME .
 ygmkcuj3v.com CNAME .
 *.ygmkcuj3v.com CNAME .
-ygvecybawcjtwpp.com CNAME .
-*.ygvecybawcjtwpp.com CNAME .
 ygvqughn.com CNAME .
 *.ygvqughn.com CNAME .
 yhbcii.com CNAME .
@@ -86003,8 +85967,6 @@ yupfiles.net CNAME .
 *.yupfiles.net CNAME .
 yuppyads.com CNAME .
 *.yuppyads.com CNAME .
-yuprdmxsrp.com CNAME .
-*.yuprdmxsrp.com CNAME .
 yuqmok.xyz CNAME .
 *.yuqmok.xyz CNAME .
 yuruknalyticafr.com CNAME .
