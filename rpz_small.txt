@@ -1,9 +1,9 @@
-; Version: 202505180110
+; Version: 202505180210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86940
-; Last modified: 2025-05-18T01:10:36+0000
+; Entries: 86916
+; Last modified: 2025-05-18T02:10:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747530003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747533605 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12833,8 +12833,6 @@ asanalytics.booking.com CNAME .
 *.asanalytics.booking.com CNAME .
 asandcomemu.info CNAME .
 *.asandcomemu.info CNAME .
-asarhchromas.top CNAME .
-*.asarhchromas.top CNAME .
 asbulbasaura.com CNAME .
 *.asbulbasaura.com CNAME .
 ascactaqf.com CNAME .
@@ -21181,8 +21179,6 @@ cleverwebserver.com CNAME .
 *.cleverwebserver.com CNAME .
 clevv.com CNAME .
 *.clevv.com CNAME .
-clfvrxluadwhar.xyz CNAME .
-*.clfvrxluadwhar.xyz CNAME .
 clicadu.com CNAME .
 *.clicadu.com CNAME .
 click-cdn.com CNAME .
@@ -30821,8 +30817,6 @@ dwfupceuqm.com CNAME .
 *.dwfupceuqm.com CNAME .
 dwhfqyafsct.com CNAME .
 *.dwhfqyafsct.com CNAME .
-dwlbcrqchdv.com CNAME .
-*.dwlbcrqchdv.com CNAME .
 dwnm2295blvjq.cloudfront.net CNAME .
 *.dwnm2295blvjq.cloudfront.net CNAME .
 dwr3zytn850g.cloudfront.net CNAME .
@@ -34561,8 +34555,6 @@ fhiulnbk.cam CNAME .
 *.fhiulnbk.cam CNAME .
 fhjrpcmkyrkvi.space CNAME .
 *.fhjrpcmkyrkvi.space CNAME .
-fhl05150ps.com CNAME .
-*.fhl05150ps.com CNAME .
 fhl05160ps.com CNAME .
 *.fhl05160ps.com CNAME .
 fhl05170ps.com CNAME .
@@ -36237,8 +36229,6 @@ fuelclair.top CNAME .
 *.fuelclair.top CNAME .
 fuelpearls.com CNAME .
 *.fuelpearls.com CNAME .
-fufemnirr.com CNAME .
-*.fufemnirr.com CNAME .
 fugcgfilma.com CNAME .
 *.fugcgfilma.com CNAME .
 fugitiveautomaticallybottled.com CNAME .
@@ -39373,8 +39363,6 @@ guzdhs26.xyz CNAME .
 *.guzdhs26.xyz CNAME .
 gvfejsk.beauty CNAME .
 *.gvfejsk.beauty CNAME .
-gvyptfvufegymdd.com CNAME .
-*.gvyptfvufegymdd.com CNAME .
 gw.conversionsapigateway.com CNAME .
 *.gw.conversionsapigateway.com CNAME .
 gw2cddpt2hao.asia CNAME .
@@ -43777,8 +43765,6 @@ iwovfiidszrk.tech CNAME .
 *.iwovfiidszrk.tech CNAME .
 iwrcoct.info CNAME .
 *.iwrcoct.info CNAME .
-iwtdbhvgvk.com CNAME .
-*.iwtdbhvgvk.com CNAME .
 iwuh.org CNAME .
 *.iwuh.org CNAME .
 iwuwkslisixyq.xyz CNAME .
@@ -47769,8 +47755,6 @@ llpzoaezdwwah.tech CNAME .
 *.llpzoaezdwwah.tech CNAME .
 llq9q2lacr.com CNAME .
 *.llq9q2lacr.com CNAME .
-lltynlnoui.com CNAME .
-*.lltynlnoui.com CNAME .
 llyighaboveth.com CNAME .
 *.llyighaboveth.com CNAME .
 llyvjs.com CNAME .
@@ -57423,8 +57407,6 @@ oysterfoxfoe.com CNAME .
 *.oysterfoxfoe.com CNAME .
 oywhowascryingfo.com CNAME .
 *.oywhowascryingfo.com CNAME .
-oywzrri.com CNAME .
-*.oywzrri.com CNAME .
 oz-yypkhuwo.rocks CNAME .
 *.oz-yypkhuwo.rocks CNAME .
 ozbkfuhpuolf.com CNAME .
@@ -59023,8 +59005,6 @@ pics.xgo-img.com.cn CNAME .
 *.pics.xgo-img.com.cn CNAME .
 picshare.hair CNAME .
 *.picshare.hair CNAME .
-picshare.mom CNAME .
-*.picshare.mom CNAME .
 picshost.pics CNAME .
 *.picshost.pics CNAME .
 picsofdream.space CNAME .
@@ -74623,8 +74603,6 @@ tdid.m.qq.com CNAME .
 *.tdid.m.qq.com CNAME .
 tdk.petsplace.nl CNAME .
 *.tdk.petsplace.nl CNAME .
-tdmnbijnrlyu.xyz CNAME .
-*.tdmnbijnrlyu.xyz CNAME .
 tdoqiajej.xyz CNAME .
 *.tdoqiajej.xyz CNAME .
 tdpujn.xyz CNAME .
@@ -85873,8 +85851,6 @@ ymqlrkznenfcd.world CNAME .
 *.ymqlrkznenfcd.world CNAME .
 ymqqsutqx.com CNAME .
 *.ymqqsutqx.com CNAME .
-ymrdsajjsq.com CNAME .
-*.ymrdsajjsq.com CNAME .
 ymtracking.com CNAME .
 *.ymtracking.com CNAME .
 ynklendr.online CNAME .
