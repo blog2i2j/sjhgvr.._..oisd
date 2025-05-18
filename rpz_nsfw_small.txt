@@ -1,9 +1,9 @@
-; Version: 202505180115
+; Version: 202505180216
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43298
-; Last modified: 2025-05-18T01:15:42+0000
+; Entries: 43278
+; Last modified: 2025-05-18T02:16:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747530003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747533605 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -319,6 +319,8 @@ $TTL 30
 *.21sextreme.com CNAME .
 21sextury.com CNAME .
 *.21sextury.com CNAME .
+21vv.me CNAME .
+*.21vv.me CNAME .
 22cam.com CNAME .
 *.22cam.com CNAME .
 22pixx.xyz CNAME .
@@ -3541,8 +3543,6 @@ backdoorlesbians.com CNAME .
 *.backdoorlesbians.com CNAME .
 backpage.com CNAME .
 *.backpage.com CNAME .
-backpagedir.com CNAME .
-*.backpagedir.com CNAME .
 backpagegals.com CNAME .
 *.backpagegals.com CNAME .
 backroomcastingcouch.com CNAME .
@@ -8163,8 +8163,6 @@ deliman.net CNAME .
 *.deliman.net CNAME .
 deltamoby.ru CNAME .
 *.deltamoby.ru CNAME .
-demplon.com CNAME .
-*.demplon.com CNAME .
 dendenden.com CNAME .
 *.dendenden.com CNAME .
 denpasoft.com CNAME .
@@ -15875,8 +15873,6 @@ hornywhores.net CNAME .
 *.hornywhores.net CNAME .
 hornywild.com CNAME .
 *.hornywild.com CNAME .
-hornywombat.com CNAME .
-*.hornywombat.com CNAME .
 hornyxxx.win CNAME .
 *.hornyxxx.win CNAME .
 horriblevideos.com CNAME .
@@ -16601,8 +16597,6 @@ i-xxxvideos.xyz CNAME .
 *.i-xxxvideos.xyz CNAME .
 iafd.com CNAME .
 *.iafd.com CNAME .
-iafrica.com CNAME .
-*.iafrica.com CNAME .
 iality.best CNAME .
 *.iality.best CNAME .
 iamnaughty.com CNAME .
@@ -21171,8 +21165,6 @@ mangaupdates.com CNAME .
 *.mangaupdates.com CNAME .
 mangayaoi.net CNAME .
 *.mangayaoi.net CNAME .
-mangayuzu.com CNAME .
-*.mangayuzu.com CNAME .
 mangoporn.net CNAME .
 *.mangoporn.net CNAME .
 manhatic.com CNAME .
@@ -21243,8 +21235,6 @@ manilacourtesans.com CNAME .
 *.manilacourtesans.com CNAME .
 manilarosario.com CNAME .
 *.manilarosario.com CNAME .
-mankist.com CNAME .
-*.mankist.com CNAME .
 mannfuermann.com CNAME .
 *.mannfuermann.com CNAME .
 manojob.com CNAME .
@@ -25639,8 +25629,6 @@ pelotok.net CNAME .
 *.pelotok.net CNAME .
 peludases.com CNAME .
 *.peludases.com CNAME .
-pemersatu.fun CNAME .
-*.pemersatu.fun CNAME .
 pemersatu.org CNAME .
 *.pemersatu.org CNAME .
 pemersatu.top CNAME .
@@ -35291,8 +35279,6 @@ tamilporn.me CNAME .
 *.tamilporn.me CNAME .
 tamilscandals2.com CNAME .
 *.tamilscandals2.com CNAME .
-tamilsex.co CNAME .
-*.tamilsex.co CNAME .
 tamilsex.in CNAME .
 *.tamilsex.in CNAME .
 tamilsexkathai.net CNAME .
@@ -36331,8 +36317,6 @@ tipjes.nl CNAME .
 *.tipjes.nl CNAME .
 tippelstraat.nl CNAME .
 *.tippelstraat.nl CNAME .
-tipsy.chat CNAME .
-*.tipsy.chat CNAME .
 tit4free.com CNAME .
 *.tit4free.com CNAME .
 titanmen.com CNAME .
@@ -38025,8 +38009,6 @@ uzbum.su CNAME .
 *.uzbum.su CNAME .
 uzbxuy.ru CNAME .
 *.uzbxuy.ru CNAME .
-uzmobi.ru CNAME .
-*.uzmobi.ru CNAME .
 uzmom.com CNAME .
 *.uzmom.com CNAME .
 uzpopka.com CNAME .
@@ -38275,6 +38257,8 @@ vid123.net CNAME .
 *.vid123.net CNAME .
 vidamora.com CNAME .
 *.vidamora.com CNAME .
+vidcont.life CNAME .
+*.vidcont.life CNAME .
 videkilany.hu CNAME .
 *.videkilany.hu CNAME .
 video-camera.ru CNAME .
@@ -39123,8 +39107,6 @@ wapbold.com CNAME .
 *.wapbold.com CNAME .
 wapbold.net CNAME .
 *.wapbold.net CNAME .
-wapka.me CNAME .
-*.wapka.me CNAME .
 waplog.com CNAME .
 *.waplog.com CNAME .
 wapoz.info CNAME .
@@ -39151,8 +39133,6 @@ watch.porn CNAME .
 *.watch.porn CNAME .
 watch4beauty.com CNAME .
 *.watch4beauty.com CNAME .
-watchanime.video CNAME .
-*.watchanime.video CNAME .
 watchdirty.is CNAME .
 *.watchdirty.is CNAME .
 watchdirty.to CNAME .
@@ -39943,6 +39923,8 @@ xemsex.sex CNAME .
 *.xemsex.sex CNAME .
 xemsex.tax CNAME .
 *.xemsex.tax CNAME .
+xemsex.tube CNAME .
+*.xemsex.tube CNAME .
 xemsex.vin CNAME .
 *.xemsex.vin CNAME .
 xemsexdi.xyz CNAME .
@@ -40919,8 +40901,6 @@ xonly8.com CNAME .
 *.xonly8.com CNAME .
 xonuox.net CNAME .
 *.xonuox.net CNAME .
-xoporn.com CNAME .
-*.xoporn.com CNAME .
 xorgasmo.com CNAME .
 *.xorgasmo.com CNAME .
 xorgasmos.net CNAME .
