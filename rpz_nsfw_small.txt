@@ -1,9 +1,9 @@
-; Version: 202505190214
+; Version: 202505190313
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43410
-; Last modified: 2025-05-19T02:14:02+0000
+; Entries: 43394
+; Last modified: 2025-05-19T03:13:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747620004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747623604 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3795,6 +3795,8 @@ basarabeni.net CNAME .
 *.basarabeni.net CNAME .
 base-eromassage.com CNAME .
 *.base-eromassage.com CNAME .
+base-massage.com CNAME .
+*.base-massage.com CNAME .
 bateworld.com CNAME .
 *.bateworld.com CNAME .
 bato.ing CNAME .
@@ -4467,8 +4469,6 @@ bestsexyblog.com CNAME .
 *.bestsexyblog.com CNAME .
 bestshemalep.com CNAME .
 *.bestshemalep.com CNAME .
-bestsimilar.com CNAME .
-*.bestsimilar.com CNAME .
 bestteen21.com CNAME .
 *.bestteen21.com CNAME .
 bestteensex.net CNAME .
@@ -10243,8 +10243,6 @@ escorttaksim.com CNAME .
 *.escorttaksim.com CNAME .
 escortun.com CNAME .
 *.escortun.com CNAME .
-escortvspb.ru CNAME .
-*.escortvspb.ru CNAME .
 escortzimbabwe.com CNAME .
 *.escortzimbabwe.com CNAME .
 esenyurtajans.com CNAME .
@@ -21137,8 +21135,6 @@ mangadass.com CNAME .
 *.mangadass.com CNAME .
 mangadistrict.com CNAME .
 *.mangadistrict.com CNAME .
-mangadm.cc CNAME .
-*.mangadm.cc CNAME .
 mangadna.com CNAME .
 *.mangadna.com CNAME .
 mangadoujin.com CNAME .
@@ -21203,8 +21199,6 @@ mangasporno.net CNAME .
 *.mangasporno.net CNAME .
 mangaswim.com CNAME .
 *.mangaswim.com CNAME .
-mangaupdates.com CNAME .
-*.mangaupdates.com CNAME .
 mangayaoi.net CNAME .
 *.mangayaoi.net CNAME .
 mangayuzu.com CNAME .
@@ -22419,8 +22413,6 @@ mlookalporno.com CNAME .
 *.mlookalporno.com CNAME .
 mlookelporno.com CNAME .
 *.mlookelporno.com CNAME .
-mlsbd.shop CNAME .
-*.mlsbd.shop CNAME .
 mm111.cc CNAME .
 *.mm111.cc CNAME .
 mmadult.xyz CNAME .
@@ -29177,8 +29169,6 @@ pornxab.win CNAME .
 *.pornxab.win CNAME .
 pornxbit.com CNAME .
 *.pornxbit.com CNAME .
-pornxday.com CNAME .
-*.pornxday.com CNAME .
 pornxex.link CNAME .
 *.pornxex.link CNAME .
 pornxhq.com CNAME .
@@ -31295,8 +31285,6 @@ saputom.com CNAME .
 *.saputom.com CNAME .
 saradahentai.com CNAME .
 *.saradahentai.com CNAME .
-saradas.org CNAME .
-*.saradas.org CNAME .
 sarakaur.com CNAME .
 *.sarakaur.com CNAME .
 sarapbabe.com CNAME .
@@ -39953,8 +39941,6 @@ xbiz.com CNAME .
 *.xbiz.com CNAME .
 xblognetwork.com CNAME .
 *.xblognetwork.com CNAME .
-xbokep.net CNAME .
-*.xbokep.net CNAME .
 xbonsex.com CNAME .
 *.xbonsex.com CNAME .
 xbooru.com CNAME .
@@ -42613,8 +42599,6 @@ yadelus.ru CNAME .
 *.yadelus.ru CNAME .
 yadongplay.org CNAME .
 *.yadongplay.org CNAME .
-yaebus13.ru CNAME .
-*.yaebus13.ru CNAME .
 yaebus15.ru CNAME .
 *.yaebus15.ru CNAME .
 yaeby.art CNAME .
