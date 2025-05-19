@@ -1,9 +1,9 @@
-; Version: 202505190709
+; Version: 202505190809
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86916
-; Last modified: 2025-05-19T07:09:44+0000
+; Entries: 86900
+; Last modified: 2025-05-19T08:09:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747638006 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747641608 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2833,8 +2833,6 @@ $TTL 30
 *.8d96fe2f01.com CNAME .
 8d9a34f9cc.1c2884f59e.com CNAME .
 *.8d9a34f9cc.1c2884f59e.com CNAME .
-8da1db73e4.com CNAME .
-*.8da1db73e4.com CNAME .
 8db4fde90b.com CNAME .
 *.8db4fde90b.com CNAME .
 8de5d7e235.com CNAME .
@@ -8655,8 +8653,6 @@ afnhc.com CNAME .
 *.afnhc.com CNAME .
 afodreet.net CNAME .
 *.afodreet.net CNAME .
-afptdyewn.com CNAME .
-*.afptdyewn.com CNAME .
 afqaphpu.com CNAME .
 *.afqaphpu.com CNAME .
 afqgqg4e.com CNAME .
@@ -36977,8 +36973,6 @@ gd-stats.jpush.cn CNAME .
 *.gd-stats.jpush.cn CNAME .
 gdajuytgupptx.world CNAME .
 *.gdajuytgupptx.world CNAME .
-gdasaasnt.com CNAME .
-*.gdasaasnt.com CNAME .
 gdecordingholo.info CNAME .
 *.gdecordingholo.info CNAME .
 gdeigri.com CNAME .
@@ -44375,8 +44369,6 @@ jitterspauperusher.com CNAME .
 *.jitterspauperusher.com CNAME .
 jiusudie.com CNAME .
 *.jiusudie.com CNAME .
-jiuwert.online CNAME .
-*.jiuwert.online CNAME .
 jivedwahabit.top CNAME .
 *.jivedwahabit.top CNAME .
 jiwspymahja.com CNAME .
@@ -45019,8 +45011,6 @@ juznlx.xyz CNAME .
 *.juznlx.xyz CNAME .
 jvcjnmd.com CNAME .
 *.jvcjnmd.com CNAME .
-jvgmwdtvwnxw.com CNAME .
-*.jvgmwdtvwnxw.com CNAME .
 jvmbgorjhyyao.click CNAME .
 *.jvmbgorjhyyao.click CNAME .
 jwalf.com CNAME .
@@ -47047,8 +47037,6 @@ lemming.nicolasmenard.com CNAME .
 *.lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
 *.lemming.vivian.do CNAME .
-lemmingunlit.top CNAME .
-*.lemmingunlit.top CNAME .
 lemotherofhe.com CNAME .
 *.lemotherofhe.com CNAME .
 lemouwee.com CNAME .
@@ -73655,8 +73643,6 @@ sy.tubeprnlist.online CNAME .
 *.sy.tubeprnlist.online CNAME .
 sya9yncn3q.com CNAME .
 *.sya9yncn3q.com CNAME .
-syclqphwqvv.com CNAME .
-*.syclqphwqvv.com CNAME .
 sycockmnioid.top CNAME .
 *.sycockmnioid.top CNAME .
 sydneygfpink.com CNAME .
@@ -83197,8 +83183,6 @@ wilted-carry.com CNAME .
 *.wilted-carry.com CNAME .
 wimblesmurgavi.top CNAME .
 *.wimblesmurgavi.top CNAME .
-wimpthirtyarrears.com CNAME .
-*.wimpthirtyarrears.com CNAME .
 win-bidding.com CNAME .
 *.win-bidding.com CNAME .
 win-dsp-east.nativeads.com CNAME .
