@@ -1,9 +1,9 @@
-# Version: 202505191826
+# Version: 202505191916
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21697
-# Last modified: 2025-05-19T18:26:57+0000
+# Entries: 21698
+# Last modified: 2025-05-19T19:16:03+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -21380,6 +21380,7 @@ local-zone: "ymlporn.net." always_null
 local-zone: "ymlporn5.net." always_null
 local-zone: "ymlporn6.net." always_null
 local-zone: "ymlporn7.net." always_null
+local-zone: "ynot.com." always_null
 local-zone: "yo-app.co." always_null
 local-zone: "yo-sex.com." always_null
 local-zone: "yoasobi-heaven.com." always_null
