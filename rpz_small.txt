@@ -1,9 +1,9 @@
-; Version: 202505190308
+; Version: 202505190409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86918
-; Last modified: 2025-05-19T03:08:56+0000
+; Entries: 86892
+; Last modified: 2025-05-19T04:09:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747623604 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747627208 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14173,8 +14173,6 @@ aywnaoliigc.com CNAME .
 *.aywnaoliigc.com CNAME .
 ayzylwqazaemj.top CNAME .
 *.ayzylwqazaemj.top CNAME .
-ayzylwqryayam.top CNAME .
-*.ayzylwqryayam.top CNAME .
 az-neverblock.aznude.workers.dev CNAME .
 *.az-neverblock.aznude.workers.dev CNAME .
 az.nzn.io CNAME .
@@ -19469,8 +19467,6 @@ cba.cda-hd.co CNAME .
 *.cba.cda-hd.co CNAME .
 cbanners.virtuagirlhd.com CNAME .
 *.cbanners.virtuagirlhd.com CNAME .
-cbbd18d467.com CNAME .
-*.cbbd18d467.com CNAME .
 cbbvi.com CNAME .
 *.cbbvi.com CNAME .
 cbd7060d01.f4975e7cd5.com CNAME .
@@ -23237,8 +23233,6 @@ cougar.augmentedmindapp.com CNAME .
 *.cougar.augmentedmindapp.com CNAME .
 cougar.wzulfikar.com CNAME .
 *.cougar.wzulfikar.com CNAME .
-couldmisspell.com CNAME .
-*.couldmisspell.com CNAME .
 couledochemy.net CNAME .
 *.couledochemy.net CNAME .
 councernedasesi.com CNAME .
@@ -30501,8 +30495,6 @@ dtawwaowtd.com CNAME .
 *.dtawwaowtd.com CNAME .
 dtch.brunel.nl CNAME .
 *.dtch.brunel.nl CNAME .
-dtdqpc.top CNAME .
-*.dtdqpc.top CNAME .
 dtheircleanwhitepi.org CNAME .
 *.dtheircleanwhitepi.org CNAME .
 dthipkts.com CNAME .
@@ -34569,8 +34561,6 @@ fhiulnbk.cam CNAME .
 *.fhiulnbk.cam CNAME .
 fhjrpcmkyrkvi.space CNAME .
 *.fhjrpcmkyrkvi.space CNAME .
-fhl05160ps.com CNAME .
-*.fhl05160ps.com CNAME .
 fhl05170ps.com CNAME .
 *.fhl05170ps.com CNAME .
 fhl05181ps.com CNAME .
@@ -35527,8 +35517,6 @@ focas.jp CNAME .
 *.focas.jp CNAME .
 foccqbujbfcyj.love CNAME .
 *.foccqbujbfcyj.love CNAME .
-focusedserversgloomy.com CNAME .
-*.focusedserversgloomy.com CNAME .
 focusporn.com CNAME .
 *.focusporn.com CNAME .
 focwcuj.com CNAME .
@@ -50267,8 +50255,6 @@ mautic.teky.edu.vn CNAME .
 *.mautic.teky.edu.vn CNAME .
 mautifasa.xyz CNAME .
 *.mautifasa.xyz CNAME .
-mauxyaeeefnrots.z21.web.core.windows.net CNAME .
-*.mauxyaeeefnrots.z21.web.core.windows.net CNAME .
 mavq.net CNAME .
 *.mavq.net CNAME .
 mawlaybob.com CNAME .
@@ -57469,8 +57455,6 @@ ozonerrebuoy.com CNAME .
 *.ozonerrebuoy.com CNAME .
 ozongees.com CNAME .
 *.ozongees.com CNAME .
-ozonisedualin.com CNAME .
-*.ozonisedualin.com CNAME .
 ozvtuton.com CNAME .
 *.ozvtuton.com CNAME .
 ozwxhoonxlm.com CNAME .
@@ -59491,8 +59475,6 @@ pki87n.pro CNAME .
 *.pki87n.pro CNAME .
 pkoqeg.com CNAME .
 *.pkoqeg.com CNAME .
-pkphftlpkxbhk.com CNAME .
-*.pkphftlpkxbhk.com CNAME .
 pktfla.top CNAME .
 *.pktfla.top CNAME .
 pkuscuncykeql.life CNAME .
@@ -72757,8 +72739,6 @@ stork.notlessbutbetter.com CNAME .
 *.stork.notlessbutbetter.com CNAME .
 storkto.com CNAME .
 *.storkto.com CNAME .
-stormyachiever.com CNAME .
-*.stormyachiever.com CNAME .
 storners.com CNAME .
 *.storners.com CNAME .
 storyrelatively.com CNAME .
@@ -72871,8 +72851,6 @@ streetsbuccaro.com CNAME .
 *.streetsbuccaro.com CNAME .
 streetuptowind.com CNAME .
 *.streetuptowind.com CNAME .
-streetupwind.com CNAME .
-*.streetupwind.com CNAME .
 streitmackled.com CNAME .
 *.streitmackled.com CNAME .
 stremmaraftage.com CNAME .
@@ -80379,8 +80357,6 @@ vads.vn CNAME .
 *.vads.vn CNAME .
 vaebard.com CNAME .
 *.vaebard.com CNAME .
-vagancypearl.com CNAME .
-*.vagancypearl.com CNAME .
 vagnerapedesis.top CNAME .
 *.vagnerapedesis.top CNAME .
 vaguishtrepak.com CNAME .
@@ -83655,8 +83631,6 @@ work.gd CNAME .
 *.work.gd CNAME .
 workedqtam.com CNAME .
 *.workedqtam.com CNAME .
-workedworlds.com CNAME .
-*.workedworlds.com CNAME .
 workplacenotchperpetual.com CNAME .
 *.workplacenotchperpetual.com CNAME .
 workroommarriage.com CNAME .
