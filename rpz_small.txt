@@ -1,9 +1,9 @@
-; Version: 202505190008
+; Version: 202505190108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86998
-; Last modified: 2025-05-19T00:08:47+0000
+; Entries: 86980
+; Last modified: 2025-05-19T01:08:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747612810 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747616402 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -36985,8 +36985,6 @@ gcocaxgrao.com CNAME .
 *.gcocaxgrao.com CNAME .
 gcprivacy.com CNAME .
 *.gcprivacy.com CNAME .
-gcsimltwr.com CNAME .
-*.gcsimltwr.com CNAME .
 gcvir.xyz CNAME .
 *.gcvir.xyz CNAME .
 gcyxdcpedyn.xyz CNAME .
@@ -47747,8 +47745,6 @@ lizardslaugh.com CNAME .
 *.lizardslaugh.com CNAME .
 lizijing12.top CNAME .
 *.lizijing12.top CNAME .
-lizzieforcepincers.com CNAME .
-*.lizzieforcepincers.com CNAME .
 ljbiynvyhfteq.rocks CNAME .
 *.ljbiynvyhfteq.rocks CNAME .
 ljbrbz.xyz CNAME .
@@ -60091,8 +60087,6 @@ polluxnetwork.com CNAME .
 *.polluxnetwork.com CNAME .
 poloimicrohm.top CNAME .
 *.poloimicrohm.top CNAME .
-poloistwilrone.shop CNAME .
-*.poloistwilrone.shop CNAME .
 poloptrex.com CNAME .
 *.poloptrex.com CNAME .
 polothdgemanow.info CNAME .
@@ -67075,8 +67069,6 @@ sahagwjapl.com CNAME .
 *.sahagwjapl.com CNAME .
 sahhpunster.shop CNAME .
 *.sahhpunster.shop CNAME .
-sahkumthmk.com CNAME .
-*.sahkumthmk.com CNAME .
 sahofqal.com CNAME .
 *.sahofqal.com CNAME .
 sahpupxhyk.com CNAME .
@@ -75411,8 +75403,6 @@ thewindowsactivator.com CNAME .
 *.thewindowsactivator.com CNAME .
 thewymulto.life CNAME .
 *.thewymulto.life CNAME .
-theyattenuate.com CNAME .
-*.theyattenuate.com CNAME .
 thickcultivation.com CNAME .
 *.thickcultivation.com CNAME .
 thickshortwage.com CNAME .
@@ -78195,8 +78185,6 @@ tributeparticle.com CNAME .
 *.tributeparticle.com CNAME .
 tricklesmartdiscourage.com CNAME .
 *.tricklesmartdiscourage.com CNAME .
-trickycelery.com CNAME .
-*.trickycelery.com CNAME .
 trickynationalityturn.com CNAME .
 *.trickynationalityturn.com CNAME .
 trigami.com CNAME .
@@ -79119,8 +79107,6 @@ uads.guru CNAME .
 *.uads.guru CNAME .
 uafkcvpvvelp.com CNAME .
 *.uafkcvpvvelp.com CNAME .
-uanhmbsoenccl.com CNAME .
-*.uanhmbsoenccl.com CNAME .
 uaoaig.xyz CNAME .
 *.uaoaig.xyz CNAME .
 uarating.com CNAME .
@@ -84783,8 +84769,6 @@ xml-v4.dkswshap-1.online CNAME .
 *.xml-v4.dkswshap-1.online CNAME .
 xml-v4.dkswshap-2.online CNAME .
 *.xml-v4.dkswshap-2.online CNAME .
-xml-v4.dkswshap-4.online CNAME .
-*.xml-v4.dkswshap-4.online CNAME .
 xml-v4.dollopsdigital.com CNAME .
 *.xml-v4.dollopsdigital.com CNAME .
 xml-v4.domains-traffic.com CNAME .
@@ -86479,8 +86463,6 @@ zelllwrite.com CNAME .
 *.zelllwrite.com CNAME .
 zenal.xyz CNAME .
 *.zenal.xyz CNAME .
-zenam.xyz CNAME .
-*.zenam.xyz CNAME .
 zencudo.co.uk CNAME .
 *.zencudo.co.uk CNAME .
 zendplace.pro CNAME .
