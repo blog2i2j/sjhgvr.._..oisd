@@ -1,9 +1,9 @@
-; Version: 202505191310
+; Version: 202505191410
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86766
-; Last modified: 2025-05-19T13:10:16+0000
+; Entries: 86734
+; Last modified: 2025-05-19T14:10:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747659606 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747663205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1933,8 +1933,6 @@ $TTL 30
 *.50e57be19a.b0ff04e647.com CNAME .
 50f0ac5daf.com CNAME .
 *.50f0ac5daf.com CNAME .
-50hardcore.galleryprogram.com CNAME .
-*.50hardcore.galleryprogram.com CNAME .
 50m.gkcyc.com CNAME .
 *.50m.gkcyc.com CNAME .
 50websads.com CNAME .
@@ -20379,8 +20377,6 @@ chaugroo.net CNAME .
 *.chaugroo.net CNAME .
 chauinubbins.com CNAME .
 *.chauinubbins.com CNAME .
-chaunsoops.net CNAME .
-*.chaunsoops.net CNAME .
 chaussew.net CNAME .
 *.chaussew.net CNAME .
 chautcho.com CNAME .
@@ -30725,8 +30721,6 @@ duumvirkeach.top CNAME .
 *.duumvirkeach.top CNAME .
 duvuerxuiw.com CNAME .
 *.duvuerxuiw.com CNAME .
-duyhlct.icu CNAME .
-*.duyhlct.icu CNAME .
 duz64ud8y8urc.cloudfront.net CNAME .
 *.duz64ud8y8urc.cloudfront.net CNAME .
 duzbhonizsk.com CNAME .
@@ -45611,8 +45605,6 @@ kixfuvmhibuk.com CNAME .
 *.kixfuvmhibuk.com CNAME .
 kiynew.com CNAME .
 *.kiynew.com CNAME .
-kizohilsoa.net CNAME .
-*.kizohilsoa.net CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
 *.kjdsfjisdfjr23.azurewebsites.net CNAME .
 kjsrpkibdjtyy.online CNAME .
@@ -45971,8 +45963,6 @@ kq272lw4c.com CNAME .
 *.kq272lw4c.com CNAME .
 kq6mv8mpvs4m10r449nms6.xyz CNAME .
 *.kq6mv8mpvs4m10r449nms6.xyz CNAME .
-kqaqvocve.com CNAME .
-*.kqaqvocve.com CNAME .
 kqbjdvighp.com CNAME .
 *.kqbjdvighp.com CNAME .
 kqhi97lf.de CNAME .
@@ -53541,8 +53531,6 @@ nessainy.net CNAME .
 *.nessainy.net CNAME .
 nestledmph.com CNAME .
 *.nestledmph.com CNAME .
-nestorssplunt.com CNAME .
-*.nestorssplunt.com CNAME .
 net-filter.com CNAME .
 *.net-filter.com CNAME .
 net.contoscn.com CNAME .
@@ -56841,8 +56829,6 @@ othniqvu.com CNAME .
 *.othniqvu.com CNAME .
 othocgkugdu.com CNAME .
 *.othocgkugdu.com CNAME .
-otisephie.com CNAME .
-*.otisephie.com CNAME .
 otnolabttmup.com CNAME .
 *.otnolabttmup.com CNAME .
 otnolatrnup.com CNAME .
@@ -66983,8 +66969,6 @@ saillevity.com CNAME .
 *.saillevity.com CNAME .
 sailorjav128.fun CNAME .
 *.sailorjav128.fun CNAME .
-sailorlanceslap.com CNAME .
-*.sailorlanceslap.com CNAME .
 saimplemukente.org CNAME .
 *.saimplemukente.org CNAME .
 saipeevit.net CNAME .
@@ -67817,8 +67801,6 @@ seenportnan.live CNAME .
 *.seenportnan.live CNAME .
 seeonderfulstatue.com CNAME .
 *.seeonderfulstatue.com CNAME .
-seeptoafuko.com CNAME .
-*.seeptoafuko.com CNAME .
 seeptoag.net CNAME .
 *.seeptoag.net CNAME .
 seertul.com CNAME .
@@ -69141,8 +69123,6 @@ singaporetradingchallengetracker1.com CNAME .
 *.singaporetradingchallengetracker1.com CNAME .
 singelstodate.com CNAME .
 *.singelstodate.com CNAME .
-singercordial.com CNAME .
-*.singercordial.com CNAME .
 singledatetime.com CNAME .
 *.singledatetime.com CNAME .
 singlesgetmatched.com CNAME .
@@ -70537,8 +70517,6 @@ speirskinged.shop CNAME .
 *.speirskinged.shop CNAME .
 spelldeterrent.com CNAME .
 *.spelldeterrent.com CNAME .
-speltskenareh.shop CNAME .
-*.speltskenareh.shop CNAME .
 spencywary.top CNAME .
 *.spencywary.top CNAME .
 spendjibers.shop CNAME .
@@ -74203,8 +74181,6 @@ tahr.happydev.fm CNAME .
 *.tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
 *.tahr.rasen.dev CNAME .
-tahrsli.com CNAME .
-*.tahrsli.com CNAME .
 tahwox.com CNAME .
 *.tahwox.com CNAME .
 taigasdoeskin.guru CNAME .
@@ -77995,8 +77971,6 @@ trendmd.com CNAME .
 *.trendmd.com CNAME .
 trends.newsmaxwidget.com CNAME .
 *.trends.newsmaxwidget.com CNAME .
-trenhsasolce.com CNAME .
-*.trenhsasolce.com CNAME .
 trenhsmp.com CNAME .
 *.trenhsmp.com CNAME .
 trenpyle.com CNAME .
@@ -78579,8 +78553,6 @@ turbulentimpuresoul.com CNAME .
 *.turbulentimpuresoul.com CNAME .
 tureukworektob.info CNAME .
 *.tureukworektob.info CNAME .
-turfjxedwrbafb.com CNAME .
-*.turfjxedwrbafb.com CNAME .
 turibrooder.shop CNAME .
 *.turibrooder.shop CNAME .
 turkey.tella.tv CNAME .
@@ -79157,8 +79129,6 @@ ujtgtmj.com CNAME .
 *.ujtgtmj.com CNAME .
 ujw1y54r.fun CNAME .
 *.ujw1y54r.fun CNAME .
-ujxnjzmdcqn.com CNAME .
-*.ujxnjzmdcqn.com CNAME .
 ukankingwithea.com CNAME .
 *.ukankingwithea.com CNAME .
 ukbanners.com CNAME .
@@ -80163,8 +80133,6 @@ uyiteasacomsys.info CNAME .
 *.uyiteasacomsys.info CNAME .
 uyjxzvu.com CNAME .
 *.uyjxzvu.com CNAME .
-uyledjlevq.com CNAME .
-*.uyledjlevq.com CNAME .
 uyybde07w.com CNAME .
 *.uyybde07w.com CNAME .
 uz-analysis.akamaized.net CNAME .
