@@ -1,9 +1,9 @@
-; Version: 202505191210
+; Version: 202505191310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86790
-; Last modified: 2025-05-19T12:10:45+0000
+; Entries: 86766
+; Last modified: 2025-05-19T13:10:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747656004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747659606 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3573,8 +3573,6 @@ a14tdsa.com CNAME .
 *.a14tdsa.com CNAME .
 a18d33cefa.com CNAME .
 *.a18d33cefa.com CNAME .
-a1bbcd100e.com CNAME .
-*.a1bbcd100e.com CNAME .
 a1db6a0384.c63b91ca50.com CNAME .
 *.a1db6a0384.c63b91ca50.com CNAME .
 a1hosting.online CNAME .
@@ -9975,8 +9973,6 @@ amanduscaster.top CNAME .
 *.amanduscaster.top CNAME .
 amarceusan.com CNAME .
 *.amarceusan.com CNAME .
-amargumtounaih.com CNAME .
-*.amargumtounaih.com CNAME .
 amassantarctic.com CNAME .
 *.amassantarctic.com CNAME .
 amateurcouplewebcam.com CNAME .
@@ -19045,8 +19041,6 @@ capefast.com CNAME .
 *.capefast.com CNAME .
 caperedlevi.com CNAME .
 *.caperedlevi.com CNAME .
-capetumbledcrag.com CNAME .
-*.capetumbledcrag.com CNAME .
 caphaiks.com CNAME .
 *.caphaiks.com CNAME .
 capinfoproreport.batiactu.com CNAME .
@@ -45693,8 +45687,6 @@ kloshambaris.top CNAME .
 *.kloshambaris.top CNAME .
 kloshdales.top CNAME .
 *.kloshdales.top CNAME .
-kloynfsag.com CNAME .
-*.kloynfsag.com CNAME .
 klpgmansuchcesu.com CNAME .
 *.klpgmansuchcesu.com CNAME .
 klspkjyub-n.xyz CNAME .
@@ -45753,8 +45745,6 @@ kneescountdownenforcement.com CNAME .
 *.kneescountdownenforcement.com CNAME .
 kneltopeningfit.com CNAME .
 *.kneltopeningfit.com CNAME .
-knetchenamour.com CNAME .
-*.knetchenamour.com CNAME .
 knewallpendulum.com CNAME .
 *.knewallpendulum.com CNAME .
 knfeiikyojdib.life CNAME .
@@ -48847,8 +48837,6 @@ lorybnfh.com CNAME .
 *.lorybnfh.com CNAME .
 losespiritsdiscord.com CNAME .
 *.losespiritsdiscord.com CNAME .
-losingfunk.com CNAME .
-*.losingfunk.com CNAME .
 losingoldfry.com CNAME .
 *.losingoldfry.com CNAME .
 losingtiger.com CNAME .
@@ -55125,8 +55113,6 @@ oba.rus-km.ru CNAME .
 *.oba.rus-km.ru CNAME .
 obcdudfwati.com CNAME .
 *.obcdudfwati.com CNAME .
-obcswpfk.xyz CNAME .
-*.obcswpfk.xyz CNAME .
 obediencechainednoun.com CNAME .
 *.obediencechainednoun.com CNAME .
 obedientapologyinefficient.com CNAME .
@@ -57611,8 +57597,6 @@ paginaltreitre.shop CNAME .
 *.paginaltreitre.shop CNAME .
 pagnawhouk.net CNAME .
 *.pagnawhouk.net CNAME .
-pagodspit.top CNAME .
-*.pagodspit.top CNAME .
 paht.tech CNAME .
 *.paht.tech CNAME .
 pahtef.tech CNAME .
@@ -67809,8 +67793,6 @@ seeablywitness.com CNAME .
 *.seeablywitness.com CNAME .
 seebait.com CNAME .
 *.seebait.com CNAME .
-seecaimooth.com CNAME .
-*.seecaimooth.com CNAME .
 seedapp-creative.s3.amazonaws.com CNAME .
 *.seedapp-creative.s3.amazonaws.com CNAME .
 seederie.net CNAME .
@@ -68681,8 +68663,6 @@ sheeghoodounar.net CNAME .
 *.sheeghoodounar.net CNAME .
 sheegiwo.com CNAME .
 *.sheegiwo.com CNAME .
-sheeltaibu.net CNAME .
-*.sheeltaibu.net CNAME .
 sheep.littleboat.digital CNAME .
 *.sheep.littleboat.digital CNAME .
 sheep.peterfowler.com CNAME .
@@ -74709,8 +74689,6 @@ teegeesisou.com CNAME .
 *.teegeesisou.com CNAME .
 teeglimu.com CNAME .
 *.teeglimu.com CNAME .
-teegluzahy.net CNAME .
-*.teegluzahy.net CNAME .
 teemmachinerydiffer.com CNAME .
 *.teemmachinerydiffer.com CNAME .
 teemooge.net CNAME .
@@ -79875,8 +79853,6 @@ uqkcqk.icu CNAME .
 *.uqkcqk.icu CNAME .
 uqohomcgxhtjr.space CNAME .
 *.uqohomcgxhtjr.space CNAME .
-uqpmabxnbojd.com CNAME .
-*.uqpmabxnbojd.com CNAME .
 uqqmj868.xyz CNAME .
 *.uqqmj868.xyz CNAME .
 uqykeq.xyz CNAME .
