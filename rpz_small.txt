@@ -1,9 +1,9 @@
-; Version: 202505190909
+; Version: 202505191010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86882
-; Last modified: 2025-05-19T09:09:45+0000
+; Entries: 86854
+; Last modified: 2025-05-19T10:10:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747645208 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747648807 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2665,8 +2665,6 @@ $TTL 30
 *.8162f6c343.com CNAME .
 817dae10e1.com CNAME .
 *.817dae10e1.com CNAME .
-81af8eb64e.com CNAME .
-*.81af8eb64e.com CNAME .
 81c875a340.com CNAME .
 *.81c875a340.com CNAME .
 821a5b6b9e.363caab0ae.com CNAME .
@@ -14459,8 +14457,6 @@ ba31f372b1.6d0ce9a973.com CNAME .
 *.ba31f372b1.6d0ce9a973.com CNAME .
 ba3b545f57.43541f6026.com CNAME .
 *.ba3b545f57.43541f6026.com CNAME .
-ba46b70722.com CNAME .
-*.ba46b70722.com CNAME .
 ba61261c39.com CNAME .
 *.ba61261c39.com CNAME .
 ba7dea6a05.com CNAME .
@@ -27393,8 +27389,6 @@ dangerinsignificantinvent.com CNAME .
 *.dangerinsignificantinvent.com CNAME .
 dangersfluentnewsletter.com CNAME .
 *.dangersfluentnewsletter.com CNAME .
-danicirvr.com CNAME .
-*.danicirvr.com CNAME .
 dannockquenda.shop CNAME .
 *.dannockquenda.shop CNAME .
 dannyuncoach.com CNAME .
@@ -38745,8 +38739,6 @@ greengaming.de CNAME .
 *.greengaming.de CNAME .
 greenplasticdua.com CNAME .
 *.greenplasticdua.com CNAME .
-greenrecru.info CNAME .
-*.greenrecru.info CNAME .
 greepseedrobouk.net CNAME .
 *.greepseedrobouk.net CNAME .
 greerogloo.net CNAME .
@@ -42211,8 +42203,6 @@ ikiif.com CNAME .
 *.ikiif.com CNAME .
 ikjnbvf.de CNAME .
 *.ikjnbvf.de CNAME .
-ikooqmunrveuve.com CNAME .
-*.ikooqmunrveuve.com CNAME .
 ikppduisfudho.online CNAME .
 *.ikppduisfudho.online CNAME .
 ikssllnhrb.com CNAME .
@@ -55831,8 +55821,6 @@ old-go.pro CNAME .
 *.old-go.pro CNAME .
 oldeststrickenambulance.com CNAME .
 *.oldeststrickenambulance.com CNAME .
-oldfashionedmadewhiskers.com CNAME .
-*.oldfashionedmadewhiskers.com CNAME .
 oldgyhogola.com CNAME .
 *.oldgyhogola.com CNAME .
 olevole.ru CNAME .
@@ -60747,8 +60735,6 @@ preventreversion.com CNAME .
 *.preventreversion.com CNAME .
 preview-collector.scopely.io CNAME .
 *.preview-collector.scopely.io CNAME .
-previous-trip.pro CNAME .
-*.previous-trip.pro CNAME .
 prf.vagnt.com CNAME .
 *.prf.vagnt.com CNAME .
 prfctmney.com CNAME .
@@ -62397,16 +62383,12 @@ qazjpdzhatxaw.vip CNAME .
 *.qazjpdzhatxaw.vip CNAME .
 qazrvobkmqvmr.top CNAME .
 *.qazrvobkmqvmr.top CNAME .
-qblllqzqezlyz.top CNAME .
-*.qblllqzqezlyz.top CNAME .
 qbrth.ezcontacts.com CNAME .
 *.qbrth.ezcontacts.com CNAME .
 qbrzvovrozqer.top CNAME .
 *.qbrzvovrozqer.top CNAME .
 qbsday.xyz CNAME .
 *.qbsday.xyz CNAME .
-qbwebebwkeqar.top CNAME .
-*.qbwebebwkeqar.top CNAME .
 qc-static.coccoc.com CNAME .
 *.qc-static.coccoc.com CNAME .
 qc.5giay.vn CNAME .
@@ -67657,8 +67639,6 @@ sdg.desihamster.pro CNAME .
 *.sdg.desihamster.pro CNAME .
 sdhfbvd.com CNAME .
 *.sdhfbvd.com CNAME .
-sdhpwahcnxeg.com CNAME .
-*.sdhpwahcnxeg.com CNAME .
 sdiatesupervis.com CNAME .
 *.sdiatesupervis.com CNAME .
 sdiiilldgbhrm.one CNAME .
@@ -80791,8 +80771,6 @@ vfl81ea28aztw7y3.pro CNAME .
 *.vfl81ea28aztw7y3.pro CNAME .
 vfqgmtqglqxkd.xyz CNAME .
 *.vfqgmtqglqxkd.xyz CNAME .
-vfsusmnbsi.com CNAME .
-*.vfsusmnbsi.com CNAME .
 vfthr.com CNAME .
 *.vfthr.com CNAME .
 vftvbx.xyz CNAME .
@@ -84571,8 +84549,6 @@ xml-eu.dkswshap-1.online CNAME .
 *.xml-eu.dkswshap-1.online CNAME .
 xml-eu.dkswshap-2.online CNAME .
 *.xml-eu.dkswshap-2.online CNAME .
-xml-eu.dkswshap-4.online CNAME .
-*.xml-eu.dkswshap-4.online CNAME .
 xml-eu.foremedia.net CNAME .
 *.xml-eu.foremedia.net CNAME .
 xml-eu.foseller-d.online CNAME .
@@ -85351,8 +85327,6 @@ xutvbt.icu CNAME .
 *.xutvbt.icu CNAME .
 xuxwvh.xyz CNAME .
 *.xuxwvh.xyz CNAME .
-xvdoukdueffvab.com CNAME .
-*.xvdoukdueffvab.com CNAME .
 xveenk.com CNAME .
 *.xveenk.com CNAME .
 xviperonec.com CNAME .
@@ -86085,8 +86059,6 @@ yvdxhbuupndqo.love CNAME .
 *.yvdxhbuupndqo.love CNAME .
 yvmads.com CNAME .
 *.yvmads.com CNAME .
-yvnjriyaqnt.com CNAME .
-*.yvnjriyaqnt.com CNAME .
 yvoria.com CNAME .
 *.yvoria.com CNAME .
 yvzgazds6d.com CNAME .
