@@ -1,9 +1,9 @@
-; Version: 202505191838
+; Version: 202505191910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86920
-; Last modified: 2025-05-19T18:38:37+0000
+; Entries: 86906
+; Last modified: 2025-05-19T19:10:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747679198 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747681206 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -647,8 +647,6 @@ $TTL 30
 *.19ad8.com CNAME .
 19d7fd2ed2.com CNAME .
 *.19d7fd2ed2.com CNAME .
-1a5db63693.com CNAME .
-*.1a5db63693.com CNAME .
 1a8f9rq9c.de CNAME .
 *.1a8f9rq9c.de CNAME .
 1ad6ea4211.com CNAME .
@@ -18807,8 +18805,6 @@ caesarporch.com CNAME .
 *.caesarporch.com CNAME .
 cafe-log.myshoplus.com CNAME .
 *.cafe-log.myshoplus.com CNAME .
-cafeemsaimsust.com CNAME .
-*.cafeemsaimsust.com CNAME .
 cafewarriors.com CNAME .
 *.cafewarriors.com CNAME .
 cagakzcwyr.com CNAME .
@@ -20415,8 +20411,6 @@ chavoads.com CNAME .
 *.chavoads.com CNAME .
 chawhecmud.net CNAME .
 *.chawhecmud.net CNAME .
-chaxidroat.net CNAME .
-*.chaxidroat.net CNAME .
 chbwe.space CNAME .
 *.chbwe.space CNAME .
 cheapcinema.club CNAME .
@@ -75367,8 +75361,6 @@ theta.sogoucdn.com CNAME .
 *.theta.sogoucdn.com CNAME .
 thetestpage.39.net CNAME .
 *.thetestpage.39.net CNAME .
-thetoptrust.com CNAME .
-*.thetoptrust.com CNAME .
 thetrafficstat.net CNAME .
 *.thetrafficstat.net CNAME .
 thetrendytales.com CNAME .
@@ -82531,8 +82523,6 @@ weeecool.com CNAME .
 *.weeecool.com CNAME .
 weeewow.com CNAME .
 *.weeewow.com CNAME .
-weegraphooph.net CNAME .
-*.weegraphooph.net CNAME .
 weejaugest.net CNAME .
 *.weejaugest.net CNAME .
 week1time.com CNAME .
@@ -82803,8 +82793,6 @@ wheksuns.net CNAME .
 *.wheksuns.net CNAME .
 whencecrappylook.com CNAME .
 *.whencecrappylook.com CNAME .
-whenceformationruby.com CNAME .
-*.whenceformationruby.com CNAME .
 whencewaxworks.com CNAME .
 *.whencewaxworks.com CNAME .
 whencewhence.com CNAME .
@@ -86919,8 +86907,6 @@ zyrnbh.xyz CNAME .
 *.zyrnbh.xyz CNAME .
 zyusywfejzbya.fun CNAME .
 *.zyusywfejzbya.fun CNAME .
-zyvbvqvjjkakj.top CNAME .
-*.zyvbvqvjjkakj.top CNAME .
 zyyt-tevos.click CNAME .
 *.zyyt-tevos.click CNAME .
 zzfoms.com CNAME .
