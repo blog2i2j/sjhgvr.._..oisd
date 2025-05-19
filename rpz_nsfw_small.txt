@@ -1,9 +1,9 @@
-; Version: 202505190013
+; Version: 202505190113
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43426
-; Last modified: 2025-05-19T00:13:34+0000
+; Entries: 43418
+; Last modified: 2025-05-19T01:13:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747612810 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747616402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -861,6 +861,8 @@ $TTL 30
 *.91cg1.com CNAME .
 91pjav.com CNAME .
 *.91pjav.com CNAME .
+91porn.best CNAME .
+*.91porn.best CNAME .
 91porn.com CNAME .
 *.91porn.com CNAME .
 91porn.sex CNAME .
@@ -3443,6 +3445,8 @@ b2wblog.com CNAME .
 *.b2wblog.com CNAME .
 b4dating.com CNAME .
 *.b4dating.com CNAME .
+b4watch.com CNAME .
+*.b4watch.com CNAME .
 babaseks.com CNAME .
 *.babaseks.com CNAME .
 babatop.xyz CNAME .
@@ -10343,8 +10347,6 @@ everycamgirl.com CNAME .
 *.everycamgirl.com CNAME .
 everydayporn.co CNAME .
 *.everydayporn.co CNAME .
-everydaysexism.com CNAME .
-*.everydaysexism.com CNAME .
 everymature.com CNAME .
 *.everymature.com CNAME .
 evexxx.com CNAME .
@@ -13335,8 +13337,6 @@ gedecomix.com CNAME .
 *.gedecomix.com CNAME .
 geef.nl CNAME .
 *.geef.nl CNAME .
-geefap.com CNAME .
-*.geefap.com CNAME .
 geheimelust.com CNAME .
 *.geheimelust.com CNAME .
 geile-sexverhalen.be CNAME .
@@ -18979,8 +18979,6 @@ kadikoyescortum.com CNAME .
 *.kadikoyescortum.com CNAME .
 kadikoyihl.com CNAME .
 *.kadikoyihl.com CNAME .
-kadincaforum.net CNAME .
-*.kadincaforum.net CNAME .
 kadinguzelligi.com CNAME .
 *.kadinguzelligi.com CNAME .
 kahanisex.net CNAME .
@@ -26179,8 +26177,6 @@ pics-x.com CNAME .
 *.pics-x.com CNAME .
 picsclub.ru CNAME .
 *.picsclub.ru CNAME .
-picsearch.com CNAME .
-*.picsearch.com CNAME .
 picsegg.com CNAME .
 *.picsegg.com CNAME .
 picsets.org CNAME .
@@ -34205,8 +34201,6 @@ skyprivate.com CNAME .
 *.skyprivate.com CNAME .
 skyrimvr.ru CNAME .
 *.skyrimvr.ru CNAME .
-skytamil.net CNAME .
-*.skytamil.net CNAME .
 slackholes.com CNAME .
 *.slackholes.com CNAME .
 slashnude.com CNAME .
@@ -35481,8 +35475,6 @@ tapky.info CNAME .
 *.tapky.info CNAME .
 tappytoon.com CNAME .
 *.tappytoon.com CNAME .
-tapuz.co.il CNAME .
-*.tapuz.co.il CNAME .
 tarego.com CNAME .
 *.tarego.com CNAME .
 tarenoi.com CNAME .
@@ -35961,6 +35953,8 @@ theav.xyz CNAME .
 *.theav.xyz CNAME .
 thebarchive.com CNAME .
 *.thebarchive.com CNAME .
+theberry.com CNAME .
+*.theberry.com CNAME .
 thebestfetishsites.com CNAME .
 *.thebestfetishsites.com CNAME .
 thebestflex.com CNAME .
@@ -38501,8 +38495,6 @@ videosbag.com CNAME .
 *.videosbag.com CNAME .
 videosbang.mobi CNAME .
 *.videosbang.mobi CNAME .
-videoscaseros.info CNAME .
-*.videoscaseros.info CNAME .
 videosdemadurasx.com CNAME .
 *.videosdemadurasx.com CNAME .
 videosdesexo.com.br CNAME .
