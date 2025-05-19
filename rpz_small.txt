@@ -1,9 +1,9 @@
-; Version: 202505190409
+; Version: 202505190509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86892
-; Last modified: 2025-05-19T04:09:05+0000
+; Entries: 86870
+; Last modified: 2025-05-19T05:09:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747627208 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747630808 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -515,8 +515,6 @@ $TTL 30
 *.14381834.xyz CNAME .
 14474f114f.com CNAME .
 *.14474f114f.com CNAME .
-1482760194.rsc.cdn77.org CNAME .
-*.1482760194.rsc.cdn77.org CNAME .
 148dfe140d0f3d5e.com CNAME .
 *.148dfe140d0f3d5e.com CNAME .
 14cpoff22.de CNAME .
@@ -11445,8 +11443,6 @@ anguishworst.com CNAME .
 *.anguishworst.com CNAME .
 angularpoppyrobbing.com CNAME .
 *.angularpoppyrobbing.com CNAME .
-anhwsdxefpks.com CNAME .
-*.anhwsdxefpks.com CNAME .
 anickeebsoon.com CNAME .
 *.anickeebsoon.com CNAME .
 anidianskirts.com CNAME .
@@ -20685,8 +20681,6 @@ chocolatine.apexlegendsstatus.com CNAME .
 *.chocolatine.apexlegendsstatus.com CNAME .
 choconart.com CNAME .
 *.choconart.com CNAME .
-chogakdicolic.shop CNAME .
-*.chogakdicolic.shop CNAME .
 chokeweaknessheat.com CNAME .
 *.chokeweaknessheat.com CNAME .
 cholatetapalos.com CNAME .
@@ -34561,8 +34555,6 @@ fhiulnbk.cam CNAME .
 *.fhiulnbk.cam CNAME .
 fhjrpcmkyrkvi.space CNAME .
 *.fhjrpcmkyrkvi.space CNAME .
-fhl05170ps.com CNAME .
-*.fhl05170ps.com CNAME .
 fhl05181ps.com CNAME .
 *.fhl05181ps.com CNAME .
 fhldb.site CNAME .
@@ -39533,8 +39525,6 @@ haddock.simgenie.app CNAME .
 *.haddock.simgenie.app CNAME .
 hades.qyer.com CNAME .
 *.hades.qyer.com CNAME .
-hadmiredinde.info CNAME .
-*.hadmiredinde.info CNAME .
 hadsans.com CNAME .
 *.hadsans.com CNAME .
 hadsanz.com CNAME .
@@ -55947,8 +55937,6 @@ omission119.fun CNAME .
 *.omission119.fun CNAME .
 omissionmexicanengineering.com CNAME .
 *.omissionmexicanengineering.com CNAME .
-omitcalculategalactic.com CNAME .
-*.omitcalculategalactic.com CNAME .
 omjqukadtolg.com CNAME .
 *.omjqukadtolg.com CNAME .
 omjrzojitc.com CNAME .
@@ -56225,8 +56213,6 @@ onroggenrolaa.com CNAME .
 *.onroggenrolaa.com CNAME .
 onsandindeedth.com CNAME .
 *.onsandindeedth.com CNAME .
-onscormation.info CNAME .
-*.onscormation.info CNAME .
 onseviperon.com CNAME .
 *.onseviperon.com CNAME .
 onshowit.com CNAME .
@@ -64663,8 +64649,6 @@ rev.lapippa.com CNAME .
 *.rev.lapippa.com CNAME .
 rev2pub.com CNAME .
 *.rev2pub.com CNAME .
-rev4rtb.com CNAME .
-*.rev4rtb.com CNAME .
 revbigo.com CNAME .
 *.revbigo.com CNAME .
 revcontent.com CNAME .
@@ -69771,8 +69755,6 @@ smlypotr.net CNAME .
 *.smlypotr.net CNAME .
 smokecreaseunpack.com CNAME .
 *.smokecreaseunpack.com CNAME .
-smokedbluish.com CNAME .
-*.smokedbluish.com CNAME .
 smokeorganizervideo.com CNAME .
 *.smokeorganizervideo.com CNAME .
 smooth-marriage.com CNAME .
@@ -70969,8 +70951,6 @@ squirrel.cobaltconnect.com CNAME .
 *.squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
 *.squirrel.laravel-mix.com CNAME .
-squirrelformatapologise.com CNAME .
-*.squirrelformatapologise.com CNAME .
 squirrels.getsquirrel.co CNAME .
 *.squirrels.getsquirrel.co CNAME .
 squirtpresented.com CNAME .
@@ -81923,8 +81903,6 @@ wakpaqamxvum.com CNAME .
 *.wakpaqamxvum.com CNAME .
 walkerbayonet.com CNAME .
 *.walkerbayonet.com CNAME .
-walkingtutor.com CNAME .
-*.walkingtutor.com CNAME .
 wall.vgr.com CNAME .
 *.wall.vgr.com CNAME .
 wallaby.cron.help CNAME .
