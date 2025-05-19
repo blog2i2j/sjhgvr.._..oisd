@@ -1,9 +1,9 @@
-; Version: 202505190615
+; Version: 202505190715
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43366
-; Last modified: 2025-05-19T06:15:24+0000
+; Entries: 43358
+; Last modified: 2025-05-19T07:15:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747634405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747638006 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -113,6 +113,8 @@ $TTL 30
 *.161sex.com CNAME .
 168porn4.com CNAME .
 *.168porn4.com CNAME .
+169bbs.com CNAME .
+*.169bbs.com CNAME .
 16honeys.com CNAME .
 *.16honeys.com CNAME .
 171gifs.com CNAME .
@@ -1439,8 +1441,6 @@ aebn.com CNAME .
 *.aebn.com CNAME .
 aebn.net CNAME .
 *.aebn.net CNAME .
-aecrimecentral.com CNAME .
-*.aecrimecentral.com CNAME .
 aenudes.com.br CNAME .
 *.aenudes.com.br CNAME .
 aepics.com CNAME .
@@ -4159,6 +4159,8 @@ beehentai.com CNAME .
 *.beehentai.com CNAME .
 beemtube.com CNAME .
 *.beemtube.com CNAME .
+beeplog.de CNAME .
+*.beeplog.de CNAME .
 beestia.com CNAME .
 *.beestia.com CNAME .
 befuck.me CNAME .
@@ -9637,8 +9639,6 @@ eporno.sk CNAME .
 *.eporno.sk CNAME .
 epornrec.com CNAME .
 *.epornrec.com CNAME .
-epornuha.com CNAME .
-*.epornuha.com CNAME .
 epornvid.com CNAME .
 *.epornvid.com CNAME .
 epornz.com CNAME .
@@ -22765,8 +22765,6 @@ movies123-online.me CNAME .
 *.movies123-online.me CNAME .
 moviesarena.com CNAME .
 *.moviesarena.com CNAME .
-moviesda.city CNAME .
-*.moviesda.city CNAME .
 moviessexscenes.com CNAME .
 *.moviessexscenes.com CNAME .
 movietoob.com CNAME .
@@ -24763,8 +24761,6 @@ ogosex.com.ua CNAME .
 *.ogosex.com.ua CNAME .
 ogosex.date CNAME .
 *.ogosex.date CNAME .
-ogosexby.org CNAME .
-*.ogosexby.org CNAME .
 ogospel.com CNAME .
 *.ogospel.com CNAME .
 ogporn.com CNAME .
@@ -25885,8 +25881,6 @@ phimheo88.com CNAME .
 *.phimheo88.com CNAME .
 phimsex-a1.com CNAME .
 *.phimsex-a1.com CNAME .
-phimsex.bid CNAME .
-*.phimsex.bid CNAME .
 phimsex.bio CNAME .
 *.phimsex.bio CNAME .
 phimsex.boo CNAME .
@@ -35437,8 +35431,6 @@ taribada.sbs CNAME .
 *.taribada.sbs CNAME .
 taschengeldladies.de CNAME .
 *.taschengeldladies.de CNAME .
-tasexy.com CNAME .
-*.tasexy.com CNAME .
 tastyblacks.com CNAME .
 *.tastyblacks.com CNAME .
 tastymovie.com CNAME .
@@ -35503,8 +35495,6 @@ teeenz.com CNAME .
 *.teeenz.com CNAME .
 teen-angels.org CNAME .
 *.teen-angels.org CNAME .
-teen-bin.com CNAME .
-*.teen-bin.com CNAME .
 teen-porno.ru CNAME .
 *.teen-porno.ru CNAME .
 teen-pussy-tube.com CNAME .
@@ -40981,6 +40971,8 @@ xojav.tv CNAME .
 *.xojav.tv CNAME .
 xomass.com CNAME .
 *.xomass.com CNAME .
+xonly8.com CNAME .
+*.xonly8.com CNAME .
 xonuox.net CNAME .
 *.xonuox.net CNAME .
 xoporn.com CNAME .
