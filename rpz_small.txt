@@ -1,9 +1,9 @@
-; Version: 202505201912
+; Version: 202505202010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86752
-; Last modified: 2025-05-20T19:12:05+0000
+; Entries: 86734
+; Last modified: 2025-05-20T20:10:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747767603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747771204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21167,8 +21167,6 @@ cleverads.vn CNAME .
 *.cleverads.vn CNAME .
 cleverjump.org CNAME .
 *.cleverjump.org CNAME .
-clevernesscolloquial.com CNAME .
-*.clevernesscolloquial.com CNAME .
 clevernessdeclare.com CNAME .
 *.clevernessdeclare.com CNAME .
 clevernet.vn CNAME .
@@ -23453,8 +23451,6 @@ covivado.club CNAME .
 *.covivado.club CNAME .
 cowardsagrias.com CNAME .
 *.cowardsagrias.com CNAME .
-cowhaits.com CNAME .
-*.cowhaits.com CNAME .
 cowpeawahoos.shop CNAME .
 *.cowpeawahoos.shop CNAME .
 cowsonbaggara.shop CNAME .
@@ -37665,8 +37661,6 @@ gladsince.com CNAME .
 *.gladsince.com CNAME .
 glaidalr.net CNAME .
 *.glaidalr.net CNAME .
-glaidekeemp.net CNAME .
-*.glaidekeemp.net CNAME .
 glaidipt.net CNAME .
 *.glaidipt.net CNAME .
 glaigaunsoroogh.com CNAME .
@@ -38755,8 +38749,6 @@ gredraupse.net CNAME .
 *.gredraupse.net CNAME .
 gredritchupsa.net CNAME .
 *.gredritchupsa.net CNAME .
-gredroug.net CNAME .
-*.gredroug.net CNAME .
 greecewizards.com CNAME .
 *.greecewizards.com CNAME .
 greeckoamseebo.net CNAME .
@@ -41785,8 +41777,6 @@ hypocrisysmallestbelieving.com CNAME .
 *.hypocrisysmallestbelieving.com CNAME .
 hyrewusha.pro CNAME .
 *.hyrewusha.pro CNAME .
-hyssopswany.com CNAME .
-*.hyssopswany.com CNAME .
 hysteriaculinaryexpect.com CNAME .
 *.hysteriaculinaryexpect.com CNAME .
 hysteriaethicalsewer.com CNAME .
@@ -49189,8 +49179,6 @@ luciuspushedsensible.com CNAME .
 *.luciuspushedsensible.com CNAME .
 luckackaftout.net CNAME .
 *.luckackaftout.net CNAME .
-luckaltute.net CNAME .
-*.luckaltute.net CNAME .
 luckilygelatine.com CNAME .
 *.luckilygelatine.com CNAME .
 luckilyhurry.com CNAME .
@@ -53605,8 +53593,6 @@ nervessharehardness.com CNAME .
 *.nervessharehardness.com CNAME .
 nervoustolsel.com CNAME .
 *.nervoustolsel.com CNAME .
-neshigreek.com CNAME .
-*.neshigreek.com CNAME .
 nesiotbeworry.shop CNAME .
 *.nesiotbeworry.shop CNAME .
 nessainy.net CNAME .
@@ -57679,8 +57665,6 @@ paiwariaroids.shop CNAME .
 *.paiwariaroids.shop CNAME .
 paiwena.xyz CNAME .
 *.paiwena.xyz CNAME .
-paiwhainaicas.com CNAME .
-*.paiwhainaicas.com CNAME .
 paizowheefash.net CNAME .
 *.paizowheefash.net CNAME .
 pajamasguests.com CNAME .
@@ -71171,8 +71155,6 @@ stallionshootimmigrant.com CNAME .
 *.stallionshootimmigrant.com CNAME .
 stallsmalnutrition.com CNAME .
 *.stallsmalnutrition.com CNAME .
-staltoumoaze.com CNAME .
-*.staltoumoaze.com CNAME .
 stammerail.com CNAME .
 *.stammerail.com CNAME .
 stampsmindlessscrap.com CNAME .
