@@ -1,9 +1,9 @@
-; Version: 202505201010
+; Version: 202505201110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86816
-; Last modified: 2025-05-20T10:10:49+0000
+; Entries: 86800
+; Last modified: 2025-05-20T11:10:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747735203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747738803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9023,8 +9023,6 @@ aikraith.net CNAME .
 *.aikraith.net CNAME .
 ailcloister.com CNAME .
 *.ailcloister.com CNAME .
-ailrouno.net CNAME .
-*.ailrouno.net CNAME .
 ailtashoackie.com CNAME .
 *.ailtashoackie.com CNAME .
 ailtodsookr.com CNAME .
@@ -20737,8 +20735,6 @@ chougail.net CNAME .
 *.chougail.net CNAME .
 choupsee.com CNAME .
 *.choupsee.com CNAME .
-choupsisaso.com CNAME .
-*.choupsisaso.com CNAME .
 chouraip.com CNAME .
 *.chouraip.com CNAME .
 chourdain.com CNAME .
@@ -38411,8 +38407,6 @@ googlesyndication.com CNAME .
 *.googlesyndication.com CNAME .
 googlevads-cn.com CNAME .
 *.googlevads-cn.com CNAME .
-googotho.top CNAME .
-*.googotho.top CNAME .
 goohimom.net CNAME .
 *.goohimom.net CNAME .
 goomaphy.com CNAME .
@@ -39057,8 +39051,6 @@ gruffwhitsun.com CNAME .
 *.gruffwhitsun.com CNAME .
 grugnampouksi.net CNAME .
 *.grugnampouksi.net CNAME .
-grujeeroowie.com CNAME .
-*.grujeeroowie.com CNAME .
 grumblestardomtactful.com CNAME .
 *.grumblestardomtactful.com CNAME .
 grumpyhopesucceeding.com CNAME .
@@ -44229,8 +44221,6 @@ jeehathu.com CNAME .
 *.jeehathu.com CNAME .
 jeejujou.net CNAME .
 *.jeejujou.net CNAME .
-jeekomih.com CNAME .
-*.jeekomih.com CNAME .
 jeepsaut.com CNAME .
 *.jeepsaut.com CNAME .
 jeeryzest.com CNAME .
@@ -46811,8 +46801,6 @@ laurel.rovicorp.com CNAME .
 *.laurel.rovicorp.com CNAME .
 laustoowagosha.net CNAME .
 *.laustoowagosha.net CNAME .
-lauwhounou.net CNAME .
-*.lauwhounou.net CNAME .
 lavageruptile.shop CNAME .
 *.lavageruptile.shop CNAME .
 lavamedia.vn CNAME .
@@ -54289,8 +54277,6 @@ noapeveety.top CNAME .
 *.noapeveety.top CNAME .
 noapsovochu.net CNAME .
 *.noapsovochu.net CNAME .
-noarefocoush.com CNAME .
-*.noarefocoush.com CNAME .
 noavoahevugrib.com CNAME .
 *.noavoahevugrib.com CNAME .
 noawanincreasein.com CNAME .
@@ -61423,8 +61409,6 @@ psoanoaweek.net CNAME .
 *.psoanoaweek.net CNAME .
 psoansumt.net CNAME .
 *.psoansumt.net CNAME .
-psoaphorsoa.com CNAME .
-*.psoaphorsoa.com CNAME .
 psockapa.net CNAME .
 *.psockapa.net CNAME .
 psoltoanoucamte.net CNAME .
