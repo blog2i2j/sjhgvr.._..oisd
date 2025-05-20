@@ -1,9 +1,9 @@
-; Version: 202505201711
+; Version: 202505201810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86680
-; Last modified: 2025-05-20T17:11:08+0000
+; Entries: 86664
+; Last modified: 2025-05-20T18:10:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747760408 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747764004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -34649,8 +34649,6 @@ filmesonlinegratis.com CNAME .
 *.filmesonlinegratis.com CNAME .
 filmoljupci.com CNAME .
 *.filmoljupci.com CNAME .
-filroomewhoogug.net CNAME .
-*.filroomewhoogug.net CNAME .
 filter-eu.adportonic.com CNAME .
 *.filter-eu.adportonic.com CNAME .
 filter-eu.adsailor.com CNAME .
@@ -35577,8 +35575,6 @@ foone.com.br CNAME .
 *.foone.com.br CNAME .
 foorcdn.com CNAME .
 *.foorcdn.com CNAME .
-foostoug.com CNAME .
-*.foostoug.com CNAME .
 foot.wiki CNAME .
 *.foot.wiki CNAME .
 footar.com CNAME .
@@ -54123,8 +54119,6 @@ nktydx.icu CNAME .
 *.nktydx.icu CNAME .
 nkydma.newbuild.studio CNAME .
 *.nkydma.newbuild.studio CNAME .
-nl.almagrabalkish.shop CNAME .
-*.nl.almagrabalkish.shop CNAME .
 nl.fapnado.xxx CNAME .
 *.nl.fapnado.xxx CNAME .
 nl.fapnow.xxx CNAME .
@@ -57241,8 +57235,6 @@ owfjlchuvzl.com CNAME .
 *.owfjlchuvzl.com CNAME .
 owhaptih.net CNAME .
 *.owhaptih.net CNAME .
-owheezoatoaphoo.net CNAME .
-*.owheezoatoaphoo.net CNAME .
 owhlmuxze.com CNAME .
 *.owhlmuxze.com CNAME .
 owhmahkpeluw.com CNAME .
@@ -74457,8 +74449,6 @@ tattepush.com CNAME .
 *.tattepush.com CNAME .
 tattle.api.osano.com CNAME .
 *.tattle.api.osano.com CNAME .
-taucaphoful.net CNAME .
-*.taucaphoful.net CNAME .
 taugookoaw.net CNAME .
 *.taugookoaw.net CNAME .
 tauphaub.net CNAME .
@@ -75859,8 +75849,6 @@ toafuptoophol.com CNAME .
 *.toafuptoophol.com CNAME .
 toaglegi.com CNAME .
 *.toaglegi.com CNAME .
-toamaustouy.com CNAME .
-*.toamaustouy.com CNAME .
 toangroi.xyz CNAME .
 *.toangroi.xyz CNAME .
 toapz.xyz CNAME .
@@ -75955,8 +75943,6 @@ tolerant126.fun CNAME .
 *.tolerant126.fun CNAME .
 tolerantignorancepicturesque.com CNAME .
 *.tolerantignorancepicturesque.com CNAME .
-toltooth.net CNAME .
-*.toltooth.net CNAME .
 tomatoesstripemeaningless.com CNAME .
 *.tomatoesstripemeaningless.com CNAME .
 tomatoitch.com CNAME .
@@ -82513,8 +82499,6 @@ whaijoorgoo.com CNAME .
 *.whaijoorgoo.com CNAME .
 whairtoa.com CNAME .
 *.whairtoa.com CNAME .
-whaisastiltairs.com CNAME .
-*.whaisastiltairs.com CNAME .
 whale.gdebrauwer.dev CNAME .
 *.whale.gdebrauwer.dev CNAME .
 whaleads.com CNAME .
