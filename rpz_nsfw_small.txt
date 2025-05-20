@@ -1,9 +1,9 @@
-; Version: 202505200415
+; Version: 202505200516
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43406
-; Last modified: 2025-05-20T04:15:39+0000
+; Last modified: 2025-05-20T05:16:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747713606 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747717204 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1187,8 +1187,6 @@ adult-live.com CNAME .
 *.adult-live.com CNAME .
 adult-movs.cc CNAME .
 *.adult-movs.cc CNAME .
-adult-pirate.com CNAME .
-*.adult-pirate.com CNAME .
 adult-sex-games.com CNAME .
 *.adult-sex-games.com CNAME .
 adult-top-vids.com CNAME .
@@ -14817,6 +14815,8 @@ hemsida.eu CNAME .
 *.hemsida.eu CNAME .
 hen-tie.net CNAME .
 *.hen-tie.net CNAME .
+henchan.pro CNAME .
+*.henchan.pro CNAME .
 hendico.com CNAME .
 *.hendico.com CNAME .
 henfus.com CNAME .
@@ -15959,8 +15959,6 @@ hotasianp.com CNAME .
 *.hotasianp.com CNAME .
 hotasianporn.video CNAME .
 *.hotasianporn.video CNAME .
-hotavenuex.com CNAME .
-*.hotavenuex.com CNAME .
 hotbaba.xyz CNAME .
 *.hotbaba.xyz CNAME .
 hotbigass.com CNAME .
@@ -39405,6 +39403,8 @@ websexfilms.com CNAME .
 *.websexfilms.com CNAME .
 websexx.com CNAME .
 *.websexx.com CNAME .
+websitebokep.com CNAME .
+*.websitebokep.com CNAME .
 webstarterz.com CNAME .
 *.webstarterz.com CNAME .
 webtoon.xyz CNAME .
