@@ -1,9 +1,9 @@
-; Version: 202505200910
+; Version: 202505201010
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86832
-; Last modified: 2025-05-20T09:10:08+0000
+; Entries: 86816
+; Last modified: 2025-05-20T10:10:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747731605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747735203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13643,8 +13643,6 @@ aughoomsoushy.com CNAME .
 *.aughoomsoushy.com CNAME .
 augitessinamin.top CNAME .
 *.augitessinamin.top CNAME .
-augnaimpeept.net CNAME .
-*.augnaimpeept.net CNAME .
 augraisto.com CNAME .
 *.augraisto.com CNAME .
 augurersoilure.space CNAME .
@@ -14645,8 +14643,6 @@ baiducom.bj.bcebos.com CNAME .
 *.baiducom.bj.bcebos.com CNAME .
 baifen.music.baidu.com CNAME .
 *.baifen.music.baidu.com CNAME .
-baigostapsid.net CNAME .
-*.baigostapsid.net CNAME .
 baihaimauve.net CNAME .
 *.baihaimauve.net CNAME .
 baihoagleewhaum.net CNAME .
@@ -15229,8 +15225,6 @@ battleautomobile.com CNAME .
 *.battleautomobile.com CNAME .
 baubogla.com CNAME .
 *.baubogla.com CNAME .
-baucheedoa.net CNAME .
-*.baucheedoa.net CNAME .
 bauchleredries.com CNAME .
 *.bauchleredries.com CNAME .
 baucuptaugo.com CNAME .
@@ -23427,8 +23421,6 @@ couptoug.net CNAME .
 *.couptoug.net CNAME .
 courageousdiedbow.com CNAME .
 *.courageousdiedbow.com CNAME .
-courewauph.com CNAME .
-*.courewauph.com CNAME .
 courilcryptscuittle.cfd CNAME .
 *.courilcryptscuittle.cfd CNAME .
 coursejavgg124.fun CNAME .
@@ -36785,8 +36777,6 @@ gapersinglesa.com CNAME .
 *.gapersinglesa.com CNAME .
 gapgrewarea.com CNAME .
 *.gapgrewarea.com CNAME .
-gaphoadsu.com CNAME .
-*.gaphoadsu.com CNAME .
 gapp1.com CNAME .
 *.gapp1.com CNAME .
 gaptooju.net CNAME .
@@ -52673,8 +52663,6 @@ muddyhonorarymy.com CNAME .
 *.muddyhonorarymy.com CNAME .
 mudodqjhyc.com CNAME .
 *.mudodqjhyc.com CNAME .
-mudrouraung.net CNAME .
-*.mudrouraung.net CNAME .
 muellfrei.de CNAME .
 *.muellfrei.de CNAME .
 mugpothop.com CNAME .
@@ -68895,8 +68883,6 @@ shoftoupsouxoam.net CNAME .
 *.shoftoupsouxoam.net CNAME .
 shohipsoalr.top CNAME .
 *.shohipsoalr.top CNAME .
-shokanouch.com CNAME .
-*.shokanouch.com CNAME .
 sholke.com CNAME .
 *.sholke.com CNAME .
 sholraidsoalro.net CNAME .
@@ -81455,8 +81441,6 @@ vooodkabelochkaa.com CNAME .
 *.vooodkabelochkaa.com CNAME .
 voopaibauth.net CNAME .
 *.voopaibauth.net CNAME .
-vooptikoph.net CNAME .
-*.vooptikoph.net CNAME .
 vooshagy.net CNAME .
 *.vooshagy.net CNAME .
 voostaidoo.net CNAME .
