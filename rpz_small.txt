@@ -1,9 +1,9 @@
-; Version: 202505201610
+; Version: 202505201711
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86698
-; Last modified: 2025-05-20T16:10:49+0000
+; Entries: 86680
+; Last modified: 2025-05-20T17:11:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747756804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747760408 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -29009,8 +29009,6 @@ dirlink.net CNAME .
 *.dirlink.net CNAME .
 dirty.games CNAME .
 *.dirty.games CNAME .
-dirtyasmr.com CNAME .
-*.dirtyasmr.com CNAME .
 disableadblock.com CNAME .
 *.disableadblock.com CNAME .
 disablepovertyhers.com CNAME .
@@ -39219,8 +39217,6 @@ guatusowanned.shop CNAME .
 *.guatusowanned.shop CNAME .
 guberlalunt.shop CNAME .
 *.guberlalunt.shop CNAME .
-gubsikroord.net CNAME .
-*.gubsikroord.net CNAME .
 guchihyfa.pro CNAME .
 *.guchihyfa.pro CNAME .
 guckoash.net CNAME .
@@ -45973,8 +45969,6 @@ koogreep.com CNAME .
 *.koogreep.com CNAME .
 kookypeach.com CNAME .
 *.kookypeach.com CNAME .
-koomanodobelouy.net CNAME .
-*.koomanodobelouy.net CNAME .
 koomoaboatapoa.xyz CNAME .
 *.koomoaboatapoa.xyz CNAME .
 koophaip.net CNAME .
@@ -47151,8 +47145,6 @@ letmenowme.biz CNAME .
 *.letmenowme.biz CNAME .
 letmetralala.com CNAME .
 *.letmetralala.com CNAME .
-letmewatchthis.pl CNAME .
-*.letmewatchthis.pl CNAME .
 letminimalvacancy.com CNAME .
 *.letminimalvacancy.com CNAME .
 letopdusexe.net CNAME .
@@ -47557,8 +47549,6 @@ lirotroodles.com CNAME .
 *.lirotroodles.com CNAME .
 lishibu.com CNAME .
 *.lishibu.com CNAME .
-lissaizocmoog.com CNAME .
-*.lissaizocmoog.com CNAME .
 listenedarsonproceedings.com CNAME .
 *.listenedarsonproceedings.com CNAME .
 listenedmusician.com CNAME .
@@ -48901,8 +48891,6 @@ lordeeksogoatee.net CNAME .
 *.lordeeksogoatee.net CNAME .
 lordletmosaist.top CNAME .
 *.lordletmosaist.top CNAME .
-lorsifteerd.net CNAME .
-*.lorsifteerd.net CNAME .
 lorswhowishe.com CNAME .
 *.lorswhowishe.com CNAME .
 lorybnfh.com CNAME .
@@ -60041,8 +60029,6 @@ poorgasillago.click CNAME .
 *.poorgasillago.click CNAME .
 poorlytanrubbing.com CNAME .
 *.poorlytanrubbing.com CNAME .
-poosoahe.com CNAME .
-*.poosoahe.com CNAME .
 poowucatuz.net CNAME .
 *.poowucatuz.net CNAME .
 pop-under.ru CNAME .
@@ -63847,8 +63833,6 @@ redwolfmoon.com CNAME .
 *.redwolfmoon.com CNAME .
 reecasoabaiz.net CNAME .
 *.reecasoabaiz.net CNAME .
-reecegrita.com CNAME .
-*.reecegrita.com CNAME .
 reedpraised.com CNAME .
 *.reedpraised.com CNAME .
 reedsbullyingpastel.com CNAME .
@@ -86107,8 +86091,6 @@ zatnoh.com CNAME .
 *.zatnoh.com CNAME .
 zauchogligreted.net CNAME .
 *.zauchogligreted.net CNAME .
-zaugaunachuchiw.net CNAME .
-*.zaugaunachuchiw.net CNAME .
 zauroonephofiph.com CNAME .
 *.zauroonephofiph.com CNAME .
 zautfqxtmfvjr.buzz CNAME .
