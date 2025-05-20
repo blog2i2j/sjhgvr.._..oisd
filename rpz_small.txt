@@ -1,9 +1,9 @@
-; Version: 202505200410
+; Version: 202505200510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86896
-; Last modified: 2025-05-20T04:10:37+0000
+; Entries: 86872
+; Last modified: 2025-05-20T05:10:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747713606 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747717204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1477,8 +1477,6 @@ $TTL 30
 *.35a92e241c.30ea3091fb.com CNAME .
 360.anatic.net CNAME .
 *.360.anatic.net CNAME .
-360640.com CNAME .
-*.360640.com CNAME .
 360protected.com CNAME .
 *.360protected.com CNAME .
 360yield.com CNAME .
@@ -18283,8 +18281,6 @@ buylnk.com CNAME .
 *.buylnk.com CNAME .
 buysellads.com CNAME .
 *.buysellads.com CNAME .
-buzumpaiksautoa.com CNAME .
-*.buzumpaiksautoa.com CNAME .
 buzvl.com CNAME .
 *.buzvl.com CNAME .
 buzzard.donotresearch.net CNAME .
@@ -20043,8 +20039,6 @@ cee1.iteye.com CNAME .
 *.cee1.iteye.com CNAME .
 ceechuwaukah.com CNAME .
 *.ceechuwaukah.com CNAME .
-ceegrezushu.net CNAME .
-*.ceegrezushu.net CNAME .
 ceegriwuwoa.net CNAME .
 *.ceegriwuwoa.net CNAME .
 ceehipsy.com CNAME .
@@ -20431,8 +20425,6 @@ checbox.cc CNAME .
 *.checbox.cc CNAME .
 check-now.online CNAME .
 *.check-now.online CNAME .
-check-tl-ver-154-1.com CNAME .
-*.check-tl-ver-154-1.com CNAME .
 check-tl-ver-294-2.com CNAME .
 *.check-tl-ver-294-2.com CNAME .
 check-tl-ver-54-1.com CNAME .
@@ -32065,8 +32057,6 @@ ellipticaltrack.com CNAME .
 *.ellipticaltrack.com CNAME .
 eloahamomum.shop CNAME .
 *.eloahamomum.shop CNAME .
-eloawiphi.net CNAME .
-*.eloawiphi.net CNAME .
 elongatedmiddle.com CNAME .
 *.elongatedmiddle.com CNAME .
 elonreptiloid.com CNAME .
@@ -37911,12 +37901,8 @@ glogoowo.net CNAME .
 *.glogoowo.net CNAME .
 glogopse.net CNAME .
 *.glogopse.net CNAME .
-glolsoarti.net CNAME .
-*.glolsoarti.net CNAME .
 gloodsie.com CNAME .
 *.gloodsie.com CNAME .
-gloofeeghiby.net CNAME .
-*.gloofeeghiby.net CNAME .
 glooftezoad.net CNAME .
 *.glooftezoad.net CNAME .
 glooghalty.net CNAME .
@@ -38669,8 +38655,6 @@ grallichalvas.com CNAME .
 *.grallichalvas.com CNAME .
 gralneurooly.com CNAME .
 *.gralneurooly.com CNAME .
-gralrekr.net CNAME .
-*.gralrekr.net CNAME .
 gramombird.com CNAME .
 *.gramombird.com CNAME .
 granaryvernonunworthy.com CNAME .
@@ -38997,8 +38981,6 @@ groovesangka.shop CNAME .
 *.groovesangka.shop CNAME .
 groovy-manul.pikapod.net CNAME .
 *.groovy-manul.pikapod.net CNAME .
-grortalt.xyz CNAME .
-*.grortalt.xyz CNAME .
 grosserhis.top CNAME .
 *.grosserhis.top CNAME .
 grotaich.net CNAME .
@@ -49943,8 +49925,6 @@ mallettraumatize.com CNAME .
 *.mallettraumatize.com CNAME .
 malog.byapps.co.kr CNAME .
 *.malog.byapps.co.kr CNAME .
-maloowordorgaux.com CNAME .
-*.maloowordorgaux.com CNAME .
 maltcontaining.com CNAME .
 *.maltcontaining.com CNAME .
 malthaeurite.com CNAME .
@@ -58985,8 +58965,6 @@ phoneboothsabledomesticated.com CNAME .
 *.phoneboothsabledomesticated.com CNAME .
 phonehalfmoonwild.com CNAME .
 *.phonehalfmoonwild.com CNAME .
-phoognol.com CNAME .
-*.phoognol.com CNAME .
 phoosaurgap.net CNAME .
 *.phoosaurgap.net CNAME .
 phoossax.net CNAME .
@@ -86669,8 +86647,6 @@ zonealta.com CNAME .
 *.zonealta.com CNAME .
 zoneremeriti.top CNAME .
 *.zoneremeriti.top CNAME .
-zonsingise.com CNAME .
-*.zonsingise.com CNAME .
 zonupiza.com CNAME .
 *.zonupiza.com CNAME .
 zoogripi.com CNAME .
