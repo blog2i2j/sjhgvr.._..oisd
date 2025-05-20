@@ -1,9 +1,9 @@
-; Version: 202505202010
+; Version: 202505202110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86734
-; Last modified: 2025-05-20T20:10:19+0000
+; Entries: 86712
+; Last modified: 2025-05-20T21:10:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747771204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747774803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8815,8 +8815,6 @@ aggressivefrequentneckquirky.com CNAME .
 *.aggressivefrequentneckquirky.com CNAME .
 agi-static.indiatimes.com CNAME .
 *.agi-static.indiatimes.com CNAME .
-agilaujoa.net CNAME .
-*.agilaujoa.net CNAME .
 agilemedia.jp CNAME .
 *.agilemedia.jp CNAME .
 agileskincareunrented.com CNAME .
@@ -13751,8 +13749,6 @@ authcaptcha.com CNAME .
 *.authcaptcha.com CNAME .
 authimtaiwoor.com CNAME .
 *.authimtaiwoor.com CNAME .
-authognu.com CNAME .
-*.authognu.com CNAME .
 authoritativepartedusher.com CNAME .
 *.authoritativepartedusher.com CNAME .
 authoritiesemotional.com CNAME .
@@ -41951,8 +41947,6 @@ ibkoiw.xyz CNAME .
 *.ibkoiw.xyz CNAME .
 ibmsqqyrqb.com CNAME .
 *.ibmsqqyrqb.com CNAME .
-iboobeelt.net CNAME .
-*.iboobeelt.net CNAME .
 ibqemk.icu CNAME .
 *.ibqemk.icu CNAME .
 ibqmey.xyz CNAME .
@@ -56989,8 +56983,6 @@ ouphouch.com CNAME .
 *.ouphouch.com CNAME .
 ouplc.icu CNAME .
 *.ouplc.icu CNAME .
-oupusoma.net CNAME .
-*.oupusoma.net CNAME .
 ouqo05161luj.com CNAME .
 *.ouqo05161luj.com CNAME .
 ouqo05170luj.com CNAME .
@@ -61491,8 +61483,6 @@ ptelsudsew.net CNAME .
 *.ptelsudsew.net CNAME .
 ptephowoop.net CNAME .
 *.ptephowoop.net CNAME .
-ptewarin.net CNAME .
-*.ptewarin.net CNAME .
 ptichoolsougn.net CNAME .
 *.ptichoolsougn.net CNAME .
 ptifaustounsaz.com CNAME .
@@ -72881,8 +72871,6 @@ stunliver.com CNAME .
 *.stunliver.com CNAME .
 stunning-lift.com CNAME .
 *.stunning-lift.com CNAME .
-stunoolri.net CNAME .
-*.stunoolri.net CNAME .
 stunsbarbola.website CNAME .
 *.stunsbarbola.website CNAME .
 stunthypocrisy.com CNAME .
@@ -75061,8 +75049,6 @@ thanksgivingtamepending.com CNAME .
 *.thanksgivingtamepending.com CNAME .
 thanosofcos5.com CNAME .
 *.thanosofcos5.com CNAME .
-thargookroge.net CNAME .
-*.thargookroge.net CNAME .
 thatbeefysit.com CNAME .
 *.thatbeefysit.com CNAME .
 thatvalhall.digital CNAME .
@@ -75897,8 +75883,6 @@ toangroi.xyz CNAME .
 *.toangroi.xyz CNAME .
 toapz.xyz CNAME .
 *.toapz.xyz CNAME .
-toashapegroo.com CNAME .
-*.toashapegroo.com CNAME .
 toathoule.com CNAME .
 *.toathoule.com CNAME .
 toawaups.net CNAME .
@@ -82385,8 +82369,6 @@ weeoffer.com CNAME .
 *.weeoffer.com CNAME .
 weesatoothoamu.net CNAME .
 *.weesatoothoamu.net CNAME .
-weeshounithula.net CNAME .
-*.weeshounithula.net CNAME .
 weethery.com CNAME .
 *.weethery.com CNAME .
 weeweesozoned.com CNAME .
@@ -83097,8 +83079,6 @@ winpbn.com CNAME .
 *.winpbn.com CNAME .
 winr.online CNAME .
 *.winr.online CNAME .
-winsaijy.top CNAME .
-*.winsaijy.top CNAME .
 winslinks.com CNAME .
 *.winslinks.com CNAME .
 winter05032026.shop CNAME .
@@ -84919,8 +84899,6 @@ xml.rtxplatform.com CNAME .
 *.xml.rtxplatform.com CNAME .
 xml.safesearchguard.com CNAME .
 *.xml.safesearchguard.com CNAME .
-xml.sagewwll1.online CNAME .
-*.xml.sagewwll1.online CNAME .
 xml.saroadexchange.com CNAME .
 *.xml.saroadexchange.com CNAME .
 xml.search-house.co CNAME .
