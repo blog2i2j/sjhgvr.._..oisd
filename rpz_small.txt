@@ -1,9 +1,9 @@
-; Version: 202505201310
+; Version: 202505201411
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86760
-; Last modified: 2025-05-20T13:10:31+0000
+; Entries: 86744
+; Last modified: 2025-05-20T14:11:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747746002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747749605 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19033,8 +19033,6 @@ canopusacrux.top CNAME .
 *.canopusacrux.top CNAME .
 canopusastray.top CNAME .
 *.canopusastray.top CNAME .
-canorgirgu.net CNAME .
-*.canorgirgu.net CNAME .
 canroyastrol.click CNAME .
 *.canroyastrol.click CNAME .
 canstrm.com CNAME .
@@ -32563,8 +32561,6 @@ erafterabigyello.com CNAME .
 *.erafterabigyello.com CNAME .
 erafterabigyellow.info CNAME .
 *.erafterabigyellow.info CNAME .
-eraidaigoumt.net CNAME .
-*.eraidaigoumt.net CNAME .
 eralway.com CNAME .
 *.eralway.com CNAME .
 eralyearsfoundherto.com CNAME .
@@ -37665,8 +37661,6 @@ glaighocmaig.net CNAME .
 *.glaighocmaig.net CNAME .
 glaignatsensah.xyz CNAME .
 *.glaignatsensah.xyz CNAME .
-glaikrolsoa.com CNAME .
-*.glaikrolsoa.com CNAME .
 glaikroohy.net CNAME .
 *.glaikroohy.net CNAME .
 glaiksoachou.com CNAME .
@@ -69881,8 +69875,6 @@ soakcompassplatoon.com CNAME .
 *.soakcompassplatoon.com CNAME .
 soakssyria.shop CNAME .
 *.soakssyria.shop CNAME .
-soalonie.com CNAME .
-*.soalonie.com CNAME .
 soalouve.com CNAME .
 *.soalouve.com CNAME .
 soaneefooy.net CNAME .
@@ -75619,8 +75611,6 @@ tilrozafains.net CNAME .
 *.tilrozafains.net CNAME .
 tiltgardenheadlight.com CNAME .
 *.tiltgardenheadlight.com CNAME .
-tiltoofughes.com CNAME .
-*.tiltoofughes.com CNAME .
 tilttrk.com CNAME .
 *.tilttrk.com CNAME .
 tiltwin.com CNAME .
@@ -79803,8 +79793,6 @@ uponrimking.live CNAME .
 *.uponrimking.live CNAME .
 uponsurskita.com CNAME .
 *.uponsurskita.com CNAME .
-upontogeticr.com CNAME .
-*.upontogeticr.com CNAME .
 uppardwarlike.shop CNAME .
 *.uppardwarlike.shop CNAME .
 upperseeker.com CNAME .
@@ -81397,8 +81385,6 @@ voovoacivoa.net CNAME .
 *.voovoacivoa.net CNAME .
 voowozoogroagom.com CNAME .
 *.voowozoogroagom.com CNAME .
-vophothoorom.net CNAME .
-*.vophothoorom.net CNAME .
 vopzhl.icu CNAME .
 *.vopzhl.icu CNAME .
 voredi.com CNAME .
@@ -82013,8 +81999,6 @@ wateryinspection.com CNAME .
 *.wateryinspection.com CNAME .
 wateryzapsandwich.com CNAME .
 *.wateryzapsandwich.com CNAME .
-wathoojoba.com CNAME .
-*.wathoojoba.com CNAME .
 watsaira.net CNAME .
 *.watsaira.net CNAME .
 watwait.com CNAME .
