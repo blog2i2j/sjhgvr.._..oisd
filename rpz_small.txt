@@ -1,9 +1,9 @@
-; Version: 202505201210
+; Version: 202505201310
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86782
-; Last modified: 2025-05-20T12:10:44+0000
+; Entries: 86760
+; Last modified: 2025-05-20T13:10:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747742406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747746002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14641,8 +14641,6 @@ baifen.music.baidu.com CNAME .
 *.baifen.music.baidu.com CNAME .
 baihaimauve.net CNAME .
 *.baihaimauve.net CNAME .
-baihoagleewhaum.net CNAME .
-*.baihoagleewhaum.net CNAME .
 baileybenedictionphony.com CNAME .
 *.baileybenedictionphony.com CNAME .
 baipahanoop.net CNAME .
@@ -20035,8 +20033,6 @@ ceechuwaukah.com CNAME .
 *.ceechuwaukah.com CNAME .
 ceegriwuwoa.net CNAME .
 *.ceegriwuwoa.net CNAME .
-ceehipsy.com CNAME .
-*.ceehipsy.com CNAME .
 ceemoptu.xyz CNAME .
 *.ceemoptu.xyz CNAME .
 ceesauchoodaph.net CNAME .
@@ -35599,8 +35595,6 @@ foomaque.net CNAME .
 *.foomaque.net CNAME .
 foone.com.br CNAME .
 *.foone.com.br CNAME .
-fooptoat.com CNAME .
-*.fooptoat.com CNAME .
 foorcdn.com CNAME .
 *.foorcdn.com CNAME .
 foostoug.com CNAME .
@@ -37703,8 +37697,6 @@ glashampouksy.net CNAME .
 *.glashampouksy.net CNAME .
 glashanburg.com CNAME .
 *.glashanburg.com CNAME .
-glasoabimpu.net CNAME .
-*.glasoabimpu.net CNAME .
 glassesoftruth.com CNAME .
 *.glassesoftruth.com CNAME .
 glassmilheart.com CNAME .
@@ -45013,8 +45005,6 @@ juponrerope.com CNAME .
 *.juponrerope.com CNAME .
 jurantsepinine.shop CNAME .
 *.jurantsepinine.shop CNAME .
-jurgeeph.net CNAME .
-*.jurgeeph.net CNAME .
 juricts.xyz CNAME .
 *.juricts.xyz CNAME .
 jurisdiction423.fun CNAME .
@@ -54479,8 +54469,6 @@ notrobot.top CNAME .
 *.notrobot.top CNAME .
 notspecial.biz CNAME .
 *.notspecial.biz CNAME .
-noudounaigri.net CNAME .
-*.noudounaigri.net CNAME .
 nougacoush.com CNAME .
 *.nougacoush.com CNAME .
 nougatdimetry.com CNAME .
@@ -61349,8 +61337,6 @@ pseergoa.net CNAME .
 *.pseergoa.net CNAME .
 pseerooltougna.net CNAME .
 *.pseerooltougna.net CNAME .
-pseexauboorsu.com CNAME .
-*.pseexauboorsu.com CNAME .
 psegeevalrat.net CNAME .
 *.psegeevalrat.net CNAME .
 pseleedrax.net CNAME .
@@ -61381,8 +61367,6 @@ psoacickoots.net CNAME .
 *.psoacickoots.net CNAME .
 psoaftob.xyz CNAME .
 *.psoaftob.xyz CNAME .
-psoagnimsar.net CNAME .
-*.psoagnimsar.net CNAME .
 psoamaupsie.net CNAME .
 *.psoamaupsie.net CNAME .
 psoamseceroh.net CNAME .
@@ -75155,8 +75139,6 @@ thebukabc.com CNAME .
 *.thebukabc.com CNAME .
 thecarconnections.com CNAME .
 *.thecarconnections.com CNAME .
-thechoansa.com CNAME .
-*.thechoansa.com CNAME .
 thechronicles2.xyz CNAME .
 *.thechronicles2.xyz CNAME .
 thecitydating.com CNAME .
@@ -78241,8 +78223,6 @@ trou-fion.com CNAME .
 *.trou-fion.com CNAME .
 troublebrought.com CNAME .
 *.troublebrought.com CNAME .
-troubledcontradiction.com CNAME .
-*.troubledcontradiction.com CNAME .
 trout.openfpl.com CNAME .
 *.trout.openfpl.com CNAME .
 trout.travelmassive.com CNAME .
@@ -86249,8 +86229,6 @@ zeechoog.net CNAME .
 *.zeechoog.net CNAME .
 zeechumy.com CNAME .
 *.zeechumy.com CNAME .
-zeeduketa.net CNAME .
-*.zeeduketa.net CNAME .
 zeekaihu.net CNAME .
 *.zeekaihu.net CNAME .
 zeelooshashey.net CNAME .
