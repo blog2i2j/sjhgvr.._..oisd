@@ -1,9 +1,9 @@
-; Version: 202505201816
+; Version: 202505201918
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43412
-; Last modified: 2025-05-20T18:16:56+0000
+; Entries: 43402
+; Last modified: 2025-05-20T19:18:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747764004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747767603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6543,8 +6543,6 @@ celebsunmasked.com CNAME .
 *.celebsunmasked.com CNAME .
 celebuncut.com CNAME .
 *.celebuncut.com CNAME .
-celebuzz.com CNAME .
-*.celebuzz.com CNAME .
 celibatairesaproximite.com CNAME .
 *.celibatairesaproximite.com CNAME .
 celibatairesduweb.com CNAME .
@@ -11533,8 +11531,6 @@ fkbae.to CNAME .
 *.fkbae.to CNAME .
 fkk-museum.de CNAME .
 *.fkk-museum.de CNAME .
-flabber.nl CNAME .
-*.flabber.nl CNAME .
 flagrasamadores.net CNAME .
 *.flagrasamadores.net CNAME .
 flair.be CNAME .
@@ -23401,8 +23397,6 @@ myspree.club CNAME .
 *.myspree.club CNAME .
 mystat.hu CNAME .
 *.mystat.hu CNAME .
-mysteriouschats.co.uk CNAME .
-*.mysteriouschats.co.uk CNAME .
 mystrikingly.com CNAME .
 *.mystrikingly.com CNAME .
 mysugardaddy.com CNAME .
@@ -37629,8 +37623,6 @@ tuscl.net CNAME .
 *.tuscl.net CNAME .
 tushy.com CNAME .
 *.tushy.com CNAME .
-tusoffka.net CNAME .
-*.tusoffka.net CNAME .
 tuta.co.il CNAME .
 *.tuta.co.il CNAME .
 tutcams.com CNAME .
@@ -42915,8 +42907,6 @@ youporntube.video CNAME .
 *.youporntube.video CNAME .
 youporntube.xyz CNAME .
 *.youporntube.xyz CNAME .
-youpornxxxx.com CNAME .
-*.youpornxxxx.com CNAME .
 youppie.net CNAME .
 *.youppie.net CNAME .
 your-daily-girl.com CNAME .
