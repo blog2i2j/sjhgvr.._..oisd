@@ -1,9 +1,9 @@
-; Version: 202505200110
+; Version: 202505200211
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86644
-; Last modified: 2025-05-20T01:10:53+0000
+; Entries: 86632
+; Last modified: 2025-05-20T02:11:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747702802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747706407 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31781,8 +31781,6 @@ egret.legislative.tech CNAME .
 *.egret.legislative.tech CNAME .
 egretswamper.com CNAME .
 *.egretswamper.com CNAME .
-egvpxypbxvnqjy.com CNAME .
-*.egvpxypbxvnqjy.com CNAME .
 eh0ag0-rtbix.top CNAME .
 *.eh0ag0-rtbix.top CNAME .
 ehgavvcqj.xyz CNAME .
@@ -40093,8 +40091,6 @@ heauty-viesected.com CNAME .
 *.heauty-viesected.com CNAME .
 heavenfull.com CNAME .
 *.heavenfull.com CNAME .
-heavenly-landscape.com CNAME .
-*.heavenly-landscape.com CNAME .
 hebeticayahs.top CNAME .
 *.hebeticayahs.top CNAME .
 hecathedralinth.org CNAME .
@@ -52865,8 +52861,6 @@ mypowermall.com CNAME .
 *.mypowermall.com CNAME .
 myprivate.pics CNAME .
 *.myprivate.pics CNAME .
-myprivate.yachts CNAME .
-*.myprivate.yachts CNAME .
 myreqdcompany.com CNAME .
 *.myreqdcompany.com CNAME .
 myricasicon.top CNAME .
@@ -82655,8 +82649,6 @@ whoalinseed.shop CNAME .
 *.whoalinseed.shop CNAME .
 whoanebsos.net CNAME .
 *.whoanebsos.net CNAME .
-whoansodroas.net CNAME .
-*.whoansodroas.net CNAME .
 whoarguwaghu.net CNAME .
 *.whoarguwaghu.net CNAME .
 whoawhoax.com CNAME .
@@ -82683,8 +82675,6 @@ whomsudsikaxu.com CNAME .
 *.whomsudsikaxu.com CNAME .
 whookroo.com CNAME .
 *.whookroo.com CNAME .
-whoomoapaurd.com CNAME .
-*.whoomoapaurd.com CNAME .
 whoopblew.com CNAME .
 *.whoopblew.com CNAME .
 whoopseelratiy.net CNAME .
@@ -85975,8 +85965,6 @@ zaistouzit.net CNAME .
 *.zaistouzit.net CNAME .
 zaiteegraity.net CNAME .
 *.zaiteegraity.net CNAME .
-zaizaigut.net CNAME .
-*.zaizaigut.net CNAME .
 zajukrib.net CNAME .
 *.zajukrib.net CNAME .
 zakld.com CNAME .
