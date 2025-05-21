@@ -1,9 +1,9 @@
-; Version: 202505210710
+; Version: 202505210810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86586
-; Last modified: 2025-05-21T07:10:14+0000
+; Entries: 86570
+; Last modified: 2025-05-21T08:10:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747810804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747814403 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1107,8 +1107,6 @@ $TTL 30
 *.29662166.xyz CNAME .
 29694851.xyz CNAME .
 *.29694851.xyz CNAME .
-29972123f3.com CNAME .
-*.29972123f3.com CNAME .
 29a7397be5.com CNAME .
 *.29a7397be5.com CNAME .
 29apfjmg2.de CNAME .
@@ -10129,8 +10127,6 @@ amildarclaes.space CNAME .
 *.amildarclaes.space CNAME .
 amillionads.com CNAME .
 *.amillionads.com CNAME .
-amithoutsoo.net CNAME .
-*.amithoutsoo.net CNAME .
 amjllwbovlyba.top CNAME .
 *.amjllwbovlyba.top CNAME .
 amjoltiktor.com CNAME .
@@ -34139,8 +34135,6 @@ fauphauvuzeey.net CNAME .
 *.fauphauvuzeey.net CNAME .
 fauphoaglu.net CNAME .
 *.fauphoaglu.net CNAME .
-fausamoawhisi.net CNAME .
-*.fausamoawhisi.net CNAME .
 fauseepetoozuk.xyz CNAME .
 *.fauseepetoozuk.xyz CNAME .
 faveoliaiver.top CNAME .
@@ -41201,8 +41195,6 @@ houdodoo.net CNAME .
 *.houdodoo.net CNAME .
 houhoogroo.net CNAME .
 *.houhoogroo.net CNAME .
-houhoumooh.net CNAME .
-*.houhoumooh.net CNAME .
 houptaupaiho.net CNAME .
 *.houptaupaiho.net CNAME .
 hourglassinedible.com CNAME .
@@ -53941,8 +53933,6 @@ nigmen.com CNAME .
 *.nigmen.com CNAME .
 nigrebud.net CNAME .
 *.nigrebud.net CNAME .
-nigroopheert.com CNAME .
-*.nigroopheert.com CNAME .
 nijaqccry.com CNAME .
 *.nijaqccry.com CNAME .
 nijaultuweftie.net CNAME .
@@ -55737,8 +55727,6 @@ old-go.pro CNAME .
 *.old-go.pro CNAME .
 oldeststrickenambulance.com CNAME .
 *.oldeststrickenambulance.com CNAME .
-olichoogrulsom.com CNAME .
-*.olichoogrulsom.com CNAME .
 olineman.pro CNAME .
 *.olineman.pro CNAME .
 olitoryhunter.com CNAME .
@@ -63743,8 +63731,6 @@ redwingmagazine.com CNAME .
 *.redwingmagazine.com CNAME .
 redwolfmoon.com CNAME .
 *.redwolfmoon.com CNAME .
-reecasoabaiz.net CNAME .
-*.reecasoabaiz.net CNAME .
 reedpraised.com CNAME .
 *.reedpraised.com CNAME .
 reedsbullyingpastel.com CNAME .
@@ -68515,8 +68501,6 @@ shassheld.live CNAME .
 *.shassheld.live CNAME .
 shatonus.shop CNAME .
 *.shatonus.shop CNAME .
-shatsoutheshe.net CNAME .
-*.shatsoutheshe.net CNAME .
 shatterconceal.com CNAME .
 *.shatterconceal.com CNAME .
 shauasoz.my CNAME .
