@@ -1,9 +1,9 @@
-; Version: 202505210510
+; Version: 202505210610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86596
-; Last modified: 2025-05-21T05:10:44+0000
+; Entries: 86564
+; Last modified: 2025-05-21T06:10:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747803603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747807203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3969,8 +3969,6 @@ abdlnk.com CNAME .
 *.abdlnk.com CNAME .
 abdlnkjs.com CNAME .
 *.abdlnkjs.com CNAME .
-abdlphone.com CNAME .
-*.abdlphone.com CNAME .
 abdomeneast.com CNAME .
 *.abdomeneast.com CNAME .
 abdsp.com CNAME .
@@ -28069,8 +28067,6 @@ deepdive.zum.com CNAME .
 *.deepdive.zum.com CNAME .
 deeperregardingcontend.com CNAME .
 *.deeperregardingcontend.com CNAME .
-deephicy.net CNAME .
-*.deephicy.net CNAME .
 deeplygumssandwich.com CNAME .
 *.deeplygumssandwich.com CNAME .
 deepmetrix.com CNAME .
@@ -30275,8 +30271,6 @@ dreyntbynames.top CNAME .
 *.dreyntbynames.top CNAME .
 drf8e429z5jzt.cloudfront.net CNAME .
 *.drf8e429z5jzt.cloudfront.net CNAME .
-driedanswerprotestant.com CNAME .
-*.driedanswerprotestant.com CNAME .
 drierackle.shop CNAME .
 *.drierackle.shop CNAME .
 drillcompensate.com CNAME .
@@ -31515,8 +31509,6 @@ edentwithought.org CNAME .
 *.edentwithought.org CNAME .
 ederrassi.com CNAME .
 *.ederrassi.com CNAME .
-edertauvaisoo.net CNAME .
-*.edertauvaisoo.net CNAME .
 edgbas.com CNAME .
 *.edgbas.com CNAME .
 edge.ads.twitch.tv CNAME .
@@ -31641,8 +31633,6 @@ eehuzaih.com CNAME .
 *.eehuzaih.com CNAME .
 eejeephaux.net CNAME .
 *.eejeephaux.net CNAME .
-eejersenset.net CNAME .
-*.eejersenset.net CNAME .
 eejestonsou.net CNAME .
 *.eejestonsou.net CNAME .
 eekekseecke.net CNAME .
@@ -41935,8 +41925,6 @@ ichgcp.com CNAME .
 *.ichgcp.com CNAME .
 ichhar.sante-dz.com CNAME .
 *.ichhar.sante-dz.com CNAME .
-ichimaip.net CNAME .
-*.ichimaip.net CNAME .
 ichlnk.com CNAME .
 *.ichlnk.com CNAME .
 ichowhushoubi.net CNAME .
@@ -45035,8 +45023,6 @@ jyusesoionsglear.info CNAME .
 *.jyusesoionsglear.info CNAME .
 jyuskb.cn CNAME .
 *.jyuskb.cn CNAME .
-jyvkwqjremqll.top CNAME .
-*.jyvkwqjremqll.top CNAME .
 jyxzrb.xyz CNAME .
 *.jyxzrb.xyz CNAME .
 jyzkut.com CNAME .
@@ -48729,8 +48715,6 @@ loneday.com CNAME .
 *.loneday.com CNAME .
 loneinner.com CNAME .
 *.loneinner.com CNAME .
-lonerdrawn.com CNAME .
-*.lonerdrawn.com CNAME .
 lonerprevailed.com CNAME .
 *.lonerprevailed.com CNAME .
 lonfilliongin.com CNAME .
@@ -53431,8 +53415,6 @@ neegreez.com CNAME .
 *.neegreez.com CNAME .
 neehaifam.net CNAME .
 *.neehaifam.net CNAME .
-neesihoothak.net CNAME .
-*.neesihoothak.net CNAME .
 negateacted.com CNAME .
 *.negateacted.com CNAME .
 negationomitor.com CNAME .
@@ -54603,8 +54585,6 @@ ntdhfhpr-o.rocks CNAME .
 *.ntdhfhpr-o.rocks CNAME .
 ntedbycathyhou.com CNAME .
 *.ntedbycathyhou.com CNAME .
-nthaitingsh.com CNAME .
-*.nthaitingsh.com CNAME .
 ntlcgevw-u.one CNAME .
 *.ntlcgevw-u.one CNAME .
 ntlurfixeyzlf.vip CNAME .
@@ -61203,8 +61183,6 @@ psausoay.net CNAME .
 *.psausoay.net CNAME .
 psaussasta.net CNAME .
 *.psaussasta.net CNAME .
-psauwaun.com CNAME .
-*.psauwaun.com CNAME .
 psebineno.pro CNAME .
 *.psebineno.pro CNAME .
 psedwm.com CNAME .
@@ -61405,8 +61383,6 @@ ptipsixo.com CNAME .
 *.ptipsixo.com CNAME .
 ptipsout.net CNAME .
 *.ptipsout.net CNAME .
-ptirdevaijult.net CNAME .
-*.ptirdevaijult.net CNAME .
 ptirdubsou.net CNAME .
 *.ptirdubsou.net CNAME .
 ptirgaux.com CNAME .
@@ -67129,8 +67105,6 @@ saunaentered.com CNAME .
 *.saunaentered.com CNAME .
 sauptoacoa.com CNAME .
 *.sauptoacoa.com CNAME .
-sauptowhy.com CNAME .
-*.sauptowhy.com CNAME .
 saurfeued.com CNAME .
 *.saurfeued.com CNAME .
 sauroajy.net CNAME .
@@ -74605,8 +74579,6 @@ teetusee.xyz CNAME .
 *.teetusee.xyz CNAME .
 tefinauknceiwoul.org CNAME .
 *.tefinauknceiwoul.org CNAME .
-tegleebs.com CNAME .
-*.tegleebs.com CNAME .
 tegronews.com CNAME .
 *.tegronews.com CNAME .
 tehxzz.xyz CNAME .
@@ -75045,8 +75017,6 @@ theltemtirg.net CNAME .
 *.theltemtirg.net CNAME .
 themeillogical.com CNAME .
 *.themeillogical.com CNAME .
-thempoorduts.com CNAME .
-*.thempoorduts.com CNAME .
 themselphenyls.com CNAME .
 *.themselphenyls.com CNAME .
 themselvessuit.com CNAME .
@@ -79895,8 +79865,6 @@ usuallyaltered.com CNAME .
 *.usuallyaltered.com CNAME .
 usuallyformal.com CNAME .
 *.usuallyformal.com CNAME .
-usuphergais.net CNAME .
-*.usuphergais.net CNAME .
 usuretholi.top CNAME .
 *.usuretholi.top CNAME .
 usurv.com CNAME .
