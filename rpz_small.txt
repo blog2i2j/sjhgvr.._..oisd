@@ -1,9 +1,9 @@
-; Version: 202505210810
+; Version: 202505210910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86570
-; Last modified: 2025-05-21T08:10:27+0000
+; Entries: 86540
+; Last modified: 2025-05-21T09:10:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747814403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747818007 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9041,8 +9041,6 @@ aimportfoliosquid.com CNAME .
 *.aimportfoliosquid.com CNAME .
 aimukreegee.net CNAME .
 *.aimukreegee.net CNAME .
-ainelremp.com CNAME .
-*.ainelremp.com CNAME .
 ainouzaudre.net CNAME .
 *.ainouzaudre.net CNAME .
 aintydevelelas.org CNAME .
@@ -13713,8 +13711,6 @@ auspipe.com CNAME .
 *.auspipe.com CNAME .
 aussadroach.net CNAME .
 *.aussadroach.net CNAME .
-austeemsa.com CNAME .
-*.austeemsa.com CNAME .
 austow.com CNAME .
 *.austow.com CNAME .
 autchoog.net CNAME .
@@ -15117,8 +15113,6 @@ bashfulleadsock.com CNAME .
 *.bashfulleadsock.com CNAME .
 bashnourish.com CNAME .
 *.bashnourish.com CNAME .
-bashoodsird.com CNAME .
-*.bashoodsird.com CNAME .
 basicallyspacecraft.com CNAME .
 *.basicallyspacecraft.com CNAME .
 basictreadcontract.com CNAME .
@@ -16043,8 +16037,6 @@ betklefkior.com CNAME .
 *.betklefkior.com CNAME .
 betmasquerainchan.com CNAME .
 *.betmasquerainchan.com CNAME .
-betnidorinoan.net CNAME .
-*.betnidorinoan.net CNAME .
 betotodilea.com CNAME .
 *.betotodilea.com CNAME .
 betpupitarr.com CNAME .
@@ -18805,8 +18797,6 @@ caicme.xyz CNAME .
 *.caicme.xyz CNAME .
 caimovaur.net CNAME .
 *.caimovaur.net CNAME .
-caistireew.net CNAME .
-*.caistireew.net CNAME .
 caitoasece.com CNAME .
 *.caitoasece.com CNAME .
 caiwauchegee.net CNAME .
@@ -43437,8 +43427,6 @@ ipromcloud.com CNAME .
 *.ipromcloud.com CNAME .
 ipsaigloumishi.net CNAME .
 *.ipsaigloumishi.net CNAME .
-ipsokaphaush.com CNAME .
-*.ipsokaphaush.com CNAME .
 ipsowrite.com CNAME .
 *.ipsowrite.com CNAME .
 iptautup.com CNAME .
@@ -44457,8 +44445,6 @@ jobs.educationweekjobs.co.uk CNAME .
 *.jobs.educationweekjobs.co.uk CNAME .
 jobsyndicate.com CNAME .
 *.jobsyndicate.com CNAME .
-jocauzee.net CNAME .
-*.jocauzee.net CNAME .
 jocmiglenedsupi.com CNAME .
 *.jocmiglenedsupi.com CNAME .
 joetec.net CNAME .
@@ -44499,8 +44485,6 @@ jomtingi.net CNAME .
 *.jomtingi.net CNAME .
 jonahssolfege.shop CNAME .
 *.jonahssolfege.shop CNAME .
-joocophoograumo.net CNAME .
-*.joocophoograumo.net CNAME .
 joogaipseed.net CNAME .
 *.joogaipseed.net CNAME .
 joograika.xyz CNAME .
@@ -46663,8 +46647,6 @@ laughsemina.shop CNAME .
 *.laughsemina.shop CNAME .
 laugoust.com CNAME .
 *.laugoust.com CNAME .
-lauhoosh.net CNAME .
-*.lauhoosh.net CNAME .
 laukaivi.net CNAME .
 *.laukaivi.net CNAME .
 lauloajaiph.net CNAME .
@@ -53377,8 +53359,6 @@ nebbowmen.top CNAME .
 *.nebbowmen.top CNAME .
 nebsefte.net CNAME .
 *.nebsefte.net CNAME .
-nebumsoz.net CNAME .
-*.nebumsoz.net CNAME .
 necessaryescort.com CNAME .
 *.necessaryescort.com CNAME .
 nechythithy.pro CNAME .
@@ -53449,8 +53429,6 @@ nelreerdu.net CNAME .
 *.nelreerdu.net CNAME .
 nemppa.com CNAME .
 *.nemppa.com CNAME .
-nemtoorgeeps.net CNAME .
-*.nemtoorgeeps.net CNAME .
 nenectedithcon.info CNAME .
 *.nenectedithcon.info CNAME .
 nengeetcha.net CNAME .
@@ -72763,8 +72741,6 @@ sturgeon.patentfamily.com CNAME .
 *.sturgeon.patentfamily.com CNAME .
 sturtsbabassu.shop CNAME .
 *.sturtsbabassu.shop CNAME .
-stutchoorgeltu.net CNAME .
-*.stutchoorgeltu.net CNAME .
 stvbiopr.net CNAME .
 *.stvbiopr.net CNAME .
 stvwell.online CNAME .
@@ -74907,8 +74883,6 @@ thaickoo.net CNAME .
 *.thaickoo.net CNAME .
 thaigapousty.net CNAME .
 *.thaigapousty.net CNAME .
-thairoob.com CNAME .
-*.thairoob.com CNAME .
 thaistiboa.com CNAME .
 *.thaistiboa.com CNAME .
 thaitingsho.info CNAME .
@@ -79161,8 +79135,6 @@ unamplespalax.com CNAME .
 *.unamplespalax.com CNAME .
 unarbokor.com CNAME .
 *.unarbokor.com CNAME .
-unarceusan.com CNAME .
-*.unarceusan.com CNAME .
 unauthorizedsufficientlysensitivity.com CNAME .
 *.unauthorizedsufficientlysensitivity.com CNAME .
 unautonsure.shop CNAME .
@@ -82419,8 +82391,6 @@ whampamp.com CNAME .
 *.whampamp.com CNAME .
 whandpolista.com CNAME .
 *.whandpolista.com CNAME .
-wharauteest.net CNAME .
-*.wharauteest.net CNAME .
 wharployn.com CNAME .
 *.wharployn.com CNAME .
 whataboutnews.com CNAME .
