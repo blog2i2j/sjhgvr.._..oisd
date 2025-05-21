@@ -1,9 +1,9 @@
-; Version: 202505210309
+; Version: 202505210409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86646
-; Last modified: 2025-05-21T03:09:36+0000
+; Entries: 86610
+; Last modified: 2025-05-21T04:09:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747796404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747800007 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9041,8 +9041,6 @@ aimlesscologneyolk.com CNAME .
 *.aimlesscologneyolk.com CNAME .
 aimoverwhelmingpeek.com CNAME .
 *.aimoverwhelmingpeek.com CNAME .
-aimpoleefu.com CNAME .
-*.aimpoleefu.com CNAME .
 aimpoozoatho.com CNAME .
 *.aimpoozoatho.com CNAME .
 aimportfoliosquid.com CNAME .
@@ -13731,8 +13729,6 @@ austow.com CNAME .
 *.austow.com CNAME .
 autchoog.net CNAME .
 *.autchoog.net CNAME .
-autchopord.net CNAME .
-*.autchopord.net CNAME .
 auteboon.net CNAME .
 *.auteboon.net CNAME .
 autemismal.click CNAME .
@@ -20657,8 +20653,6 @@ choachim.com CNAME .
 *.choachim.com CNAME .
 choakekeltap.net CNAME .
 *.choakekeltap.net CNAME .
-choamikr.com CNAME .
-*.choamikr.com CNAME .
 choargobsadsa.net CNAME .
 *.choargobsadsa.net CNAME .
 choathaugla.net CNAME .
@@ -29813,8 +29807,6 @@ domself.de CNAME .
 *.domself.de CNAME .
 domslc.com CNAME .
 *.domslc.com CNAME .
-domuipan.com CNAME .
-*.domuipan.com CNAME .
 donarycrips.com CNAME .
 *.donarycrips.com CNAME .
 donasi.lk21.de CNAME .
@@ -31699,8 +31691,6 @@ eesaitsehal.xyz CNAME .
 *.eesaitsehal.xyz CNAME .
 eessoong.com CNAME .
 *.eessoong.com CNAME .
-eetazicmee.net CNAME .
-*.eetazicmee.net CNAME .
 eetognauy.net CNAME .
 *.eetognauy.net CNAME .
 eetsooltaihob.net CNAME .
@@ -35609,8 +35599,6 @@ footprintstopic.com CNAME .
 *.footprintstopic.com CNAME .
 foowauboup.net CNAME .
 *.foowauboup.net CNAME .
-foozoujeewhy.net CNAME .
-*.foozoujeewhy.net CNAME .
 foppingells.shop CNAME .
 *.foppingells.shop CNAME .
 forabomasnowan.com CNAME .
@@ -38899,8 +38887,6 @@ grooltaujengoo.net CNAME .
 *.grooltaujengoo.net CNAME .
 groomoub.com CNAME .
 *.groomoub.com CNAME .
-groompemait.net CNAME .
-*.groompemait.net CNAME .
 groordotsezains.net CNAME .
 *.groordotsezains.net CNAME .
 groorsoa.net CNAME .
@@ -43981,8 +43967,6 @@ japlfaab.com CNAME .
 *.japlfaab.com CNAME .
 japmmexucca.com CNAME .
 *.japmmexucca.com CNAME .
-japootchust.net CNAME .
-*.japootchust.net CNAME .
 jaqxaqoxwhce.com CNAME .
 *.jaqxaqoxwhce.com CNAME .
 jarsfulerenow.com CNAME .
@@ -47511,8 +47495,6 @@ lipqkoxzy.com CNAME .
 *.lipqkoxzy.com CNAME .
 lipsanographer.monster CNAME .
 *.lipsanographer.monster CNAME .
-lipsoowesto.net CNAME .
-*.lipsoowesto.net CNAME .
 lipteedseelr.com CNAME .
 *.lipteedseelr.com CNAME .
 lipwesfzuidbk.club CNAME .
@@ -49733,8 +49715,6 @@ mainting-minues.xyz CNAME .
 *.mainting-minues.xyz CNAME .
 maio.jp CNAME .
 *.maio.jp CNAME .
-maipheeg.com CNAME .
-*.maipheeg.com CNAME .
 maithigloab.net CNAME .
 *.maithigloab.net CNAME .
 majile.vip CNAME .
@@ -51163,8 +51143,6 @@ midnightcontemn.com CNAME .
 *.midnightcontemn.com CNAME .
 midpopedge.com CNAME .
 *.midpopedge.com CNAME .
-midsampouz.net CNAME .
-*.midsampouz.net CNAME .
 midwifelangurs.com CNAME .
 *.midwifelangurs.com CNAME .
 mifarttavv.com CNAME .
@@ -51177,8 +51155,6 @@ mignished-sility.com CNAME .
 *.mignished-sility.com CNAME .
 migraira.net CNAME .
 *.migraira.net CNAME .
-migrantfarewellmoan.com CNAME .
-*.migrantfarewellmoan.com CNAME .
 migrantspiteconnecting.com CNAME .
 *.migrantspiteconnecting.com CNAME .
 mihaivibsaz.net CNAME .
@@ -56227,8 +56203,6 @@ oogneenu.net CNAME .
 *.oogneenu.net CNAME .
 oogrouss.net CNAME .
 *.oogrouss.net CNAME .
-oogrutse.net CNAME .
-*.oogrutse.net CNAME .
 ookresit.net CNAME .
 *.ookresit.net CNAME .
 ookris.oferty-kredytowe.pl CNAME .
@@ -57371,8 +57345,6 @@ ozonerexhaled.click CNAME .
 *.ozonerexhaled.click CNAME .
 ozonerrebuoy.com CNAME .
 *.ozonerrebuoy.com CNAME .
-ozongees.com CNAME .
-*.ozongees.com CNAME .
 ozvtuton.com CNAME .
 *.ozvtuton.com CNAME .
 ozwxhoonxlm.com CNAME .
@@ -61293,8 +61265,6 @@ psoamaupsie.net CNAME .
 *.psoamaupsie.net CNAME .
 psoanegodage.com CNAME .
 *.psoanegodage.com CNAME .
-psoanoaweek.net CNAME .
-*.psoanoaweek.net CNAME .
 psoansumt.net CNAME .
 *.psoansumt.net CNAME .
 psockapa.net CNAME .
@@ -63827,8 +63797,6 @@ reevokeiciest.com CNAME .
 *.reevokeiciest.com CNAME .
 reewastogloow.net CNAME .
 *.reewastogloow.net CNAME .
-reewhukaphy.com CNAME .
-*.reewhukaphy.com CNAME .
 reewoumak.com CNAME .
 *.reewoumak.com CNAME .
 ref.dealerinspire.com CNAME .
@@ -74665,8 +74633,6 @@ teilfwsehxd.com CNAME .
 *.teilfwsehxd.com CNAME .
 teindsoutsea.shop CNAME .
 *.teindsoutsea.shop CNAME .
-tejoafotocmal.com CNAME .
-*.tejoafotocmal.com CNAME .
 teknologia.co CNAME .
 *.teknologia.co CNAME .
 teksishe.net CNAME .
@@ -75193,8 +75159,6 @@ thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 *.thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 thingstorrent.com CNAME .
 *.thingstorrent.com CNAME .
-thinideemissie.com CNAME .
-*.thinideemissie.com CNAME .
 thinkingaccommodate.com CNAME .
 *.thinkingaccommodate.com CNAME .
 thinksclingingentertainment.com CNAME .
