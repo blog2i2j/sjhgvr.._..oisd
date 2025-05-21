@@ -1,9 +1,9 @@
-; Version: 202505211645
+; Version: 202505211716
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41422
-; Last modified: 2025-05-21T16:45:31+0000
+; Entries: 41424
+; Last modified: 2025-05-21T17:16:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747844907 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747846808 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3645,6 +3645,8 @@ base-massage.com CNAME .
 *.base-massage.com CNAME .
 bateworld.com CNAME .
 *.bateworld.com CNAME .
+bato.ing CNAME .
+*.bato.ing CNAME .
 bato.to CNAME .
 *.bato.to CNAME .
 battwo.com CNAME .
@@ -34295,8 +34297,6 @@ theartporn.com CNAME .
 *.theartporn.com CNAME .
 theasmrindex.com CNAME .
 *.theasmrindex.com CNAME .
-theater-bonanza.com CNAME .
-*.theater-bonanza.com CNAME .
 theav.xyz CNAME .
 *.theav.xyz CNAME .
 thebarchive.com CNAME .
@@ -35297,6 +35297,8 @@ transsensual.com CNAME .
 *.transsensual.com CNAME .
 transsexuelle-partnersuche.com CNAME .
 *.transsexuelle-partnersuche.com CNAME .
+transtrav.com CNAME .
+*.transtrav.com CNAME .
 transtube.tv CNAME .
 *.transtube.tv CNAME .
 transtxxx.com CNAME .
