@@ -1,9 +1,9 @@
-; Version: 202505211615
+; Version: 202505211645
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41416
-; Last modified: 2025-05-21T16:15:50+0000
+; Entries: 41422
+; Last modified: 2025-05-21T16:45:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747843204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747844907 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3157,6 +3157,8 @@ avkuy.com CNAME .
 *.avkuy.com CNAME .
 avkuy.net CNAME .
 *.avkuy.net CNAME .
+avladies.de CNAME .
+*.avladies.de CNAME .
 avlinda.net CNAME .
 *.avlinda.net CNAME .
 avlulu.cc CNAME .
@@ -36021,6 +36023,8 @@ u3c3.com CNAME .
 *.u3c3.com CNAME .
 u9mm.com CNAME .
 *.u9mm.com CNAME .
+uaa001.com CNAME .
+*.uaa001.com CNAME .
 uaa002.com CNAME .
 *.uaa002.com CNAME .
 uaa005.com CNAME .
@@ -39753,6 +39757,8 @@ xxu.mobi CNAME .
 *.xxu.mobi CNAME .
 xxvideos.blog CNAME .
 *.xxvideos.blog CNAME .
+xxvideos.cc CNAME .
+*.xxvideos.cc CNAME .
 xxvideos.video CNAME .
 *.xxvideos.video CNAME .
 xxvideos.xxx CNAME .
