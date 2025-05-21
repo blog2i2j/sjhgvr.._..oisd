@@ -1,9 +1,9 @@
-; Version: 202505210009
+; Version: 202505210109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 86720
-; Last modified: 2025-05-21T00:09:12+0000
+; Entries: 86704
+; Last modified: 2025-05-21T01:09:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747785607 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747789203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -27293,8 +27293,6 @@ daima.ysdui.com CNAME .
 *.daima.ysdui.com CNAME .
 dainouluph.net CNAME .
 *.dainouluph.net CNAME .
-daintydragged.com CNAME .
-*.daintydragged.com CNAME .
 daintyinternetcable.com CNAME .
 *.daintyinternetcable.com CNAME .
 daiphero.com CNAME .
@@ -38941,8 +38939,6 @@ groovesangka.shop CNAME .
 *.groovesangka.shop CNAME .
 grosserhis.top CNAME .
 *.grosserhis.top CNAME .
-grotaich.net CNAME .
-*.grotaich.net CNAME .
 grotespace.com CNAME .
 *.grotespace.com CNAME .
 grottogamer.com CNAME .
@@ -40901,8 +40897,6 @@ hoachalaide.net CNAME .
 *.hoachalaide.net CNAME .
 hoadaphagoar.net CNAME .
 *.hoadaphagoar.net CNAME .
-hoalaicheey.com CNAME .
-*.hoalaicheey.com CNAME .
 hoanoola.net CNAME .
 *.hoanoola.net CNAME .
 hoaphoath.com CNAME .
@@ -43635,8 +43629,6 @@ isolationoranges.com CNAME .
 *.isolationoranges.com CNAME .
 isopodaupcock.com CNAME .
 *.isopodaupcock.com CNAME .
-isoukrunge.net CNAME .
-*.isoukrunge.net CNAME .
 isparkmedia.com CNAME .
 *.isparkmedia.com CNAME .
 isquitehappymut.org CNAME .
@@ -43653,8 +43645,6 @@ istatistik.arabam.com CNAME .
 *.istatistik.arabam.com CNAME .
 istatistik.trthaber.com CNAME .
 *.istatistik.trthaber.com CNAME .
-isteetashy.com CNAME .
-*.isteetashy.com CNAME .
 istipaumophy.com CNAME .
 *.istipaumophy.com CNAME .
 istkechaukrguk.com CNAME .
@@ -56947,8 +56937,6 @@ ougrauty.com CNAME .
 *.ougrauty.com CNAME .
 ougribot.net CNAME .
 *.ougribot.net CNAME .
-ougroopsurgagri.net CNAME .
-*.ougroopsurgagri.net CNAME .
 ouhastay.net CNAME .
 *.ouhastay.net CNAME .
 ouiokaq.top CNAME .
@@ -79981,8 +79969,6 @@ userwave.com CNAME .
 *.userwave.com CNAME .
 usesentry.com CNAME .
 *.usesentry.com CNAME .
-ushoafeelu.com CNAME .
-*.ushoafeelu.com CNAME .
 ushoofop.com CNAME .
 *.ushoofop.com CNAME .
 usinesmycete.info CNAME .
@@ -86533,8 +86519,6 @@ zouphashocom.com CNAME .
 *.zouphashocom.com CNAME .
 zouzeeps.net CNAME .
 *.zouzeeps.net CNAME .
-zouzougri.net CNAME .
-*.zouzougri.net CNAME .
 zovidree.com CNAME .
 *.zovidree.com CNAME .
 zpgetworker11.com CNAME .
