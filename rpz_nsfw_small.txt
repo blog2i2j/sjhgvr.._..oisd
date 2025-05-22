@@ -1,9 +1,9 @@
-; Version: 202505220514
+; Version: 202505220614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41660
-; Last modified: 2025-05-22T05:14:39+0000
+; Entries: 41672
+; Last modified: 2025-05-22T06:14:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747890003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747893606 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -161,6 +161,8 @@ $TTL 30
 *.18hlw.com CNAME .
 18insta.com CNAME .
 *.18insta.com CNAME .
+18j.tv CNAME .
+*.18j.tv CNAME .
 18jav.tv CNAME .
 *.18jav.tv CNAME .
 18jtv.com CNAME .
@@ -7389,6 +7391,8 @@ css.edu CNAME .
 *.css.edu CNAME .
 csucsvideok.hu CNAME .
 *.csucsvideok.hu CNAME .
+ct.ws CNAME .
+*.ct.ws CNAME .
 ctbae.com CNAME .
 *.ctbae.com CNAME .
 cu2.be CNAME .
@@ -8299,6 +8303,8 @@ directstripper.com CNAME .
 *.directstripper.com CNAME .
 dirty.com CNAME .
 *.dirty.com CNAME .
+dirty.ru CNAME .
+*.dirty.ru CNAME .
 dirtyauditions.com CNAME .
 *.dirtyauditions.com CNAME .
 dirtyboundaries.com CNAME .
@@ -13813,6 +13819,8 @@ hairyxpictures.com CNAME .
 *.hairyxpictures.com CNAME .
 hajime-noippo.com CNAME .
 *.hajime-noippo.com CNAME .
+hal.ne.jp CNAME .
+*.hal.ne.jp CNAME .
 halamat.com CNAME .
 *.halamat.com CNAME .
 halloporno.net CNAME .
@@ -16047,6 +16055,8 @@ hydievpornovideo.com CNAME .
 *.hydievpornovideo.com CNAME .
 hyggeligtreff.com CNAME .
 *.hyggeligtreff.com CNAME .
+hyperxxporn.net CNAME .
+*.hyperxxporn.net CNAME .
 hyperzod.dev CNAME .
 *.hyperzod.dev CNAME .
 hypnohub.net CNAME .
@@ -17015,8 +17025,6 @@ iseekgirls.com CNAME .
 *.iseekgirls.com CNAME .
 isekaitube.com CNAME .
 *.isekaitube.com CNAME .
-isex.casa CNAME .
-*.isex.casa CNAME .
 isexsex.com CNAME .
 *.isexsex.com CNAME .
 isexychat.com CNAME .
@@ -20333,6 +20341,8 @@ maltepeokul.com CNAME .
 *.maltepeokul.com CNAME .
 maltepescort.com CNAME .
 *.maltepescort.com CNAME .
+malvinki.net CNAME .
+*.malvinki.net CNAME .
 mamachki.info CNAME .
 *.mamachki.info CNAME .
 mamacitaz.com CNAME .
@@ -26083,6 +26093,8 @@ porndupe.art CNAME .
 *.porndupe.art CNAME .
 porndw.com CNAME .
 *.porndw.com CNAME .
+porneb.com CNAME .
+*.porneb.com CNAME .
 pornedup.com CNAME .
 *.pornedup.com CNAME .
 porneec.com CNAME .
@@ -31013,8 +31025,6 @@ sexefelin.com CNAME .
 *.sexefelin.com CNAME .
 sexei.net CNAME .
 *.sexei.net CNAME .
-sexeirani.com CNAME .
-*.sexeirani.com CNAME .
 sexekat.sex CNAME .
 *.sexekat.sex CNAME .
 sexelarab.com CNAME .
@@ -37289,8 +37299,6 @@ vlgaimup.pro CNAME .
 *.vlgaimup.pro CNAME .
 vlxx.blog CNAME .
 *.vlxx.blog CNAME .
-vlxx.pet CNAME .
-*.vlxx.pet CNAME .
 vlxx.plus CNAME .
 *.vlxx.plus CNAME .
 vlxx.rocks CNAME .
@@ -38069,6 +38077,8 @@ wow-xxx-videos.com CNAME .
 *.wow-xxx-videos.com CNAME .
 wow.xxx CNAME .
 *.wow.xxx CNAME .
+wowanalytics.co.uk CNAME .
+*.wowanalytics.co.uk CNAME .
 wowcams.com CNAME .
 *.wowcams.com CNAME .
 wowfreetube.com CNAME .
@@ -38117,6 +38127,8 @@ wtfpass.com CNAME .
 *.wtfpass.com CNAME .
 wtfpeople.com CNAME .
 *.wtfpeople.com CNAME .
+wuaze.com CNAME .
+*.wuaze.com CNAME .
 wuiwui.com CNAME .
 *.wuiwui.com CNAME .
 wuopo.com CNAME .
