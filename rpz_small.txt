@@ -1,9 +1,9 @@
-; Version: 202505221110
+; Version: 202505221210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85834
-; Last modified: 2025-05-22T11:10:21+0000
+; Entries: 85798
+; Last modified: 2025-05-22T12:10:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747911606 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747915204 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8859,8 +8859,6 @@ agpdwejakdi.com CNAME .
 *.agpdwejakdi.com CNAME .
 agqoshfujku.com CNAME .
 *.agqoshfujku.com CNAME .
-agraizaupta.com CNAME .
-*.agraizaupta.com CNAME .
 agrarianbrowse.com CNAME .
 *.agrarianbrowse.com CNAME .
 agrariancapable.com CNAME .
@@ -13275,8 +13273,6 @@ atableofcup.com CNAME .
 *.atableofcup.com CNAME .
 atacticlinkier.shop CNAME .
 *.atacticlinkier.shop CNAME .
-atadsoalsuget.net CNAME .
-*.atadsoalsuget.net CNAME .
 ataiyalstrays.com CNAME .
 *.ataiyalstrays.com CNAME .
 atakokaju.shop CNAME .
@@ -14591,8 +14587,6 @@ baggageconservationcaught.com CNAME .
 *.baggageconservationcaught.com CNAME .
 baglanbize.net CNAME .
 *.baglanbize.net CNAME .
-bagmenunhaunt.top CNAME .
-*.bagmenunhaunt.top CNAME .
 bagpipemonogamypercent.com CNAME .
 *.bagpipemonogamypercent.com CNAME .
 bagsonsale.online CNAME .
@@ -15691,8 +15685,6 @@ behindextend.com CNAME .
 *.behindextend.com CNAME .
 behindforhewas.org CNAME .
 *.behindforhewas.org CNAME .
-beholdsbistate.shop CNAME .
-*.beholdsbistate.shop CNAME .
 behooveforeby.top CNAME .
 *.behooveforeby.top CNAME .
 behoppipan.com CNAME .
@@ -20311,8 +20303,6 @@ chauckee.net CNAME .
 *.chauckee.net CNAME .
 chauffeurreliancegreek.com CNAME .
 *.chauffeurreliancegreek.com CNAME .
-chaugroo.net CNAME .
-*.chaugroo.net CNAME .
 chauinubbins.com CNAME .
 *.chauinubbins.com CNAME .
 chaussew.net CNAME .
@@ -23811,8 +23801,6 @@ creator.zmags.com CNAME .
 *.creator.zmags.com CNAME .
 crechecatholicclaimed.com CNAME .
 *.crechecatholicclaimed.com CNAME .
-credenskagos.top CNAME .
-*.credenskagos.top CNAME .
 credentialsfont.com CNAME .
 *.credentialsfont.com CNAME .
 credentialstrapdoormagnet.com CNAME .
@@ -27829,8 +27817,6 @@ debatabletent.com CNAME .
 *.debatabletent.com CNAME .
 debaucky.com CNAME .
 *.debaucky.com CNAME .
-debausouseets.net CNAME .
-*.debausouseets.net CNAME .
 debitcrebit669.com CNAME .
 *.debitcrebit669.com CNAME .
 debojuagug1sf.cloudfront.net CNAME .
@@ -30445,8 +30431,6 @@ ducofagrigusor.com CNAME .
 *.ducofagrigusor.com CNAME .
 ducroconawchan.com CNAME .
 *.ducroconawchan.com CNAME .
-ductalidyls.shop CNAME .
-*.ductalidyls.shop CNAME .
 ductclickjl.com CNAME .
 *.ductclickjl.com CNAME .
 ductedcestoid.top CNAME .
@@ -30479,8 +30463,6 @@ dugothitachan.com CNAME .
 *.dugothitachan.com CNAME .
 dugraukeeck.net CNAME .
 *.dugraukeeck.net CNAME .
-dugrozufo.com CNAME .
-*.dugrozufo.com CNAME .
 duh0b8nl8uhfn.cloudfront.net CNAME .
 *.duh0b8nl8uhfn.cloudfront.net CNAME .
 duhboga.ru CNAME .
@@ -33775,8 +33757,6 @@ faishoar.com CNAME .
 *.faishoar.com CNAME .
 faithaiy.com CNAME .
 *.faithaiy.com CNAME .
-faithedsorels.shop CNAME .
-*.faithedsorels.shop CNAME .
 faithfullywringfriendship.com CNAME .
 *.faithfullywringfriendship.com CNAME .
 faiverty-station.com CNAME .
@@ -36085,8 +36065,6 @@ fulyvaxscaucd.club CNAME .
 *.fulyvaxscaucd.club CNAME .
 fumepurine.top CNAME .
 *.fumepurine.top CNAME .
-fumtartujilse.net CNAME .
-*.fumtartujilse.net CNAME .
 funbestgetjoobsli.org CNAME .
 *.funbestgetjoobsli.org CNAME .
 functionsreturn.com CNAME .
@@ -41243,8 +41221,6 @@ humsoolt.net CNAME .
 *.humsoolt.net CNAME .
 hunchbackconebelfry.com CNAME .
 *.hunchbackconebelfry.com CNAME .
-hunchetcoquita.com CNAME .
-*.hunchetcoquita.com CNAME .
 hunchflora.com CNAME .
 *.hunchflora.com CNAME .
 hunchmotherhooddefine.com CNAME .
@@ -43391,8 +43367,6 @@ itemperrycreek.com CNAME .
 *.itemperrycreek.com CNAME .
 itemtaxopt.live CNAME .
 *.itemtaxopt.live CNAME .
-itenalif.shop CNAME .
-*.itenalif.shop CNAME .
 iterantunacute.shop CNAME .
 *.iterantunacute.shop CNAME .
 itespurrom.com CNAME .
@@ -53581,8 +53555,6 @@ niu05180jd.top CNAME .
 *.niu05180jd.top CNAME .
 niubixxx.com CNAME .
 *.niubixxx.com CNAME .
-niveausatan.shop CNAME .
-*.niveausatan.shop CNAME .
 niveauultion.shop CNAME .
 *.niveauultion.shop CNAME .
 niwooghu.com CNAME .
@@ -58481,8 +58453,6 @@ pings.vidpulse.com CNAME .
 *.pings.vidpulse.com CNAME .
 pingtas.qq.com CNAME .
 *.pingtas.qq.com CNAME .
-pinionsmamry.top CNAME .
-*.pinionsmamry.top CNAME .
 pinitoloutbeam.shop CNAME .
 *.pinitoloutbeam.shop CNAME .
 pinjzp.icu CNAME .
@@ -59419,8 +59389,6 @@ poorgasillago.click CNAME .
 *.poorgasillago.click CNAME .
 poorlytanrubbing.com CNAME .
 *.poorlytanrubbing.com CNAME .
-poowucatuz.net CNAME .
-*.poowucatuz.net CNAME .
 pop-under.ru CNAME .
 *.pop-under.ru CNAME .
 pop.dojo.cc CNAME .
@@ -67889,8 +67857,6 @@ shasogna.com CNAME .
 *.shasogna.com CNAME .
 shassheld.live CNAME .
 *.shassheld.live CNAME .
-shatonus.shop CNAME .
-*.shatonus.shop CNAME .
 shatterconceal.com CNAME .
 *.shatterconceal.com CNAME .
 shauasoz.my CNAME .
@@ -80167,8 +80133,6 @@ vinefucmyvovrw.xyz CNAME .
 *.vinefucmyvovrw.xyz CNAME .
 vinegardaring.com CNAME .
 *.vinegardaring.com CNAME .
-vinertoxamin.top CNAME .
-*.vinertoxamin.top CNAME .
 vingartistictaste.com CNAME .
 *.vingartistictaste.com CNAME .
 vinsgcs.com CNAME .
