@@ -1,9 +1,9 @@
-; Version: 202505220819
+; Version: 202505220910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85996
-; Last modified: 2025-05-22T08:19:36+0000
+; Entries: 85958
+; Last modified: 2025-05-22T09:10:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747901386 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1747904404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1627,8 +1627,6 @@ $TTL 30
 *.3pkf5m0gd.com CNAME .
 3qfe1gfa.de CNAME .
 *.3qfe1gfa.de CNAME .
-3r1kwxcd.top CNAME .
-*.3r1kwxcd.top CNAME .
 3rcld5y1dm.com CNAME .
 *.3rcld5y1dm.com CNAME .
 3redlightfix.com CNAME .
@@ -9019,8 +9017,6 @@ ailcloister.com CNAME .
 *.ailcloister.com CNAME .
 ailtashoackie.com CNAME .
 *.ailtashoackie.com CNAME .
-ailtodsookr.com CNAME .
-*.ailtodsookr.com CNAME .
 aim4media.com CNAME .
 *.aim4media.com CNAME .
 aimaunongeez.net CNAME .
@@ -17055,8 +17051,6 @@ bombozzz.xyz CNAME .
 *.bombozzz.xyz CNAME .
 bonafides.club CNAME .
 *.bonafides.club CNAME .
-bonaghtriter.shop CNAME .
-*.bonaghtriter.shop CNAME .
 bondfondif.com CNAME .
 *.bondfondif.com CNAME .
 bondingcloningribcage.com CNAME .
@@ -18779,8 +18773,6 @@ cahxpivu.com CNAME .
 *.cahxpivu.com CNAME .
 cai75tp.com CNAME .
 *.cai75tp.com CNAME .
-caicaipoop.com CNAME .
-*.caicaipoop.com CNAME .
 caicaulaip.com CNAME .
 *.caicaulaip.com CNAME .
 caicme.xyz CNAME .
@@ -34475,8 +34467,6 @@ fidar.site CNAME .
 *.fidar.site CNAME .
 fidelity-media.com CNAME .
 *.fidelity-media.com CNAME .
-fidsdeign.shop CNAME .
-*.fidsdeign.shop CNAME .
 fidtaswiw.com CNAME .
 *.fidtaswiw.com CNAME .
 fiehff.com CNAME .
@@ -40017,8 +40007,6 @@ helpfulcloister.com CNAME .
 *.helpfulcloister.com CNAME .
 helpfulrectifychiefly.com CNAME .
 *.helpfulrectifychiefly.com CNAME .
-helpfultressy.shop CNAME .
-*.helpfultressy.shop CNAME .
 helplylira.top CNAME .
 *.helplylira.top CNAME .
 hem41xm47.com CNAME .
@@ -40179,8 +40167,6 @@ heurekawhoring.shop CNAME .
 *.heurekawhoring.shop CNAME .
 hewomenentail.com CNAME .
 *.hewomenentail.com CNAME .
-hexagynjewing.top CNAME .
-*.hexagynjewing.top CNAME .
 hexusads.fluent.ltd.uk CNAME .
 *.hexusads.fluent.ltd.uk CNAME .
 heybarnacle.com CNAME .
@@ -40407,8 +40393,6 @@ hilove.life CNAME .
 *.hilove.life CNAME .
 hilsaims.net CNAME .
 *.hilsaims.net CNAME .
-hiltanseen.net CNAME .
-*.hiltanseen.net CNAME .
 hilton.data.adobedc.net CNAME .
 *.hilton.data.adobedc.net CNAME .
 himediads.com CNAME .
@@ -46639,8 +46623,6 @@ lebinaphy.com CNAME .
 *.lebinaphy.com CNAME .
 lecapush.net CNAME .
 *.lecapush.net CNAME .
-leckbrinded.shop CNAME .
-*.leckbrinded.shop CNAME .
 lectureolympics.com CNAME .
 *.lectureolympics.com CNAME .
 lecubzcgozcgk.one CNAME .
@@ -49505,8 +49487,6 @@ maltcontaining.com CNAME .
 *.maltcontaining.com CNAME .
 malthaeurite.com CNAME .
 *.malthaeurite.com CNAME .
-maltingmear.shop CNAME .
-*.maltingmear.shop CNAME .
 maltunfaithfulpredominant.com CNAME .
 *.maltunfaithfulpredominant.com CNAME .
 mamamia.vintageporno.stream CNAME .
@@ -54873,8 +54853,6 @@ ocmtag.com CNAME .
 *.ocmtag.com CNAME .
 ocmwmysizm.com CNAME .
 *.ocmwmysizm.com CNAME .
-ocoaksib.com CNAME .
-*.ocoaksib.com CNAME .
 oconner.biz CNAME .
 *.oconner.biz CNAME .
 oconner.link CNAME .
@@ -58315,8 +58293,6 @@ pheptoam.com CNAME .
 *.pheptoam.com CNAME .
 pheselta.net CNAME .
 *.pheselta.net CNAME .
-phetsaikrugi.com CNAME .
-*.phetsaikrugi.com CNAME .
 phgop1.com CNAME .
 *.phgop1.com CNAME .
 phgotof2.com CNAME .
@@ -58341,8 +58317,6 @@ phillfogon.shop CNAME .
 *.phillfogon.shop CNAME .
 phimordap.net CNAME .
 *.phimordap.net CNAME .
-phiphepsome.pro CNAME .
-*.phiphepsome.pro CNAME .
 phirussacmush.net CNAME .
 *.phirussacmush.net CNAME .
 phithoophuly.net CNAME .
@@ -59373,8 +59347,6 @@ pod.xpress.com CNAME .
 *.pod.xpress.com CNAME .
 podefr2.net CNAME .
 *.podefr2.net CNAME .
-podgejufti.top CNAME .
-*.podgejufti.top CNAME .
 podleysensing.shop CNAME .
 *.podleysensing.shop CNAME .
 podosupsurge.com CNAME .
@@ -60871,8 +60843,6 @@ psuftoum.com CNAME .
 *.psuftoum.com CNAME .
 psughooy.com CNAME .
 *.psughooy.com CNAME .
-psumpupsauket.com CNAME .
-*.psumpupsauket.com CNAME .
 psunseewhu.com CNAME .
 *.psunseewhu.com CNAME .
 psuphuns.net CNAME .
@@ -61215,8 +61185,6 @@ puitaexb.com CNAME .
 *.puitaexb.com CNAME .
 puldhukelpmet.com CNAME .
 *.puldhukelpmet.com CNAME .
-pulianmurkly.shop CNAME .
-*.pulianmurkly.shop CNAME .
 pullovereugenemistletoe.com CNAME .
 *.pullovereugenemistletoe.com CNAME .
 pulpphlegma.shop CNAME .
@@ -71863,8 +71831,6 @@ stereotypeswig.com CNAME .
 *.stereotypeswig.com CNAME .
 sterilityintentionnag.com CNAME .
 *.sterilityintentionnag.com CNAME .
-sternedfranion.shop CNAME .
-*.sternedfranion.shop CNAME .
 sternlythese.com CNAME .
 *.sternlythese.com CNAME .
 steroidbazaarbalance.com CNAME .
@@ -74247,8 +74213,6 @@ tern.daffy.org CNAME .
 *.tern.daffy.org CNAME .
 tern.xebel.co CNAME .
 *.tern.xebel.co CNAME .
-ternletspurns.top CNAME .
-*.ternletspurns.top CNAME .
 terraclicks.com CNAME .
 *.terraclicks.com CNAME .
 terrapush.com CNAME .
@@ -77999,8 +77963,6 @@ twinrtb.com CNAME .
 *.twinrtb.com CNAME .
 twinsrv.com CNAME .
 *.twinsrv.com CNAME .
-twirkacus.shop CNAME .
-*.twirkacus.shop CNAME .
 twirlninthgullible.com CNAME .
 *.twirlninthgullible.com CNAME .
 twirlparchextent.com CNAME .
