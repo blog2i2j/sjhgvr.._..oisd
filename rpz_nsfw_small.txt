@@ -1,9 +1,9 @@
-; Version: 202505232114
+; Version: 202505232214
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41916
-; Last modified: 2025-05-23T21:14:29+0000
+; Entries: 41920
+; Last modified: 2025-05-23T22:14:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748034002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748037602 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1129,8 +1129,6 @@ adult CNAME .
 *.adult CNAME .
 adult-empire.com CNAME .
 *.adult-empire.com CNAME .
-adult-engine-search.com CNAME .
-*.adult-engine-search.com CNAME .
 adult-fanfiction.org CNAME .
 *.adult-fanfiction.org CNAME .
 adult-finders-dating.com CNAME .
@@ -15879,6 +15877,8 @@ houstonmaturesingles.com CNAME .
 *.houstonmaturesingles.com CNAME .
 hoxnif.com CNAME .
 *.hoxnif.com CNAME .
+hpjav.in CNAME .
+*.hpjav.in CNAME .
 hpyjmp.com CNAME .
 *.hpyjmp.com CNAME .
 hpyrdr.com CNAME .
@@ -20345,8 +20345,6 @@ maduras.xxx CNAME .
 *.maduras.xxx CNAME .
 madurasamateur.com CNAME .
 *.madurasamateur.com CNAME .
-madurascalientesx.com CNAME .
-*.madurascalientesx.com CNAME .
 madurashd.com CNAME .
 *.madurashd.com CNAME .
 madxxxflicks.com CNAME .
@@ -21355,6 +21353,8 @@ meusdesabafos.com CNAME .
 *.meusdesabafos.com CNAME .
 meusexogay.com CNAME .
 *.meusexogay.com CNAME .
+mex.tl CNAME .
+*.mex.tl CNAME .
 mexican-woman.com CNAME .
 *.mexican-woman.com CNAME .
 mexicanas.best CNAME .
@@ -25579,6 +25579,8 @@ playboytv.com CNAME .
 *.playboytv.com CNAME .
 playcrot.com CNAME .
 *.playcrot.com CNAME .
+playfetish.com CNAME .
+*.playfetish.com CNAME .
 playmeow.com CNAME .
 *.playmeow.com CNAME .
 playnaughty.com CNAME .
@@ -30001,6 +30003,8 @@ rule34.xyz CNAME .
 *.rule34.xyz CNAME .
 rule34ai.art CNAME .
 *.rule34ai.art CNAME .
+rule34archive.com CNAME .
+*.rule34archive.com CNAME .
 rule34collection.com CNAME .
 *.rule34collection.com CNAME .
 rule34comic.party CNAME .
@@ -32833,6 +32837,8 @@ siberia113.ru CNAME .
 *.siberia113.ru CNAME .
 sibirki.su CNAME .
 *.sibirki.su CNAME .
+sibotak.lol CNAME .
+*.sibotak.lol CNAME .
 sick-r.com CNAME .
 *.sick-r.com CNAME .
 sickjunk.com CNAME .
@@ -34565,8 +34571,6 @@ temagay.org.es CNAME .
 *.temagay.org.es CNAME .
 tempocams.com CNAME .
 *.tempocams.com CNAME .
-temporary.site CNAME .
-*.temporary.site CNAME .
 tempted.com CNAME .
 *.tempted.com CNAME .
 temptingangels.org CNAME .
