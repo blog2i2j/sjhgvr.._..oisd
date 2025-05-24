@@ -1,9 +1,9 @@
-; Version: 202505242216
+; Version: 202505242315
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42312
-; Last modified: 2025-05-24T22:16:28+0000
+; Entries: 42322
+; Last modified: 2025-05-24T23:15:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748124001 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748127604 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -461,6 +461,8 @@ $TTL 30
 *.33yr.com CNAME .
 35p-cheap-phone-sex.com CNAME .
 *.35p-cheap-phone-sex.com CNAME .
+35photo.ru CNAME .
+*.35photo.ru CNAME .
 365parma.net CNAME .
 *.365parma.net CNAME .
 365pornmovs.com CNAME .
@@ -7189,6 +7191,8 @@ comix666.lat CNAME .
 *.comix666.lat CNAME .
 comixharem.com CNAME .
 *.comixharem.com CNAME .
+commentseduire.net CNAME .
+*.commentseduire.net CNAME .
 commissie.online CNAME .
 *.commissie.online CNAME .
 commonsupport.com CNAME .
@@ -15805,8 +15809,6 @@ hotnudephoto.com CNAME .
 *.hotnudephoto.com CNAME .
 hotnudeteen.com CNAME .
 *.hotnudeteen.com CNAME .
-hotnupics.com CNAME .
-*.hotnupics.com CNAME .
 hotnxx.com CNAME .
 *.hotnxx.com CNAME .
 hotoctopuss.com CNAME .
@@ -21907,6 +21909,8 @@ moav.com CNAME .
 *.moav.com CNAME .
 mobahot.com CNAME .
 *.mobahot.com CNAME .
+mobez.ru CNAME .
+*.mobez.ru CNAME .
 mobi.ca CNAME .
 *.mobi.ca CNAME .
 mobiblog.love CNAME .
@@ -24691,6 +24695,8 @@ originalhindiporn.mobi CNAME .
 *.originalhindiporn.mobi CNAME .
 originporn.com CNAME .
 *.originporn.com CNAME .
+orion.at CNAME .
+*.orion.at CNAME .
 orioporn.com CNAME .
 *.orioporn.com CNAME .
 orivive.com CNAME .
@@ -24809,6 +24815,8 @@ packs.xxx CNAME .
 *.packs.xxx CNAME .
 packsfree.com CNAME .
 *.packsfree.com CNAME .
+packsgratis.store CNAME .
+*.packsgratis.store CNAME .
 packsmega.info CNAME .
 *.packsmega.info CNAME .
 packsparapobres.com CNAME .
@@ -33421,6 +33429,8 @@ sm3na.com CNAME .
 *.sm3na.com CNAME .
 smalltits.pics CNAME .
 *.smalltits.pics CNAME .
+smattermost.com CNAME .
+*.smattermost.com CNAME .
 smaxim.com.ua CNAME .
 *.smaxim.com.ua CNAME .
 smaxim.net CNAME .
