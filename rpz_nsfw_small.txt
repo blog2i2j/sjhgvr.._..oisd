@@ -1,9 +1,9 @@
-; Version: 202505242115
+; Version: 202505242216
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42298
-; Last modified: 2025-05-24T21:15:18+0000
+; Entries: 42312
+; Last modified: 2025-05-24T22:16:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748120402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748124001 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11619,6 +11619,8 @@ free.bg CNAME .
 *.free.bg CNAME .
 free.hr CNAME .
 *.free.hr CNAME .
+free.nf CNAME .
+*.free.nf CNAME .
 free18.net CNAME .
 *.free18.net CNAME .
 free4kporn.com CNAME .
@@ -17225,6 +17227,8 @@ isexychat.in CNAME .
 *.isexychat.in CNAME .
 isexychat.org CNAME .
 *.isexychat.org CNAME .
+isguzem.online CNAME .
+*.isguzem.online CNAME .
 ishemalesex.com CNAME .
 *.ishemalesex.com CNAME .
 ishotmyself.com CNAME .
@@ -20663,6 +20667,8 @@ mangadistrict.com CNAME .
 *.mangadistrict.com CNAME .
 mangadna.com CNAME .
 *.mangadna.com CNAME .
+mangadoujin.com CNAME .
+*.mangadoujin.com CNAME .
 mangaforest.me CNAME .
 *.mangaforest.me CNAME .
 mangaforfree.com CNAME .
@@ -20929,6 +20935,8 @@ mastertgp.net CNAME .
 *.mastertgp.net CNAME .
 masthindistory.com CNAME .
 *.masthindistory.com CNAME .
+mastibaba.com CNAME .
+*.mastibaba.com CNAME .
 masticlubs.com CNAME .
 *.masticlubs.com CNAME .
 mastixflix.com CNAME .
@@ -28701,6 +28709,8 @@ prehistorictube.com CNAME .
 *.prehistorictube.com CNAME .
 premium-beauty.com CNAME .
 *.premium-beauty.com CNAME .
+premium-ott.com CNAME .
+*.premium-ott.com CNAME .
 premium.chat CNAME .
 *.premium.chat CNAME .
 premiumbukkake.com CNAME .
@@ -38933,6 +38943,8 @@ xchina.store CNAME .
 *.xchina.store CNAME .
 xcity.jp CNAME .
 *.xcity.jp CNAME .
+xclip.vip CNAME .
+*.xclip.vip CNAME .
 xcomics.se CNAME .
 *.xcomics.se CNAME .
 xconfessions.com CNAME .
@@ -40909,6 +40921,8 @@ xxxfap.me CNAME .
 *.xxxfap.me CNAME .
 xxxfast.com CNAME .
 *.xxxfast.com CNAME .
+xxxfetishforum.com CNAME .
+*.xxxfetishforum.com CNAME .
 xxxfile.org CNAME .
 *.xxxfile.org CNAME .
 xxxfiles.com CNAME .
