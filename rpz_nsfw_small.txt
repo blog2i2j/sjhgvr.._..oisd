@@ -1,9 +1,9 @@
-; Version: 202505240813
+; Version: 202505240839
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42070
-; Last modified: 2025-05-24T08:13:52+0000
+; Entries: 42076
+; Last modified: 2025-05-24T08:39:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748073603 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748075171 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11141,6 +11141,8 @@ filthymamas.com CNAME .
 *.filthymamas.com CNAME .
 finalteens.com CNAME .
 *.finalteens.com CNAME .
+finance.blog CNAME .
+*.finance.blog CNAME .
 find-me-sex.com CNAME .
 *.find-me-sex.com CNAME .
 find-singles-online.com CNAME .
@@ -19121,6 +19123,8 @@ labporn.org CNAME .
 *.labporn.org CNAME .
 lachattedacote.com CNAME .
 *.lachattedacote.com CNAME .
+lacomics.net CNAME .
+*.lacomics.net CNAME .
 lacynylons.com CNAME .
 *.lacynylons.com CNAME .
 ladies-cdn.de CNAME .
@@ -30869,6 +30873,8 @@ sex-hot-xxx.com CNAME .
 *.sex-hot-xxx.com CNAME .
 sex-hq.video CNAME .
 *.sex-hq.video CNAME .
+sex-hub-kharkov.top CNAME .
+*.sex-hub-kharkov.top CNAME .
 sex-hunter.net CNAME .
 *.sex-hunter.net CNAME .
 sex-igry.com CNAME .
