@@ -1,9 +1,9 @@
-; Version: 202505240918
+; Version: 202505241013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42082
-; Last modified: 2025-05-24T09:18:12+0000
+; Entries: 42090
+; Last modified: 2025-05-24T10:13:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748077509 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748080803 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1691,6 +1691,8 @@ alldojki.in CNAME .
 *.alldojki.in CNAME .
 allebonygals.com CNAME .
 *.allebonygals.com CNAME .
+allepaginas.nl CNAME .
+*.allepaginas.nl CNAME .
 allesoverseks.be CNAME .
 *.allesoverseks.be CNAME .
 allfet.net CNAME .
@@ -7985,6 +7987,8 @@ desi-xxx-videos.com CNAME .
 *.desi-xxx-videos.com CNAME .
 desi-xxx.pro CNAME .
 *.desi-xxx.pro CNAME .
+desi400.com CNAME .
+*.desi400.com CNAME .
 desi49.com CNAME .
 *.desi49.com CNAME .
 desi49.info CNAME .
@@ -19363,8 +19367,6 @@ leakslove.com CNAME .
 *.leakslove.com CNAME .
 leaktube.net CNAME .
 *.leaktube.net CNAME .
-leaktube.org CNAME .
-*.leaktube.org CNAME .
 leaktubenet.com CNAME .
 *.leaktubenet.com CNAME .
 leakutopia.com CNAME .
@@ -29697,6 +29699,8 @@ regiosexcontact.nl CNAME .
 *.regiosexcontact.nl CNAME .
 regioswingers.be CNAME .
 *.regioswingers.be CNAME .
+regioswingers.nl CNAME .
+*.regioswingers.nl CNAME .
 reifefrauenklub.com CNAME .
 *.reifefrauenklub.com CNAME .
 reifefraukostenlos.com CNAME .
@@ -36623,6 +36627,8 @@ uhdsexmovs.com CNAME .
 *.uhdsexmovs.com CNAME .
 uhdsextube.com CNAME .
 *.uhdsextube.com CNAME .
+uhmegle.com CNAME .
+*.uhmegle.com CNAME .
 uhtube.fun CNAME .
 *.uhtube.fun CNAME .
 uiiumovie.fun CNAME .
@@ -42073,6 +42079,8 @@ zwaremetalen.com CNAME .
 *.zwaremetalen.com CNAME .
 zwhitelabel.com CNAME .
 *.zwhitelabel.com CNAME .
+zwinkr.de CNAME .
+*.zwinkr.de CNAME .
 zxctube.com CNAME .
 *.zxctube.com CNAME .
 zxt.in CNAME .
