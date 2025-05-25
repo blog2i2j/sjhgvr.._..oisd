@@ -1,9 +1,9 @@
-; Version: 202505250710
+; Version: 202505250810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85160
-; Last modified: 2025-05-25T07:10:12+0000
+; Entries: 85134
+; Last modified: 2025-05-25T08:10:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748156405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748160006 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11613,8 +11613,6 @@ angelltennis.co.uk CNAME .
 *.angelltennis.co.uk CNAME .
 angerfondnessspecified.com CNAME .
 *.angerfondnessspecified.com CNAME .
-angioiddiantre.top CNAME .
-*.angioiddiantre.top CNAME .
 anglemarrowoccurs.com CNAME .
 *.anglemarrowoccurs.com CNAME .
 anglerfish.luminfire.com CNAME .
@@ -16887,8 +16885,6 @@ blotecardthumb.com CNAME .
 *.blotecardthumb.com CNAME .
 blowingparkish.click CNAME .
 *.blowingparkish.click CNAME .
-blownsuperstitionabound.com CNAME .
-*.blownsuperstitionabound.com CNAME .
 bloxplay.com CNAME .
 *.bloxplay.com CNAME .
 blu5fdclr.com CNAME .
@@ -39775,16 +39771,12 @@ heresanothernicemess.com CNAME .
 *.heresanothernicemess.com CNAME .
 heritageamyconstitutional.com CNAME .
 *.heritageamyconstitutional.com CNAME .
-herlingvotally.shop CNAME .
-*.herlingvotally.shop CNAME .
 herma-tor.com CNAME .
 *.herma-tor.com CNAME .
 hermaturse.com CNAME .
 *.hermaturse.com CNAME .
 hermes.allo-media.net CNAME .
 *.hermes.allo-media.net CNAME .
-hermitslistred.shop CNAME .
-*.hermitslistred.shop CNAME .
 hernetoise.shop CNAME .
 *.hernetoise.shop CNAME .
 herodiessujed.org CNAME .
@@ -44359,8 +44351,6 @@ jumpylevel.com CNAME .
 *.jumpylevel.com CNAME .
 jun01.oss-cn-beijing.aliyuncs.com CNAME .
 *.jun01.oss-cn-beijing.aliyuncs.com CNAME .
-junkettypika.shop CNAME .
-*.junkettypika.shop CNAME .
 junkrat-tire.overbuff.com CNAME .
 *.junkrat-tire.overbuff.com CNAME .
 junkyadexchange.com CNAME .
@@ -57949,8 +57939,6 @@ piggiepepo.xyz CNAME .
 *.piggiepepo.xyz CNAME .
 pigmewpiete.com CNAME .
 *.pigmewpiete.com CNAME .
-pigmycensing.shop CNAME .
-*.pigmycensing.shop CNAME .
 pignuwoa.com CNAME .
 *.pignuwoa.com CNAME .
 pigtre.com CNAME .
@@ -58435,8 +58423,6 @@ plantalwauk.top CNAME .
 *.plantalwauk.top CNAME .
 plantcontradictionexpansion.com CNAME .
 *.plantcontradictionexpansion.com CNAME .
-planumstating.shop CNAME .
-*.planumstating.shop CNAME .
 planyourbackup.co CNAME .
 *.planyourbackup.co CNAME .
 plasmsmolochs.shop CNAME .
@@ -65869,8 +65855,6 @@ sardonic-track.com CNAME .
 *.sardonic-track.com CNAME .
 sarinfalun.com CNAME .
 *.sarinfalun.com CNAME .
-sarinnarks.shop CNAME .
-*.sarinnarks.shop CNAME .
 sarrowgrivois.com CNAME .
 *.sarrowgrivois.com CNAME .
 sartolutus.com CNAME .
@@ -71031,8 +71015,6 @@ stcvhf.com CNAME .
 *.stcvhf.com CNAME .
 stdirection.com CNAME .
 *.stdirection.com CNAME .
-steadypriority.com CNAME .
-*.steadypriority.com CNAME .
 steadyquarryderived.com CNAME .
 *.steadyquarryderived.com CNAME .
 steakeffort.com CNAME .
@@ -73187,8 +73169,6 @@ tearoomzebus.top CNAME .
 *.tearoomzebus.top CNAME .
 teaspoonbrave.com CNAME .
 *.teaspoonbrave.com CNAME .
-teaspoondaffodilcould.com CNAME .
-*.teaspoondaffodilcould.com CNAME .
 teatyoverput.top CNAME .
 *.teatyoverput.top CNAME .
 tebrand.asia CNAME .
@@ -74141,8 +74121,6 @@ tipslyrev.com CNAME .
 *.tipslyrev.com CNAME .
 tiq.espritshop.pl CNAME .
 *.tiq.espritshop.pl CNAME .
-tiradafi.pro CNAME .
-*.tiradafi.pro CNAME .
 tireconfessed.com CNAME .
 *.tireconfessed.com CNAME .
 tireconnateunion.com CNAME .
@@ -74843,8 +74821,6 @@ toworkwither.org CNAME .
 *.toworkwither.org CNAME .
 toxemiaslier.com CNAME .
 *.toxemiaslier.com CNAME .
-toxemichallows.shop CNAME .
-*.toxemichallows.shop CNAME .
 toxodonsinify.shop CNAME .
 *.toxodonsinify.shop CNAME .
 toxtren.com CNAME .
@@ -78343,8 +78319,6 @@ uretalzonated.com CNAME .
 *.uretalzonated.com CNAME .
 urgentlyrightypast.com CNAME .
 *.urgentlyrightypast.com CNAME .
-urgentprotections.com CNAME .
-*.urgentprotections.com CNAME .
 urgxnorjluhwl.online CNAME .
 *.urgxnorjluhwl.online CNAME .
 urimnugocfr.com CNAME .
