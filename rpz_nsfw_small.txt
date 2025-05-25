@@ -1,9 +1,9 @@
-; Version: 202505252215
+; Version: 202505252314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42568
-; Last modified: 2025-05-25T22:15:10+0000
+; Entries: 42570
+; Last modified: 2025-05-25T23:14:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748210406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748214006 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3299,6 +3299,8 @@ avsubthai.xyz CNAME .
 *.avsubthai.xyz CNAME .
 avsubthaixxx.com CNAME .
 *.avsubthaixxx.com CNAME .
+avsubtitles.com CNAME .
+*.avsubtitles.com CNAME .
 avsuck.net CNAME .
 *.avsuck.net CNAME .
 avtop10.com CNAME .
@@ -5529,6 +5531,8 @@ brettspizzeria.com CNAME .
 *.brettspizzeria.com CNAME .
 bride.ru CNAME .
 *.bride.ru CNAME .
+brides4love.com CNAME .
+*.brides4love.com CNAME .
 britishmaturesex.com CNAME .
 *.britishmaturesex.com CNAME .
 brokenlatinawhores.com CNAME .
@@ -12963,8 +12967,6 @@ gaysexdates.app CNAME .
 *.gaysexdates.app CNAME .
 gaysexfarm.com CNAME .
 *.gaysexfarm.com CNAME .
-gaysexhookup.net CNAME .
-*.gaysexhookup.net CNAME .
 gaysexhot.info CNAME .
 *.gaysexhot.info CNAME .
 gaysexhothq.com CNAME .
