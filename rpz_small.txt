@@ -1,9 +1,9 @@
-; Version: 202505250312
+; Version: 202505250510
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85240
-; Last modified: 2025-05-25T03:12:27+0000
+; Entries: 85212
+; Last modified: 2025-05-25T05:10:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748142002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748149205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16027,8 +16027,6 @@ berkshiretoday.xyz CNAME .
 *.berkshiretoday.xyz CNAME .
 berlipurplin.com CNAME .
 *.berlipurplin.com CNAME .
-bermestricker.shop CNAME .
-*.bermestricker.shop CNAME .
 berp.com CNAME .
 *.berp.com CNAME .
 berriesstring.com CNAME .
@@ -20299,8 +20297,6 @@ chaibsoacmo.com CNAME .
 *.chaibsoacmo.com CNAME .
 chainads.io CNAME .
 *.chainads.io CNAME .
-chainconnectivity.com CNAME .
-*.chainconnectivity.com CNAME .
 chaindedicated.com CNAME .
 *.chaindedicated.com CNAME .
 chaingptweb3.org CNAME .
@@ -27337,8 +27333,6 @@ darkercoincidentsword.com CNAME .
 *.darkercoincidentsword.com CNAME .
 darknessdrainablemoonlit.com CNAME .
 *.darknessdrainablemoonlit.com CNAME .
-darksmartproprietor.com CNAME .
-*.darksmartproprietor.com CNAME .
 darnobedienceupscale.com CNAME .
 *.darnobedienceupscale.com CNAME .
 daroptiy.com CNAME .
@@ -29155,8 +29149,6 @@ ditwrite.com CNAME .
 *.ditwrite.com CNAME .
 divaresnapshareagido.com CNAME .
 *.divaresnapshareagido.com CNAME .
-divasoberly.top CNAME .
-*.divasoberly.top CNAME .
 dive77kt.com CNAME .
 *.dive77kt.com CNAME .
 divekcl7q9fxi.cloudfront.net CNAME .
@@ -29203,8 +29195,6 @@ dj-updates.com CNAME .
 *.dj-updates.com CNAME .
 dj2550.com CNAME .
 *.dj2550.com CNAME .
-djadoc.com CNAME .
-*.djadoc.com CNAME .
 djfiln.com CNAME .
 *.djfiln.com CNAME .
 djm080u34wfc5.cloudfront.net CNAME .
@@ -35337,8 +35327,6 @@ foodersettos.click CNAME .
 *.foodersettos.click CNAME .
 foodieblogroll.com CNAME .
 *.foodieblogroll.com CNAME .
-foojeshoops.xyz CNAME .
-*.foojeshoops.xyz CNAME .
 foolishyours.com CNAME .
 *.foolishyours.com CNAME .
 foomaque.net CNAME .
@@ -39401,8 +39389,6 @@ hauwoopauy.net CNAME .
 *.hauwoopauy.net CNAME .
 haveameet.com CNAME .
 *.haveameet.com CNAME .
-haveflat.com CNAME .
-*.haveflat.com CNAME .
 havegrosho.com CNAME .
 *.havegrosho.com CNAME .
 havejav11.fun CNAME .
@@ -42603,8 +42589,6 @@ insnative.com CNAME .
 *.insnative.com CNAME .
 insouloxymel.com CNAME .
 *.insouloxymel.com CNAME .
-inspectcol.com CNAME .
-*.inspectcol.com CNAME .
 inspector-collector.m.naver.com CNAME .
 *.inspector-collector.m.naver.com CNAME .
 inspectorstrongerpill.com CNAME .
@@ -43631,8 +43615,6 @@ jdmodr.com CNAME .
 *.jdmodr.com CNAME .
 jdqmhay.icu CNAME .
 *.jdqmhay.icu CNAME .
-jealousstarw.shop CNAME .
-*.jealousstarw.shop CNAME .
 jealousupholdpleaded.com CNAME .
 *.jealousupholdpleaded.com CNAME .
 jeanykikongo.click CNAME .
@@ -48045,8 +48027,6 @@ logservice1.dbankcloud.cn CNAME .
 *.logservice1.dbankcloud.cn CNAME .
 logservice1.hicloud.com CNAME .
 *.logservice1.hicloud.com CNAME .
-logshipascites.shop CNAME .
-*.logshipascites.shop CNAME .
 logsink.zedge.net CNAME .
 *.logsink.zedge.net CNAME .
 logsss.com CNAME .
@@ -58045,8 +58025,6 @@ pilsarde.net CNAME .
 *.pilsarde.net CNAME .
 pimentoutas.click CNAME .
 *.pimentoutas.click CNAME .
-pimpledshivey.top CNAME .
-*.pimpledshivey.top CNAME .
 pimproll.com CNAME .
 *.pimproll.com CNAME .
 pin.hpplay.cn CNAME .
@@ -71213,8 +71191,6 @@ stiflefloral.com CNAME .
 *.stiflefloral.com CNAME .
 stiflepowerless.com CNAME .
 *.stiflepowerless.com CNAME .
-stigat.com CNAME .
-*.stigat.com CNAME .
 stighunge.net CNAME .
 *.stighunge.net CNAME .
 stihrigima.com CNAME .
@@ -74061,8 +74037,6 @@ tidaltv.com CNAME .
 *.tidaltv.com CNAME .
 tideairtight.com CNAME .
 *.tideairtight.com CNAME .
-tidiferhagose.shop CNAME .
-*.tidiferhagose.shop CNAME .
 tidint.pro CNAME .
 *.tidint.pro CNAME .
 tidyinteraction.pro CNAME .
@@ -81031,8 +81005,6 @@ wetsireoverload.com CNAME .
 *.wetsireoverload.com CNAME .
 wettestspanemy.com CNAME .
 *.wettestspanemy.com CNAME .
-wewlorozwolrr.top CNAME .
-*.wewlorozwolrr.top CNAME .
 wexevoom.net CNAME .
 *.wexevoom.net CNAME .
 wextap.com CNAME .
