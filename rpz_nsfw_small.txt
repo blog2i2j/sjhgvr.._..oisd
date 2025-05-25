@@ -1,9 +1,9 @@
-; Version: 202505250815
+; Version: 202505250915
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42440
-; Last modified: 2025-05-25T08:15:20+0000
+; Entries: 42452
+; Last modified: 2025-05-25T09:15:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748160006 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748163603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5257,6 +5257,8 @@ boogolinks.nl CNAME .
 *.boogolinks.nl CNAME .
 book18.org CNAME .
 *.book18.org CNAME .
+booklikes.com CNAME .
+*.booklikes.com CNAME .
 bookmark.xxx CNAME .
 *.bookmark.xxx CNAME .
 bookofp.com CNAME .
@@ -14697,6 +14699,8 @@ hentaicomics.pro CNAME .
 *.hentaicomics.pro CNAME .
 hentaicomicsfree.com CNAME .
 *.hentaicomicsfree.com CNAME .
+hentaicomicxxx.com CNAME .
+*.hentaicomicxxx.com CNAME .
 hentaicore.net CNAME .
 *.hentaicore.net CNAME .
 hentaicrot.com CNAME .
@@ -21293,6 +21297,8 @@ meendo.com CNAME .
 *.meendo.com CNAME .
 meendo.net CNAME .
 *.meendo.net CNAME .
+meendocash.com CNAME .
+*.meendocash.com CNAME .
 meendoru.net CNAME .
 *.meendoru.net CNAME .
 meendorux.net CNAME .
@@ -29593,6 +29599,8 @@ raptoronline.ru CNAME .
 *.raptoronline.ru CNAME .
 rarbggo.to CNAME .
 *.rarbggo.to CNAME .
+rarbgproxy.to CNAME .
+*.rarbgproxy.to CNAME .
 rare-jav.com CNAME .
 *.rare-jav.com CNAME .
 rarecams.com CNAME .
@@ -34575,6 +34583,8 @@ talktome.com CNAME .
 *.talktome.com CNAME .
 talkwithstranger.com CNAME .
 *.talkwithstranger.com CNAME .
+talla.ua CNAME .
+*.talla.ua CNAME .
 tameuf.com CNAME .
 *.tameuf.com CNAME .
 tamil-porno.com CNAME .
@@ -38193,6 +38203,8 @@ vukajlija.com CNAME .
 *.vukajlija.com CNAME .
 vuku.icu CNAME .
 *.vuku.icu CNAME .
+vulcan-platinum-casino6.win CNAME .
+*.vulcan-platinum-casino6.win CNAME .
 vulgarx.com CNAME .
 *.vulgarx.com CNAME .
 vulvapornpics.com CNAME .
