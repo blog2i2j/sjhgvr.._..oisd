@@ -1,9 +1,9 @@
-; Version: 202505250614
+; Version: 202505250714
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42430
-; Last modified: 2025-05-25T06:14:13+0000
+; Entries: 42436
+; Last modified: 2025-05-25T07:14:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748152804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748156405 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7067,6 +7067,8 @@ clubseventeen.com CNAME .
 *.clubseventeen.com CNAME .
 clubsextury21.com CNAME .
 *.clubsextury21.com CNAME .
+clubsissy.com CNAME .
+*.clubsissy.com CNAME .
 clubsweethearts.com CNAME .
 *.clubsweethearts.com CNAME .
 clubtug.com CNAME .
@@ -23505,6 +23507,8 @@ nhentaihaven.com CNAME .
 *.nhentaihaven.com CNAME .
 nhentaihaven.org CNAME .
 *.nhentaihaven.org CNAME .
+nhentaiworld-h1.info CNAME .
+*.nhentaiworld-h1.info CNAME .
 nhentaiyaoi.net CNAME .
 *.nhentaiyaoi.net CNAME .
 nhporn.com CNAME .
@@ -29097,6 +29101,8 @@ proxyporn.org CNAME .
 *.proxyporn.org CNAME .
 pruc.org CNAME .
 *.pruc.org CNAME .
+prv.pl CNAME .
+*.prv.pl CNAME .
 ps0z.com CNAME .
 *.ps0z.com CNAME .
 psmhelp.com CNAME .
