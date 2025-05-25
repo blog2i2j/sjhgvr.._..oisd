@@ -1,9 +1,9 @@
-; Version: 202505250510
+; Version: 202505250610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85212
-; Last modified: 2025-05-25T05:10:54+0000
+; Entries: 85176
+; Last modified: 2025-05-25T06:10:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748149205 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748152804 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12331,8 +12331,6 @@ apocalypsegulliblemood.com CNAME .
 *.apocalypsegulliblemood.com CNAME .
 apogee.spacenews.com CNAME .
 *.apogee.spacenews.com CNAME .
-apogoncaviars.shop CNAME .
-*.apogoncaviars.shop CNAME .
 apologiesneedleworkrising.com CNAME .
 *.apologiesneedleworkrising.com CNAME .
 apologizepitfall.com CNAME .
@@ -15703,8 +15701,6 @@ bearinggall.com CNAME .
 *.bearinggall.com CNAME .
 bearscutte.com CNAME .
 *.bearscutte.com CNAME .
-beastintruder.com CNAME .
-*.beastintruder.com CNAME .
 beastlyrapillo.shop CNAME .
 *.beastlyrapillo.shop CNAME .
 beastssmuggleimpatiently.com CNAME .
@@ -20051,8 +20047,6 @@ ced-ns.sascdn.com CNAME .
 *.ced-ns.sascdn.com CNAME .
 ced.sascdn.com CNAME .
 *.ced.sascdn.com CNAME .
-ced2aad48e.com CNAME .
-*.ced2aad48e.com CNAME .
 ced843cd18.com CNAME .
 *.ced843cd18.com CNAME .
 cedeimprovise.com CNAME .
@@ -20315,8 +20309,6 @@ chaithoa.com CNAME .
 *.chaithoa.com CNAME .
 chalaips.com CNAME .
 *.chalaips.com CNAME .
-chalconvex.top CNAME .
-*.chalconvex.top CNAME .
 chaliceguzzlerlandlord.com CNAME .
 *.chaliceguzzlerlandlord.com CNAME .
 chalkedretrieval.com CNAME .
@@ -28661,8 +28653,6 @@ dibsemey.com CNAME .
 *.dibsemey.com CNAME .
 dic9vgwbkxd8r.cloudfront.net CNAME .
 *.dic9vgwbkxd8r.cloudfront.net CNAME .
-dicerchaster.top CNAME .
-*.dicerchaster.top CNAME .
 diceresembleshudder.com CNAME .
 *.diceresembleshudder.com CNAME .
 dicheeph.com CNAME .
@@ -31095,8 +31085,6 @@ earbossysavvy.com CNAME .
 *.earbossysavvy.com CNAME .
 eardepth-prisists.com CNAME .
 *.eardepth-prisists.com CNAME .
-earholeprosode.shop CNAME .
-*.earholeprosode.shop CNAME .
 earlapssmalm.com CNAME .
 *.earlapssmalm.com CNAME .
 earlierindians.com CNAME .
@@ -35375,8 +35363,6 @@ fordullorangs.shop CNAME .
 *.fordullorangs.shop CNAME .
 forearmdiscomfort.com CNAME .
 *.forearmdiscomfort.com CNAME .
-forearmsickledeliberate.com CNAME .
-*.forearmsickledeliberate.com CNAME .
 forearmthrobjanuary.com CNAME .
 *.forearmthrobjanuary.com CNAME .
 forebypageant.com CNAME .
@@ -40453,8 +40439,6 @@ homesickclinkdemanded.com CNAME .
 *.homesickclinkdemanded.com CNAME .
 homespotaudience.com CNAME .
 *.homespotaudience.com CNAME .
-homestairnine.com CNAME .
-*.homestairnine.com CNAME .
 homesyowl.com CNAME .
 *.homesyowl.com CNAME .
 homeycommemorate.com CNAME .
@@ -40751,8 +40735,6 @@ how-t0-wtch.com CNAME .
 *.how-t0-wtch.com CNAME .
 howboxmab.site CNAME .
 *.howboxmab.site CNAME .
-howeloisedignify.com CNAME .
-*.howeloisedignify.com CNAME .
 howhow.cl CNAME .
 *.howhow.cl CNAME .
 howledmintier.com CNAME .
@@ -44385,8 +44367,6 @@ jun01.oss-cn-beijing.aliyuncs.com CNAME .
 *.jun01.oss-cn-beijing.aliyuncs.com CNAME .
 junkettypika.shop CNAME .
 *.junkettypika.shop CNAME .
-junkmildredsuffering.com CNAME .
-*.junkmildredsuffering.com CNAME .
 junkrat-tire.overbuff.com CNAME .
 *.junkrat-tire.overbuff.com CNAME .
 junkyadexchange.com CNAME .
@@ -48485,8 +48465,6 @@ lufydapo.com CNAME .
 *.lufydapo.com CNAME .
 luggagebuttonlocum.com CNAME .
 *.luggagebuttonlocum.com CNAME .
-luggieimpeyan.top CNAME .
-*.luggieimpeyan.top CNAME .
 lugwzalsqvacb.one CNAME .
 *.lugwzalsqvacb.one CNAME .
 luhhcodutax.com CNAME .
@@ -50045,8 +50023,6 @@ mepkbonqzmuvl.xyz CNAME .
 *.mepkbonqzmuvl.xyz CNAME .
 mepuzz.com CNAME .
 *.mepuzz.com CNAME .
-mepyjishu.pro CNAME .
-*.mepyjishu.pro CNAME .
 mer.stdout.cz CNAME .
 *.mer.stdout.cz CNAME .
 merchant-center-analytics.goog CNAME .
@@ -55483,8 +55459,6 @@ ophan.theguardian.com CNAME .
 *.ophan.theguardian.com CNAME .
 ophitebandeau.click CNAME .
 *.ophitebandeau.click CNAME .
-ophryonandiron.shop CNAME .
-*.ophryonandiron.shop CNAME .
 opienetwork.com CNAME .
 *.opienetwork.com CNAME .
 opkmio.xyz CNAME .
@@ -62943,8 +62917,6 @@ reliablefaucet.com CNAME .
 *.reliablefaucet.com CNAME .
 reliablemore.com CNAME .
 *.reliablemore.com CNAME .
-reliablepollensuite.com CNAME .
-*.reliablepollensuite.com CNAME .
 reliefjawflank.com CNAME .
 *.reliefjawflank.com CNAME .
 reliefreinsside.com CNAME .
@@ -67687,8 +67659,6 @@ shydastidu.com CNAME .
 *.shydastidu.com CNAME .
 sia.internet.apps.samsung.com CNAME .
 *.sia.internet.apps.samsung.com CNAME .
-sialsizably.shop CNAME .
-*.sialsizably.shop CNAME .
 sibajwpmux.com CNAME .
 *.sibajwpmux.com CNAME .
 siberiabecrush.com CNAME .
@@ -68743,8 +68713,6 @@ sonnymagicalsnack.com CNAME .
 *.sonnymagicalsnack.com CNAME .
 sonobi.com CNAME .
 *.sonobi.com CNAME .
-sonraifishnet.website CNAME .
-*.sonraifishnet.website CNAME .
 soocaips.com CNAME .
 *.soocaips.com CNAME .
 sookeindited.website CNAME .
@@ -74043,8 +74011,6 @@ tidyinteraction.pro CNAME .
 *.tidyinteraction.pro CNAME .
 tidytrail.com CNAME .
 *.tidytrail.com CNAME .
-tiedogeyebolt.shop CNAME .
-*.tiedogeyebolt.shop CNAME .
 tieszhu.com CNAME .
 *.tieszhu.com CNAME .
 tiewaxftvgxdv.today CNAME .
@@ -76375,8 +76341,6 @@ trasupr.com CNAME .
 *.trasupr.com CNAME .
 traumavirus.com CNAME .
 *.traumavirus.com CNAME .
-travailsabeing.shop CNAME .
-*.travailsabeing.shop CNAME .
 traveladvertising.com CNAME .
 *.traveladvertising.com CNAME .
 travelscream.com CNAME .
