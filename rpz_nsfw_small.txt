@@ -1,9 +1,9 @@
-; Version: 202505251516
+; Version: 202505251614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42496
-; Last modified: 2025-05-25T15:16:10+0000
+; Entries: 42500
+; Last modified: 2025-05-25T16:14:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748185206 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748188801 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -8099,6 +8099,8 @@ desiboobs.club CNAME .
 *.desiboobs.club CNAME .
 desibp.com CNAME .
 *.desibp.com CNAME .
+desibp.org CNAME .
+*.desibp.org CNAME .
 desicamgirls.com CNAME .
 *.desicamgirls.com CNAME .
 desichudai.click CNAME .
@@ -29857,6 +29859,8 @@ redlights.be CNAME .
 *.redlights.be CNAME .
 redlights.nl CNAME .
 *.redlights.nl CNAME .
+redlips.nl CNAME .
+*.redlips.nl CNAME .
 redneckjohn.com CNAME .
 *.redneckjohn.com CNAME .
 redpics.pro CNAME .
