@@ -1,9 +1,9 @@
-; Version: 202505251915
+; Version: 202505252015
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42510
-; Last modified: 2025-05-25T19:15:18+0000
+; Entries: 42512
+; Last modified: 2025-05-25T20:15:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748199602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748203204 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6497,8 +6497,6 @@ cerdas.com CNAME .
 *.cerdas.com CNAME .
 ceske-kurvicky.cz CNAME .
 *.ceske-kurvicky.cz CNAME .
-ceskekundy.cz CNAME .
-*.ceskekundy.cz CNAME .
 ceskeporno.cz CNAME .
 *.ceskeporno.cz CNAME .
 cfake.com CNAME .
@@ -16559,8 +16557,6 @@ impervert.com CNAME .
 *.impervert.com CNAME .
 impostingit.com CNAME .
 *.impostingit.com CNAME .
-improvsex.net CNAME .
-*.improvsex.net CNAME .
 imss.gob.mx CNAME .
 *.imss.gob.mx CNAME .
 imvu.com CNAME .
@@ -20909,6 +20905,8 @@ manytoon.me CNAME .
 *.manytoon.me CNAME .
 manyvids.com CNAME .
 *.manyvids.com CNAME .
+maomiav.one CNAME .
+*.maomiav.one CNAME .
 maqola.ru CNAME .
 *.maqola.ru CNAME .
 maqolalar.ru CNAME .
@@ -21781,6 +21779,8 @@ milfsforsex.com CNAME .
 *.milfsforsex.com CNAME .
 milfsinyourneighborhood.com CNAME .
 *.milfsinyourneighborhood.com CNAME .
+milfsover30.com CNAME .
+*.milfsover30.com CNAME .
 milfspics.com CNAME .
 *.milfspics.com CNAME .
 milfstate.com CNAME .
@@ -34521,6 +34521,8 @@ szexvital.hu CNAME .
 *.szexvital.hu CNAME .
 szikla.hu CNAME .
 *.szikla.hu CNAME .
+szon.hu CNAME .
+*.szon.hu CNAME .
 szorospina.net CNAME .
 *.szorospina.net CNAME .
 t-escorts.com CNAME .
