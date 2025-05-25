@@ -1,9 +1,9 @@
-; Version: 202505251010
+; Version: 202505251110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85082
-; Last modified: 2025-05-25T10:10:39+0000
+; Entries: 85056
+; Last modified: 2025-05-25T11:10:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748167203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748170803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24215,8 +24215,6 @@ cterofhisan.org CNAME .
 *.cterofhisan.org CNAME .
 cterpsofcjzcf.life CNAME .
 *.cterpsofcjzcf.life CNAME .
-ctfpaeony.top CNAME .
-*.ctfpaeony.top CNAME .
 ctkyom.xyz CNAME .
 *.ctkyom.xyz CNAME .
 ctl.buyt.in CNAME .
@@ -28147,8 +28145,6 @@ deliverytraffico.com CNAME .
 *.deliverytraffico.com CNAME .
 deliverytraffnews.com CNAME .
 *.deliverytraffnews.com CNAME .
-deliverytriumph.com CNAME .
-*.deliverytriumph.com CNAME .
 delmarviato.com CNAME .
 *.delmarviato.com CNAME .
 delmovip.com CNAME .
@@ -45969,8 +45965,6 @@ latexestetrane.top CNAME .
 *.latexestetrane.top CNAME .
 latheendsmoo.com CNAME .
 *.latheendsmoo.com CNAME .
-latigraver.top CNAME .
-*.latigraver.top CNAME .
 latinwayy.com CNAME .
 *.latinwayy.com CNAME .
 lator308aoe.com CNAME .
@@ -48977,8 +48971,6 @@ mainadv.com CNAME .
 *.mainadv.com CNAME .
 mainexclkdir.com CNAME .
 *.mainexclkdir.com CNAME .
-mainoragravic.shop CNAME .
-*.mainoragravic.shop CNAME .
 mainroll.com CNAME .
 *.mainroll.com CNAME .
 maintainedencircle.com CNAME .
@@ -49067,8 +49059,6 @@ mallettraumatize.com CNAME .
 *.mallettraumatize.com CNAME .
 malog.byapps.co.kr CNAME .
 *.malog.byapps.co.kr CNAME .
-maltcontaining.com CNAME .
-*.maltcontaining.com CNAME .
 malthaeurite.com CNAME .
 *.malthaeurite.com CNAME .
 maltunfaithfulpredominant.com CNAME .
@@ -61397,8 +61387,6 @@ qr-captcha.com CNAME .
 *.qr-captcha.com CNAME .
 qractv.com CNAME .
 *.qractv.com CNAME .
-qrealqezjqvrj.top CNAME .
-*.qrealqezjqvrj.top CNAME .
 qrgip.xyz CNAME .
 *.qrgip.xyz CNAME .
 qrifhajtabcy.com CNAME .
@@ -62031,8 +62019,6 @@ rapidnewscraze.com CNAME .
 *.rapidnewscraze.com CNAME .
 rapolok.com CNAME .
 *.rapolok.com CNAME .
-rapturemeddle.com CNAME .
-*.rapturemeddle.com CNAME .
 rar-vpn.com CNAME .
 *.rar-vpn.com CNAME .
 rarapfabm.com CNAME .
@@ -62279,8 +62265,6 @@ readsubsequentlyspecimen.com CNAME .
 *.readsubsequentlyspecimen.com CNAME .
 ready-for-download.com CNAME .
 *.ready-for-download.com CNAME .
-readyblossomsuccesses.com CNAME .
-*.readyblossomsuccesses.com CNAME .
 readydolphinpoverty.com CNAME .
 *.readydolphinpoverty.com CNAME .
 readywind.media CNAME .
@@ -63201,8 +63185,6 @@ restorationmourn.com CNAME .
 *.restorationmourn.com CNAME .
 restorepushed.com CNAME .
 *.restorepushed.com CNAME .
-restrainwhenceintern.com CNAME .
-*.restrainwhenceintern.com CNAME .
 restrictionsvan.com CNAME .
 *.restrictionsvan.com CNAME .
 restroomcalf.com CNAME .
@@ -67683,8 +67665,6 @@ sikncs.com CNAME .
 *.sikncs.com CNAME .
 sikoip.cfd CNAME .
 *.sikoip.cfd CNAME .
-silenceblindness.com CNAME .
-*.silenceblindness.com CNAME .
 silenthill24.biz CNAME .
 *.silenthill24.biz CNAME .
 silentinevitable.com CNAME .
@@ -71939,8 +71919,6 @@ sweepia.com CNAME .
 *.sweepia.com CNAME .
 sweet.runsexyad.site CNAME .
 *.sweet.runsexyad.site CNAME .
-sweetheartshippinglikeness.com CNAME .
-*.sweetheartshippinglikeness.com CNAME .
 sweetmatchheart.com CNAME .
 *.sweetmatchheart.com CNAME .
 sweetmoonmonth.com CNAME .
@@ -77957,8 +77935,6 @@ unpopecandela.top CNAME .
 *.unpopecandela.top CNAME .
 unraspyhoiden.shop CNAME .
 *.unraspyhoiden.shop CNAME .
-unrealversionholder.com CNAME .
-*.unrealversionholder.com CNAME .
 unrebelasterin.com CNAME .
 *.unrebelasterin.com CNAME .
 unreshiramor.com CNAME .
@@ -81403,8 +81379,6 @@ windows-pro.net CNAME .
 *.windows-pro.net CNAME .
 windrightyshade.com CNAME .
 *.windrightyshade.com CNAME .
-windsattributeron.com CNAME .
-*.windsattributeron.com CNAME .
 windsplay.com CNAME .
 *.windsplay.com CNAME .
 windymissphantom.com CNAME .
