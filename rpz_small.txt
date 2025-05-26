@@ -1,9 +1,9 @@
-; Version: 202505260809
+; Version: 202505260910
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84856
-; Last modified: 2025-05-26T08:09:49+0000
+; Entries: 84830
+; Last modified: 2025-05-26T09:10:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748246406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748250002 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3417,8 +3417,6 @@ a.medialaancdn.be CNAME .
 *.a.medialaancdn.be CNAME .
 a.mfcad.net CNAME .
 *.a.mfcad.net CNAME .
-a.miyudaquan.top CNAME .
-*.a.miyudaquan.top CNAME .
 a.mktw.net CNAME .
 *.a.mktw.net CNAME .
 a.mobify.com CNAME .
@@ -13191,8 +13189,6 @@ asgex.click CNAME .
 *.asgex.click CNAME .
 asgg.ghostbin.me CNAME .
 *.asgg.ghostbin.me CNAME .
-asgildedalloverw.com CNAME .
-*.asgildedalloverw.com CNAME .
 asgorebysschan.com CNAME .
 *.asgorebysschan.com CNAME .
 ashacgqr.com CNAME .
@@ -15807,8 +15803,6 @@ beeshooloap.net CNAME .
 *.beeshooloap.net CNAME .
 beestark.com CNAME .
 *.beestark.com CNAME .
-beestraitstarvation.com CNAME .
-*.beestraitstarvation.com CNAME .
 beetle.enlacepermanente.es CNAME .
 *.beetle.enlacepermanente.es CNAME .
 beetlestaircaselobster.com CNAME .
@@ -20239,8 +20233,6 @@ cfjslif.top CNAME .
 *.cfjslif.top CNAME .
 cfpushsdevpw.com CNAME .
 *.cfpushsdevpw.com CNAME .
-cftestsgg.top CNAME .
-*.cftestsgg.top CNAME .
 cftpolished1.top CNAME .
 *.cftpolished1.top CNAME .
 cftpolished2.top CNAME .
@@ -32023,8 +32015,6 @@ energeticladybug.com CNAME .
 *.energeticladybug.com CNAME .
 energeticprovocation.com CNAME .
 *.energeticprovocation.com CNAME .
-energyborazon.com CNAME .
-*.energyborazon.com CNAME .
 energypopulationpractical.com CNAME .
 *.energypopulationpractical.com CNAME .
 eneughghaffir.com CNAME .
@@ -49103,8 +49093,6 @@ maplecurriculum.com CNAME .
 *.maplecurriculum.com CNAME .
 maplin.hu CNAME .
 *.maplin.hu CNAME .
-mapss.icu CNAME .
-*.mapss.icu CNAME .
 maquiags.com CNAME .
 *.maquiags.com CNAME .
 marapcana.online CNAME .
@@ -53225,8 +53213,6 @@ noisesperusemotel.com CNAME .
 *.noisesperusemotel.com CNAME .
 noisseurlin.org CNAME .
 *.noisseurlin.org CNAME .
-noisyunidentifiedinherited.com CNAME .
-*.noisyunidentifiedinherited.com CNAME .
 nojazz.eu CNAME .
 *.nojazz.eu CNAME .
 noktaglaik.com CNAME .
@@ -58619,8 +58605,6 @@ podosupsurge.com CNAME .
 *.podosupsurge.com CNAME .
 podsolnu9hi10.com CNAME .
 *.podsolnu9hi10.com CNAME .
-poecileseiches.com CNAME .
-*.poecileseiches.com CNAME .
 poemblotrating.com CNAME .
 *.poemblotrating.com CNAME .
 poemsquack.com CNAME .
@@ -63765,8 +63749,6 @@ romance-net.com CNAME .
 *.romance-net.com CNAME .
 romancedaters.com CNAME .
 *.romancedaters.com CNAME .
-romancedatte.com CNAME .
-*.romancedatte.com CNAME .
 romancefever.com CNAME .
 *.romancefever.com CNAME .
 romances-connects.com CNAME .
@@ -68419,8 +68401,6 @@ sole.riverwalkdental.com.au CNAME .
 *.sole.riverwalkdental.com.au CNAME .
 solemndates.com CNAME .
 *.solemndates.com CNAME .
-solethreat.com CNAME .
-*.solethreat.com CNAME .
 soliads.io CNAME .
 *.soliads.io CNAME .
 soliads.online CNAME .
@@ -73173,8 +73153,6 @@ termite.queerburners.org CNAME .
 *.termite.queerburners.org CNAME .
 terms-drcn.platform.dbankcloud.cn CNAME .
 *.terms-drcn.platform.dbankcloud.cn CNAME .
-termswhopitched.com CNAME .
-*.termswhopitched.com CNAME .
 tern.daffy.org CNAME .
 *.tern.daffy.org CNAME .
 tern.xebel.co CNAME .
@@ -76695,8 +76673,6 @@ tugpoise.com CNAME .
 *.tugpoise.com CNAME .
 tuhesok.com CNAME .
 *.tuhesok.com CNAME .
-tuhmkjce.icu CNAME .
-*.tuhmkjce.icu CNAME .
 tuhqixonk.com CNAME .
 *.tuhqixonk.com CNAME .
 tujourda.net CNAME .
@@ -79381,8 +79357,6 @@ vjharl.xyz CNAME .
 *.vjharl.xyz CNAME .
 vjlyljbjjmley.top CNAME .
 *.vjlyljbjjmley.top CNAME .
-vjml.cn CNAME .
-*.vjml.cn CNAME .
 vjojjdird.com CNAME .
 *.vjojjdird.com CNAME .
 vjugz.com CNAME .
