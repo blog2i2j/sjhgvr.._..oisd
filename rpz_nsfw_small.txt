@@ -1,9 +1,9 @@
-; Version: 202505261816
+; Version: 202505261916
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42678
-; Last modified: 2025-05-26T18:16:36+0000
+; Entries: 42680
+; Last modified: 2025-05-26T19:16:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748282404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748286004 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3999,6 +3999,8 @@ beastiality.club CNAME .
 *.beastiality.club CNAME .
 beastiality.tv CNAME .
 *.beastiality.tv CNAME .
+beastiegals.com CNAME .
+*.beastiegals.com CNAME .
 beastmovie.club CNAME .
 *.beastmovie.club CNAME .
 beastpics.club CNAME .
@@ -7543,6 +7545,8 @@ css.edu CNAME .
 *.css.edu CNAME .
 csucsvideok.hu CNAME .
 *.csucsvideok.hu CNAME .
+ct.ws CNAME .
+*.ct.ws CNAME .
 ctbae.com CNAME .
 *.ctbae.com CNAME .
 cu2.be CNAME .
@@ -8823,8 +8827,6 @@ dosug33.net CNAME .
 *.dosug33.net CNAME .
 dosug39.com CNAME .
 *.dosug39.com CNAME .
-dosug39.net CNAME .
-*.dosug39.net CNAME .
 dosug69.net CNAME .
 *.dosug69.net CNAME .
 dosugbararh.com CNAME .
