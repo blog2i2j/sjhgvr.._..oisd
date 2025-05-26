@@ -1,9 +1,9 @@
-; Version: 202505261215
+; Version: 202505261316
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42658
-; Last modified: 2025-05-26T12:15:28+0000
+; Entries: 42664
+; Last modified: 2025-05-26T13:16:03+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748260802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748264401 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5911,6 +5911,8 @@ camd.com CNAME .
 *.camd.com CNAME .
 camdaddy.live CNAME .
 *.camdaddy.live CNAME .
+camdarlings.com CNAME .
+*.camdarlings.com CNAME .
 camdirect.fr CNAME .
 *.camdirect.fr CNAME .
 camdojo.com CNAME .
@@ -14877,6 +14879,8 @@ hentaijk.com CNAME .
 *.hentaijk.com CNAME .
 hentaijl.com CNAME .
 *.hentaijl.com CNAME .
+hentaijogos.com CNAME .
+*.hentaijogos.com CNAME .
 hentaijuggs.com CNAME .
 *.hentaijuggs.com CNAME .
 hentaikai.com CNAME .
@@ -42613,6 +42617,8 @@ zoozooporn.com CNAME .
 *.zoozooporn.com CNAME .
 zoozoosexporn.com CNAME .
 *.zoozoosexporn.com CNAME .
+zorg.video CNAME .
+*.zorg.video CNAME .
 zorox.sex CNAME .
 *.zorox.sex CNAME .
 zoyaporn.com CNAME .
