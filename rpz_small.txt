@@ -1,9 +1,9 @@
-; Version: 202505262210
+; Version: 202505262309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84666
-; Last modified: 2025-05-26T22:10:51+0000
+; Entries: 84638
+; Last modified: 2025-05-26T23:09:56+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748296803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748300404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -22615,8 +22615,6 @@ connectreadoasis.com CNAME .
 *.connectreadoasis.com CNAME .
 connecttoday.eu CNAME .
 *.connecttoday.eu CNAME .
-connext-cdn.azureedge.net CNAME .
-*.connext-cdn.azureedge.net CNAME .
 connextra.com CNAME .
 *.connextra.com CNAME .
 conoret.com CNAME .
@@ -23009,8 +23007,6 @@ copycatsoirees.top CNAME .
 *.copycatsoirees.top CNAME .
 copyrightaccesscontrols.com CNAME .
 *.copyrightaccesscontrols.com CNAME .
-copyrightmonastery.com CNAME .
-*.copyrightmonastery.com CNAME .
 cor8ni3shwerex.com CNAME .
 *.cor8ni3shwerex.com CNAME .
 coral.bladestudy.net CNAME .
@@ -23057,8 +23053,6 @@ corpustushing.com CNAME .
 *.corpustushing.com CNAME .
 correctdilutetrophy.com CNAME .
 *.correctdilutetrophy.com CNAME .
-correlationcocktailinevitably.com CNAME .
-*.correlationcocktailinevitably.com CNAME .
 correspondaspect.com CNAME .
 *.correspondaspect.com CNAME .
 corrodedriveroverfed.com CNAME .
@@ -37911,8 +37905,6 @@ gousouse.com CNAME .
 *.gousouse.com CNAME .
 goutee.top CNAME .
 *.goutee.top CNAME .
-goutscoxite.top CNAME .
-*.goutscoxite.top CNAME .
 gouzoogoosoa.com CNAME .
 *.gouzoogoosoa.com CNAME .
 gov.yanao.ru CNAME .
@@ -39055,8 +39047,6 @@ hantsailsyte.com CNAME .
 *.hantsailsyte.com CNAME .
 haostat.qihoo.com CNAME .
 *.haostat.qihoo.com CNAME .
-haplymimmest.com CNAME .
-*.haplymimmest.com CNAME .
 happen.spkt.io CNAME .
 *.happen.spkt.io CNAME .
 happeningflutter.com CNAME .
@@ -41997,8 +41987,6 @@ incomparable-pair.com CNAME .
 *.incomparable-pair.com CNAME .
 incomparableamoraldepression.com CNAME .
 *.incomparableamoraldepression.com CNAME .
-incompatibleconfederatepsychological.com CNAME .
-*.incompatibleconfederatepsychological.com CNAME .
 incompetencesorting.com CNAME .
 *.incompetencesorting.com CNAME .
 incompleteshock.pro CNAME .
@@ -46535,8 +46523,6 @@ lionessmeltdown.com CNAME .
 *.lionessmeltdown.com CNAME .
 lioniseunpiece.shop CNAME .
 *.lioniseunpiece.shop CNAME .
-lionlyhalidom.com CNAME .
-*.lionlyhalidom.com CNAME .
 liopah.top CNAME .
 *.liopah.top CNAME .
 liphicafo.com CNAME .
@@ -47905,8 +47891,6 @@ loopr.co CNAME .
 *.loopr.co CNAME .
 loopthesishaven.com CNAME .
 *.loopthesishaven.com CNAME .
-looscreech.com CNAME .
-*.looscreech.com CNAME .
 loosenpuppetnone.com CNAME .
 *.loosenpuppetnone.com CNAME .
 lootynews.com CNAME .
@@ -59093,8 +59077,6 @@ prawn.inchperfect.com CNAME .
 *.prawn.inchperfect.com CNAME .
 prawn.lionsmouth.digital CNAME .
 *.prawn.lionsmouth.digital CNAME .
-prawnrespiratorgrim.com CNAME .
-*.prawnrespiratorgrim.com CNAME .
 prayer05032026.shop CNAME .
 *.prayer05032026.shop CNAME .
 prayercertificatecompletion.com CNAME .
@@ -59771,8 +59753,6 @@ provenperch.com CNAME .
 *.provenperch.com CNAME .
 proverbadmiraluphill.com CNAME .
 *.proverbadmiraluphill.com CNAME .
-proverbmariannemirth.com CNAME .
-*.proverbmariannemirth.com CNAME .
 provexia.com CNAME .
 *.provexia.com CNAME .
 providedovernight.com CNAME .
@@ -63767,8 +63747,6 @@ rougthatsidhe.org CNAME .
 *.rougthatsidhe.org CNAME .
 rouinfernapean.com CNAME .
 *.rouinfernapean.com CNAME .
-rouiusmagbwqkvi.com CNAME .
-*.rouiusmagbwqkvi.com CNAME .
 roujonoa.net CNAME .
 *.roujonoa.net CNAME .
 roulediana.com CNAME .
@@ -65767,8 +65745,6 @@ schjmp.com CNAME .
 *.schjmp.com CNAME .
 schmalzgarniec.com CNAME .
 *.schmalzgarniec.com CNAME .
-scholarsgrewsage.com CNAME .
-*.scholarsgrewsage.com CNAME .
 scholarsslate.com CNAME .
 *.scholarsslate.com CNAME .
 schoolhangoverearlier.com CNAME .
@@ -67067,8 +67043,6 @@ shimmeyenfonce.top CNAME .
 *.shimmeyenfonce.top CNAME .
 shimpooy.com CNAME .
 *.shimpooy.com CNAME .
-shindleabv.shop CNAME .
-*.shindleabv.shop CNAME .
 shinebliss.com CNAME .
 *.shinebliss.com CNAME .
 shingleexpressing.com CNAME .
@@ -68835,8 +68809,6 @@ spinierpomate.click CNAME .
 *.spinierpomate.click CNAME .
 spiralextratread.com CNAME .
 *.spiralextratread.com CNAME .
-spiralsad.com CNAME .
-*.spiralsad.com CNAME .
 spiralstab.com CNAME .
 *.spiralstab.com CNAME .
 spiraltrot.com CNAME .
