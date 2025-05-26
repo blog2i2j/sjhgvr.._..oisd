@@ -1,9 +1,9 @@
-; Version: 202505261911
+; Version: 202505262009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84756
-; Last modified: 2025-05-26T19:11:11+0000
+; Entries: 84736
+; Last modified: 2025-05-26T20:09:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748286004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748289601 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -22559,8 +22559,6 @@ conf.hpplay.cn CNAME .
 *.conf.hpplay.cn CNAME .
 confe.dc.oppomobile.com CNAME .
 *.confe.dc.oppomobile.com CNAME .
-confectioneryconnected.com CNAME .
-*.confectioneryconnected.com CNAME .
 confessundercover.com CNAME .
 *.confessundercover.com CNAME .
 conff.dc.oppomobile.com CNAME .
@@ -27901,8 +27899,6 @@ decoratedmulesanta.com CNAME .
 *.decoratedmulesanta.com CNAME .
 decordingholog.com CNAME .
 *.decordingholog.com CNAME .
-decoycreation.com CNAME .
-*.decoycreation.com CNAME .
 decoysaraks.top CNAME .
 *.decoysaraks.top CNAME .
 decpo.xyz CNAME .
@@ -28597,8 +28593,6 @@ diazoestmark.guru CNAME .
 *.diazoestmark.guru CNAME .
 diazoleformby.top CNAME .
 *.diazoleformby.top CNAME .
-dibbuksnoonlit.shop CNAME .
-*.dibbuksnoonlit.shop CNAME .
 dibsemey.com CNAME .
 *.dibsemey.com CNAME .
 dic9vgwbkxd8r.cloudfront.net CNAME .
@@ -36395,8 +36389,6 @@ garosesia.com CNAME .
 *.garosesia.com CNAME .
 garotas.info CNAME .
 *.garotas.info CNAME .
-garotedwhiff.top CNAME .
-*.garotedwhiff.top CNAME .
 garrafaoutsins.top CNAME .
 *.garrafaoutsins.top CNAME .
 garretdistort.com CNAME .
@@ -39975,8 +39967,6 @@ hinaprecent.info CNAME .
 *.hinaprecent.info CNAME .
 hinaprecentals.com CNAME .
 *.hinaprecentals.com CNAME .
-hindervoting.com CNAME .
-*.hindervoting.com CNAME .
 hindsight.significanceapps.com CNAME .
 *.hindsight.significanceapps.com CNAME .
 hindsightloyalmeter.com CNAME .
@@ -52851,8 +52841,6 @@ ngfruitiesmatc.info CNAME .
 *.ngfruitiesmatc.info CNAME .
 ngfycrwwd.com CNAME .
 *.ngfycrwwd.com CNAME .
-nggbpptthpm.com CNAME .
-*.nggbpptthpm.com CNAME .
 nghlsfshnptix.tech CNAME .
 *.nghlsfshnptix.tech CNAME .
 ngjcvn.top CNAME .
@@ -57393,8 +57381,6 @@ petendereruk.com CNAME .
 *.petendereruk.com CNAME .
 peterjoggle.com CNAME .
 *.peterjoggle.com CNAME .
-petherobjure.top CNAME .
-*.petherobjure.top CNAME .
 petpoolalarm.com CNAME .
 *.petpoolalarm.com CNAME .
 petrelbeheira.website CNAME .
@@ -59823,8 +59809,6 @@ proto2ad.durasite.net CNAME .
 *.proto2ad.durasite.net CNAME .
 protoawe.com CNAME .
 *.protoawe.com CNAME .
-protomaedging.com CNAME .
-*.protomaedging.com CNAME .
 proton-tm.com CNAME .
 *.proton-tm.com CNAME .
 prototypeboats.com CNAME .
@@ -63305,8 +63289,6 @@ ricewaterhou.xyz CNAME .
 *.ricewaterhou.xyz CNAME .
 rich1x.xyz CNAME .
 *.rich1x.xyz CNAME .
-richeighth.shop CNAME .
-*.richeighth.shop CNAME .
 richestplacid.com CNAME .
 *.richestplacid.com CNAME .
 richh.cn CNAME .
@@ -71549,8 +71531,6 @@ suspectunfortunateblameless.com CNAME .
 *.suspectunfortunateblameless.com CNAME .
 suspendedjetthus.com CNAME .
 *.suspendedjetthus.com CNAME .
-suspensionstorykeel.com CNAME .
-*.suspensionstorykeel.com CNAME .
 suspicionflyer.com CNAME .
 *.suspicionflyer.com CNAME .
 sutean.com CNAME .
