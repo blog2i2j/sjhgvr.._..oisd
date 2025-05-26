@@ -1,9 +1,9 @@
-; Version: 202505260014
+; Version: 202505260115
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42570
-; Last modified: 2025-05-26T00:14:53+0000
+; Entries: 42580
+; Last modified: 2025-05-26T01:15:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748217607 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748221203 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3987,6 +3987,8 @@ bearfront.com CNAME .
 *.bearfront.com CNAME .
 beargayvideos.com CNAME .
 *.beargayvideos.com CNAME .
+bearworld.com CNAME .
+*.bearworld.com CNAME .
 beastiality.club CNAME .
 *.beastiality.club CNAME .
 beastiality.tv CNAME .
@@ -7483,6 +7485,8 @@ croozr.fr CNAME .
 *.croozr.fr CNAME .
 crossdresser-hookup.com CNAME .
 *.crossdresser-hookup.com CNAME .
+crossdressing.co.uk CNAME .
+*.crossdressing.co.uk CNAME .
 crossiety.app CNAME .
 *.crossiety.app CNAME .
 crot.cam CNAME .
@@ -12211,6 +12215,8 @@ fuckbookster.com CNAME .
 *.fuckbookster.com CNAME .
 fuckbuddiesnearyou.com CNAME .
 *.fuckbuddiesnearyou.com CNAME .
+fuckbuddygilf.com CNAME .
+*.fuckbuddygilf.com CNAME .
 fuckcelebs.net CNAME .
 *.fuckcelebs.net CNAME .
 fuckcome.com CNAME .
@@ -19919,6 +19925,8 @@ linkoverzicht.be CNAME .
 *.linkoverzicht.be CNAME .
 linkparty.info CNAME .
 *.linkparty.info CNAME .
+links.net CNAME .
+*.links.net CNAME .
 links2leaks.com CNAME .
 *.links2leaks.com CNAME .
 linksdegrupo.com CNAME .
@@ -23837,6 +23845,8 @@ npns.fr CNAME .
 *.npns.fr CNAME .
 nsasouthafrica.co.za CNAME .
 *.nsasouthafrica.co.za CNAME .
+nsecb.com CNAME .
+*.nsecb.com CNAME .
 nsexy.ru CNAME .
 *.nsexy.ru CNAME .
 nsfw-games.com CNAME .
