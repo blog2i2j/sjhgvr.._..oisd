@@ -1,9 +1,9 @@
-; Version: 202505262110
+; Version: 202505262210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84706
-; Last modified: 2025-05-26T21:10:15+0000
+; Entries: 84666
+; Last modified: 2025-05-26T22:10:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748293202 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748296803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -349,8 +349,6 @@ $TTL 30
 *.1.yac8.net CNAME .
 1.zhev.com.cn CNAME .
 *.1.zhev.com.cn CNAME .
-1.zhuangxiu567.com CNAME .
-*.1.zhuangxiu567.com CNAME .
 1.zou114.com CNAME .
 *.1.zou114.com CNAME .
 1.zuowenjun.com CNAME .
@@ -4621,8 +4619,6 @@ actiflex.org CNAME .
 *.actiflex.org CNAME .
 actingwoodland.com CNAME .
 *.actingwoodland.com CNAME .
-actio.systems CNAME .
-*.actio.systems CNAME .
 actionmobilemarine.net CNAME .
 *.actionmobilemarine.net CNAME .
 actionnooz.com CNAME .
@@ -11577,8 +11573,6 @@ angelabedsautopsy.com CNAME .
 *.angelabedsautopsy.com CNAME .
 angelalittle.net CNAME .
 *.angelalittle.net CNAME .
-angelaprincipal.com CNAME .
-*.angelaprincipal.com CNAME .
 angelas-place.com CNAME .
 *.angelas-place.com CNAME .
 angelbetting.com CNAME .
@@ -11703,8 +11697,6 @@ annual-spend.com CNAME .
 *.annual-spend.com CNAME .
 annulmentequitycereals.com CNAME .
 *.annulmentequitycereals.com CNAME .
-annulmentsmallest.com CNAME .
-*.annulmentsmallest.com CNAME .
 annxwustakf.com CNAME .
 *.annxwustakf.com CNAME .
 annzaqakg.com CNAME .
@@ -14353,8 +14345,6 @@ azazyjjovmker.top CNAME .
 *.azazyjjovmker.top CNAME .
 azazyjjovmmwa.top CNAME .
 *.azazyjjovmmwa.top CNAME .
-azazyjjovmvov.top CNAME .
-*.azazyjjovmvov.top CNAME .
 azazyjjzbmeow.top CNAME .
 *.azazyjjzbmeow.top CNAME .
 azbjjbwkeoelw.top CNAME .
@@ -27967,8 +27957,6 @@ defeature.xyz CNAME .
 *.defeature.xyz CNAME .
 defiancebelow.com CNAME .
 *.defiancebelow.com CNAME .
-defiancefaithlessleague.com CNAME .
-*.defiancefaithlessleague.com CNAME .
 defiantmotherfamine.com CNAME .
 *.defiantmotherfamine.com CNAME .
 definedbootnervous.com CNAME .
@@ -28995,8 +28983,6 @@ disprovefacilityjolt.com CNAME .
 *.disprovefacilityjolt.com CNAME .
 disproveknob.com CNAME .
 *.disproveknob.com CNAME .
-disputeretorted.com CNAME .
-*.disputeretorted.com CNAME .
 disquietwokesupersede.com CNAME .
 *.disquietwokesupersede.com CNAME .
 disqusads.com CNAME .
@@ -29891,8 +29877,6 @@ downright-administration.pro CNAME .
 *.downright-administration.pro CNAME .
 downwardstreakchar.com CNAME .
 *.downwardstreakchar.com CNAME .
-doyenssudsier.click CNAME .
-*.doyenssudsier.click CNAME .
 doyoudi.com CNAME .
 *.doyoudi.com CNAME .
 dozenshallow.com CNAME .
@@ -31683,8 +31667,6 @@ elderlytown.com CNAME .
 *.elderlytown.com CNAME .
 eldestcontribution.com CNAME .
 *.eldestcontribution.com CNAME .
-eldredsundial.com CNAME .
-*.eldredsundial.com CNAME .
 eleavers.com CNAME .
 *.eleavers.com CNAME .
 eleazarfilasse.shop CNAME .
@@ -31705,8 +31687,6 @@ electricalsedate.com CNAME .
 *.electricalsedate.com CNAME .
 electricfeminine.com CNAME .
 *.electricfeminine.com CNAME .
-electronicauthentic.com CNAME .
-*.electronicauthentic.com CNAME .
 electronicconstruct.com CNAME .
 *.electronicconstruct.com CNAME .
 elejwqalsqjbb.rocks CNAME .
@@ -31861,8 +31841,6 @@ emeryexcel.click CNAME .
 *.emeryexcel.click CNAME .
 emigrantbeasts.com CNAME .
 *.emigrantbeasts.com CNAME .
-emigrantmovements.com CNAME .
-*.emigrantmovements.com CNAME .
 eminencedarker.com CNAME .
 *.eminencedarker.com CNAME .
 emissionidiompolygon.com CNAME .
@@ -37847,8 +37825,6 @@ gopusher1.com CNAME .
 *.gopusher1.com CNAME .
 gopypteti.com CNAME .
 *.gopypteti.com CNAME .
-goraccohoaming.shop CNAME .
-*.goraccohoaming.shop CNAME .
 goraps.com CNAME .
 *.goraps.com CNAME .
 gorclck.com CNAME .
@@ -42519,8 +42495,6 @@ intentionalbeggar.com CNAME .
 *.intentionalbeggar.com CNAME .
 intentionscommunity.com CNAME .
 *.intentionscommunity.com CNAME .
-intentionscurved.com CNAME .
-*.intentionscurved.com CNAME .
 inter1ads.com CNAME .
 *.inter1ads.com CNAME .
 interactive-circle.jp CNAME .
@@ -43717,8 +43691,6 @@ jmrnews.pro CNAME .
 *.jmrnews.pro CNAME .
 jmt7mbwce.com CNAME .
 *.jmt7mbwce.com CNAME .
-jmvdpupdkzoktb.com CNAME .
-*.jmvdpupdkzoktb.com CNAME .
 jmwdsqkbh.com CNAME .
 *.jmwdsqkbh.com CNAME .
 jmxgwesrte.com CNAME .
@@ -48939,8 +48911,6 @@ management-vsmedia.exads.com CNAME .
 *.management-vsmedia.exads.com CNAME .
 management.adxnow.com CNAME .
 *.management.adxnow.com CNAME .
-managesrimery.top CNAME .
-*.managesrimery.top CNAME .
 managetroubles.com CNAME .
 *.managetroubles.com CNAME .
 manalyticshub.com CNAME .
@@ -57541,8 +57511,6 @@ phoasougrair.com CNAME .
 *.phoasougrair.com CNAME .
 phoawhoax.com CNAME .
 *.phoawhoax.com CNAME .
-phoceansteaks.top CNAME .
-*.phoceansteaks.top CNAME .
 phockukoagu.net CNAME .
 *.phockukoagu.net CNAME .
 phoenix-adrunner.mycomputer.com CNAME .
@@ -66101,8 +66069,6 @@ seasx.cfd CNAME .
 *.seasx.cfd CNAME .
 seatrackingdomain.com CNAME .
 *.seatrackingdomain.com CNAME .
-seatsswedish.shop CNAME .
-*.seatsswedish.shop CNAME .
 seawantocelots.click CNAME .
 *.seawantocelots.click CNAME .
 seayipsex.com CNAME .
@@ -68765,8 +68731,6 @@ sparsgroff.com CNAME .
 *.sparsgroff.com CNAME .
 spathalbarmie.com CNAME .
 *.spathalbarmie.com CNAME .
-spatteramazeredundancy.com CNAME .
-*.spatteramazeredundancy.com CNAME .
 spdate.com CNAME .
 *.spdate.com CNAME .
 special-offers.online CNAME .
@@ -72787,8 +72751,6 @@ tearerernest.com CNAME .
 *.tearerernest.com CNAME .
 tearingsinnerprinciples.com CNAME .
 *.tearingsinnerprinciples.com CNAME .
-tearoomzebus.top CNAME .
-*.tearoomzebus.top CNAME .
 teaspoonbrave.com CNAME .
 *.teaspoonbrave.com CNAME .
 teatyoverput.top CNAME .
@@ -78743,8 +78705,6 @@ vhabwaoh.com CNAME .
 *.vhabwaoh.com CNAME .
 vhacakzwegu.com CNAME .
 *.vhacakzwegu.com CNAME .
-vhcxzfudrq.com CNAME .
-*.vhcxzfudrq.com CNAME .
 vhjhmsvosxius.click CNAME .
 *.vhjhmsvosxius.click CNAME .
 vhngny-cfwm.life CNAME .
