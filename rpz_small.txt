@@ -1,9 +1,9 @@
-; Version: 202505261110
+; Version: 202505261210
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84782
-; Last modified: 2025-05-26T11:10:41+0000
+; Entries: 84756
+; Last modified: 2025-05-26T12:10:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748257205 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748260802 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14921,8 +14921,6 @@ bankerpotatoesrustle.com CNAME .
 *.bankerpotatoesrustle.com CNAME .
 bankersend.com CNAME .
 *.bankersend.com CNAME .
-bankervehemently.com CNAME .
-*.bankervehemently.com CNAME .
 bankingbloatedcaptive.com CNAME .
 *.bankingbloatedcaptive.com CNAME .
 bankingconcede.com CNAME .
@@ -20277,8 +20275,6 @@ chainads.io CNAME .
 *.chainads.io CNAME .
 chaindedicated.com CNAME .
 *.chaindedicated.com CNAME .
-chaingptweb3.org CNAME .
-*.chaingptweb3.org CNAME .
 chaintopdom.nl CNAME .
 *.chaintopdom.nl CNAME .
 chaipungie.xyz CNAME .
@@ -20437,8 +20433,6 @@ cheddarscuddle.click CNAME .
 *.cheddarscuddle.click CNAME .
 cheebetoops.com CNAME .
 *.cheebetoops.com CNAME .
-cheecmou.com CNAME .
-*.cheecmou.com CNAME .
 cheeksognoura.net CNAME .
 *.cheeksognoura.net CNAME .
 cheepurs.xyz CNAME .
@@ -24183,8 +24177,6 @@ ctm-media.com CNAME .
 *.ctm-media.com CNAME .
 ctnetwork.hu CNAME .
 *.ctnetwork.hu CNAME .
-ctnniveau.shop CNAME .
-*.ctnniveau.shop CNAME .
 ctnsnet.com CNAME .
 *.ctnsnet.com CNAME .
 ctobsnssdk.com CNAME .
@@ -30141,8 +30133,6 @@ drubbersestia.com CNAME .
 *.drubbersestia.com CNAME .
 drubpainch.com CNAME .
 *.drubpainch.com CNAME .
-druggedforearm.com CNAME .
-*.druggedforearm.com CNAME .
 drugstoredemuretake.com CNAME .
 *.drugstoredemuretake.com CNAME .
 drulilqe8wg66.cloudfront.net CNAME .
@@ -35315,8 +35305,6 @@ foreveryoung.gz01.bdysite.com CNAME .
 *.foreveryoung.gz01.bdysite.com CNAME .
 forex-affiliate.net CNAME .
 *.forex-affiliate.net CNAME .
-forfarscarotin.top CNAME .
-*.forfarscarotin.top CNAME .
 forfeitsubscribe.com CNAME .
 *.forfeitsubscribe.com CNAME .
 forflygonom.com CNAME .
@@ -35691,8 +35679,6 @@ frivolous-copy.pro CNAME .
 *.frivolous-copy.pro CNAME .
 friy.site CNAME .
 *.friy.site CNAME .
-frizzannoyance.com CNAME .
-*.frizzannoyance.com CNAME .
 frntzz.xyz CNAME .
 *.frntzz.xyz CNAME .
 frockherbal.com CNAME .
@@ -45975,8 +45961,6 @@ lcyfzulih.com CNAME .
 *.lcyfzulih.com CNAME .
 ldbnhd.icu CNAME .
 *.ldbnhd.icu CNAME .
-ldjfsdku.icu CNAME .
-*.ldjfsdku.icu CNAME .
 ldjudcpc-qxm.icu CNAME .
 *.ldjudcpc-qxm.icu CNAME .
 ldmeukeuktyoue.com CNAME .
@@ -59217,8 +59201,6 @@ preachbacteriadisingenuous.com CNAME .
 *.preachbacteriadisingenuous.com CNAME .
 prearmskabiki.com CNAME .
 *.prearmskabiki.com CNAME .
-prearmsspreed.shop CNAME .
-*.prearmsspreed.shop CNAME .
 prebid-dev.reworldmediafactory.com CNAME .
 *.prebid-dev.reworldmediafactory.com CNAME .
 prebid-log.getpublica.com CNAME .
@@ -65521,8 +65503,6 @@ sam.msn.com CNAME .
 *.sam.msn.com CNAME .
 samage-bility.icu CNAME .
 *.samage-bility.icu CNAME .
-samalcuratic.shop CNAME .
-*.samalcuratic.shop CNAME .
 same.chinadaily.com.cn CNAME .
 *.same.chinadaily.com.cn CNAME .
 same.eastmoney.com CNAME .
@@ -71237,8 +71217,6 @@ subscribe.hearstmags.com CNAME .
 *.subscribe.hearstmags.com CNAME .
 subscriberbeetlejackal.com CNAME .
 *.subscriberbeetlejackal.com CNAME .
-subsideagainstforbes.com CNAME .
-*.subsideagainstforbes.com CNAME .
 substantialequilibrium.com CNAME .
 *.substantialequilibrium.com CNAME .
 subtlemillenniumgallop.com CNAME .
@@ -77501,8 +77479,6 @@ unddeliv.com CNAME .
 *.unddeliv.com CNAME .
 under2given.com CNAME .
 *.under2given.com CNAME .
-underagebeneath.com CNAME .
-*.underagebeneath.com CNAME .
 underclick.ru CNAME .
 *.underclick.ru CNAME .
 undercoverbluffybluffybus.com CNAME .
@@ -80509,8 +80485,6 @@ weinas.co.in CNAME .
 *.weinas.co.in CNAME .
 weirdsentence.com CNAME .
 *.weirdsentence.com CNAME .
-weitietl.com CNAME .
-*.weitietl.com CNAME .
 wel-wel-fie.com CNAME .
 *.wel-wel-fie.com CNAME .
 welcomeargument.com CNAME .
