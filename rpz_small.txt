@@ -1,9 +1,9 @@
-; Version: 202505261009
+; Version: 202505261110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84808
-; Last modified: 2025-05-26T10:09:55+0000
+; Entries: 84782
+; Last modified: 2025-05-26T11:10:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748253606 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748257205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1605,8 +1605,6 @@ $TTL 30
 *.3fc0ebfea0.com CNAME .
 3fee216537.com CNAME .
 *.3fee216537.com CNAME .
-3ff6kjylmjs.top CNAME .
-*.3ff6kjylmjs.top CNAME .
 3g25ko2.de CNAME .
 *.3g25ko2.de CNAME .
 3gbqdci2.de CNAME .
@@ -4485,8 +4483,6 @@ achcdn.com CNAME .
 *.achcdn.com CNAME .
 acheckropery.shop CNAME .
 *.acheckropery.shop CNAME .
-achelessarkaskew.com CNAME .
-*.achelessarkaskew.com CNAME .
 achesbunters.shop CNAME .
 *.achesbunters.shop CNAME .
 acheterviagrafr24.com CNAME .
@@ -10533,8 +10529,6 @@ anadistil.com CNAME .
 *.anadistil.com CNAME .
 anaemiaperceivedverge.com CNAME .
 *.anaemiaperceivedverge.com CNAME .
-anaheimarider.shop CNAME .
-*.anaheimarider.shop CNAME .
 anahtars.com CNAME .
 *.anahtars.com CNAME .
 anal-acrobats.com CNAME .
@@ -11973,8 +11967,6 @@ ap3lorf0il.com CNAME .
 *.ap3lorf0il.com CNAME .
 apartgamble.com CNAME .
 *.apartgamble.com CNAME .
-apartinept.com CNAME .
-*.apartinept.com CNAME .
 apartmentsellerprotest.com CNAME .
 *.apartmentsellerprotest.com CNAME .
 apatheticdrawerscolourful.com CNAME .
@@ -16625,8 +16617,6 @@ bivqasthu.com CNAME .
 *.bivqasthu.com CNAME .
 bivrhywwuwzo.com CNAME .
 *.bivrhywwuwzo.com CNAME .
-biwhemewy.pro CNAME .
-*.biwhemewy.pro CNAME .
 biwipuque.com CNAME .
 *.biwipuque.com CNAME .
 biz.gexing.com CNAME .
@@ -23889,8 +23879,6 @@ criminalweightforetaste.com CNAME .
 *.criminalweightforetaste.com CNAME .
 criolloflatten.top CNAME .
 *.criolloflatten.top CNAME .
-crippledwingant.com CNAME .
-*.crippledwingant.com CNAME .
 crisistuesdayartillery.com CNAME .
 *.crisistuesdayartillery.com CNAME .
 crisp-freedom.com CNAME .
@@ -35107,8 +35095,6 @@ flux.effiliation.com CNAME .
 *.flux.effiliation.com CNAME .
 fluxads.com CNAME .
 *.fluxads.com CNAME .
-fluxiontabific.shop CNAME .
-*.fluxiontabific.shop CNAME .
 flw.camcaps.ac CNAME .
 *.flw.camcaps.ac CNAME .
 fly-ads.net CNAME .
@@ -35681,8 +35667,6 @@ fridayrefractscorer.com CNAME .
 *.fridayrefractscorer.com CNAME .
 fridaywake.com CNAME .
 *.fridaywake.com CNAME .
-fridgesbunt.top CNAME .
-*.fridgesbunt.top CNAME .
 friendlybunny.com CNAME .
 *.friendlybunny.com CNAME .
 friendlyduck.com CNAME .
@@ -46489,8 +46473,6 @@ likevertising.com CNAME .
 *.likevertising.com CNAME .
 likinginconvenientpolitically.com CNAME .
 *.likinginconvenientpolitically.com CNAME .
-likutaencoil.shop CNAME .
-*.likutaencoil.shop CNAME .
 lilacbeaten.com CNAME .
 *.lilacbeaten.com CNAME .
 lilinstall11x.com CNAME .
@@ -53727,8 +53709,6 @@ nurewsawaninc.info CNAME .
 *.nurewsawaninc.info CNAME .
 nurhagstackup.com CNAME .
 *.nurhagstackup.com CNAME .
-nurno.com CNAME .
-*.nurno.com CNAME .
 nurobi.info CNAME .
 *.nurobi.info CNAME .
 nurserysurvivortogether.com CNAME .
@@ -54095,8 +54075,6 @@ obqxfeaxptut.com CNAME .
 *.obqxfeaxptut.com CNAME .
 obsedelathed.com CNAME .
 *.obsedelathed.com CNAME .
-observationsolution.top CNAME .
-*.observationsolution.top CNAME .
 observationsolution10.com CNAME .
 *.observationsolution10.com CNAME .
 observationsolution3.top CNAME .
@@ -56519,8 +56497,6 @@ pampergloriafable.com CNAME .
 *.pampergloriafable.com CNAME .
 pamperseparate.com CNAME .
 *.pamperseparate.com CNAME .
-pampervacancyrate.com CNAME .
-*.pampervacancyrate.com CNAME .
 pamperwoody.com CNAME .
 *.pamperwoody.com CNAME .
 pampopholf.com CNAME .
@@ -81211,8 +81187,6 @@ withdraw3452.fun CNAME .
 *.withdraw3452.fun CNAME .
 withdrawcosmicabundant.com CNAME .
 *.withdrawcosmicabundant.com CNAME .
-withdrawwantssheep.com CNAME .
-*.withdrawwantssheep.com CNAME .
 withmefeyaukn.com CNAME .
 *.withmefeyaukn.com CNAME .
 withyouryret.com CNAME .
