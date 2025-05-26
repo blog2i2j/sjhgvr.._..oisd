@@ -1,9 +1,9 @@
-; Version: 202505261416
+; Version: 202505261516
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 42668
-; Last modified: 2025-05-26T14:16:07+0000
+; Last modified: 2025-05-26T15:16:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748268003 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748271603 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11311,6 +11311,8 @@ findgaytube.com CNAME .
 *.findgaytube.com CNAME .
 findhername.net CNAME .
 *.findhername.net CNAME .
+findhussies.com CNAME .
+*.findhussies.com CNAME .
 findlocalhookup.com CNAME .
 *.findlocalhookup.com CNAME .
 findmate.app CNAME .
@@ -31073,8 +31075,6 @@ segretinnocenti.com CNAME .
 *.segretinnocenti.com CNAME .
 sehirfirsati.com.tr CNAME .
 *.sehirfirsati.com.tr CNAME .
-sehrindeescort.com CNAME .
-*.sehrindeescort.com CNAME .
 sehuatang.net CNAME .
 *.sehuatang.net CNAME .
 sehuatang.org CNAME .
