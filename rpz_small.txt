@@ -1,9 +1,9 @@
-; Version: 202505261711
+; Version: 202505261811
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84822
-; Last modified: 2025-05-26T17:11:30+0000
+; Entries: 84792
+; Last modified: 2025-05-26T18:11:33+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748278804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748282404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9535,8 +9535,6 @@ alagaodealing.com CNAME .
 *.alagaodealing.com CNAME .
 alalos.com CNAME .
 *.alalos.com CNAME .
-alamodewabuma.shop CNAME .
-*.alamodewabuma.shop CNAME .
 alamosupply.com CNAME .
 *.alamosupply.com CNAME .
 alamuk.com CNAME .
@@ -10029,8 +10027,6 @@ aloofsunstrokecircular.com CNAME .
 *.aloofsunstrokecircular.com CNAME .
 alota.xyz CNAME .
 *.alota.xyz CNAME .
-aloudhardware.com CNAME .
-*.aloudhardware.com CNAME .
 alovirs.com CNAME .
 *.alovirs.com CNAME .
 alowbowsohef.com CNAME .
@@ -16507,8 +16503,6 @@ binaryrecentrecentcut.com CNAME .
 *.binaryrecentrecentcut.com CNAME .
 bincatracs.com CNAME .
 *.bincatracs.com CNAME .
-binderyvisage.shop CNAME .
-*.binderyvisage.shop CNAME .
 bindingtimetablejosie.com CNAME .
 *.bindingtimetablejosie.com CNAME .
 bindirect.click CNAME .
@@ -21011,8 +21005,6 @@ clarium.global.ssl.fastly.net CNAME .
 *.clarium.global.ssl.fastly.net CNAME .
 claspdressmakerburka.com CNAME .
 *.claspdressmakerburka.com CNAME .
-classesfolksprofession.com CNAME .
-*.classesfolksprofession.com CNAME .
 classesrainbowburka.com CNAME .
 *.classesrainbowburka.com CNAME .
 classessavagely.com CNAME .
@@ -36453,8 +36445,6 @@ gateway.wearetopple.com CNAME .
 *.gateway.wearetopple.com CNAME .
 gather.donga.com CNAME .
 *.gather.donga.com CNAME .
-gatoareewhee.net CNAME .
-*.gatoareewhee.net CNAME .
 gator.com CNAME .
 *.gator.com CNAME .
 gator.volces.com CNAME .
@@ -42821,8 +42811,6 @@ ipmtermon.top CNAME .
 *.ipmtermon.top CNAME .
 ipnyx.com CNAME .
 *.ipnyx.com CNAME .
-ipocrasgrits.shop CNAME .
-*.ipocrasgrits.shop CNAME .
 ippcodepink.com CNAME .
 *.ippcodepink.com CNAME .
 ippscriptbear.com CNAME .
@@ -44547,8 +44535,6 @@ kbqihabjlufvf.club CNAME .
 *.kbqihabjlufvf.club CNAME .
 kbugxeslbjc8.com CNAME .
 *.kbugxeslbjc8.com CNAME .
-kbyesutgdbpr.com CNAME .
-*.kbyesutgdbpr.com CNAME .
 kcaactpkyp.com CNAME .
 *.kcaactpkyp.com CNAME .
 kcaodbdtyobr.com CNAME .
@@ -48239,8 +48225,6 @@ lskillsexkcerl.com CNAME .
 *.lskillsexkcerl.com CNAME .
 lsoextraorfekin.com CNAME .
 *.lsoextraorfekin.com CNAME .
-lsupvtyjffooymb.xyz CNAME .
-*.lsupvtyjffooymb.xyz CNAME .
 lsyaicl.icu CNAME .
 *.lsyaicl.icu CNAME .
 lsyliel.top CNAME .
@@ -58991,8 +58975,6 @@ possessdolejest.com CNAME .
 *.possessdolejest.com CNAME .
 possessedcrackinghart.com CNAME .
 *.possessedcrackinghart.com CNAME .
-possibilityformal.com CNAME .
-*.possibilityformal.com CNAME .
 possibilityfoundationwallpaper.com CNAME .
 *.possibilityfoundationwallpaper.com CNAME .
 possibilityrespectivelyenglish.com CNAME .
@@ -63975,8 +63957,6 @@ rqvrbf.icu CNAME .
 *.rqvrbf.icu CNAME .
 rqwel.com CNAME .
 *.rqwel.com CNAME .
-rqzolelelmaea.top CNAME .
-*.rqzolelelmaea.top CNAME .
 rreftyonkak.com CNAME .
 *.rreftyonkak.com CNAME .
 rregahfuk.com CNAME .
@@ -65831,8 +65811,6 @@ scamblefeedman.com CNAME .
 *.scamblefeedman.com CNAME .
 scamgravecorrespondence.com CNAME .
 *.scamgravecorrespondence.com CNAME .
-scammereating.com CNAME .
-*.scammereating.com CNAME .
 scammerlasciviouscrater.com CNAME .
 *.scammerlasciviouscrater.com CNAME .
 scancemontes.com CNAME .
@@ -76173,8 +76151,6 @@ trhdcukvcpz.com CNAME .
 *.trhdcukvcpz.com CNAME .
 tri.media CNAME .
 *.tri.media CNAME .
-trialdepictprimarily.com CNAME .
-*.trialdepictprimarily.com CNAME .
 trialsgroove.com CNAME .
 *.trialsgroove.com CNAME .
 triangularsink.pro CNAME .
@@ -76187,8 +76163,6 @@ tricklesmartdiscourage.com CNAME .
 *.tricklesmartdiscourage.com CNAME .
 trickynationalityturn.com CNAME .
 *.trickynationalityturn.com CNAME .
-triconsenex.top CNAME .
-*.triconsenex.top CNAME .
 trigami.com CNAME .
 *.trigami.com CNAME .
 triggers.wfxtriggers.com CNAME .
@@ -77241,8 +77215,6 @@ ufjwqdmqzlquq.world CNAME .
 *.ufjwqdmqzlquq.world CNAME .
 ufpcdn.com CNAME .
 *.ufpcdn.com CNAME .
-ufphkyw.com CNAME .
-*.ufphkyw.com CNAME .
 ufqqksbtbjm.com CNAME .
 *.ufqqksbtbjm.com CNAME .
 ufz.doesxyz.com CNAME .
@@ -83711,8 +83683,6 @@ yirringamnesic.click CNAME .
 *.yirringamnesic.click CNAME .
 yiucfif.icu CNAME .
 *.yiucfif.icu CNAME .
-yizrvkvubq.com CNAME .
-*.yizrvkvubq.com CNAME .
 yj2nf.icu CNAME .
 *.yj2nf.icu CNAME .
 yjdigtr.com CNAME .
