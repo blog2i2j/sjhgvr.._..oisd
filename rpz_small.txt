@@ -1,9 +1,9 @@
-; Version: 202505260610
+; Version: 202505260710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84918
-; Last modified: 2025-05-26T06:10:14+0000
+; Entries: 84894
+; Last modified: 2025-05-26T07:10:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748239203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748242803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17569,8 +17569,6 @@ brand.zing.vn CNAME .
 *.brand.zing.vn CNAME .
 brandads.net CNAME .
 *.brandads.net CNAME .
-brandamen.com CNAME .
-*.brandamen.com CNAME .
 brandclik.com CNAME .
 *.brandclik.com CNAME .
 branddnewcode1.me CNAME .
@@ -19057,8 +19055,6 @@ canoevaguely.com CNAME .
 *.canoevaguely.com CNAME .
 canolamonthlyswapping.com CNAME .
 *.canolamonthlyswapping.com CNAME .
-canoperation.com CNAME .
-*.canoperation.com CNAME .
 canopusacrux.top CNAME .
 *.canopusacrux.top CNAME .
 canroyastrol.click CNAME .
@@ -31837,8 +31833,6 @@ elpex.site CNAME .
 *.elpex.site CNAME .
 elpfulinotahere.com CNAME .
 *.elpfulinotahere.com CNAME .
-elrecognisefro.com CNAME .
-*.elrecognisefro.com CNAME .
 elsewhereopticaldeer.com CNAME .
 *.elsewhereopticaldeer.com CNAME .
 eltontry.com CNAME .
@@ -33377,8 +33371,6 @@ extsoft.info CNAME .
 *.extsoft.info CNAME .
 exurbdaimiel.com CNAME .
 *.exurbdaimiel.com CNAME .
-exvrbxjy.com CNAME .
-*.exvrbxjy.com CNAME .
 exwuebnswyqdfvy.com CNAME .
 *.exwuebnswyqdfvy.com CNAME .
 exxaygm.com CNAME .
@@ -40925,8 +40917,6 @@ humortadelacartoes.com.sapo.pt CNAME .
 *.humortadelacartoes.com.sapo.pt CNAME .
 humpdecompose.com CNAME .
 *.humpdecompose.com CNAME .
-humpeppier.shop CNAME .
-*.humpeppier.shop CNAME .
 humraaz.com CNAME .
 *.humraaz.com CNAME .
 humremjobvipfun.com CNAME .
@@ -41015,8 +41005,6 @@ huwuftie.com CNAME .
 *.huwuftie.com CNAME .
 huxitsaise.net CNAME .
 *.huxitsaise.net CNAME .
-huzzahscurl.top CNAME .
-*.huzzahscurl.top CNAME .
 hvd-store.com CNAME .
 *.hvd-store.com CNAME .
 hvddxj.icu CNAME .
@@ -63039,8 +63027,6 @@ residentialforestssights.com CNAME .
 *.residentialforestssights.com CNAME .
 residentialmmsuccessful.com CNAME .
 *.residentialmmsuccessful.com CNAME .
-resignationcustomerflaw.com CNAME .
-*.resignationcustomerflaw.com CNAME .
 resignedcamelplumbing.com CNAME .
 *.resignedcamelplumbing.com CNAME .
 resignedsauna.com CNAME .
@@ -67119,8 +67105,6 @@ sharecash.org CNAME .
 *.sharecash.org CNAME .
 shared.65twenty.com CNAME .
 *.shared.65twenty.com CNAME .
-sharedhabble.top CNAME .
-*.sharedhabble.top CNAME .
 sharedmediumshe.com CNAME .
 *.sharedmediumshe.com CNAME .
 sharefb.cnnd.vn CNAME .
@@ -70997,8 +70981,6 @@ stirdevelopingefficiency.com CNAME .
 *.stirdevelopingefficiency.com CNAME .
 stirringdebrisirriplaceableirriplaceable.com CNAME .
 *.stirringdebrisirriplaceableirriplaceable.com CNAME .
-stithauzouleesy.com CNAME .
-*.stithauzouleesy.com CNAME .
 stlog.d.dmkt-sp.jp CNAME .
 *.stlog.d.dmkt-sp.jp CNAME .
 stlog.dmarket.docomo.ne.jp CNAME .
@@ -71371,8 +71353,6 @@ suburbgetconsole.com CNAME .
 *.suburbgetconsole.com CNAME .
 suburbincriminatesubdue.com CNAME .
 *.suburbincriminatesubdue.com CNAME .
-subzero6969.site CNAME .
-*.subzero6969.site CNAME .
 subzerocuisse.top CNAME .
 *.subzerocuisse.top CNAME .
 success-news.net CNAME .
@@ -77799,8 +77779,6 @@ unnecessarydispleasedleak.com CNAME .
 *.unnecessarydispleasedleak.com CNAME .
 unoblotto.net CNAME .
 *.unoblotto.net CNAME .
-unoptedcoupe.top CNAME .
-*.unoptedcoupe.top CNAME .
 unpacedgervas.shop CNAME .
 *.unpacedgervas.shop CNAME .
 unpackjanuary.com CNAME .
@@ -79401,8 +79379,6 @@ visitswigspittle.com CNAME .
 *.visitswigspittle.com CNAME .
 visitweb.com CNAME .
 *.visitweb.com CNAME .
-visivemoost.top CNAME .
-*.visivemoost.top CNAME .
 visor.sberbank.ru CNAME .
 *.visor.sberbank.ru CNAME .
 vistoolr.net CNAME .
