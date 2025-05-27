@@ -1,9 +1,9 @@
-# Version: 202505271715
+# Version: 202505271816
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21406
-# Last modified: 2025-05-27T17:15:53+0000
+# Entries: 21407
+# Last modified: 2025-05-27T18:16:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1321,6 +1321,7 @@ local-zone: "arabtnt.com." always_null
 local-zone: "arabtoons.net." always_null
 local-zone: "arabvideo.org." always_null
 local-zone: "arabx.cam." always_null
+local-zone: "arabx.org." always_null
 local-zone: "arabx.tv." always_null
 local-zone: "arabx69.com." always_null
 local-zone: "arabxforum.com." always_null
