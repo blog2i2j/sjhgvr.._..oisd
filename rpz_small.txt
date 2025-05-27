@@ -1,9 +1,9 @@
-; Version: 202505270009
+; Version: 202505270109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84614
-; Last modified: 2025-05-27T00:09:35+0000
+; Entries: 84588
+; Last modified: 2025-05-27T01:09:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748304002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748307604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -17573,8 +17573,6 @@ bravedkarren.com CNAME .
 *.bravedkarren.com CNAME .
 braveglobal.tv CNAME .
 *.braveglobal.tv CNAME .
-bravesinfest.top CNAME .
-*.bravesinfest.top CNAME .
 bravobusboy.com CNAME .
 *.bravobusboy.com CNAME .
 bravotrk.com CNAME .
@@ -27999,8 +27997,6 @@ delascalles.com CNAME .
 *.delascalles.com CNAME .
 delawhorsely.shop CNAME .
 *.delawhorsely.shop CNAME .
-delayedlocust.com CNAME .
-*.delayedlocust.com CNAME .
 delayedmall.pro CNAME .
 *.delayedmall.pro CNAME .
 delete05032026.shop CNAME .
@@ -30045,8 +30041,6 @@ dreamteamaffiliates.com CNAME .
 *.dreamteamaffiliates.com CNAME .
 dreary-hunt.com CNAME .
 *.dreary-hunt.com CNAME .
-dreeghdefacto.shop CNAME .
-*.dreeghdefacto.shop CNAME .
 drem.site CNAME .
 *.drem.site CNAME .
 drenastheycam.com CNAME .
@@ -31187,8 +31181,6 @@ echidna.hellotomorrow.agency CNAME .
 *.echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
 *.echidna.honeybadger.io CNAME .
-echidna.scandinaviantaste.no CNAME .
-*.echidna.scandinaviantaste.no CNAME .
 echinusandaste.com CNAME .
 *.echinusandaste.com CNAME .
 echoachy.xyz CNAME .
@@ -33507,8 +33499,6 @@ facebookinbox-omni-onapp.haravan.com CNAME .
 *.facebookinbox-omni-onapp.haravan.com CNAME .
 faceliftluminancetill.com CNAME .
 *.faceliftluminancetill.com CNAME .
-faceoffwinsome.top CNAME .
-*.faceoffwinsome.top CNAME .
 facesnotebook.com CNAME .
 *.facesnotebook.com CNAME .
 facevideosc.com CNAME .
@@ -39569,8 +39559,6 @@ herconsequence.com CNAME .
 *.herconsequence.com CNAME .
 herdmenrations.com CNAME .
 *.herdmenrations.com CNAME .
-hereaftertriadcreep.com CNAME .
-*.hereaftertriadcreep.com CNAME .
 herehotdate.com CNAME .
 *.herehotdate.com CNAME .
 hereloveinair.net CNAME .
@@ -46173,8 +46161,6 @@ levelrunningunpadded.com CNAME .
 *.levelrunningunpadded.com CNAME .
 leverpolesaw.click CNAME .
 *.leverpolesaw.click CNAME .
-levityheartinstrument.com CNAME .
-*.levityheartinstrument.com CNAME .
 lewd.ws CNAME .
 *.lewd.ws CNAME .
 lewdl.com CNAME .
@@ -46491,8 +46477,6 @@ linoee.com CNAME .
 *.linoee.com CNAME .
 lintyahimsas.com CNAME .
 *.lintyahimsas.com CNAME .
-linwoodcampe.top CNAME .
-*.linwoodcampe.top CNAME .
 lion.lastfrontiermagazine.com CNAME .
 *.lion.lastfrontiermagazine.com CNAME .
 liondolularhene.com CNAME .
@@ -49467,8 +49451,6 @@ medbzvejdlkxe.today CNAME .
 *.medbzvejdlkxe.today CNAME .
 meddlespeckers.top CNAME .
 *.meddlespeckers.top CNAME .
-meddlingwager.com CNAME .
-*.meddlingwager.com CNAME .
 media-adrunner.mycomputer.com CNAME .
 *.media-adrunner.mycomputer.com CNAME .
 media-ads.zaloapp.com CNAME .
@@ -59885,8 +59867,6 @@ pssy.xyz CNAME .
 *.pssy.xyz CNAME .
 pssyvyvyvfmfm.com CNAME .
 *.pssyvyvyvfmfm.com CNAME .
-psuaqpz.com CNAME .
-*.psuaqpz.com CNAME .
 psuftoum.com CNAME .
 *.psuftoum.com CNAME .
 psunseewhu.com CNAME .
@@ -69505,8 +69485,6 @@ stat.meitudata.com CNAME .
 *.stat.meitudata.com CNAME .
 stat.mixi.media CNAME .
 *.stat.mixi.media CNAME .
-stat.moevideo.net CNAME .
-*.stat.moevideo.net CNAME .
 stat.mydaddy.cc CNAME .
 *.stat.mydaddy.cc CNAME .
 stat.myshows.me CNAME .
@@ -80041,8 +80019,6 @@ wearbald.care CNAME .
 *.wearbald.care CNAME .
 wearemiq.com CNAME .
 *.wearemiq.com CNAME .
-wearevaporatewhip.com CNAME .
-*.wearevaporatewhip.com CNAME .
 wearychallengeraise.com CNAME .
 *.wearychallengeraise.com CNAME .
 weasel.madebytune.be CNAME .
@@ -81683,8 +81659,6 @@ wxmhau.xyz CNAME .
 *.wxmhau.xyz CNAME .
 wxqbopca-i.global CNAME .
 *.wxqbopca-i.global CNAME .
-wxseedslpi.com CNAME .
-*.wxseedslpi.com CNAME .
 wxsmw.wxs.qq.com CNAME .
 *.wxsmw.wxs.qq.com CNAME .
 wxsnsad.tc.qq.com CNAME .
