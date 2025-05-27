@@ -1,9 +1,9 @@
-; Version: 202505270814
+; Version: 202505270914
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42782
-; Last modified: 2025-05-27T08:14:22+0000
+; Entries: 42788
+; Last modified: 2025-05-27T09:14:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748332804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748336402 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5085,6 +5085,8 @@ bokepsin.wtf CNAME .
 *.bokepsin.wtf CNAME .
 bokeptube.net CNAME .
 *.bokeptube.net CNAME .
+bokepxnx.com CNAME .
+*.bokepxnx.com CNAME .
 bokepxsex.com CNAME .
 *.bokepxsex.com CNAME .
 bolatino.com CNAME .
@@ -14289,6 +14291,8 @@ hayat-schutz.de CNAME .
 *.hayat-schutz.de CNAME .
 hayav.com CNAME .
 *.hayav.com CNAME .
+haysex.ai CNAME .
+*.haysex.ai CNAME .
 haysex.day CNAME .
 *.haysex.day CNAME .
 haysex.us CNAME .
@@ -35165,6 +35169,8 @@ teensnow.com CNAME .
 *.teensnow.com CNAME .
 teensnow.monster CNAME .
 *.teensnow.monster CNAME .
+teensnow.xxx CNAME .
+*.teensnow.xxx CNAME .
 teenspresso.com CNAME .
 *.teenspresso.com CNAME .
 teensrevenge.com CNAME .
