@@ -1,9 +1,9 @@
-; Version: 202505262314
+; Version: 202505270013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42748
-; Last modified: 2025-05-26T23:14:34+0000
+; Entries: 42752
+; Last modified: 2025-05-27T00:13:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748300404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748304002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11137,6 +11137,8 @@ fickpartys.net CNAME .
 *.fickpartys.net CNAME .
 fickverein.com CNAME .
 *.fickverein.com CNAME .
+fictionmania.tv CNAME .
+*.fictionmania.tv CNAME .
 fig.to CNAME .
 *.fig.to CNAME .
 figapelosagratis.com CNAME .
@@ -16623,6 +16625,8 @@ imbesharam.com CNAME .
 *.imbesharam.com CNAME .
 imcdgroup.com CNAME .
 *.imcdgroup.com CNAME .
+imeetzu.com CNAME .
+*.imeetzu.com CNAME .
 imgfy.net CNAME .
 *.imgfy.net CNAME .
 imgporn.site CNAME .
