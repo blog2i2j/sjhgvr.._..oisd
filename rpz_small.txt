@@ -1,9 +1,9 @@
-; Version: 202505270409
+; Version: 202505270509
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84812
-; Last modified: 2025-05-27T04:09:42+0000
+; Entries: 84788
+; Last modified: 2025-05-27T05:09:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748318404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748322004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11907,8 +11907,6 @@ antonysurface.com CNAME .
 *.antonysurface.com CNAME .
 antpeelpiston.com CNAME .
 *.antpeelpiston.com CNAME .
-antralhokier.shop CNAME .
-*.antralhokier.shop CNAME .
 ants.vn CNAME .
 *.ants.vn CNAME .
 antyoubeliketheap.com CNAME .
@@ -29809,8 +29807,6 @@ double-check.com CNAME .
 *.double-check.com CNAME .
 double.net CNAME .
 *.double.net CNAME .
-doubleadsclick.com CNAME .
-*.doubleadsclick.com CNAME .
 doubleadserve.com CNAME .
 *.doubleadserve.com CNAME .
 doubleclick-cn.net CNAME .
@@ -31699,8 +31695,6 @@ eldestcontribution.com CNAME .
 *.eldestcontribution.com CNAME .
 eleavers.com CNAME .
 *.eleavers.com CNAME .
-eleazarfilasse.shop CNAME .
-*.eleazarfilasse.shop CNAME .
 electorshreds.top CNAME .
 *.electorshreds.top CNAME .
 electosake.com CNAME .
@@ -34249,8 +34243,6 @@ fibnuxptiah.com CNAME .
 *.fibnuxptiah.com CNAME .
 fibrefilamentherself.com CNAME .
 *.fibrefilamentherself.com CNAME .
-fibrosecormus.shop CNAME .
-*.fibrosecormus.shop CNAME .
 fichesamyelic.top CNAME .
 *.fichesamyelic.top CNAME .
 ficinhubcap.com CNAME .
@@ -34881,8 +34873,6 @@ flamingo.podcast.taxi CNAME .
 *.flamingo.podcast.taxi CNAME .
 flamingo.stacking-club.com CNAME .
 *.flamingo.stacking-club.com CNAME .
-flannelbeforehand.com CNAME .
-*.flannelbeforehand.com CNAME .
 flapsoonerpester.com CNAME .
 *.flapsoonerpester.com CNAME .
 flarby.com CNAME .
@@ -37665,8 +37655,6 @@ goawos.com CNAME .
 *.goawos.com CNAME .
 gobacktothefuture.biz CNAME .
 *.gobacktothefuture.biz CNAME .
-gobblerpoky.top CNAME .
-*.gobblerpoky.top CNAME .
 gobettygo.com CNAME .
 *.gobettygo.com CNAME .
 gobetweencomment.com CNAME .
@@ -54077,8 +54065,6 @@ obsedelathed.com CNAME .
 *.obsedelathed.com CNAME .
 observationsolution10.com CNAME .
 *.observationsolution10.com CNAME .
-observationsolution3.top CNAME .
-*.observationsolution3.top CNAME .
 observationsolution5.com CNAME .
 *.observationsolution5.com CNAME .
 observationtable.com CNAME .
@@ -59267,8 +59253,6 @@ predominanttamper.com CNAME .
 *.predominanttamper.com CNAME .
 predrawburp.shop CNAME .
 *.predrawburp.shop CNAME .
-predrawfixed.top CNAME .
-*.predrawfixed.top CNAME .
 prefecturesuggestions.com CNAME .
 *.prefecturesuggestions.com CNAME .
 preferablycarbon.com CNAME .
@@ -62797,8 +62781,6 @@ repdata.usatoday.com CNAME .
 *.repdata.usatoday.com CNAME .
 repeatedlyitsbrash.com CNAME .
 *.repeatedlyitsbrash.com CNAME .
-repeatedlyshepherd.com CNAME .
-*.repeatedlyshepherd.com CNAME .
 repelcultivate.com CNAME .
 *.repelcultivate.com CNAME .
 repellentbaptism.com CNAME .
@@ -63837,8 +63819,6 @@ rotumal.com CNAME .
 *.rotumal.com CNAME .
 roubergmiteom.com CNAME .
 *.roubergmiteom.com CNAME .
-rouboorulet.net CNAME .
-*.rouboorulet.net CNAME .
 roucoutaivers.com CNAME .
 *.roucoutaivers.com CNAME .
 roudoduor.com CNAME .
@@ -77477,8 +77457,6 @@ uncleffaan.com CNAME .
 *.uncleffaan.com CNAME .
 unclesnewspaper.com CNAME .
 *.unclesnewspaper.com CNAME .
-uncletroublescircumference.com CNAME .
-*.uncletroublescircumference.com CNAME .
 uncolylirella.top CNAME .
 *.uncolylirella.top CNAME .
 uncomfortableremote.com CNAME .
@@ -77643,8 +77621,6 @@ unlocky.xyz CNAME .
 *.unlocky.xyz CNAME .
 unltdentertainment.co CNAME .
 *.unltdentertainment.co CNAME .
-unluckyflagtopmost.com CNAME .
-*.unluckyflagtopmost.com CNAME .
 unluxioer.com CNAME .
 *.unluxioer.com CNAME .
 unmantyker.com CNAME .
