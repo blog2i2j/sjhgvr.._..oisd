@@ -1,9 +1,9 @@
-; Version: 202505271615
+; Version: 202505271715
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42810
-; Last modified: 2025-05-27T16:15:38+0000
+; Entries: 42812
+; Last modified: 2025-05-27T17:15:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748361605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748365203 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11187,6 +11187,8 @@ filehost.ro CNAME .
 *.filehost.ro CNAME .
 filesmonsterclub.net CNAME .
 *.filesmonsterclub.net CNAME .
+filesor.com CNAME .
+*.filesor.com CNAME .
 filipinamagic.com CNAME .
 *.filipinamagic.com CNAME .
 filipinawebcams.com CNAME .
@@ -29157,8 +29159,6 @@ professor-porno.com CNAME .
 *.professor-porno.com CNAME .
 profibdsm.cz CNAME .
 *.profibdsm.cz CNAME .
-profile-rate.com CNAME .
-*.profile-rate.com CNAME .
 profissionaisdosexo.com CNAME .
 *.profissionaisdosexo.com CNAME .
 profreeporno.com CNAME .
@@ -29689,6 +29689,8 @@ quienhabla.mx CNAME .
 *.quienhabla.mx CNAME .
 qwbabes.com CNAME .
 *.qwbabes.com CNAME .
+qwe.wiki CNAME .
+*.qwe.wiki CNAME .
 qwertypu.com CNAME .
 *.qwertypu.com CNAME .
 qwiketube.com CNAME .
