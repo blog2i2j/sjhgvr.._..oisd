@@ -1,9 +1,9 @@
-; Version: 202505280517
+; Version: 202505280614
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42950
-; Last modified: 2025-05-28T05:17:17+0000
+; Entries: 42948
+; Last modified: 2025-05-28T06:14:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748408401 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748412003 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9359,8 +9359,6 @@ egroups.com CNAME .
 *.egroups.com CNAME .
 egy69.com CNAME .
 *.egy69.com CNAME .
-egyporn.org CNAME .
-*.egyporn.org CNAME .
 eharmony.co.uk CNAME .
 *.eharmony.co.uk CNAME .
 ehentai.ai CNAME .
@@ -20911,8 +20909,6 @@ mamapornovideo.org CNAME .
 *.mamapornovideo.org CNAME .
 mamapornovideo.top CNAME .
 *.mamapornovideo.top CNAME .
-mamashki.vip CNAME .
-*.mamashki.vip CNAME .
 mamba-games.com CNAME .
 *.mamba-games.com CNAME .
 mamefutute.com CNAME .
@@ -25589,6 +25585,8 @@ pervnana.com CNAME .
 *.pervnana.com CNAME .
 pervtube.net CNAME .
 *.pervtube.net CNAME .
+pervz.com CNAME .
+*.pervz.com CNAME .
 petardas.com CNAME .
 *.petardas.com CNAME .
 petardas.xxx CNAME .
@@ -30797,6 +30795,8 @@ rusdosug.click CNAME .
 *.rusdosug.click CNAME .
 rusescorto.com CNAME .
 *.rusescorto.com CNAME .
+rusex.love CNAME .
+*.rusex.love CNAME .
 rusexvideo.com CNAME .
 *.rusexvideo.com CNAME .
 rushfuck.com CNAME .
@@ -32329,8 +32329,6 @@ sexoaovivo.org CNAME .
 *.sexoaovivo.org CNAME .
 sexobal.love CNAME .
 *.sexobal.love CNAME .
-sexobelgorod.online CNAME .
-*.sexobelgorod.online CNAME .
 sexocean.com CNAME .
 *.sexocean.com CNAME .
 sexocean.net CNAME .
