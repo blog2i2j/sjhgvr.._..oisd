@@ -1,9 +1,9 @@
-; Version: 202505280914
+; Version: 202505281014
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42956
-; Last modified: 2025-05-28T09:14:33+0000
+; Entries: 42960
+; Last modified: 2025-05-28T10:14:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748422803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748426403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -73,6 +73,8 @@ $TTL 30
 *.108teen.com CNAME .
 10musume.com CNAME .
 *.10musume.com CNAME .
+114av.one CNAME .
+*.114av.one CNAME .
 11pornxxx.com CNAME .
 *.11pornxxx.com CNAME .
 11vids.com CNAME .
@@ -9751,6 +9753,8 @@ erokomiksi.org CNAME .
 *.erokomiksi.org CNAME .
 erokrad.date CNAME .
 *.erokrad.date CNAME .
+erokrad.life CNAME .
+*.erokrad.life CNAME .
 erokrad.live CNAME .
 *.erokrad.live CNAME .
 erolub.com CNAME .
@@ -31881,8 +31885,6 @@ sexchita.club CNAME .
 *.sexchita.club CNAME .
 sexcomix.me CNAME .
 *.sexcomix.me CNAME .
-sexcotrang.pro CNAME .
-*.sexcotrang.pro CNAME .
 sexdansk.com CNAME .
 *.sexdansk.com CNAME .
 sexdating.guru CNAME .
@@ -33715,6 +33717,8 @@ sincats.com CNAME .
 *.sincats.com CNAME .
 sinfulhookups.com CNAME .
 *.sinfulhookups.com CNAME .
+singelgrannar.com CNAME .
+*.singelgrannar.com CNAME .
 singeporno.com CNAME .
 *.singeporno.com CNAME .
 single-baltic-lady.com CNAME .
