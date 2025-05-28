@@ -1,16 +1,16 @@
-; Version: 202505282016
+; Version: 202505282114
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43002
-; Last modified: 2025-05-28T20:16:25+0000
+; Entries: 43006
+; Last modified: 2025-05-28T21:14:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748462402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748466002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6962,6 +6962,8 @@ chymme.net CNAME .
 *.chymme.net CNAME .
 chyoa.com CNAME .
 *.chyoa.com CNAME .
+ciaoamigos.it CNAME .
+*.ciaoamigos.it CNAME .
 ciberhentai.com CNAME .
 *.ciberhentai.com CNAME .
 cicisex.net CNAME .
@@ -30576,6 +30578,8 @@ romance-manga.com CNAME .
 *.romance-manga.com CNAME .
 romanceperfeito.com.br CNAME .
 *.romanceperfeito.com.br CNAME .
+romantik69.co.il CNAME .
+*.romantik69.co.il CNAME .
 romantix.com CNAME .
 *.romantix.com CNAME .
 romanvideo.com CNAME .
