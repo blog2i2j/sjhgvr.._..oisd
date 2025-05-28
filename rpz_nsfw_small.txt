@@ -1,9 +1,9 @@
-; Version: 202505281415
+; Version: 202505281515
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42974
-; Last modified: 2025-05-28T14:15:23+0000
+; Entries: 42982
+; Last modified: 2025-05-28T15:15:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748440804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748444404 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -18073,8 +18073,12 @@ javhat.tv CNAME .
 *.javhat.tv CNAME .
 javhaven.com CNAME .
 *.javhaven.com CNAME .
+javhay.ai CNAME .
+*.javhay.ai CNAME .
 javhay.net CNAME .
 *.javhay.net CNAME .
+javhay.show CNAME .
+*.javhay.show CNAME .
 javhay1.com CNAME .
 *.javhay1.com CNAME .
 javhay1.us CNAME .
@@ -33967,6 +33971,8 @@ smokva.com CNAME .
 *.smokva.com CNAME .
 smooci.com CNAME .
 *.smooci.com CNAME .
+smotret-video.ru CNAME .
+*.smotret-video.ru CNAME .
 smotretonline2015.ru CNAME .
 *.smotretonline2015.ru CNAME .
 smotretporno.net CNAME .
@@ -38441,6 +38447,8 @@ vlgaimup.pro CNAME .
 *.vlgaimup.pro CNAME .
 vlxx.blog CNAME .
 *.vlxx.blog CNAME .
+vlxx.now CNAME .
+*.vlxx.now CNAME .
 vlxx.plus CNAME .
 *.vlxx.plus CNAME .
 vlxx.rocks CNAME .
