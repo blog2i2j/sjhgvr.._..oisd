@@ -1,9 +1,9 @@
-; Version: 202505281115
+; Version: 202505281315
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42964
-; Last modified: 2025-05-28T11:15:18+0000
+; Entries: 42970
+; Last modified: 2025-05-28T13:15:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
@@ -11,7 +11,7 @@
 ; Contact: contact@oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748430005 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748437202 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -11155,6 +11155,8 @@ fetishclub.ro CNAME .
 *.fetishclub.ro CNAME .
 fetishdate.xxx CNAME .
 *.fetishdate.xxx CNAME .
+fetisheros.com CNAME .
+*.fetisheros.com CNAME .
 fetishfemdom.adult CNAME .
 *.fetishfemdom.adult CNAME .
 fetishfinder.com CNAME .
@@ -15705,6 +15707,8 @@ hooliganapps.com CNAME .
 *.hooliganapps.com CNAME .
 hooligapps.com CNAME .
 *.hooligapps.com CNAME .
+hoootgayporn.com CNAME .
+*.hoootgayporn.com CNAME .
 hoostory.ru CNAME .
 *.hoostory.ru CNAME .
 hooxs.com CNAME .
@@ -31519,6 +31523,8 @@ sex-hq.video CNAME .
 *.sex-hq.video CNAME .
 sex-hub-kharkov.top CNAME .
 *.sex-hub-kharkov.top CNAME .
+sex-hub-kyiv.top CNAME .
+*.sex-hub-kyiv.top CNAME .
 sex-hunter.net CNAME .
 *.sex-hunter.net CNAME .
 sex-igry.com CNAME .
