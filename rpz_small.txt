@@ -1,16 +1,16 @@
-; Version: 202505290710
+; Version: 202505290810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84076
-; Last modified: 2025-05-29T07:10:47+0000
+; Entries: 84058
+; Last modified: 2025-05-29T08:10:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748502002 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748505602 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1108,8 +1108,6 @@ $TTL 30
 *.26e8841da4.com CNAME .
 26ea4af114.com CNAME .
 *.26ea4af114.com CNAME .
-26fc4b0b38.com CNAME .
-*.26fc4b0b38.com CNAME .
 26q4nn691.de CNAME .
 *.26q4nn691.de CNAME .
 275a93755c.com CNAME .
@@ -14206,8 +14204,6 @@ awjnkashupk.com CNAME .
 *.awjnkashupk.com CNAME .
 awjpufvwu.com CNAME .
 *.awjpufvwu.com CNAME .
-awkbkkqkqmevb.top CNAME .
-*.awkbkkqkqmevb.top CNAME .
 awkbkkqmeeoaj.top CNAME .
 *.awkbkkqmeeoaj.top CNAME .
 awkwardemergency.com CNAME .
@@ -42428,8 +42424,6 @@ irisunitepleased.com CNAME .
 *.irisunitepleased.com CNAME .
 irkantyip.com CNAME .
 *.irkantyip.com CNAME .
-irlj.cn CNAME .
-*.irlj.cn CNAME .
 irmyckddtm.com CNAME .
 *.irmyckddtm.com CNAME .
 irnmh.fun CNAME .
@@ -44052,8 +44046,6 @@ katerigordas.pro CNAME .
 *.katerigordas.pro CNAME .
 kathesygri.com CNAME .
 *.kathesygri.com CNAME .
-katieseaweed.com CNAME .
-*.katieseaweed.com CNAME .
 katuhus.com CNAME .
 *.katuhus.com CNAME .
 kaubapsy.com CNAME .
@@ -60598,8 +60590,6 @@ qmgria.cn CNAME .
 *.qmgria.cn CNAME .
 qmkackqmigezu.club CNAME .
 *.qmkackqmigezu.club CNAME .
-qmrelvevwlwlw.top CNAME .
-*.qmrelvevwlwlw.top CNAME .
 qmslgwdr.com CNAME .
 *.qmslgwdr.com CNAME .
 qn-5.com CNAME .
@@ -76998,8 +76988,6 @@ unrestbad.com CNAME .
 *.unrestbad.com CNAME .
 unripewar.com CNAME .
 *.unripewar.com CNAME .
-unroastspitted.com CNAME .
-*.unroastspitted.com CNAME .
 unrotomon.com CNAME .
 *.unrotomon.com CNAME .
 unrulymedia.com CNAME .
@@ -78116,8 +78104,6 @@ vg876yuj.click CNAME .
 *.vg876yuj.click CNAME .
 vgfhycwkvh.com CNAME .
 *.vgfhycwkvh.com CNAME .
-vgnhigankih.com CNAME .
-*.vgnhigankih.com CNAME .
 vgs-collect-keeper.apps.verygood.systems CNAME .
 *.vgs-collect-keeper.apps.verygood.systems CNAME .
 vgxbpf.xyz CNAME .
@@ -80384,8 +80370,6 @@ window.nixnet.cz CNAME .
 *.window.nixnet.cz CNAME .
 windows-pro.net CNAME .
 *.windows-pro.net CNAME .
-windowylarvule.com CNAME .
-*.windowylarvule.com CNAME .
 windrightyshade.com CNAME .
 *.windrightyshade.com CNAME .
 windsplay.com CNAME .
@@ -84006,8 +83990,6 @@ zuzodoad.com CNAME .
 *.zuzodoad.com CNAME .
 zv.7vid.net CNAME .
 *.zv.7vid.net CNAME .
-zvbqvqbrwbeye.top CNAME .
-*.zvbqvqbrwbeye.top CNAME .
 zvela.filegram.to CNAME .
 *.zvela.filegram.to CNAME .
 zvetokr2hr8pcng09.com CNAME .
