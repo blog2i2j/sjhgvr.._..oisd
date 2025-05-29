@@ -1,16 +1,16 @@
-; Version: 202505291817
+; Version: 202505291914
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43068
-; Last modified: 2025-05-29T18:17:05+0000
+; Entries: 43070
+; Last modified: 2025-05-29T19:14:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748541602 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748545204 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -26250,8 +26250,6 @@ playsextube.com CNAME .
 *.playsextube.com CNAME .
 playsplusfree.online CNAME .
 *.playsplusfree.online CNAME .
-playstorex.com CNAME .
-*.playstorex.com CNAME .
 playtube.co.za CNAME .
 *.playtube.co.za CNAME .
 playtube.tv CNAME .
@@ -31468,6 +31466,8 @@ seniorfriendfinder.com CNAME .
 *.seniorfriendfinder.com CNAME .
 seniorhookups.org CNAME .
 *.seniorhookups.org CNAME .
+seniorhookupsites.net CNAME .
+*.seniorhookupsites.net CNAME .
 seniornext.com CNAME .
 *.seniornext.com CNAME .
 seniorsexhookup.net CNAME .
@@ -36766,6 +36766,8 @@ tropsha.com CNAME .
 *.tropsha.com CNAME .
 trouveuncrush.com CNAME .
 *.trouveuncrush.com CNAME .
+trouveur.com CNAME .
+*.trouveur.com CNAME .
 trovagnocca.com CNAME .
 *.trovagnocca.com CNAME .
 trueamateurmodels.com CNAME .
