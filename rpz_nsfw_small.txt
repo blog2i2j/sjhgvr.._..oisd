@@ -1,16 +1,16 @@
-; Version: 202505290615
+; Version: 202505290715
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43046
-; Last modified: 2025-05-29T06:15:18+0000
+; Entries: 43050
+; Last modified: 2025-05-29T07:15:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748498403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748502002 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3174,6 +3174,8 @@ autoblow.com CNAME .
 *.autoblow.com CNAME .
 autolinkweb.com CNAME .
 *.autolinkweb.com CNAME .
+autowise.dev CNAME .
+*.autowise.dev CNAME .
 av-mad.com CNAME .
 *.av-mad.com CNAME .
 av-matome.jp CNAME .
@@ -36720,6 +36722,8 @@ trendyxxx.com CNAME .
 *.trendyxxx.com CNAME .
 trep.me CNAME .
 *.trep.me CNAME .
+treta.com.br CNAME .
+*.treta.com.br CNAME .
 trfpump.com CNAME .
 *.trfpump.com CNAME .
 tribute-to.com CNAME .
