@@ -1,9 +1,9 @@
-# Version: 202505290715
+# Version: 202505290814
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21525
-# Last modified: 2025-05-29T07:15:19+0000
+# Entries: 21526
+# Last modified: 2025-05-29T08:14:56+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -19907,6 +19907,7 @@ local-zone: "xhamster.co.hu." always_null
 local-zone: "xhamster.com." always_null
 local-zone: "xhamster.desi." always_null
 local-zone: "xhamster.gold." always_null
+local-zone: "xhamster.moe." always_null
 local-zone: "xhamster.one." always_null
 local-zone: "xhamster.tv." always_null
 local-zone: "xhamster.xxx." always_null
