@@ -1,16 +1,16 @@
-; Version: 202505292018
+; Version: 202505292116
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43072
-; Last modified: 2025-05-29T20:18:31+0000
+; Entries: 43082
+; Last modified: 2025-05-29T21:16:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748548803 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748552403 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3926,6 +3926,8 @@ bdsm.pl CNAME .
 *.bdsm.pl CNAME .
 bdsm28.de CNAME .
 *.bdsm28.de CNAME .
+bdsmactually.com CNAME .
+*.bdsmactually.com CNAME .
 bdsmandfetish.com CNAME .
 *.bdsmandfetish.com CNAME .
 bdsmartcollection.com CNAME .
@@ -11600,6 +11602,8 @@ flirturilocale.com CNAME .
 *.flirturilocale.com CNAME .
 flirtvicini.com CNAME .
 *.flirtvicini.com CNAME .
+flirtyaustralia.com CNAME .
+*.flirtyaustralia.com CNAME .
 flirtycrew.com CNAME .
 *.flirtycrew.com CNAME .
 flirtymature.com CNAME .
@@ -17362,6 +17366,8 @@ instahentai.com CNAME .
 *.instahentai.com CNAME .
 instakink.com CNAME .
 *.instakink.com CNAME .
+installads.net CNAME .
+*.installads.net CNAME .
 instant-hookups.com CNAME .
 *.instant-hookups.com CNAME .
 instanthookups.org CNAME .
@@ -21778,6 +21784,8 @@ memojav.com CNAME .
 *.memojav.com CNAME .
 men.com CNAME .
 *.men.com CNAME .
+menageaquatre.com CNAME .
+*.menageaquatre.com CNAME .
 menak.ru CNAME .
 *.menak.ru CNAME .
 menatplay.com CNAME .
@@ -23566,6 +23574,8 @@ naughtyamericavr.com CNAME .
 *.naughtyamericavr.com CNAME .
 naughtyblog.org CNAME .
 *.naughtyblog.org CNAME .
+naughtyboy.com.au CNAME .
+*.naughtyboy.com.au CNAME .
 naughtydate.com CNAME .
 *.naughtydate.com CNAME .
 naughtyhentai.com CNAME .
@@ -35232,6 +35242,8 @@ teatrodelporno.com CNAME .
 *.teatrodelporno.com CNAME .
 teatroporno.com CNAME .
 *.teatroporno.com CNAME .
+tech.blog CNAME .
+*.tech.blog CNAME .
 techmovi.com CNAME .
 *.techmovi.com CNAME .
 teddyvasya.ru CNAME .
@@ -42352,8 +42364,6 @@ yasexe.pro CNAME .
 *.yasexe.pro CNAME .
 yasyadong.com CNAME .
 *.yasyadong.com CNAME .
-yatv16.me CNAME .
-*.yatv16.me CNAME .
 yavtube.com CNAME .
 *.yavtube.com CNAME .
 yazawaj.com CNAME .
