@@ -1,9 +1,9 @@
-# Version: 202505291914
+# Version: 202505292018
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21535
-# Last modified: 2025-05-29T19:14:36+0000
+# Entries: 21536
+# Last modified: 2025-05-29T20:18:31+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -13823,6 +13823,7 @@ local-zone: "porno365s.name." always_null
 local-zone: "porno365s.org." always_null
 local-zone: "porno365x.club." always_null
 local-zone: "porno365x.info." always_null
+local-zone: "porno365x.mobi." always_null
 local-zone: "porno365x.page." always_null
 local-zone: "porno365x.top." always_null
 local-zone: "porno365xxx.info." always_null
