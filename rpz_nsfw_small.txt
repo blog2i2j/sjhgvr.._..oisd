@@ -1,16 +1,16 @@
-; Version: 202505301714
+; Version: 202505301814
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43236
-; Last modified: 2025-05-30T17:14:47+0000
+; Entries: 43238
+; Last modified: 2025-05-30T18:14:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748624404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748628006 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2272,6 +2272,8 @@ anilosclips.com CNAME .
 *.anilosclips.com CNAME .
 animal-hentai.com CNAME .
 *.animal-hentai.com CNAME .
+animal-porn.net CNAME .
+*.animal-porn.net CNAME .
 animalcreampie.pro CNAME .
 *.animalcreampie.pro CNAME .
 animalforsex.com CNAME .
@@ -25958,8 +25960,6 @@ phimsextrungquoc.vip CNAME .
 *.phimsextrungquoc.vip CNAME .
 phimsextv.com CNAME .
 *.phimsextv.com CNAME .
-phimsexviet88.com CNAME .
-*.phimsexviet88.com CNAME .
 phimsexvietnam.co CNAME .
 *.phimsexvietnam.co CNAME .
 phimsexvietnam24h.com CNAME .
@@ -35628,6 +35628,8 @@ telugu.cyou CNAME .
 *.telugu.cyou CNAME .
 telugu.icu CNAME .
 *.telugu.icu CNAME .
+telugucinema.com CNAME .
+*.telugucinema.com CNAME .
 telugupornmovie.com CNAME .
 *.telugupornmovie.com CNAME .
 telugusex.xyz CNAME .
