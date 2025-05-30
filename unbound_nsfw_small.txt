@@ -1,9 +1,9 @@
-# Version: 202505300819
+# Version: 202505300916
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21611
-# Last modified: 2025-05-30T08:19:15+0000
+# Entries: 21612
+# Last modified: 2025-05-30T09:16:40+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14738,6 +14738,7 @@ local-zone: "projectwonderful.com." always_null
 local-zone: "promescent.com." always_null
 local-zone: "pron.click." always_null
 local-zone: "proncomics.icu." always_null
+local-zone: "prondot.com." always_null
 local-zone: "pronhub.com." always_null
 local-zone: "prontv.mobi." always_null
 local-zone: "pronxub.ru." always_null
