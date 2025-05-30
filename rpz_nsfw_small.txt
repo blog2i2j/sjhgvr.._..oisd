@@ -1,16 +1,16 @@
-; Version: 202505301914
+; Version: 202505302013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43238
-; Last modified: 2025-05-30T19:14:00+0000
+; Entries: 43240
+; Last modified: 2025-05-30T20:13:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748631601 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748635205 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -30058,6 +30058,8 @@ rainblow.xxx CNAME .
 *.rainblow.xxx CNAME .
 rajabokep.wiki CNAME .
 *.rajabokep.wiki CNAME .
+rajabokeps.com CNAME .
+*.rajabokeps.com CNAME .
 rajahentaiid.com CNAME .
 *.rajahentaiid.com CNAME .
 rajwap.biz CNAME .
