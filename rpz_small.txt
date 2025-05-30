@@ -1,16 +1,16 @@
-; Version: 202505300609
+; Version: 202505300710
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84438
-; Last modified: 2025-05-30T06:09:35+0000
+; Entries: 84406
+; Last modified: 2025-05-30T07:10:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748584804 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748588404 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -756,8 +756,6 @@ $TTL 30
 *.1f7wwaex9rbh.com CNAME .
 1f92a26341.0a57f6bbfd.com CNAME .
 *.1f92a26341.0a57f6bbfd.com CNAME .
-1fa107ed6e.com CNAME .
-*.1fa107ed6e.com CNAME .
 1fcf60d54c.com CNAME .
 *.1fcf60d54c.com CNAME .
 1fd92n6t8.de CNAME .
@@ -1576,8 +1574,6 @@ $TTL 30
 *.38hgc.com CNAME .
 39236100.lotre.io CNAME .
 *.39236100.lotre.io CNAME .
-3936fb9cdf.com CNAME .
-*.3936fb9cdf.com CNAME .
 39489ef6ae.com CNAME .
 *.39489ef6ae.com CNAME .
 39e6p9p7.de CNAME .
@@ -2696,8 +2692,6 @@ $TTL 30
 *.7dd392cbcb.4edcc6cc27.com CNAME .
 7e4bb44dd2.b1158965a8.com CNAME .
 *.7e4bb44dd2.b1158965a8.com CNAME .
-7ed58b948f.com CNAME .
-*.7ed58b948f.com CNAME .
 7f3adt.com CNAME .
 *.7f3adt.com CNAME .
 7f7rt.icu CNAME .
@@ -14178,8 +14172,6 @@ awbbjmp.com CNAME .
 *.awbbjmp.com CNAME .
 awbms.com CNAME .
 *.awbms.com CNAME .
-awbrwrywkwqwj.top CNAME .
-*.awbrwrywkwqwj.top CNAME .
 awcrpu.com CNAME .
 *.awcrpu.com CNAME .
 awdeliverynet.com CNAME .
@@ -15436,8 +15428,6 @@ bbjzly.top CNAME .
 *.bbjzly.top CNAME .
 bbkwxjbvj.com CNAME .
 *.bbkwxjbvj.com CNAME .
-bblvplguoma.com CNAME .
-*.bblvplguoma.com CNAME .
 bbn.img.com.ua CNAME .
 *.bbn.img.com.ua CNAME .
 bbnfcfrvjs.com CNAME .
@@ -16318,8 +16308,6 @@ bgecvddelzg.com CNAME .
 *.bgecvddelzg.com CNAME .
 bgedagiwyimix.com CNAME .
 *.bgedagiwyimix.com CNAME .
-bgf05291lko.com CNAME .
-*.bgf05291lko.com CNAME .
 bgg.baidu.com CNAME .
 *.bgg.baidu.com CNAME .
 bggqdleabtqhwqw.xyz CNAME .
@@ -23924,8 +23912,6 @@ crumbtypewriterhome.com CNAME .
 *.crumbtypewriterhome.com CNAME .
 crummydevioussucculent.com CNAME .
 *.crummydevioussucculent.com CNAME .
-crummyevelyn.com CNAME .
-*.crummyevelyn.com CNAME .
 crummygoddess.com CNAME .
 *.crummygoddess.com CNAME .
 crumpet.xxxpornhd.pro CNAME .
@@ -30442,8 +30428,6 @@ dw9uc6c6b8nwx.cloudfront.net CNAME .
 *.dw9uc6c6b8nwx.cloudfront.net CNAME .
 dwatervery.com CNAME .
 *.dwatervery.com CNAME .
-dwbaazotho.com CNAME .
-*.dwbaazotho.com CNAME .
 dwd11wtouhmea.cloudfront.net CNAME .
 *.dwd11wtouhmea.cloudfront.net CNAME .
 dweanmokpobd.com CNAME .
@@ -39052,8 +39036,6 @@ hb94dnbe.de CNAME .
 *.hb94dnbe.de CNAME .
 hbbynt.xyz CNAME .
 *.hbbynt.xyz CNAME .
-hbdruktekf.com CNAME .
-*.hbdruktekf.com CNAME .
 hbeafcac.top CNAME .
 *.hbeafcac.top CNAME .
 hbhood.com CNAME .
@@ -43444,16 +43426,12 @@ jkha742.xyz CNAME .
 *.jkha742.xyz CNAME .
 jklpy.com CNAME .
 *.jklpy.com CNAME .
-jkn05300loi.com CNAME .
-*.jkn05300loi.com CNAME .
 jktabzfgykmxa.top CNAME .
 *.jktabzfgykmxa.top CNAME .
 jkuxishhikp.com CNAME .
 *.jkuxishhikp.com CNAME .
 jkyawbabvjeq.top CNAME .
 *.jkyawbabvjeq.top CNAME .
-jkzakzazlojvz.top CNAME .
-*.jkzakzazlojvz.top CNAME .
 jl63v3fp1.com CNAME .
 *.jl63v3fp1.com CNAME .
 jlaebigzfq.com CNAME .
@@ -60798,8 +60776,6 @@ qist.me CNAME .
 *.qist.me CNAME .
 qituduwios.com CNAME .
 *.qituduwios.com CNAME .
-qiu4592.xyz CNAME .
-*.qiu4592.xyz CNAME .
 qivaiw.com CNAME .
 *.qivaiw.com CNAME .
 qiyeb.iaskbus.com CNAME .
@@ -63628,8 +63604,6 @@ rrentlysearchi.org CNAME .
 *.rrentlysearchi.org CNAME .
 rrmlejvyqwzk.top CNAME .
 *.rrmlejvyqwzk.top CNAME .
-rrqwarwrewrlj.top CNAME .
-*.rrqwarwrewrlj.top CNAME .
 rrss.abc.es CNAME .
 *.rrss.abc.es CNAME .
 rruxvlycnmeko.xyz CNAME .
@@ -78020,8 +77994,6 @@ vaipsouw.com CNAME .
 *.vaipsouw.com CNAME .
 vaitotoo.net CNAME .
 *.vaitotoo.net CNAME .
-vajwbkkmklmvl.top CNAME .
-*.vajwbkkmklmvl.top CNAME .
 vak345.com CNAME .
 *.vak345.com CNAME .
 valemedia.net CNAME .
@@ -80838,8 +80810,6 @@ wj.jiancai365.cn CNAME .
 *.wj.jiancai365.cn CNAME .
 wjct3s8at.com CNAME .
 *.wjct3s8at.com CNAME .
-wjgpspkxzjbdgu.com CNAME .
-*.wjgpspkxzjbdgu.com CNAME .
 wjvavwjyaso.com CNAME .
 *.wjvavwjyaso.com CNAME .
 wka4jursurf6.com CNAME .
@@ -80910,8 +80880,6 @@ wmedps.com CNAME .
 *.wmedps.com CNAME .
 wmeng.feihuadns.com CNAME .
 *.wmeng.feihuadns.com CNAME .
-wmeqoborqbkjw.top CNAME .
-*.wmeqoborqbkjw.top CNAME .
 wmirk.ru CNAME .
 *.wmirk.ru CNAME .
 wmmrbwiyztgeg.top CNAME .
