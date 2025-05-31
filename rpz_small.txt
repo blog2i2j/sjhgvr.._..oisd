@@ -1,16 +1,16 @@
-; Version: 202505310807
+; Version: 202505311610
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84568
-; Last modified: 2025-05-31T08:07:33+0000
+; Entries: 84572
+; Last modified: 2025-05-31T16:10:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748678404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748707205 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3932,6 +3932,8 @@ aauedwmoofyox.buzz CNAME .
 *.aauedwmoofyox.buzz CNAME .
 aawdlvr.com CNAME .
 *.aawdlvr.com CNAME .
+aax.amazon-adsystem.com CNAME .
+*.aax.amazon-adsystem.com CNAME .
 ab-log.datahou.se CNAME .
 *.ab-log.datahou.se CNAME .
 ab.4wank.com CNAME .
@@ -48538,6 +48540,8 @@ madrogueindulge.com CNAME .
 *.madrogueindulge.com CNAME .
 mads-fe.amazon.com CNAME .
 *.mads-fe.amazon.com CNAME .
+mads.amazon.com CNAME .
+*.mads.amazon.com CNAME .
 madsabs.com CNAME .
 *.madsabs.com CNAME .
 madsans.com CNAME .
