@@ -1,16 +1,16 @@
-; Version: 202505301709
+; Version: 202505310108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84502
-; Last modified: 2025-05-30T17:09:29+0000
+; Entries: 84506
+; Last modified: 2025-05-31T01:08:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748624404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748653203 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2978,6 +2978,8 @@ $TTL 30
 *.8radc6a0m2.com CNAME .
 8rf.com CNAME .
 *.8rf.com CNAME .
+8rn1y79f02-1.algolianet.com CNAME .
+*.8rn1y79f02-1.algolianet.com CNAME .
 8s32e590un.com CNAME .
 *.8s32e590un.com CNAME .
 8s5s.com CNAME .
@@ -46464,6 +46466,8 @@ livabledefamer.shop CNAME .
 *.livabledefamer.shop CNAME .
 live-a-live.com CNAME .
 *.live-a-live.com CNAME .
+live-api.hktvmall.com CNAME .
+*.live-api.hktvmall.com CNAME .
 live-eu.blushtales.com CNAME .
 *.live-eu.blushtales.com CNAME .
 live-eu.cryptovot.com CNAME .
