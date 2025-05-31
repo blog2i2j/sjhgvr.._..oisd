@@ -1,16 +1,16 @@
-; Version: 202505310812
+; Version: 202505310913
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43308
-; Last modified: 2025-05-31T08:12:30+0000
+; Entries: 43314
+; Last modified: 2025-05-31T09:13:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748678404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748682005 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -670,6 +670,8 @@ $TTL 30
 *.5escorts.com CNAME .
 5gays.com CNAME .
 *.5gays.com CNAME .
+5kings.ru CNAME .
+*.5kings.ru CNAME .
 5kporn.com CNAME .
 *.5kporn.com CNAME .
 5kteens.com CNAME .
@@ -2508,6 +2510,8 @@ anybunny.tv CNAME .
 *.anybunny.tv CNAME .
 anygay.com CNAME .
 *.anygay.com CNAME .
+anyhdmovie.com CNAME .
+*.anyhdmovie.com CNAME .
 anylips.com CNAME .
 *.anylips.com CNAME .
 anyporn.com CNAME .
@@ -12732,6 +12736,8 @@ gaisex.org CNAME .
 *.gaisex.org CNAME .
 gaisexvl.pro CNAME .
 *.gaisexvl.pro CNAME .
+gaithudam.live CNAME .
+*.gaithudam.live CNAME .
 gaixinh.photo CNAME .
 *.gaixinh.photo CNAME .
 galasti.com CNAME .
