@@ -1,9 +1,9 @@
-# Version: 202505310312
+# Version: 202505310411
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21633
-# Last modified: 2025-05-31T03:12:27+0000
+# Entries: 21634
+# Last modified: 2025-05-31T04:11:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6179,6 +6179,7 @@ local-zone: "fsayadoujin.com." always_null
 local-zone: "fscache.com." always_null
 local-zone: "fsi-blog.in." always_null
 local-zone: "fsiblog.cc." always_null
+local-zone: "fsiblog.city." always_null
 local-zone: "fsiblog.club." always_null
 local-zone: "fsiblog.co." always_null
 local-zone: "fsiblog.info." always_null
