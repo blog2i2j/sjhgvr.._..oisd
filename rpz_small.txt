@@ -1,16 +1,16 @@
-; Version: 202506010710
+; Version: 202506010810
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84624
-; Last modified: 2025-06-01T07:10:23+0000
+; Entries: 84616
+; Last modified: 2025-06-01T08:10:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748761207 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748764809 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2658,8 +2658,6 @@ $TTL 30
 *.7ad490a943.b3c8cc8e2b.com CNAME .
 7aey.icu CNAME .
 *.7aey.icu CNAME .
-7anfpatlo8lwmb.com CNAME .
-*.7anfpatlo8lwmb.com CNAME .
 7awf4fi9k7.com CNAME .
 *.7awf4fi9k7.com CNAME .
 7b5f77dbb5.com CNAME .
@@ -8312,8 +8310,6 @@ advert.punyu.com CNAME .
 *.advert.punyu.com CNAME .
 adverti.io CNAME .
 *.adverti.io CNAME .
-advertica-cdn.com CNAME .
-*.advertica-cdn.com CNAME .
 advertica.ae CNAME .
 *.advertica.ae CNAME .
 advertica.com CNAME .
@@ -16864,8 +16860,6 @@ blitesurinary.top CNAME .
 *.blitesurinary.top CNAME .
 blizzdata.site CNAME .
 *.blizzdata.site CNAME .
-blkrejzkkklf.com CNAME .
-*.blkrejzkkklf.com CNAME .
 blmibao.com CNAME .
 *.blmibao.com CNAME .
 bloatingexpectantretinal.com CNAME .
@@ -31558,8 +31552,6 @@ ekont.site CNAME .
 *.ekont.site CNAME .
 ekrpjrrovubka.club CNAME .
 *.ekrpjrrovubka.club CNAME .
-ekvalqwmly.com CNAME .
-*.ekvalqwmly.com CNAME .
 ekykse.xyz CNAME .
 *.ekykse.xyz CNAME .
 ekzmk.icu CNAME .
