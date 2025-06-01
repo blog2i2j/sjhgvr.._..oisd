@@ -1,16 +1,16 @@
-; Version: 202506012208
+; Version: 202506012307
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84450
-; Last modified: 2025-06-01T22:08:43+0000
+; Entries: 84436
+; Last modified: 2025-06-01T23:07:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748815208 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748818806 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9114,8 +9114,6 @@ aglobally.com CNAME .
 *.aglobally.com CNAME .
 aglocobanners.com CNAME .
 *.aglocobanners.com CNAME .
-aglowpanion.top CNAME .
-*.aglowpanion.top CNAME .
 aglurj.com CNAME .
 *.aglurj.com CNAME .
 aglyretirer.top CNAME .
@@ -9648,8 +9646,6 @@ albatross.ohseesoftware.com CNAME .
 *.albatross.ohseesoftware.com CNAME .
 albeittuitionsewing.com CNAME .
 *.albeittuitionsewing.com CNAME .
-albeitvoiceprick.com CNAME .
-*.albeitvoiceprick.com CNAME .
 albireo.xyz CNAME .
 *.albireo.xyz CNAME .
 albitesprisons.top CNAME .
@@ -41144,8 +41140,6 @@ idolonpomposo.guru CNAME .
 *.idolonpomposo.guru CNAME .
 idolsstars.com CNAME .
 *.idolsstars.com CNAME .
-idovhqjupirbo.com CNAME .
-*.idovhqjupirbo.com CNAME .
 idownloadgalore.com CNAME .
 *.idownloadgalore.com CNAME .
 idreamed.com CNAME .
@@ -45792,8 +45786,6 @@ leapretrieval.com CNAME .
 *.leapretrieval.com CNAME .
 leaptmagnetvertical.com CNAME .
 *.leaptmagnetvertical.com CNAME .
-learningcontainscaterpillar.com CNAME .
-*.learningcontainscaterpillar.com CNAME .
 learningcontractionpolling.com CNAME .
 *.learningcontractionpolling.com CNAME .
 leatmansures.com CNAME .
@@ -69092,8 +69084,6 @@ sta.tirexo.ink CNAME .
 *.sta.tirexo.ink CNAME .
 sta.tracedock.com CNAME .
 *.sta.tracedock.com CNAME .
-stabilitydos.com CNAME .
-*.stabilitydos.com CNAME .
 stabilityvatinventory.com CNAME .
 *.stabilityvatinventory.com CNAME .
 stabinstall.com CNAME .
@@ -70020,8 +70010,6 @@ stats.bbc.co.uk CNAME .
 *.stats.bbc.co.uk CNAME .
 stats.big-boards.com CNAME .
 *.stats.big-boards.com CNAME .
-stats.bitgravity.com CNAME .
-*.stats.bitgravity.com CNAME .
 stats.bizweb.vn CNAME .
 *.stats.bizweb.vn CNAME .
 stats.blogg.se CNAME .
@@ -84254,8 +84242,6 @@ zouloafi.net CNAME .
 *.zouloafi.net CNAME .
 zovidree.com CNAME .
 *.zovidree.com CNAME .
-zpcode11.com CNAME .
-*.zpcode11.com CNAME .
 zpfmqfxgrtttb.icu CNAME .
 *.zpfmqfxgrtttb.icu CNAME .
 zpgetworker11.com CNAME .
