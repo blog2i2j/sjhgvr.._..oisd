@@ -1,16 +1,16 @@
-; Version: 202506011508
+; Version: 202506011609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84496
-; Last modified: 2025-06-01T15:08:36+0000
+; Entries: 84486
+; Last modified: 2025-06-01T16:09:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748790006 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748793606 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8718,8 +8718,6 @@ affbuzzads.com CNAME .
 *.affbuzzads.com CNAME .
 affcpatrk.com CNAME .
 *.affcpatrk.com CNAME .
-affectdeveloper.com CNAME .
-*.affectdeveloper.com CNAME .
 affectedwrestproven.com CNAME .
 *.affectedwrestproven.com CNAME .
 affectionatedragon.com CNAME .
@@ -19652,8 +19650,6 @@ cdn.fegivja.com CNAME .
 *.cdn.fegivja.com CNAME .
 cdn.fqkwn.com CNAME .
 *.cdn.fqkwn.com CNAME .
-cdn.freefarcy.com CNAME .
-*.cdn.freefarcy.com CNAME .
 cdn.ftwpcn.com CNAME .
 *.cdn.ftwpcn.com CNAME .
 cdn.gocolow.com CNAME .
@@ -46130,8 +46126,6 @@ lianzl.xyz CNAME .
 *.lianzl.xyz CNAME .
 liaoptse.net CNAME .
 *.liaoptse.net CNAME .
-libellousstaunch.com CNAME .
-*.libellousstaunch.com CNAME .
 libelradioactive.com CNAME .
 *.libelradioactive.com CNAME .
 libertystmedia.com CNAME .
@@ -49162,8 +49156,6 @@ mayads.store CNAME .
 *.mayads.store CNAME .
 maybejanuarycosmetics.com CNAME .
 *.maybejanuarycosmetics.com CNAME .
-maydeception.com CNAME .
-*.maydeception.com CNAME .
 mayhemabjure.com CNAME .
 *.mayhemabjure.com CNAME .
 maylnk.com CNAME .
@@ -70502,8 +70494,6 @@ stepoffer.com CNAME .
 *.stepoffer.com CNAME .
 steppedengender.com CNAME .
 *.steppedengender.com CNAME .
-steppequotationinspiring.com CNAME .
-*.steppequotationinspiring.com CNAME .
 stereospoutfireextinguisher.com CNAME .
 *.stereospoutfireextinguisher.com CNAME .
 stereotypeswig.com CNAME .
