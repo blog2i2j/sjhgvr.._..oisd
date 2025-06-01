@@ -1,16 +1,16 @@
-; Version: 202506010109
+; Version: 202506010408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84630
-; Last modified: 2025-06-01T01:09:01+0000
+; Entries: 84618
+; Last modified: 2025-06-01T04:08:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748739605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748750409 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6736,8 +6736,6 @@ ads.betfair.com.au CNAME .
 *.ads.betfair.com.au CNAME .
 ads.bidspotter.co.uk CNAME .
 *.ads.bidspotter.co.uk CNAME .
-ads.bigchurch.com CNAME .
-*.ads.bigchurch.com CNAME .
 ads.bigfoot.com CNAME .
 *.ads.bigfoot.com CNAME .
 ads.bing.com CNAME .
@@ -22182,8 +22180,6 @@ collisionshipwreckprocession.com CNAME .
 *.collisionshipwreckprocession.com CNAME .
 colloqlarum.com CNAME .
 *.colloqlarum.com CNAME .
-colloquialassassinslavery.com CNAME .
-*.colloquialassassinslavery.com CNAME .
 collowhypoxis.com CNAME .
 *.collowhypoxis.com CNAME .
 colonelsurvival.com CNAME .
@@ -37896,8 +37892,6 @@ graizoah.com CNAME .
 *.graizoah.com CNAME .
 grallichalvas.com CNAME .
 *.grallichalvas.com CNAME .
-gralneurooly.com CNAME .
-*.gralneurooly.com CNAME .
 gralossortoob.net CNAME .
 *.gralossortoob.net CNAME .
 gramb.site CNAME .
@@ -62932,8 +62926,6 @@ retrievereasoninginjure.com CNAME .
 *.retrievereasoninginjure.com CNAME .
 retrostingychemical.com CNAME .
 *.retrostingychemical.com CNAME .
-retsifergoumti.net CNAME .
-*.retsifergoumti.net CNAME .
 rettornrhema.com CNAME .
 *.rettornrhema.com CNAME .
 rev-stripe.com CNAME .
@@ -67312,8 +67304,6 @@ signorleukons.shop CNAME .
 *.signorleukons.shop CNAME .
 sihighlyrecom.xyz CNAME .
 *.sihighlyrecom.xyz CNAME .
-sijillshirvan.com CNAME .
-*.sijillshirvan.com CNAME .
 sikncs.com CNAME .
 *.sikncs.com CNAME .
 sikoip.cfd CNAME .
@@ -79802,8 +79792,6 @@ warped-bus.com CNAME .
 *.warped-bus.com CNAME .
 warriorflowsweater.com CNAME .
 *.warriorflowsweater.com CNAME .
-warrtyguns.com CNAME .
-*.warrtyguns.com CNAME .
 warsabnormality.com CNAME .
 *.warsabnormality.com CNAME .
 warumbistdusoarm.space CNAME .
