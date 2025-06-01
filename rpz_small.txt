@@ -1,16 +1,16 @@
-; Version: 202506011208
+; Version: 202506011309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84538
-; Last modified: 2025-06-01T12:08:50+0000
+; Entries: 84520
+; Last modified: 2025-06-01T13:09:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748779208 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748782807 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -12892,8 +12892,6 @@ ardsvenipedeon.com CNAME .
 *.ardsvenipedeon.com CNAME .
 arduousrarely.shop CNAME .
 *.arduousrarely.shop CNAME .
-arduousyeast.com CNAME .
-*.arduousyeast.com CNAME .
 areagrammanor.com CNAME .
 *.areagrammanor.com CNAME .
 areamindless.com CNAME .
@@ -18020,8 +18018,6 @@ budvawshes.ru CNAME .
 *.budvawshes.ru CNAME .
 buf.lemonde.fr CNAME .
 *.buf.lemonde.fr CNAME .
-buffethypothesis.com CNAME .
-*.buffethypothesis.com CNAME .
 buffetreboundfoul.com CNAME .
 *.buffetreboundfoul.com CNAME .
 bug.aestheticpixels.io CNAME .
@@ -20240,8 +20236,6 @@ chairmansmile.com CNAME .
 *.chairmansmile.com CNAME .
 chaisehoorahs.com CNAME .
 *.chaisehoorahs.com CNAME .
-chaithoa.com CNAME .
-*.chaithoa.com CNAME .
 chalaips.com CNAME .
 *.chalaips.com CNAME .
 chaliceguzzlerlandlord.com CNAME .
@@ -21686,8 +21680,6 @@ cmjvavqkqfgvv.xyz CNAME .
 *.cmjvavqkqfgvv.xyz CNAME .
 cmm.xmfish.com CNAME .
 *.cmm.xmfish.com CNAME .
-cmoepgcsnhuhl.com CNAME .
-*.cmoepgcsnhuhl.com CNAME .
 cmp.dreamlab.pl CNAME .
 *.cmp.dreamlab.pl CNAME .
 cmp.vidcoin.com CNAME .
@@ -22548,8 +22540,6 @@ connectingresort.com CNAME .
 *.connectingresort.com CNAME .
 connectionsdivide.com CNAME .
 *.connectionsdivide.com CNAME .
-connectionsoathbottles.com CNAME .
-*.connectionsoathbottles.com CNAME .
 connectoritineraryswimming.com CNAME .
 *.connectoritineraryswimming.com CNAME .
 connectreadoasis.com CNAME .
@@ -36156,8 +36146,6 @@ ganehangmen.com CNAME .
 *.ganehangmen.com CNAME .
 gangsterpracticallymist.com CNAME .
 *.gangsterpracticallymist.com CNAME .
-gangwafriend.com CNAME .
-*.gangwafriend.com CNAME .
 gangwayderbies.click CNAME .
 *.gangwayderbies.click CNAME .
 gangwaynumberprivacy.com CNAME .
@@ -50482,8 +50470,6 @@ mms.silive.com CNAME .
 *.mms.silive.com CNAME .
 mms.syracuse.com CNAME .
 *.mms.syracuse.com CNAME .
-mms.theroot.com CNAME .
-*.mms.theroot.com CNAME .
 mmtracking.com CNAME .
 *.mmtracking.com CNAME .
 mn-tz.com CNAME .
@@ -77910,8 +77896,6 @@ utsssl.auction.co.kr CNAME .
 *.utsssl.auction.co.kr CNAME .
 utt.impactcdn.com CNAME .
 *.utt.impactcdn.com CNAME .
-utterdevice.com CNAME .
-*.utterdevice.com CNAME .
 utteredadisappo.com CNAME .
 *.utteredadisappo.com CNAME .
 utteredadisappointe.org CNAME .
@@ -82908,8 +82892,6 @@ xqaosfdbhff.today CNAME .
 *.xqaosfdbhff.today CNAME .
 xqeoitqw.site CNAME .
 *.xqeoitqw.site CNAME .
-xqmvzmt.com CNAME .
-*.xqmvzmt.com CNAME .
 xqrydt.icu CNAME .
 *.xqrydt.icu CNAME .
 xqwcchybybnro.com CNAME .
