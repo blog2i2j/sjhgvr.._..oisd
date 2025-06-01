@@ -1,9 +1,9 @@
-# Version: 202506011314
+# Version: 202506011414
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
 # Entries: 21679
-# Last modified: 2025-06-01T13:14:58+0000
+# Last modified: 2025-06-01T14:14:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4067,6 +4067,7 @@ local-zone: "deep-xxx.com." always_null
 local-zone: "deeper.com." always_null
 local-zone: "deepfades.com." always_null
 local-zone: "deepfake.com." always_null
+local-zone: "deepfakeporn.app." always_null
 local-zone: "deepfakeporn.net." always_null
 local-zone: "deepfakeporn.to." always_null
 local-zone: "deepfaker.app." always_null
@@ -19477,7 +19478,6 @@ local-zone: "voyeurweb.com." always_null
 local-zone: "voyeurzz.com." always_null
 local-zone: "voyeyrist.com." always_null
 local-zone: "voysex.ru." always_null
-local-zone: "vphimsexviet.com." always_null
 local-zone: "vpopke.com." always_null
 local-zone: "vporn.com." always_null
 local-zone: "vporn.fun." always_null
