@@ -1,16 +1,16 @@
-; Version: 202506010412
+; Version: 202506010513
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43342
-; Last modified: 2025-06-01T04:12:52+0000
+; Last modified: 2025-06-01T05:13:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748750409 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748754007 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6592,6 +6592,8 @@ celibook.com CNAME .
 *.celibook.com CNAME .
 cemiocw.com CNAME .
 *.cemiocw.com CNAME .
+centerblog.net CNAME .
+*.centerblog.net CNAME .
 centerfold.com CNAME .
 *.centerfold.com CNAME .
 centoxcento.net CNAME .
@@ -21724,6 +21726,8 @@ meatspin.com CNAME .
 *.meatspin.com CNAME .
 meatyhunks.com CNAME .
 *.meatyhunks.com CNAME .
+mecidiyekoymarka.com CNAME .
+*.mecidiyekoymarka.com CNAME .
 mecoporn.com CNAME .
 *.mecoporn.com CNAME .
 mediapemersatubangsa.com CNAME .
@@ -33302,8 +33306,6 @@ sexxarabx.com CNAME .
 *.sexxarabx.com CNAME .
 sexxcup.com CNAME .
 *.sexxcup.com CNAME .
-sexxhanquoc.pro CNAME .
-*.sexxhanquoc.pro CNAME .
 sexxmilf.com CNAME .
 *.sexxmilf.com CNAME .
 sexxmy.pro CNAME .
@@ -33334,8 +33336,6 @@ sexxxhd.com CNAME .
 *.sexxxhd.com CNAME .
 sexxxlife.com CNAME .
 *.sexxxlife.com CNAME .
-sexxxmsk.com CNAME .
-*.sexxxmsk.com CNAME .
 sexxxmurmansk.life CNAME .
 *.sexxxmurmansk.life CNAME .
 sexxxnhatban.com CNAME .
