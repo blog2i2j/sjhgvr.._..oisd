@@ -1,16 +1,16 @@
-; Version: 202506011809
+; Version: 202506011908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84504
-; Last modified: 2025-06-01T18:09:31+0000
+; Entries: 84488
+; Last modified: 2025-06-01T19:08:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748800807 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748804406 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1278,8 +1278,6 @@ $TTL 30
 *.2m3gdt0gc.de CNAME .
 2m55gqleg.de CNAME .
 *.2m55gqleg.de CNAME .
-2manshow.com CNAME .
-*.2manshow.com CNAME .
 2mdn-cn.net CNAME .
 *.2mdn-cn.net CNAME .
 2mf9kkbhab31.com CNAME .
@@ -8634,8 +8632,6 @@ aeelookithdifyf.com CNAME .
 *.aeelookithdifyf.com CNAME .
 aeffe3nhrua5hua.com CNAME .
 *.aeffe3nhrua5hua.com CNAME .
-aefkeuvt.com CNAME .
-*.aefkeuvt.com CNAME .
 aegagrilariats.top CNAME .
 *.aegagrilariats.top CNAME .
 aegis.qq.com CNAME .
@@ -14386,8 +14382,6 @@ aykqyjzbkkkra.top CNAME .
 *.aykqyjzbkkkra.top CNAME .
 aykqyjzbkkmyv.top CNAME .
 *.aykqyjzbkkmyv.top CNAME .
-aykqyjzwekzyw.top CNAME .
-*.aykqyjzwekzyw.top CNAME .
 aymoabxgahihu.world CNAME .
 *.aymoabxgahihu.world CNAME .
 aynhnrgxjxfv.com CNAME .
@@ -45000,8 +44994,6 @@ kq272lw4c.com CNAME .
 *.kq272lw4c.com CNAME .
 kq6mv8mpvs4m10r449nms6.xyz CNAME .
 *.kq6mv8mpvs4m10r449nms6.xyz CNAME .
-kqalbhgnd.com CNAME .
-*.kqalbhgnd.com CNAME .
 kqbjdvighp.com CNAME .
 *.kqbjdvighp.com CNAME .
 kqhi97lf.de CNAME .
@@ -45620,8 +45612,6 @@ latexestetrane.top CNAME .
 *.latexestetrane.top CNAME .
 lathamnovel.shop CNAME .
 *.lathamnovel.shop CNAME .
-latheendsmoo.com CNAME .
-*.latheendsmoo.com CNAME .
 latinwayy.com CNAME .
 *.latinwayy.com CNAME .
 lator308aoe.com CNAME .
@@ -69082,8 +69072,6 @@ sspnm.emol.com CNAME .
 *.sspnm.emol.com CNAME .
 ssqxuy.icu CNAME .
 *.ssqxuy.icu CNAME .
-ssqyuvavse.com CNAME .
-*.ssqyuvavse.com CNAME .
 ssr.streamrail.net CNAME .
 *.ssr.streamrail.net CNAME .
 ssrv7.com CNAME .
@@ -76588,8 +76576,6 @@ tytyeastfeukufun.info CNAME .
 *.tytyeastfeukufun.info CNAME .
 tyuknsyenergy.com CNAME .
 *.tyuknsyenergy.com CNAME .
-tyuyplyncetdhr.com CNAME .
-*.tyuyplyncetdhr.com CNAME .
 tz.sec.xiaomi.com CNAME .
 *.tz.sec.xiaomi.com CNAME .
 tzaho.com CNAME .
@@ -79724,8 +79710,6 @@ wastedclassmatemay.com CNAME .
 *.wastedclassmatemay.com CNAME .
 wastefuljellyyonder.com CNAME .
 *.wastefuljellyyonder.com CNAME .
-watanet.work CNAME .
-*.watanet.work CNAME .
 watboost.shop CNAME .
 *.watboost.shop CNAME .
 watch-now.club CNAME .
