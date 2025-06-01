@@ -1,16 +1,16 @@
-; Version: 202505312220
+; Version: 202506010012
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43300
-; Last modified: 2025-05-31T22:20:09+0000
+; Entries: 43304
+; Last modified: 2025-06-01T00:12:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748728809 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748736009 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6002,8 +6002,6 @@ camdownload.net CNAME .
 *.camdownload.net CNAME .
 camdudes.com CNAME .
 *.camdudes.com CNAME .
-camentertain.com CNAME .
-*.camentertain.com CNAME .
 camera.com CNAME .
 *.camera.com CNAME .
 cameraboys.com CNAME .
@@ -19814,6 +19812,8 @@ lavaplace.com CNAME .
 *.lavaplace.com CNAME .
 lavideodujourjetm.net CNAME .
 *.lavideodujourjetm.net CNAME .
+law.blog CNAME .
+*.law.blog CNAME .
 lazerdist.ru CNAME .
 *.lazerdist.ru CNAME .
 lbanez.net CNAME .
@@ -31202,6 +31202,10 @@ saggytits.pics CNAME .
 *.saggytits.pics CNAME .
 saggytitsporn.com CNAME .
 *.saggytitsporn.com CNAME .
+saint2.cr CNAME .
+*.saint2.cr CNAME .
+saint2.su CNAME .
+*.saint2.su CNAME .
 sakaryadabugun.com CNAME .
 *.sakaryadabugun.com CNAME .
 sakugabo.net CNAME .
