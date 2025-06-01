@@ -1,16 +1,16 @@
-; Version: 202506012008
+; Version: 202506012108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84470
-; Last modified: 2025-06-01T20:08:46+0000
+; Entries: 84456
+; Last modified: 2025-06-01T21:08:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748808005 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748811607 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14152,8 +14152,6 @@ awaps.yandex.ru CNAME .
 *.awaps.yandex.ru CNAME .
 award.sitekeuring.net CNAME .
 *.award.sitekeuring.net CNAME .
-awardchirpingenunciate.com CNAME .
-*.awardchirpingenunciate.com CNAME .
 awarecatching.com CNAME .
 *.awarecatching.com CNAME .
 awarenesstack.com CNAME .
@@ -19918,8 +19916,6 @@ cdnware.com CNAME .
 *.cdnware.com CNAME .
 cdnware.io CNAME .
 *.cdnware.io CNAME .
-cdnweb2analytics.com CNAME .
-*.cdnweb2analytics.com CNAME .
 cdnweb3.pages.dev CNAME .
 *.cdnweb3.pages.dev CNAME .
 cdp.asia CNAME .
@@ -34644,8 +34640,6 @@ fixpass.net CNAME .
 *.fixpass.net CNAME .
 fixtapedam.live CNAME .
 *.fixtapedam.live CNAME .
-fizzysquirtbikes.com CNAME .
-*.fizzysquirtbikes.com CNAME .
 fjacrmtgm.com CNAME .
 *.fjacrmtgm.com CNAME .
 fjaqxtszakk.com CNAME .
@@ -38452,8 +38446,6 @@ gunggo.com CNAME .
 *.gunggo.com CNAME .
 gunzblazingpromo.com CNAME .
 *.gunzblazingpromo.com CNAME .
-guofbdtsgepvjh.com CNAME .
-*.guofbdtsgepvjh.com CNAME .
 guppy.ausowned.com.au CNAME .
 *.guppy.ausowned.com.au CNAME .
 guppy.ironmic.fm CNAME .
@@ -48096,8 +48088,6 @@ lumaktoys.com CNAME .
 *.lumaktoys.com CNAME .
 luminosoocchio.com CNAME .
 *.luminosoocchio.com CNAME .
-luminousstickswar.com CNAME .
-*.luminousstickswar.com CNAME .
 lumnstoodthe.info CNAME .
 *.lumnstoodthe.info CNAME .
 lumpenscrcao.click CNAME .
@@ -53516,8 +53506,6 @@ nurhagstackup.com CNAME .
 *.nurhagstackup.com CNAME .
 nurobi.info CNAME .
 *.nurobi.info CNAME .
-nurserysurvivortogether.com CNAME .
-*.nurserysurvivortogether.com CNAME .
 nuseek.com CNAME .
 *.nuseek.com CNAME .
 nuskt.directory CNAME .
@@ -77578,8 +77566,6 @@ upstairswellnewest.com CNAME .
 *.upstairswellnewest.com CNAME .
 upstats.yadro.ru CNAME .
 *.upstats.yadro.ru CNAME .
-upstirmutes.shop CNAME .
-*.upstirmutes.shop CNAME .
 upsups.click CNAME .
 *.upsups.click CNAME .
 uptafashib.com CNAME .
