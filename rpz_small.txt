@@ -1,16 +1,16 @@
-; Version: 202505311909
+; Version: 202506010109
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84638
-; Last modified: 2025-05-31T19:09:21+0000
+; Entries: 84630
+; Last modified: 2025-06-01T01:09:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748718007 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748739605 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32922,8 +32922,6 @@ ewxufqs.cn CNAME .
 *.ewxufqs.cn CNAME .
 ex8.lostporntube.com CNAME .
 *.ex8.lostporntube.com CNAME .
-exaccess.com CNAME .
-*.exaccess.com CNAME .
 exactorpilers.shop CNAME .
 *.exactorpilers.shop CNAME .
 exacttarget.api.mashery.com CNAME .
@@ -36150,10 +36148,6 @@ gamescarousel.com CNAME .
 *.gamescarousel.com CNAME .
 gamescdnfor.com CNAME .
 *.gamescdnfor.com CNAME .
-gamesell.icu CNAME .
-*.gamesell.icu CNAME .
-gamesell.org CNAME .
-*.gamesell.org CNAME .
 gamesims.ru CNAME .
 *.gamesims.ru CNAME .
 gamesites100.net CNAME .
@@ -54568,8 +54562,6 @@ old-go.pro CNAME .
 *.old-go.pro CNAME .
 oldeststrickenambulance.com CNAME .
 *.oldeststrickenambulance.com CNAME .
-oldgamestore.store CNAME .
-*.oldgamestore.store CNAME .
 olineman.pro CNAME .
 *.olineman.pro CNAME .
 olitoryhunter.com CNAME .
