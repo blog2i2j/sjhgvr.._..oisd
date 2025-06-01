@@ -1,16 +1,16 @@
-; Version: 202506010913
+; Version: 202506011013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43358
-; Last modified: 2025-06-01T09:13:46+0000
+; Last modified: 2025-06-01T10:13:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748768407 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748772009 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -22786,6 +22786,8 @@ movzer.com CNAME .
 *.movzer.com CNAME .
 mozaka.com CNAME .
 *.mozaka.com CNAME .
+mozakin.com CNAME .
+*.mozakin.com CNAME .
 mp4.center CNAME .
 *.mp4.center CNAME .
 mp4hentai.com CNAME .
@@ -37798,8 +37800,6 @@ ulive.chat CNAME .
 *.ulive.chat CNAME .
 ulla.com CNAME .
 *.ulla.com CNAME .
-ulluprime.com CNAME .
-*.ulluprime.com CNAME .
 ulluuncut.in CNAME .
 *.ulluuncut.in CNAME .
 ulmf.org CNAME .
