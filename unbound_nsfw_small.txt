@@ -1,9 +1,9 @@
-# Version: 202506010113
+# Version: 202506010213
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21654
-# Last modified: 2025-06-01T01:13:51+0000
+# Entries: 21655
+# Last modified: 2025-06-01T02:13:44+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15302,6 +15302,7 @@ local-zone: "rencontres-sanslendemain.com." always_null
 local-zone: "rencontresexelocale.com." always_null
 local-zone: "render-state.to." always_null
 local-zone: "renderotica.com." always_null
+local-zone: "rendez-vous.be." always_null
 local-zone: "renole.com." always_null
 local-zone: "rent.men." always_null
 local-zone: "rentmasseur.com." always_null

@@ -1,16 +1,16 @@
-; Version: 202506010113
+; Version: 202506010213
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43308
-; Last modified: 2025-06-01T01:13:51+0000
+; Entries: 43310
+; Last modified: 2025-06-01T02:13:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748739605 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748743206 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -30596,6 +30596,8 @@ render-state.to CNAME .
 *.render-state.to CNAME .
 renderotica.com CNAME .
 *.renderotica.com CNAME .
+rendez-vous.be CNAME .
+*.rendez-vous.be CNAME .
 renole.com CNAME .
 *.renole.com CNAME .
 rent.men CNAME .
