@@ -1,16 +1,16 @@
-; Version: 202506012108
+; Version: 202506012208
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84456
-; Last modified: 2025-06-01T21:08:18+0000
+; Entries: 84450
+; Last modified: 2025-06-01T22:08:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748811607 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748815208 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24168,8 +24168,6 @@ cupidonmedia.com CNAME .
 *.cupidonmedia.com CNAME .
 cupidrecession.com CNAME .
 *.cupidrecession.com CNAME .
-cupidtriadperpetual.com CNAME .
-*.cupidtriadperpetual.com CNAME .
 cupis-lady-dreampartner.com CNAME .
 *.cupis-lady-dreampartner.com CNAME .
 cuplikenominee.com CNAME .
@@ -47790,8 +47788,6 @@ louderpregnantshabby.com CNAME .
 *.louderpregnantshabby.com CNAME .
 louderwalnut.com CNAME .
 *.louderwalnut.com CNAME .
-loudlongerfolk.com CNAME .
-*.loudlongerfolk.com CNAME .
 louisedistanthat.com CNAME .
 *.louisedistanthat.com CNAME .
 loukoost.net CNAME .
@@ -61168,8 +61164,6 @@ qujishu.com CNAME .
 *.qujishu.com CNAME .
 qulttijhuoxz.com CNAME .
 *.qulttijhuoxz.com CNAME .
-qumjebtn.com CNAME .
-*.qumjebtn.com CNAME .
 qunqawarsbij.com CNAME .
 *.qunqawarsbij.com CNAME .
 qunrcibhis.com CNAME .
