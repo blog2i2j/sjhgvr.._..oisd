@@ -1,16 +1,16 @@
-; Version: 202506012213
+; Version: 202506012312
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43370
-; Last modified: 2025-06-01T22:13:51+0000
+; Entries: 43372
+; Last modified: 2025-06-01T23:12:53+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748815208 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748818806 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -10846,6 +10846,8 @@ fapello.cam CNAME .
 *.fapello.cam CNAME .
 fapello.com CNAME .
 *.fapello.com CNAME .
+fapello.is CNAME .
+*.fapello.is CNAME .
 fapello.pics CNAME .
 *.fapello.pics CNAME .
 fapello.ru CNAME .

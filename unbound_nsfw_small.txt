@@ -1,9 +1,9 @@
-# Version: 202506012213
+# Version: 202506012312
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21685
-# Last modified: 2025-06-01T22:13:51+0000
+# Entries: 21686
+# Last modified: 2025-06-01T23:12:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5427,6 +5427,7 @@ local-zone: "fapellino.com." always_null
 local-zone: "fapello-leaks.com." always_null
 local-zone: "fapello.cam." always_null
 local-zone: "fapello.com." always_null
+local-zone: "fapello.is." always_null
 local-zone: "fapello.pics." always_null
 local-zone: "fapello.ru." always_null
 local-zone: "fapello.su." always_null
