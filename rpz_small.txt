@@ -1,16 +1,16 @@
-; Version: 202506010810
+; Version: 202506010908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84616
-; Last modified: 2025-06-01T08:10:44+0000
+; Entries: 84604
+; Last modified: 2025-06-01T09:08:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748764809 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748768407 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -36426,8 +36426,6 @@ gecl.xyz CNAME .
 *.gecl.xyz CNAME .
 geejetag.com CNAME .
 *.geejetag.com CNAME .
-geejofeecher.top CNAME .
-*.geejofeecher.top CNAME .
 geek-nerd-server.firebaseapp.com CNAME .
 *.geek-nerd-server.firebaseapp.com CNAME .
 geggeewrossle.com CNAME .
@@ -52970,8 +52968,6 @@ nlytcs.idfnet.net CNAME .
 *.nlytcs.idfnet.net CNAME .
 nlztpmhcxyzwh.vip CNAME .
 *.nlztpmhcxyzwh.vip CNAME .
-nlzyp.cn CNAME .
-*.nlzyp.cn CNAME .
 nmajjhzqyckro.icu CNAME .
 *.nmajjhzqyckro.icu CNAME .
 nmanateex.top CNAME .
@@ -57188,8 +57184,6 @@ perr.l-err.biz CNAME .
 *.perr.l-err.biz CNAME .
 perryvolleyball.com CNAME .
 *.perryvolleyball.com CNAME .
-persecutenosypajamas.com CNAME .
-*.persecutenosypajamas.com CNAME .
 persetoenail.com CNAME .
 *.persetoenail.com CNAME .
 persistarcticthese.com CNAME .
@@ -59352,8 +59346,6 @@ processsky.com CNAME .
 *.processsky.com CNAME .
 proclean.club CNAME .
 *.proclean.club CNAME .
-procuredsheet.com CNAME .
-*.procuredsheet.com CNAME .
 prod-analytics.royal.drmgms.com CNAME .
 *.prod-analytics.royal.drmgms.com CNAME .
 prod-collector.bigbasket.com CNAME .
@@ -70934,8 +70926,6 @@ strvvmpu.com CNAME .
 *.strvvmpu.com CNAME .
 stt.nimbusweb.me CNAME .
 *.stt.nimbusweb.me CNAME .
-stt6.cfd CNAME .
-*.stt6.cfd CNAME .
 stteeruptowind.com CNAME .
 *.stteeruptowind.com CNAME .
 stthykerewasn.com CNAME .
@@ -83198,8 +83188,6 @@ xycdn.com CNAME .
 *.xycdn.com CNAME .
 xygliwhawu.com CNAME .
 *.xygliwhawu.com CNAME .
-xyjfulkiqiaolsr.com CNAME .
-*.xyjfulkiqiaolsr.com CNAME .
 xylidichiatus.shop CNAME .
 *.xylidichiatus.shop CNAME .
 xylzwamxxshgw.click CNAME .
