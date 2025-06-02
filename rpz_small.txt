@@ -1,16 +1,16 @@
-; Version: 202506021309
+; Version: 202506021408
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84322
-; Last modified: 2025-06-02T13:09:09+0000
+; Entries: 84310
+; Last modified: 2025-06-02T14:08:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748869207 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748872806 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11944,8 +11944,6 @@ anybodyproper.com CNAME .
 *.anybodyproper.com CNAME .
 anybodyroutinefickle.com CNAME .
 *.anybodyroutinefickle.com CNAME .
-anydigresscanyon.com CNAME .
-*.anydigresscanyon.com CNAME .
 anyinadeditiont.com CNAME .
 *.anyinadeditiont.com CNAME .
 anymind360-com.cdn.ampproject.org CNAME .
@@ -33648,8 +33646,6 @@ faxbfxhkdjoma.icu CNAME .
 *.faxbfxhkdjoma.icu CNAME .
 faxqaaawyb.com CNAME .
 *.faxqaaawyb.com CNAME .
-faxxdeohexmnj.com CNAME .
-*.faxxdeohexmnj.com CNAME .
 fazanppq.com CNAME .
 *.fazanppq.com CNAME .
 fb-plus.com CNAME .
@@ -50796,8 +50792,6 @@ montelena.auction.co.kr CNAME .
 *.montelena.auction.co.kr CNAME .
 montelena.gmarket.co.kr CNAME .
 *.montelena.gmarket.co.kr CNAME .
-monthfour0225.xyz CNAME .
-*.monthfour0225.xyz CNAME .
 monthlypatient.com CNAME .
 *.monthlypatient.com CNAME .
 montondirgy.com CNAME .
@@ -72354,8 +72348,6 @@ tdpujn.xyz CNAME .
 *.tdpujn.xyz CNAME .
 tdsdk.cpatrk.net CNAME .
 *.tdsdk.cpatrk.net CNAME .
-tdspa.top CNAME .
-*.tdspa.top CNAME .
 tdzegpeatygun.tech CNAME .
 *.tdzegpeatygun.tech CNAME .
 tdzqoewz.icu CNAME .
@@ -77924,8 +77916,6 @@ valiumbessel.com CNAME .
 *.valiumbessel.com CNAME .
 valleylouisadick.com CNAME .
 *.valleylouisadick.com CNAME .
-valleysrelyfiend.com CNAME .
-*.valleysrelyfiend.com CNAME .
 valourjaguars.com CNAME .
 *.valourjaguars.com CNAME .
 valpeiros.com CNAME .
@@ -78068,8 +78058,6 @@ vbjzdl.top CNAME .
 *.vbjzdl.top CNAME .
 vbmjlevwwvyzj.top CNAME .
 *.vbmjlevwwvyzj.top CNAME .
-vboiutv.xyz CNAME .
-*.vboiutv.xyz CNAME .
 vbptgoyketwhv.global CNAME .
 *.vbptgoyketwhv.global CNAME .
 vbrusdiifpfd.com CNAME .
