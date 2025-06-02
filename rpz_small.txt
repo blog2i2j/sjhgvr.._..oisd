@@ -1,16 +1,16 @@
-; Version: 202506021009
+; Version: 202506021108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84362
-; Last modified: 2025-06-02T10:09:02+0000
+; Entries: 84342
+; Last modified: 2025-06-02T11:08:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748858405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748862004 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6532,8 +6532,6 @@ adrino.io CNAME .
 *.adrino.io CNAME .
 adriver.ru CNAME .
 *.adriver.ru CNAME .
-adrkspf.com CNAME .
-*.adrkspf.com CNAME .
 adroitcertain.com CNAME .
 *.adroitcertain.com CNAME .
 adroitdeceitcongestion.com CNAME .
@@ -18034,8 +18032,6 @@ bugly.qq.com CNAME .
 *.bugly.qq.com CNAME .
 bugs2022.com CNAME .
 *.bugs2022.com CNAME .
-bugsattended.com CNAME .
-*.bugsattended.com CNAME .
 buikolered.com CNAME .
 *.buikolered.com CNAME .
 builderallwppro.com CNAME .
@@ -21796,8 +21792,6 @@ coconutsoftenedput.com CNAME .
 *.coconutsoftenedput.com CNAME .
 cocoonelectronicsconfined.com CNAME .
 *.cocoonelectronicsconfined.com CNAME .
-cocoyamragfish.shop CNAME .
-*.cocoyamragfish.shop CNAME .
 cod.bitrec.com CNAME .
 *.cod.bitrec.com CNAME .
 cod.governmentaladvisory.com CNAME .
@@ -50464,8 +50458,6 @@ moa.mediaoutcast.com CNAME .
 *.moa.mediaoutcast.com CNAME .
 moadoopsouwhast.net CNAME .
 *.moadoopsouwhast.net CNAME .
-moaglail.xyz CNAME .
-*.moaglail.xyz CNAME .
 moagrejinubiko.xyz CNAME .
 *.moagrejinubiko.xyz CNAME .
 moanamberdrone.com CNAME .
@@ -50948,8 +50940,6 @@ mosrtaek.net CNAME .
 *.mosrtaek.net CNAME .
 mosseegneertoo.xyz CNAME .
 *.mosseegneertoo.xyz CNAME .
-mossyiapyges.com CNAME .
-*.mossyiapyges.com CNAME .
 mostauthor.com CNAME .
 *.mostauthor.com CNAME .
 mostazoaptoare.net CNAME .
@@ -56380,8 +56370,6 @@ paraos.my CNAME .
 *.paraos.my CNAME .
 parasiteoutdoorsmix.com CNAME .
 *.parasiteoutdoorsmix.com CNAME .
-parasitevolatile.com CNAME .
-*.parasitevolatile.com CNAME .
 parasolcurvity.top CNAME .
 *.parasolcurvity.top CNAME .
 paravaprese.com CNAME .
@@ -62114,8 +62102,6 @@ refedtiraz.shop CNAME .
 *.refedtiraz.shop CNAME .
 refer.wordpress.com CNAME .
 *.refer.wordpress.com CNAME .
-referer.pixplug.in CNAME .
-*.referer.pixplug.in CNAME .
 referralware.com CNAME .
 *.referralware.com CNAME .
 referredencouragedlearned.com CNAME .
@@ -71714,8 +71700,6 @@ t.zhipin.com CNAME .
 *.t.zhipin.com CNAME .
 t002.myjournalcourier.com CNAME .
 *.t002.myjournalcourier.com CNAME .
-t0gju20fq34i.com CNAME .
-*.t0gju20fq34i.com CNAME .
 t0ikowg7jg.serverlesslaravelcourse.com CNAME .
 *.t0ikowg7jg.serverlesslaravelcourse.com CNAME .
 t0sfe1.com CNAME .
@@ -75632,8 +75616,6 @@ trekdata.com CNAME .
 *.trekdata.com CNAME .
 treker.fun CNAME .
 *.treker.fun CNAME .
-trekkeeee.space CNAME .
-*.trekkeeee.space CNAME .
 trekkww.fun CNAME .
 *.trekkww.fun CNAME .
 trekkww.space CNAME .
@@ -83024,8 +83006,6 @@ y900.greenwichtime.com CNAME .
 *.y900.greenwichtime.com CNAME .
 y96q29a1fo.com CNAME .
 *.y96q29a1fo.com CNAME .
-yaamsptzttes.com CNAME .
-*.yaamsptzttes.com CNAME .
 yaarlnk.com CNAME .
 *.yaarlnk.com CNAME .
 yab-adimages.s3.amazonaws.com CNAME .
