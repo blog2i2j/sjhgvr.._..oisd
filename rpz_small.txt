@@ -1,16 +1,16 @@
-; Version: 202506022013
+; Version: 202506022111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84410
-; Last modified: 2025-06-02T20:13:18+0000
+; Entries: 84382
+; Last modified: 2025-06-02T21:11:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748894404 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748898007 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -568,8 +568,6 @@ $TTL 30
 *.1558334541.rsc.cdn77.org CNAME .
 15752525.xyz CNAME .
 *.15752525.xyz CNAME .
-1580240639.rsc.cdn77.org CNAME .
-*.1580240639.rsc.cdn77.org CNAME .
 15f3ecdff9.21c69b70bc.com CNAME .
 *.15f3ecdff9.21c69b70bc.com CNAME .
 15ftgllk1.com CNAME .
@@ -2078,8 +2076,6 @@ $TTL 30
 *.540252a00b.com CNAME .
 540484935e.com CNAME .
 *.540484935e.com CNAME .
-54176897ed.com CNAME .
-*.54176897ed.com CNAME .
 54199287.xyz CNAME .
 *.54199287.xyz CNAME .
 5475feaab.clicknplay.to CNAME .
@@ -14420,8 +14416,6 @@ axvxudahpz.com CNAME .
 *.axvxudahpz.com CNAME .
 axxhmyraccib.com CNAME .
 *.axxhmyraccib.com CNAME .
-axxxfam.com CNAME .
-*.axxxfam.com CNAME .
 ay.delivery CNAME .
 *.ay.delivery CNAME .
 ay5u9w4jjc.com CNAME .
@@ -17338,8 +17332,6 @@ boomerang.dell.com CNAME .
 *.boomerang.dell.com CNAME .
 boomouso.xyz CNAME .
 *.boomouso.xyz CNAME .
-boomsshhcifdi.com CNAME .
-*.boomsshhcifdi.com CNAME .
 booneeptou.net CNAME .
 *.booneeptou.net CNAME .
 booseed.com CNAME .
@@ -21676,8 +21668,6 @@ clownfish.philipkiely.com CNAME .
 *.clownfish.philipkiely.com CNAME .
 clownfish.wrestlingiq.com CNAME .
 *.clownfish.wrestlingiq.com CNAME .
-clpeachcod.com CNAME .
-*.clpeachcod.com CNAME .
 clrpdhptoddatj49.pro CNAME .
 *.clrpdhptoddatj49.pro CNAME .
 clrstm.com CNAME .
@@ -28656,8 +28646,6 @@ dinecogitateaffections.com CNAME .
 *.dinecogitateaffections.com CNAME .
 dinejav11.fun CNAME .
 *.dinejav11.fun CNAME .
-dinerbreathtaking.com CNAME .
-*.dinerbreathtaking.com CNAME .
 dingbu.bj.bcebos.com CNAME .
 *.dingbu.bj.bcebos.com CNAME .
 dingo.hexocene.com CNAME .
@@ -31682,8 +31670,6 @@ elliptical-mode.pro CNAME .
 *.elliptical-mode.pro CNAME .
 ellipticaltrack.com CNAME .
 *.ellipticaltrack.com CNAME .
-elmalpnzdvjwft.com CNAME .
-*.elmalpnzdvjwft.com CNAME .
 elongatedmiddle.com CNAME .
 *.elongatedmiddle.com CNAME .
 elonreptiloid.com CNAME .
@@ -47792,8 +47778,6 @@ lorswhowishe.com CNAME .
 *.lorswhowishe.com CNAME .
 lorybnfh.com CNAME .
 *.lorybnfh.com CNAME .
-losespiritsdiscord.com CNAME .
-*.losespiritsdiscord.com CNAME .
 losingoldfry.com CNAME .
 *.losingoldfry.com CNAME .
 losingtiger.com CNAME .
@@ -57624,8 +57608,6 @@ piranha.minnmyatsoe.com CNAME .
 *.piranha.minnmyatsoe.com CNAME .
 pirogad.tophosting101.com CNAME .
 *.pirogad.tophosting101.com CNAME .
-pirqjvhnv.com CNAME .
-*.pirqjvhnv.com CNAME .
 pirtecho.net CNAME .
 *.pirtecho.net CNAME .
 pisgahserve.com CNAME .
@@ -57952,8 +57934,6 @@ planetunregisteredrunaway.com CNAME .
 *.planetunregisteredrunaway.com CNAME .
 planflowbaa.live CNAME .
 *.planflowbaa.live CNAME .
-planktab.com CNAME .
-*.planktab.com CNAME .
 plankton-gtm.a.autoscout24.com CNAME .
 *.plankton-gtm.a.autoscout24.com CNAME .
 planmybackup.co CNAME .
@@ -65384,8 +65364,6 @@ sausagegirlieheartburn.com CNAME .
 *.sausagegirlieheartburn.com CNAME .
 sauwaistaugleet.net CNAME .
 *.sauwaistaugleet.net CNAME .
-savableee.com CNAME .
-*.savableee.com CNAME .
 save-apps.monster CNAME .
 *.save-apps.monster CNAME .
 saveu5-normal-lq.zijieapi.com CNAME .
@@ -71330,8 +71308,6 @@ swift.mi-boda.com CNAME .
 *.swift.mi-boda.com CNAME .
 swift.radio12.org CNAME .
 *.swift.radio12.org CNAME .
-swift.unovy.net CNAME .
-*.swift.unovy.net CNAME .
 swift.vanuitjehuis.nl CNAME .
 *.swift.vanuitjehuis.nl CNAME .
 swiftbytes.store CNAME .
@@ -72524,8 +72500,6 @@ tedhoweverbu.org CNAME .
 *.tedhoweverbu.org CNAME .
 tedseekpeak.live CNAME .
 *.tedseekpeak.live CNAME .
-teedipoaduw.net CNAME .
-*.teedipoaduw.net CNAME .
 teefookugoo.top CNAME .
 *.teefookugoo.top CNAME .
 teeglimu.com CNAME .
@@ -81202,8 +81176,6 @@ wretchedbomb.com CNAME .
 *.wretchedbomb.com CNAME .
 wrevenuewasadi.com CNAME .
 *.wrevenuewasadi.com CNAME .
-wringdecorate.com CNAME .
-*.wringdecorate.com CNAME .
 wrinkleirritateoverrated.com CNAME .
 *.wrinkleirritateoverrated.com CNAME .
 wristhunknagging.com CNAME .
