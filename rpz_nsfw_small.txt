@@ -1,16 +1,16 @@
-; Version: 202506021514
+; Version: 202506021615
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43400
-; Last modified: 2025-06-02T15:14:44+0000
+; Entries: 43404
+; Last modified: 2025-06-02T16:15:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748876405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748880007 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -4998,6 +4998,8 @@ blogbugs.org CNAME .
 *.blogbugs.org CNAME .
 blogdefolie.com CNAME .
 *.blogdefolie.com CNAME .
+blogg.org CNAME .
+*.blogg.org CNAME .
 blogger.ba CNAME .
 *.blogger.ba CNAME .
 bloglag.com CNAME .
@@ -34886,6 +34888,8 @@ stripchats.io CNAME .
 *.stripchats.io CNAME .
 striphours.com CNAME .
 *.striphours.com CNAME .
+stripperhunt.com CNAME .
+*.stripperhunt.com CNAME .
 stripprofiles.com CNAME .
 *.stripprofiles.com CNAME .
 stripselector.com CNAME .

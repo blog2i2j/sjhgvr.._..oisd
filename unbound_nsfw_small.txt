@@ -1,9 +1,9 @@
-# Version: 202506021514
+# Version: 202506021615
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21700
-# Last modified: 2025-06-02T15:14:44+0000
+# Entries: 21702
+# Last modified: 2025-06-02T16:15:22+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2503,6 +2503,7 @@ local-zone: "blog.hu." always_null
 local-zone: "blog4ever.com." always_null
 local-zone: "blogbugs.org." always_null
 local-zone: "blogdefolie.com." always_null
+local-zone: "blogg.org." always_null
 local-zone: "blogger.ba." always_null
 local-zone: "bloglag.com." always_null
 local-zone: "blogs.fr." always_null
@@ -17447,6 +17448,7 @@ local-zone: "stripchatgirls.com." always_null
 local-zone: "stripchatlive.com." always_null
 local-zone: "stripchats.io." always_null
 local-zone: "striphours.com." always_null
+local-zone: "stripperhunt.com." always_null
 local-zone: "stripprofiles.com." always_null
 local-zone: "stripselector.com." always_null
 local-zone: "strokies.com." always_null
