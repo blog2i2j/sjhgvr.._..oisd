@@ -1,16 +1,16 @@
-; Version: 202506022216
+; Version: 202506022308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84358
-; Last modified: 2025-06-02T22:16:01+0000
+; Entries: 84344
+; Last modified: 2025-06-02T23:08:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748901609 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748905208 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18918,8 +18918,6 @@ camadmin.ru CNAME .
 *.camadmin.ru CNAME .
 camberchimp.com CNAME .
 *.camberchimp.com CNAME .
-cambridgeinadmissibleapathetic.com CNAME .
-*.cambridgeinadmissibleapathetic.com CNAME .
 cameesse.net CNAME .
 *.cameesse.net CNAME .
 camel.gastro-plan.app CNAME .
@@ -41028,8 +41026,6 @@ ibrapush.com CNAME .
 *.ibrapush.com CNAME .
 ibryte.com CNAME .
 *.ibryte.com CNAME .
-ibutheptesitrew.com CNAME .
-*.ibutheptesitrew.com CNAME .
 ibvfzddfxqwqg.love CNAME .
 *.ibvfzddfxqwqg.love CNAME .
 ic7.co CNAME .
@@ -41668,8 +41664,6 @@ imposterreproductionforeman.com CNAME .
 *.imposterreproductionforeman.com CNAME .
 impostersierraglands.com CNAME .
 *.impostersierraglands.com CNAME .
-impostororchestraherbal.com CNAME .
-*.impostororchestraherbal.com CNAME .
 impracticalsmell.com CNAME .
 *.impracticalsmell.com CNAME .
 imprdom.com CNAME .
@@ -42590,8 +42584,6 @@ ironmenfoetus.click CNAME .
 *.ironmenfoetus.click CNAME .
 irousbisayan.com CNAME .
 *.irousbisayan.com CNAME .
-irqkfyeoyiac.com CNAME .
-*.irqkfyeoyiac.com CNAME .
 irqs.ioam.de CNAME .
 *.irqs.ioam.de CNAME .
 irradiateher.com CNAME .
@@ -51596,8 +51588,6 @@ mybetterck.com CNAME .
 *.mybetterck.com CNAME .
 mybetterdatings.com CNAME .
 *.mybetterdatings.com CNAME .
-mybetterdl.com CNAME .
-*.mybetterdl.com CNAME .
 mybloglog.com CNAME .
 *.mybloglog.com CNAME .
 mybmrtrg.com CNAME .
@@ -54408,8 +54398,6 @@ okakyamoguvampom.com CNAME .
 *.okakyamoguvampom.com CNAME .
 okbp.xyz CNAME .
 *.okbp.xyz CNAME .
-okdbqipaqhp.com CNAME .
-*.okdbqipaqhp.com CNAME .
 okdecideddubious.com CNAME .
 *.okdecideddubious.com CNAME .
 okdigital.me CNAME .
@@ -62524,8 +62512,6 @@ reports.tunein.com CNAME .
 *.reports.tunein.com CNAME .
 reportwest-midas.codmwest.com CNAME .
 *.reportwest-midas.codmwest.com CNAME .
-reprenebritical.org CNAME .
-*.reprenebritical.org CNAME .
 representhostilemedia.com CNAME .
 *.representhostilemedia.com CNAME .
 reprimandheel.com CNAME .
