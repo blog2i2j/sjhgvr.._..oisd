@@ -1,16 +1,16 @@
-; Version: 202506021014
+; Version: 202506021114
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43386
-; Last modified: 2025-06-02T10:14:41+0000
+; Entries: 43394
+; Last modified: 2025-06-02T11:14:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748858405 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748862004 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5882,6 +5882,8 @@ cafecoquin.com CNAME .
 *.cafecoquin.com CNAME .
 cafedesire.com CNAME .
 *.cafedesire.com CNAME .
+caffmoscommunity.com CNAME .
+*.caffmoscommunity.com CNAME .
 cairnsadult.com.au CNAME .
 *.cairnsadult.com.au CNAME .
 caitlin.top CNAME .
@@ -7304,6 +7306,8 @@ colliderporn.com CNAME .
 *.colliderporn.com CNAME .
 colsex.com CNAME .
 *.colsex.com CNAME .
+com.mp CNAME .
+*.com.mp CNAME .
 comcontent.net CNAME .
 *.comcontent.net CNAME .
 comewithdaddy.com CNAME .
@@ -30796,6 +30800,8 @@ rmshqa.com CNAME .
 *.rmshqa.com CNAME .
 rmzsglng.com CNAME .
 *.rmzsglng.com CNAME .
+rnk.bio CNAME .
+*.rnk.bio CNAME .
 rnopo.com CNAME .
 *.rnopo.com CNAME .
 ro89.co CNAME .
@@ -36000,6 +36006,8 @@ thefappening.so CNAME .
 *.thefappening.so CNAME .
 thefappening.wiki CNAME .
 *.thefappening.wiki CNAME .
+thefappening2.com CNAME .
+*.thefappening2.com CNAME .
 thefappening2015.com CNAME .
 *.thefappening2015.com CNAME .
 thefappeningblog.com CNAME .
