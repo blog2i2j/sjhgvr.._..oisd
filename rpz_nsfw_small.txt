@@ -1,16 +1,16 @@
-; Version: 202506012312
+; Version: 202506020013
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43372
-; Last modified: 2025-06-01T23:12:53+0000
+; Entries: 43374
+; Last modified: 2025-06-02T00:13:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748818806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748822406 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -188,6 +188,8 @@ $TTL 30
 *.18moviesonline.org CNAME .
 18porn.biz CNAME .
 *.18porn.biz CNAME .
+18porn.cc CNAME .
+*.18porn.cc CNAME .
 18porn.in CNAME .
 *.18porn.in CNAME .
 18porn.sex CNAME .
@@ -25466,6 +25468,8 @@ packsxxx.net CNAME .
 *.packsxxx.net CNAME .
 pagalworld.asia CNAME .
 *.pagalworld.asia CNAME .
+pages03.net CNAME .
+*.pages03.net CNAME .
 pagina.nl CNAME .
 *.pagina.nl CNAME .
 paginelucirosse.it CNAME .
@@ -25986,8 +25990,6 @@ phimsexhentai.vip CNAME .
 *.phimsexhentai.vip CNAME .
 phimsexhiepdam.lol CNAME .
 *.phimsexhiepdam.lol CNAME .
-phimsexhot.bet CNAME .
-*.phimsexhot.bet CNAME .
 phimsexkhung.net CNAME .
 *.phimsexkhung.net CNAME .
 phimsexkoche.fun CNAME .
