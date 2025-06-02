@@ -1,16 +1,16 @@
-; Version: 202506020813
+; Version: 202506020908
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84390
-; Last modified: 2025-06-02T08:13:19+0000
+; Entries: 84378
+; Last modified: 2025-06-02T09:08:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748851203 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748854806 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15920,8 +15920,6 @@ believeisabella.com CNAME .
 *.believeisabella.com CNAME .
 believemefly.com CNAME .
 *.believemefly.com CNAME .
-believersymphonyaunt.com CNAME .
-*.believersymphonyaunt.com CNAME .
 believessway.com CNAME .
 *.believessway.com CNAME .
 belikewe.com CNAME .
@@ -27002,8 +27000,6 @@ dah0wv79ikn14.cloudfront.net CNAME .
 *.dah0wv79ikn14.cloudfront.net CNAME .
 dahkexes.com CNAME .
 *.dahkexes.com CNAME .
-daichoho.com CNAME .
-*.daichoho.com CNAME .
 daicoaky.net CNAME .
 *.daicoaky.net CNAME .
 daihoozaiweptoo.com CNAME .
@@ -44140,8 +44136,6 @@ kaiu-marketing.com CNAME .
 *.kaiu-marketing.com CNAME .
 kaiwiscarps.shop CNAME .
 *.kaiwiscarps.shop CNAME .
-kaksafoopee.com CNAME .
-*.kaksafoopee.com CNAME .
 kalauxet.com CNAME .
 *.kalauxet.com CNAME .
 kaleidoscopefingernaildigging.com CNAME .
@@ -62958,8 +62952,6 @@ rhrwzngtmubvk.com CNAME .
 *.rhrwzngtmubvk.com CNAME .
 rhsy174op.com CNAME .
 *.rhsy174op.com CNAME .
-rhtpbupf.com CNAME .
-*.rhtpbupf.com CNAME .
 rhudsplm.com CNAME .
 *.rhudsplm.com CNAME .
 rhvdsplm.com CNAME .
@@ -67484,8 +67476,6 @@ sleepydrunk.pro CNAME .
 *.sleepydrunk.pro CNAME .
 sleepyrowan.com CNAME .
 *.sleepyrowan.com CNAME .
-sleptbereave.com CNAME .
-*.sleptbereave.com CNAME .
 sleptfearseal.com CNAME .
 *.sleptfearseal.com CNAME .
 slfsmf.com CNAME .
@@ -83250,8 +83240,6 @@ yieldx.com CNAME .
 *.yieldx.com CNAME .
 yiloaguwoauyd.site CNAME .
 *.yiloaguwoauyd.site CNAME .
-yimc.cn CNAME .
-*.yimc.cn CNAME .
 yimemediatesup.com CNAME .
 *.yimemediatesup.com CNAME .
 yin1.zgpingshu.com CNAME .
