@@ -1,16 +1,16 @@
-; Version: 202506020007
+; Version: 202506020107
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84416
-; Last modified: 2025-06-02T00:07:58+0000
+; Entries: 84408
+; Last modified: 2025-06-02T01:07:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748822406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748826005 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14238,8 +14238,6 @@ awkbkkqmeeoaj.top CNAME .
 *.awkbkkqmeeoaj.top CNAME .
 awkwardemergency.com CNAME .
 *.awkwardemergency.com CNAME .
-awkwardsuperstition.com CNAME .
-*.awkwardsuperstition.com CNAME .
 awlaxvnpyf.com CNAME .
 *.awlaxvnpyf.com CNAME .
 awldcupu.com CNAME .
@@ -27032,8 +27030,6 @@ dairouzy.net CNAME .
 *.dairouzy.net CNAME .
 dairyworkjourney.com CNAME .
 *.dairyworkjourney.com CNAME .
-daivxppvng.com CNAME .
-*.daivxppvng.com CNAME .
 daizoode.com CNAME .
 *.daizoode.com CNAME .
 dajiahao10.top CNAME .
@@ -62804,8 +62800,6 @@ revelationneighbourly.com CNAME .
 *.revelationneighbourly.com CNAME .
 revelationschemes.com CNAME .
 *.revelationschemes.com CNAME .
-revengeremarksrank.com CNAME .
-*.revengeremarksrank.com CNAME .
 revengine-tracker.remp.dailymaverick.co.za CNAME .
 *.revengine-tracker.remp.dailymaverick.co.za CNAME .
 revenue.com CNAME .
@@ -63426,8 +63420,6 @@ rooksreused.website CNAME .
 *.rooksreused.website CNAME .
 rookstashrif.shop CNAME .
 *.rookstashrif.shop CNAME .
-roolegoos.top CNAME .
-*.roolegoos.top CNAME .
 roomersgluts.com CNAME .
 *.roomersgluts.com CNAME .
 roommateskinner.com CNAME .
