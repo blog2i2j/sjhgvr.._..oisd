@@ -1,16 +1,16 @@
-; Version: 202506020913
+; Version: 202506021014
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43380
-; Last modified: 2025-06-02T09:13:35+0000
+; Entries: 43386
+; Last modified: 2025-06-02T10:14:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748854806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748858405 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -24492,6 +24492,8 @@ nudejet.com CNAME .
 *.nudejet.com CNAME .
 nudelas.com CNAME .
 *.nudelas.com CNAME .
+nudeleaks.tv CNAME .
+*.nudeleaks.tv CNAME .
 nudeleaksteens.com CNAME .
 *.nudeleaksteens.com CNAME .
 nudeleted.com CNAME .
@@ -36510,6 +36512,8 @@ tnaflixchat.com CNAME .
 *.tnaflixchat.com CNAME .
 tnt-porno.ru CNAME .
 *.tnt-porno.ru CNAME .
+to-ti.in CNAME .
+*.to-ti.in CNAME .
 tochterporn.com CNAME .
 *.tochterporn.com CNAME .
 todorelatos.com CNAME .
@@ -38278,6 +38282,8 @@ vezon.club CNAME .
 *.vezon.club CNAME .
 vfreecams.com CNAME .
 *.vfreecams.com CNAME .
+vh1.com CNAME .
+*.vh1.com CNAME .
 vi-hentai.com CNAME .
 *.vi-hentai.com CNAME .
 vibemate.com CNAME .
