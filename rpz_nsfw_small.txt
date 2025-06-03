@@ -1,16 +1,16 @@
-; Version: 202506030013
+; Version: 202506030214
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43420
-; Last modified: 2025-06-03T00:13:32+0000
+; Entries: 43424
+; Last modified: 2025-06-03T02:14:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748908810 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748916008 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -8860,6 +8860,8 @@ dojinxxx.com CNAME .
 *.dojinxxx.com CNAME .
 dojki.biz CNAME .
 *.dojki.biz CNAME .
+dojki.lol CNAME .
+*.dojki.lol CNAME .
 dojki.xxx CNAME .
 *.dojki.xxx CNAME .
 dojkihd.com CNAME .
@@ -23870,6 +23872,8 @@ net3x.org CNAME .
 *.net3x.org CNAME .
 netcraze.link CNAME .
 *.netcraze.link CNAME .
+netcraze.pro CNAME .
+*.netcraze.pro CNAME .
 netfapx.com CNAME .
 *.netfapx.com CNAME .
 netfapx.net CNAME .
