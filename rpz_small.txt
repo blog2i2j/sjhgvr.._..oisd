@@ -1,16 +1,16 @@
-; Version: 202506030008
+; Version: 202506030108
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84328
-; Last modified: 2025-06-03T00:08:20+0000
+; Entries: 84306
+; Last modified: 2025-06-03T01:08:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748908810 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748912406 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2138,8 +2138,6 @@ $TTL 30
 *.578d72001a.com CNAME .
 579eede9ca.com CNAME .
 *.579eede9ca.com CNAME .
-58081163e7.com CNAME .
-*.58081163e7.com CNAME .
 58686728.xyz CNAME .
 *.58686728.xyz CNAME .
 586ee111d1.com CNAME .
@@ -13504,8 +13502,6 @@ assuagefaithfullydesist.com CNAME .
 *.assuagefaithfullydesist.com CNAME .
 assumeditch.com CNAME .
 *.assumeditch.com CNAME .
-assumeflippers.com CNAME .
-*.assumeflippers.com CNAME .
 assumptivepoking.com CNAME .
 *.assumptivepoking.com CNAME .
 assuranceapprobationblackbird.com CNAME .
@@ -17168,8 +17164,6 @@ bodgertyphous.top CNAME .
 *.bodgertyphous.top CNAME .
 bodieshomicidal.com CNAME .
 *.bodieshomicidal.com CNAME .
-bodilypotatoesappear.com CNAME .
-*.bodilypotatoesappear.com CNAME .
 bodilysubtractoversight.com CNAME .
 *.bodilysubtractoversight.com CNAME .
 bodilywondering.com CNAME .
@@ -23178,8 +23172,6 @@ counter.packa2.cz CNAME .
 *.counter.packa2.cz CNAME .
 counter.photopulse.ru CNAME .
 *.counter.photopulse.ru CNAME .
-counter.pixplug.in CNAME .
-*.counter.pixplug.in CNAME .
 counter.powr.io CNAME .
 *.counter.powr.io CNAME .
 counter.powweb.com CNAME .
@@ -29490,8 +29482,6 @@ domenictests.top CNAME .
 *.domenictests.top CNAME .
 domesticannihilate.com CNAME .
 *.domesticannihilate.com CNAME .
-domesticsomebody.com CNAME .
-*.domesticsomebody.com CNAME .
 domewtwotor.com CNAME .
 *.domewtwotor.com CNAME .
 domexxxcolnsn.life CNAME .
@@ -46484,8 +46474,6 @@ live.rezync.com CNAME .
 *.live.rezync.com CNAME .
 live.sportsvot.com CNAME .
 *.live.sportsvot.com CNAME .
-live.vnpgroup.net CNAME .
-*.live.vnpgroup.net CNAME .
 live.vot.media CNAME .
 *.live.vot.media CNAME .
 live.xcamshd.live CNAME .
@@ -50690,8 +50678,6 @@ molttenglobins.casa CNAME .
 *.molttenglobins.casa CNAME .
 molypsigry.pro CNAME .
 *.molypsigry.pro CNAME .
-momclumsycamouflage.com CNAME .
-*.momclumsycamouflage.com CNAME .
 momdurationallowance.com CNAME .
 *.momdurationallowance.com CNAME .
 momentjav182.fun CNAME .
@@ -55746,8 +55732,6 @@ ovrhufsadsca.com CNAME .
 *.ovrhufsadsca.com CNAME .
 ovtflklfxbrgo.today CNAME .
 *.ovtflklfxbrgo.today CNAME .
-ovtpyhdfy.com CNAME .
-*.ovtpyhdfy.com CNAME .
 ovtvfydcyor.com CNAME .
 *.ovtvfydcyor.com CNAME .
 ovtwiparr.com CNAME .
@@ -55780,8 +55764,6 @@ owhmahkpeluw.com CNAME .
 *.owhmahkpeluw.com CNAME .
 owhrferi.com CNAME .
 *.owhrferi.com CNAME .
-owithlerendu.com CNAME .
-*.owithlerendu.com CNAME .
 owl.gregwolanski.com CNAME .
 *.owl.gregwolanski.com CNAME .
 owl.gymme.nl CNAME .
@@ -56128,8 +56110,6 @@ pageviews.tray.com.br CNAME .
 *.pageviews.tray.com.br CNAME .
 paginaewakens.shop CNAME .
 *.paginaewakens.shop CNAME .
-paginaltreitre.shop CNAME .
-*.paginaltreitre.shop CNAME .
 paht.tech CNAME .
 *.paht.tech CNAME .
 pahtef.tech CNAME .
@@ -77050,8 +77030,6 @@ undoneferocious.com CNAME .
 *.undoneferocious.com CNAME .
 undrawsremet.com CNAME .
 *.undrawsremet.com CNAME .
-undressregionaladdiction.com CNAME .
-*.undressregionaladdiction.com CNAME .
 unelekidan.com CNAME .
 *.unelekidan.com CNAME .
 unequaledchair.com CNAME .
