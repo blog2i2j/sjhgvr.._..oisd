@@ -1,16 +1,16 @@
-; Version: 202506031615
+; Version: 202506031729
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43454
-; Last modified: 2025-06-03T16:15:48+0000
+; Entries: 43452
+; Last modified: 2025-06-03T17:29:09+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748966410 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748971727 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -13386,8 +13386,6 @@ gcbt.net CNAME .
 *.gcbt.net CNAME .
 gedecomix.com CNAME .
 *.gedecomix.com CNAME .
-geef.nl CNAME .
-*.geef.nl CNAME .
 geile-sexverhalen.be CNAME .
 *.geile-sexverhalen.be CNAME .
 geilefrage.com CNAME .
