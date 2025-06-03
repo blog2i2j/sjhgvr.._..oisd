@@ -1,16 +1,16 @@
-; Version: 202506030508
+; Version: 202506030608
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84264
-; Last modified: 2025-06-03T05:08:30+0000
+; Entries: 84242
+; Last modified: 2025-06-03T06:08:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748926806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748930405 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -698,8 +698,6 @@ $TTL 30
 *.1b384556ae.com CNAME .
 1b3tmfcbq.de CNAME .
 *.1b3tmfcbq.de CNAME .
-1b9cvfi0nwxqelxu.pro CNAME .
-*.1b9cvfi0nwxqelxu.pro CNAME .
 1be953d1cc.com CNAME .
 *.1be953d1cc.com CNAME .
 1bet.com CNAME .
@@ -4234,8 +4232,6 @@ abnegationsemicirclereproduce.com CNAME .
 *.abnegationsemicirclereproduce.com CNAME .
 abniorant.com CNAME .
 *.abniorant.com CNAME .
-abnormalgently.com CNAME .
-*.abnormalgently.com CNAME .
 abnormalmansfield.com CNAME .
 *.abnormalmansfield.com CNAME .
 abnormalrebel.com CNAME .
@@ -8752,8 +8748,6 @@ afcontent.net CNAME .
 *.afcontent.net CNAME .
 afd.baidu.com CNAME .
 *.afd.baidu.com CNAME .
-afearprevoid.com CNAME .
-*.afearprevoid.com CNAME .
 afernanimbarge.top CNAME .
 *.afernanimbarge.top CNAME .
 aff-jp.dxlive.com CNAME .
@@ -13444,8 +13438,6 @@ assembleservers.com CNAME .
 *.assembleservers.com CNAME .
 assertedclosureseaman.com CNAME .
 *.assertedclosureseaman.com CNAME .
-assertedelevateratio.com CNAME .
-*.assertedelevateratio.com CNAME .
 assertnourishingconnection.com CNAME .
 *.assertnourishingconnection.com CNAME .
 assessoriagmv.com CNAME .
@@ -29430,8 +29422,6 @@ dolatiaschan.com CNAME .
 *.dolatiaschan.com CNAME .
 dolatiosom.com CNAME .
 *.dolatiosom.com CNAME .
-dolcinopararek.com CNAME .
-*.dolcinopararek.com CNAME .
 dolehum.com CNAME .
 *.dolehum.com CNAME .
 dolekaraokeoversleep.com CNAME .
@@ -29700,8 +29690,6 @@ doucheraisiny.com CNAME .
 *.doucheraisiny.com CNAME .
 dougale.com CNAME .
 *.dougale.com CNAME .
-doupionsolions.com CNAME .
-*.doupionsolions.com CNAME .
 douploadfiles.click CNAME .
 *.douploadfiles.click CNAME .
 douthosh.net CNAME .
@@ -30426,8 +30414,6 @@ dvulz.org CNAME .
 *.dvulz.org CNAME .
 dvv009j588zal.cloudfront.net CNAME .
 *.dvv009j588zal.cloudfront.net CNAME .
-dvvemmg.com CNAME .
-*.dvvemmg.com CNAME .
 dvwedvktkcsvw.vip CNAME .
 *.dvwedvktkcsvw.vip CNAME .
 dvwowtnmyluv4.cloudfront.net CNAME .
@@ -48548,8 +48534,6 @@ mailderef.mail.com CNAME .
 *.mailderef.mail.com CNAME .
 mailmunch.s3.amazonaws.com CNAME .
 *.mailmunch.s3.amazonaws.com CNAME .
-mailwithcash.com CNAME .
-*.mailwithcash.com CNAME .
 maimcatssystems.com CNAME .
 *.maimcatssystems.com CNAME .
 main-ti-cod.com CNAME .
@@ -60392,8 +60376,6 @@ pxtjfmv.xyz CNAME .
 *.pxtjfmv.xyz CNAME .
 pxvbnt.top CNAME .
 *.pxvbnt.top CNAME .
-pxvjgcsbmpjywh.xyz CNAME .
-*.pxvjgcsbmpjywh.xyz CNAME .
 pxwqvvumecpsd.world CNAME .
 *.pxwqvvumecpsd.world CNAME .
 pycnictouchup.click CNAME .
@@ -73104,8 +73086,6 @@ tictastesnlynot.com CNAME .
 *.tictastesnlynot.com CNAME .
 tictastesnlynotquit.org CNAME .
 *.tictastesnlynotquit.org CNAME .
-tictkfbrieho.com CNAME .
-*.tictkfbrieho.com CNAME .
 tidaltv.com CNAME .
 *.tidaltv.com CNAME .
 tideairtight.com CNAME .
@@ -76186,8 +76166,6 @@ tuyexdwuboyuw.top CNAME .
 *.tuyexdwuboyuw.top CNAME .
 tvapp.hpplay.cn CNAME .
 *.tvapp.hpplay.cn CNAME .
-tvce.cn CNAME .
-*.tvce.cn CNAME .
 tver-metrics.streaks.jp CNAME .
 *.tver-metrics.streaks.jp CNAME .
 tvfeel.cc CNAME .
