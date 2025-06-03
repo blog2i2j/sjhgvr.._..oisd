@@ -1,16 +1,16 @@
-; Version: 202506030717
+; Version: 202506030903
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84172
-; Last modified: 2025-06-03T07:17:24+0000
+; Entries: 84162
+; Last modified: 2025-06-03T09:03:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748934004 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748937604 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -62728,8 +62728,6 @@ rfity.com CNAME .
 *.rfity.com CNAME .
 rgavvimsecmbo.life CNAME .
 *.rgavvimsecmbo.life CNAME .
-rgddist.com CNAME .
-*.rgddist.com CNAME .
 rghptoxhai.com CNAME .
 *.rghptoxhai.com CNAME .
 rgrd.xyz CNAME .
@@ -70532,8 +70530,6 @@ stripe.rs-1028-a.com CNAME .
 *.stripe.rs-1028-a.com CNAME .
 stripfitting.com CNAME .
 *.stripfitting.com CNAME .
-stripherselfscuba.com CNAME .
-*.stripherselfscuba.com CNAME .
 strollfondnesssurround.com CNAME .
 *.strollfondnesssurround.com CNAME .
 strongesthissblackout.com CNAME .
@@ -75216,8 +75212,6 @@ trafficfactory.biz CNAME .
 *.trafficfactory.biz CNAME .
 trafficfuelpixel.s3-us-west-2.amazonaws.com CNAME .
 *.trafficfuelpixel.s3-us-west-2.amazonaws.com CNAME .
-trafficglobe.com CNAME .
-*.trafficglobe.com CNAME .
 trafficholder.com CNAME .
 *.trafficholder.com CNAME .
 traffichunt.com CNAME .
@@ -77078,8 +77072,6 @@ unsnowenvelop.shop CNAME .
 *.unsnowenvelop.shop CNAME .
 unsoggysipping.shop CNAME .
 *.unsoggysipping.shop CNAME .
-unspeakablefreezing.com CNAME .
-*.unspeakablefreezing.com CNAME .
 unspeakablepurebeings.com CNAME .
 *.unspeakablepurebeings.com CNAME .
 unspeakableruin.com CNAME .
@@ -77254,8 +77246,6 @@ upperseeker.com CNAME .
 *.upperseeker.com CNAME .
 uppsyduckan.com CNAME .
 *.uppsyduckan.com CNAME .
-uprightanalysisphotographing.com CNAME .
-*.uprightanalysisphotographing.com CNAME .
 uprimp.com CNAME .
 *.uprimp.com CNAME .
 uprivaladserver.net CNAME .
