@@ -1,16 +1,16 @@
-; Version: 202506031009
+; Version: 202506031110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84150
-; Last modified: 2025-06-03T10:09:19+0000
+; Entries: 84136
+; Last modified: 2025-06-03T11:10:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748944808 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748948407 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15250,8 +15250,6 @@ barelydonkeysteed.com CNAME .
 *.barelydonkeysteed.com CNAME .
 barelytwinkledelegate.com CNAME .
 *.barelytwinkledelegate.com CNAME .
-bargainintake.com CNAME .
-*.bargainintake.com CNAME .
 bargedale.com CNAME .
 *.bargedale.com CNAME .
 barium.cheezdev.com CNAME .
@@ -36584,8 +36582,6 @@ getsurv2you.com CNAME .
 *.getsurv2you.com CNAME .
 getsurv2youu.com CNAME .
 *.getsurv2youu.com CNAME .
-getsurv4you.org CNAME .
-*.getsurv4you.org CNAME .
 gettingtoe.com CNAME .
 *.gettingtoe.com CNAME .
 gettraffnews.com CNAME .
@@ -63032,8 +63028,6 @@ rndhydreigonan.com CNAME .
 *.rndhydreigonan.com CNAME .
 rndskittytor.com CNAME .
 *.rndskittytor.com CNAME .
-rndtotodiler.com CNAME .
-*.rndtotodiler.com CNAME .
 rnldustal.com CNAME .
 *.rnldustal.com CNAME .
 rnodydenknowl.org CNAME .
@@ -70124,8 +70118,6 @@ staumersleep.com CNAME .
 *.staumersleep.com CNAME .
 staupsoaksy.net CNAME .
 *.staupsoaksy.net CNAME .
-staureez.net CNAME .
-*.staureez.net CNAME .
 stawhoph.com CNAME .
 *.stawhoph.com CNAME .
 stayedfrozenproduced.com CNAME .
@@ -76082,8 +76074,6 @@ tver-metrics.streaks.jp CNAME .
 *.tver-metrics.streaks.jp CNAME .
 tvfeel.cc CNAME .
 *.tvfeel.cc CNAME .
-tvkgqqoj.com CNAME .
-*.tvkgqqoj.com CNAME .
 tvoiioftvfzzc.buzz CNAME .
 *.tvoiioftvfzzc.buzz CNAME .
 tvpixel.com CNAME .
@@ -77604,8 +77594,6 @@ uzbiajlzdylja.icu CNAME .
 *.uzbiajlzdylja.icu CNAME .
 uzdhsjuhrw.com CNAME .
 *.uzdhsjuhrw.com CNAME .
-uzfcfxphvqyk.com CNAME .
-*.uzfcfxphvqyk.com CNAME .
 uziisk.icu CNAME .
 *.uziisk.icu CNAME .
 uzoucmossocha.com CNAME .
@@ -78714,8 +78702,6 @@ voguelift.biz CNAME .
 *.voguelift.biz CNAME .
 vogulprecast.com CNAME .
 *.vogulprecast.com CNAME .
-vohainoaho.net CNAME .
-*.vohainoaho.net CNAME .
 voicebeddingtaint.com CNAME .
 *.voicebeddingtaint.com CNAME .
 voicedstart.com CNAME .
