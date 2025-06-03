@@ -1,16 +1,16 @@
-; Version: 202506030209
+; Version: 202506030308
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84300
-; Last modified: 2025-06-03T02:09:02+0000
+; Entries: 84292
+; Last modified: 2025-06-03T03:08:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748916008 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748919608 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1670,8 +1670,6 @@ $TTL 30
 *.3lift.com CNAME .
 3lr67y45.com CNAME .
 *.3lr67y45.com CNAME .
-3lucosy.com CNAME .
-*.3lucosy.com CNAME .
 3myad.com CNAME .
 *.3myad.com CNAME .
 3ng6p6m0.de CNAME .
@@ -15482,8 +15480,6 @@ bbd834il.de CNAME .
 *.bbd834il.de CNAME .
 bbelements.com CNAME .
 *.bbelements.com CNAME .
-bbjfobnwtbsok.com CNAME .
-*.bbjfobnwtbsok.com CNAME .
 bbjzly.top CNAME .
 *.bbjzly.top CNAME .
 bbkwxjbvj.com CNAME .
@@ -42528,8 +42524,6 @@ iqtest365.online CNAME .
 *.iqtest365.online CNAME .
 iramb.site CNAME .
 *.iramb.site CNAME .
-irbvstqvt.com CNAME .
-*.irbvstqvt.com CNAME .
 irc.qubiankeji.com CNAME .
 *.irc.qubiankeji.com CNAME .
 iredindeedeisasb.com CNAME .
@@ -53338,8 +53332,6 @@ ntoucbwriboqc.site CNAME .
 *.ntoucbwriboqc.site CNAME .
 ntowritingneewebfu.com CNAME .
 *.ntowritingneewebfu.com CNAME .
-ntpnfyga.icu CNAME .
-*.ntpnfyga.icu CNAME .
 ntracker-collector.naver.com CNAME .
 *.ntracker-collector.naver.com CNAME .
 ntreeom.com CNAME .
