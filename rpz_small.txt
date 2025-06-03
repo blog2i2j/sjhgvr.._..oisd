@@ -1,16 +1,16 @@
-; Version: 202506031711
+; Version: 202506031831
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84026
-; Last modified: 2025-06-03T17:11:00+0000
+; Entries: 84024
+; Last modified: 2025-06-03T18:31:55+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748970007 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748974931 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -52736,8 +52736,6 @@ nobodylightenacquaintance.com CNAME .
 *.nobodylightenacquaintance.com CNAME .
 noconversationh.com CNAME .
 *.noconversationh.com CNAME .
-nocturnal-employer.pro CNAME .
-*.nocturnal-employer.pro CNAME .
 node.aibeacon.jp CNAME .
 *.node.aibeacon.jp CNAME .
 nodeclaim.com CNAME .
