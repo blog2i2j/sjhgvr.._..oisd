@@ -1,16 +1,16 @@
-; Version: 202506030214
+; Version: 202506030313
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43424
-; Last modified: 2025-06-03T02:14:35+0000
+; Entries: 43428
+; Last modified: 2025-06-03T03:13:43+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748916008 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748919608 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -15962,6 +15962,8 @@ horsezoofiliatube.space CNAME .
 *.horsezoofiliatube.space CNAME .
 host4fap.com CNAME .
 *.host4fap.com CNAME .
+hoster-test.ru CNAME .
+*.hoster-test.ru CNAME .
 hostfree.pw CNAME .
 *.hostfree.pw CNAME .
 hosting4iran.com CNAME .
@@ -19648,6 +19650,8 @@ kurvi.net CNAME .
 *.kurvi.net CNAME .
 kusadasiescortbayanlar.com CNAME .
 *.kusadasiescortbayanlar.com CNAME .
+kusadasiescortu.com CNAME .
+*.kusadasiescortu.com CNAME .
 kusowanka.com CNAME .
 *.kusowanka.com CNAME .
 kussladies.de CNAME .
