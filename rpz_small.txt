@@ -1,16 +1,16 @@
-; Version: 202506030903
+; Version: 202506031009
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84162
-; Last modified: 2025-06-03T09:03:45+0000
+; Entries: 84150
+; Last modified: 2025-06-03T10:09:19+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748937604 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748944808 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -20356,8 +20356,6 @@ checkoutfree.com CNAME .
 *.checkoutfree.com CNAME .
 checkstat.nl CNAME .
 *.checkstat.nl CNAME .
-checkup02.biz CNAME .
-*.checkup02.biz CNAME .
 cheddarscuddle.click CNAME .
 *.cheddarscuddle.click CNAME .
 cheebetoops.com CNAME .
@@ -53432,8 +53430,6 @@ nwwbyxlnpgaxi.today CNAME .
 *.nwwbyxlnpgaxi.today CNAME .
 nwwrtbbit.com CNAME .
 *.nwwrtbbit.com CNAME .
-nwwsblwqcjmbn.com CNAME .
-*.nwwsblwqcjmbn.com CNAME .
 nx7.hdxxxclips.com CNAME .
 *.nx7.hdxxxclips.com CNAME .
 nxdefd.icu CNAME .
@@ -57328,8 +57324,6 @@ pilchnepal.shop CNAME .
 *.pilchnepal.shop CNAME .
 pileaaboded.shop CNAME .
 *.pileaaboded.shop CNAME .
-piledchinpitiful.com CNAME .
-*.piledchinpitiful.com CNAME .
 pilespaua.com CNAME .
 *.pilespaua.com CNAME .
 pilgrimarduouscorruption.com CNAME .
@@ -59546,8 +59540,6 @@ psstt.com CNAME .
 *.psstt.com CNAME .
 pssy.xyz CNAME .
 *.pssy.xyz CNAME .
-pssyvyvyvfmfm.com CNAME .
-*.pssyvyvyvfmfm.com CNAME .
 psuftoum.com CNAME .
 *.psuftoum.com CNAME .
 psultetsooroaki.com CNAME .
@@ -72568,8 +72560,6 @@ tfb7jc.de CNAME .
 *.tfb7jc.de CNAME .
 tffkroute.com CNAME .
 *.tffkroute.com CNAME .
-tfio.cn CNAME .
-*.tfio.cn CNAME .
 tfkyucxml.com CNAME .
 *.tfkyucxml.com CNAME .
 tfla.xyz CNAME .
@@ -76432,8 +76422,6 @@ ubesykrmo.xyz CNAME .
 *.ubesykrmo.xyz CNAME .
 ubilinkbin.com CNAME .
 *.ubilinkbin.com CNAME .
-ublmkftdnu.com CNAME .
-*.ublmkftdnu.com CNAME .
 ubm.docu.info CNAME .
 *.ubm.docu.info CNAME .
 ubmcmm.baidustatic.com CNAME .
