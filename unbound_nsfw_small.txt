@@ -1,9 +1,9 @@
-# Version: 202506031416
+# Version: 202506031515
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21725
-# Last modified: 2025-06-03T14:16:23+0000
+# Entries: 21726
+# Last modified: 2025-06-03T15:15:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -138,6 +138,7 @@ local-zone: "1classtube.com." always_null
 local-zone: "1escorts.net." always_null
 local-zone: "1hanime.com." always_null
 local-zone: "1hentai.org." always_null
+local-zone: "1ka.com." always_null
 local-zone: "1passforallsites.com." always_null
 local-zone: "1plus1tv.com." always_null
 local-zone: "1plus1tv.ru." always_null
