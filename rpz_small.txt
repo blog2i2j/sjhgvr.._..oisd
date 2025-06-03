@@ -1,16 +1,16 @@
-; Version: 202506031609
+; Version: 202506031711
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84044
-; Last modified: 2025-06-03T16:09:25+0000
+; Entries: 84026
+; Last modified: 2025-06-03T17:11:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748966410 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1748970007 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7268,8 +7268,6 @@ ads.scifi.com CNAME .
 *.ads.scifi.com CNAME .
 ads.scored.co CNAME .
 *.ads.scored.co CNAME .
-ads.seniorfriendfinder.com CNAME .
-*.ads.seniorfriendfinder.com CNAME .
 ads.seovietnam.pro CNAME .
 *.ads.seovietnam.pro CNAME .
 ads.service.kugou.com CNAME .
@@ -34360,8 +34358,6 @@ finafnhara.com CNAME .
 *.finafnhara.com CNAME .
 finalice.net CNAME .
 *.finalice.net CNAME .
-financcesurv.com CNAME .
-*.financcesurv.com CNAME .
 finance-hot-news.com CNAME .
 *.finance-hot-news.com CNAME .
 financial-agent.headlines.pw CNAME .
@@ -48112,8 +48108,6 @@ lzolanahk.com CNAME .
 *.lzolanahk.com CNAME .
 lzoorgpta.com CNAME .
 *.lzoorgpta.com CNAME .
-lztjczymishqn.com CNAME .
-*.lztjczymishqn.com CNAME .
 lzukrobrykk.com CNAME .
 *.lzukrobrykk.com CNAME .
 lzxdx24yib.com CNAME .
@@ -56164,8 +56158,6 @@ paraveronline.com CNAME .
 *.paraveronline.com CNAME .
 parchicky.com CNAME .
 *.parchicky.com CNAME .
-pardaotopazes.shop CNAME .
-*.pardaotopazes.shop CNAME .
 pardetheezan.com CNAME .
 *.pardetheezan.com CNAME .
 pardyprofer.shop CNAME .
@@ -58848,8 +58840,6 @@ pricklymine.com CNAME .
 *.pricklymine.com CNAME .
 priestboundsay.com CNAME .
 *.priestboundsay.com CNAME .
-priestsuccession.com CNAME .
-*.priestsuccession.com CNAME .
 priestsuede.click CNAME .
 *.priestsuede.click CNAME .
 primarilyresources.com CNAME .
@@ -60476,8 +60466,6 @@ qhogcyoqrl.com CNAME .
 *.qhogcyoqrl.com CNAME .
 qhurchaisrea.org CNAME .
 *.qhurchaisrea.org CNAME .
-qhwyoat.com CNAME .
-*.qhwyoat.com CNAME .
 qiaoxz.xyz CNAME .
 *.qiaoxz.xyz CNAME .
 qibkkioqqw.com CNAME .
@@ -60562,8 +60550,6 @@ qmahepzo.one CNAME .
 *.qmahepzo.one CNAME .
 qmaoqbvpuo.com CNAME .
 *.qmaoqbvpuo.com CNAME .
-qmargziexagv.com CNAME .
-*.qmargziexagv.com CNAME .
 qmbdta.cn CNAME .
 *.qmbdta.cn CNAME .
 qmgria.cn CNAME .
@@ -65238,8 +65224,6 @@ schoolhangoverearlier.com CNAME .
 *.schoolhangoverearlier.com CNAME .
 schoolmasterconveyedladies.com CNAME .
 *.schoolmasterconveyedladies.com CNAME .
-schoolnotwithstandingconfinement.com CNAME .
-*.schoolnotwithstandingconfinement.com CNAME .
 schoonnonform.com CNAME .
 *.schoonnonform.com CNAME .
 sciadopi5tysverticil1lata.com CNAME .
@@ -77746,8 +77730,6 @@ vastsneezevirtually.com CNAME .
 *.vastsneezevirtually.com CNAME .
 vatanclick.ir CNAME .
 *.vatanclick.ir CNAME .
-vatcertaininject.com CNAME .
-*.vatcertaininject.com CNAME .
 vaticmons.digital CNAME .
 *.vaticmons.digital CNAME .
 vauglistesou.net CNAME .
