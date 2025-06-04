@@ -1,16 +1,16 @@
-; Version: 202506040508
+; Version: 202506040609
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 83878
-; Last modified: 2025-06-04T05:08:31+0000
+; Entries: 83866
+; Last modified: 2025-06-04T06:09:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749013213 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749016813 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15710,8 +15710,6 @@ bearinggall.com CNAME .
 *.bearinggall.com CNAME .
 bearscutte.com CNAME .
 *.bearscutte.com CNAME .
-beastssmuggleimpatiently.com CNAME .
-*.beastssmuggleimpatiently.com CNAME .
 beat.yourtv.jp CNAME .
 *.beat.yourtv.jp CNAME .
 beatcuqa.xyz CNAME .
@@ -17634,8 +17632,6 @@ brightskillsacademy.com CNAME .
 *.brightskillsacademy.com CNAME .
 brikmavim.com CNAME .
 *.brikmavim.com CNAME .
-brillianceherewife.com CNAME .
-*.brillianceherewife.com CNAME .
 brilliantclosingcancel.com CNAME .
 *.brilliantclosingcancel.com CNAME .
 brilliantoverhaulunshaken.com CNAME .
@@ -19402,8 +19398,6 @@ ccg90.com CNAME .
 *.ccg90.com CNAME .
 ccgcg.com CNAME .
 *.ccgcg.com CNAME .
-cchbdata.net CNAME .
-*.cchbdata.net CNAME .
 cchdbond.com CNAME .
 *.cchdbond.com CNAME .
 ccjzuavqrh.com CNAME .
@@ -32064,8 +32058,6 @@ erranddealing.com CNAME .
 *.erranddealing.com CNAME .
 errantstetrole.com CNAME .
 *.errantstetrole.com CNAME .
-erringstartdelinquent.com CNAME .
-*.erringstartdelinquent.com CNAME .
 errolandtessa.com CNAME .
 *.errolandtessa.com CNAME .
 error-analytics-sessions-production.shopifysvc.com CNAME .
@@ -38640,8 +38632,6 @@ haltowe.info CNAME .
 *.haltowe.info CNAME .
 hamburgerintakedrugged.com CNAME .
 *.hamburgerintakedrugged.com CNAME .
-hameswibble.com CNAME .
-*.hameswibble.com CNAME .
 hamletuponcontribute.com CNAME .
 *.hamletuponcontribute.com CNAME .
 hamletvertical.com CNAME .
@@ -74422,8 +74412,6 @@ tracker.vneconomy.vn CNAME .
 *.tracker.vneconomy.vn CNAME .
 tracker.wigzopush.com CNAME .
 *.tracker.wigzopush.com CNAME .
-tracker.winload.de CNAME .
-*.tracker.winload.de CNAME .
 tracker.wordstream.com CNAME .
 *.tracker.wordstream.com CNAME .
 tracker.wpserveur.net CNAME .
