@@ -1,16 +1,16 @@
-; Version: 202506041510
+; Version: 202506041546
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 83826
-; Last modified: 2025-06-04T15:10:33+0000
+; Entries: 83824
+; Last modified: 2025-06-04T15:46:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749049209 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749051232 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -65644,8 +65644,6 @@ septemberautomobile.com CNAME .
 *.septemberautomobile.com CNAME .
 septfd2em64eber.com CNAME .
 *.septfd2em64eber.com CNAME .
-sepyohro.com CNAME .
-*.sepyohro.com CNAME .
 ser.everydayporn.co CNAME .
 *.ser.everydayporn.co CNAME .
 ser678uikl.xyz CNAME .
