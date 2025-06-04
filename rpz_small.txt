@@ -1,16 +1,16 @@
-; Version: 202506042212
+; Version: 202506042309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 83784
-; Last modified: 2025-06-04T22:12:07+0000
+; Entries: 83774
+; Last modified: 2025-06-04T23:09:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749074416 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749078017 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9900,8 +9900,6 @@ allabc.com CNAME .
 *.allabc.com CNAME .
 alladvantage.com CNAME .
 *.alladvantage.com CNAME .
-alladvertisingdomclub.club CNAME .
-*.alladvertisingdomclub.club CNAME .
 allanimehentai.com CNAME .
 *.allanimehentai.com CNAME .
 allaqxoh.com CNAME .
@@ -18780,8 +18778,6 @@ calendar.rodim.ru CNAME .
 *.calendar.rodim.ru CNAME .
 caliphszenobia.top CNAME .
 *.caliphszenobia.top CNAME .
-calksenfire.com CNAME .
-*.calksenfire.com CNAME .
 callalelel.info CNAME .
 *.callalelel.info CNAME .
 callousannounced.com CNAME .
@@ -52292,8 +52288,6 @@ nf1nknlw.mateforevents.com CNAME .
 *.nf1nknlw.mateforevents.com CNAME .
 nfdxprxptlubs.buzz CNAME .
 *.nfdxprxptlubs.buzz CNAME .
-nffmuvludurqc.com CNAME .
-*.nffmuvludurqc.com CNAME .
 nfgxadlbfzuy.click CNAME .
 *.nfgxadlbfzuy.click CNAME .
 nfpnnijpsvy.com CNAME .
@@ -73464,8 +73458,6 @@ torrango.com CNAME .
 *.torrango.com CNAME .
 torrent-protection.com CNAME .
 *.torrent-protection.com CNAME .
-torrentsuperintend.com CNAME .
-*.torrentsuperintend.com CNAME .
 tortoise.mdx.one CNAME .
 *.tortoise.mdx.one CNAME .
 tortoise.trysmartplan.com CNAME .
@@ -75824,8 +75816,6 @@ twinsrv.com CNAME .
 *.twinsrv.com CNAME .
 twipkokhavki.com CNAME .
 *.twipkokhavki.com CNAME .
-twirlninthgullible.com CNAME .
-*.twirlninthgullible.com CNAME .
 twirlparchextent.com CNAME .
 *.twirlparchextent.com CNAME .
 twistads.com CNAME .
