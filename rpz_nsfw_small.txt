@@ -1,16 +1,16 @@
-; Version: 202506040716
+; Version: 202506040900
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43312
-; Last modified: 2025-06-04T07:16:00+0000
+; Entries: 43318
+; Last modified: 2025-06-04T09:00:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749020415 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749024013 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -2054,6 +2054,8 @@ amatura.com CNAME .
 *.amatura.com CNAME .
 amaturetube.com CNAME .
 *.amaturetube.com CNAME .
+amaturpicsteen.site CNAME .
+*.amaturpicsteen.site CNAME .
 amazingindiansex.com CNAME .
 *.amazingindiansex.com CNAME .
 amazingjokes.com CNAME .
@@ -2446,8 +2448,6 @@ anon-v.com CNAME .
 *.anon-v.com CNAME .
 anon-v.xyz CNAME .
 *.anon-v.xyz CNAME .
-anonib.to CNAME .
-*.anonib.to CNAME .
 anonib2.org CNAME .
 *.anonib2.org CNAME .
 anonibx.com CNAME .
@@ -20284,6 +20284,8 @@ lindaprofiles.com CNAME .
 *.lindaprofiles.com CNAME .
 lindascandals.com CNAME .
 *.lindascandals.com CNAME .
+lindavideos.com CNAME .
+*.lindavideos.com CNAME .
 linduu.com CNAME .
 *.linduu.com CNAME .
 linduu.fr CNAME .
@@ -22224,6 +22226,8 @@ milfxteen.biz CNAME .
 *.milfxteen.biz CNAME .
 milfxteen.info CNAME .
 *.milfxteen.info CNAME .
+milfxteen.lol CNAME .
+*.milfxteen.lol CNAME .
 milfy.com CNAME .
 *.milfy.com CNAME .
 milfzr.com CNAME .
@@ -34640,6 +34644,8 @@ startapro.hu CNAME .
 *.startapro.hu CNAME .
 startbewijs.nl CNAME .
 *.startbewijs.nl CNAME .
+startje.com CNAME .
+*.startje.com CNAME .
 startkabel.nl CNAME .
 *.startkabel.nl CNAME .
 startkwartier.nl CNAME .
