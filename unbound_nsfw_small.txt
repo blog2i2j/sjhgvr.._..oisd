@@ -1,9 +1,9 @@
-# Version: 202506041216
+# Version: 202506041317
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21662
-# Last modified: 2025-06-04T12:16:45+0000
+# Entries: 21663
+# Last modified: 2025-06-04T13:17:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12697,6 +12697,7 @@ local-zone: "outdoorporn.one." always_null
 local-zone: "outhookup.com." always_null
 local-zone: "outpersonals.com." always_null
 local-zone: "ovacovid.com." always_null
+local-zone: "over-blog.fr." always_null
 local-zone: "over-blog.net." always_null
 local-zone: "over-blog.org." always_null
 local-zone: "over40handjobs.com." always_null
