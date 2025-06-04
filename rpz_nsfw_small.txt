@@ -1,16 +1,16 @@
-; Version: 202506040931
+; Version: 202506041116
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43322
-; Last modified: 2025-06-04T09:31:43+0000
+; Last modified: 2025-06-04T11:16:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749027612 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749034812 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -22884,8 +22884,6 @@ muitohentai.com CNAME .
 *.muitohentai.com CNAME .
 mujeresdesnudas.club CNAME .
 *.mujeresdesnudas.club CNAME .
-muke.ai CNAME .
-*.muke.ai CNAME .
 mukemmelescort.com CNAME .
 *.mukemmelescort.com CNAME .
 mulherespeladasvip.com CNAME .
@@ -43032,6 +43030,8 @@ zerotolerancefilms.com CNAME .
 *.zerotolerancefilms.com CNAME .
 zesexy.com CNAME .
 *.zesexy.com CNAME .
+zettahq.com CNAME .
+*.zettahq.com CNAME .
 zettai-ero.com CNAME .
 *.zettai-ero.com CNAME .
 zeusporn.com CNAME .
