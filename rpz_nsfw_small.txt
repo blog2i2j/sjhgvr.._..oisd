@@ -1,16 +1,16 @@
-; Version: 202506050314
+; Version: 202506050414
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43334
-; Last modified: 2025-06-05T03:14:41+0000
+; Entries: 43350
+; Last modified: 2025-06-05T04:14:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749092406 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749096013 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3274,6 +3274,8 @@ avdonna.com CNAME .
 *.avdonna.com CNAME .
 avelip.com CNAME .
 *.avelip.com CNAME .
+avemmy.net CNAME .
+*.avemmy.net CNAME .
 avfhd.com CNAME .
 *.avfhd.com CNAME .
 avgle.com CNAME .
@@ -6002,6 +6004,8 @@ camdownload.net CNAME .
 *.camdownload.net CNAME .
 camdudes.com CNAME .
 *.camdudes.com CNAME .
+camentertain.com CNAME .
+*.camentertain.com CNAME .
 camera.com CNAME .
 *.camera.com CNAME .
 cameraboys.com CNAME .
@@ -8974,6 +8978,8 @@ dosug33.net CNAME .
 *.dosug33.net CNAME .
 dosug39.com CNAME .
 *.dosug39.com CNAME .
+dosug39.net CNAME .
+*.dosug39.net CNAME .
 dosug69.net CNAME .
 *.dosug69.net CNAME .
 dosugbarbel.com CNAME .
@@ -13212,6 +13218,8 @@ gaysexdates.app CNAME .
 *.gaysexdates.app CNAME .
 gaysexfarm.com CNAME .
 *.gaysexfarm.com CNAME .
+gaysexhookup.net CNAME .
+*.gaysexhookup.net CNAME .
 gaysexhot.info CNAME .
 *.gaysexhot.info CNAME .
 gaysexhothq.com CNAME .
@@ -20298,8 +20306,6 @@ lindaprofiles.com CNAME .
 *.lindaprofiles.com CNAME .
 lindascandals.com CNAME .
 *.lindascandals.com CNAME .
-lindavideos.com CNAME .
-*.lindavideos.com CNAME .
 linduu.com CNAME .
 *.linduu.com CNAME .
 linduu.fr CNAME .
@@ -21096,6 +21102,8 @@ mamapornovideo.org CNAME .
 *.mamapornovideo.org CNAME .
 mamapornovideo.top CNAME .
 *.mamapornovideo.top CNAME .
+mamashki.vip CNAME .
+*.mamashki.vip CNAME .
 mamba-games.com CNAME .
 *.mamba-games.com CNAME .
 mamefutute.com CNAME .
@@ -36948,6 +36956,8 @@ travestichat.fr CNAME .
 *.travestichat.fr CNAME .
 travesticomlocal.com.br CNAME .
 *.travesticomlocal.com.br CNAME .
+travestiscaba.com CNAME .
+*.travestiscaba.com CNAME .
 travestismexico.com CNAME .
 *.travestismexico.com CNAME .
 traxvideos.com CNAME .
@@ -37788,6 +37798,8 @@ ulive.chat CNAME .
 *.ulive.chat CNAME .
 ulla.com CNAME .
 *.ulla.com CNAME .
+ulluprime.com CNAME .
+*.ulluprime.com CNAME .
 ulluuncut.in CNAME .
 *.ulluuncut.in CNAME .
 ulmf.org CNAME .
@@ -42170,6 +42182,8 @@ xxxpersian.com CNAME .
 *.xxxpersian.com CNAME .
 xxxphimxxx.com CNAME .
 *.xxxphimxxx.com CNAME .
+xxxphoto.xyz CNAME .
+*.xxxphoto.xyz CNAME .
 xxxpicsarchive.com CNAME .
 *.xxxpicsarchive.com CNAME .
 xxxpicss.com CNAME .
@@ -42548,6 +42562,8 @@ xyouxxx.com CNAME .
 *.xyouxxx.com CNAME .
 xyzcomics.com CNAME .
 *.xyzcomics.com CNAME .
+xyzpic.cyou CNAME .
+*.xyzpic.cyou CNAME .
 xyzporncomics.com CNAME .
 *.xyzporncomics.com CNAME .
 xzhentai.net CNAME .
