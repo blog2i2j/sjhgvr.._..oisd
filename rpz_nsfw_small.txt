@@ -1,16 +1,16 @@
-; Version: 202506050213
+; Version: 202506050314
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43330
-; Last modified: 2025-06-05T02:13:19+0000
+; Entries: 43334
+; Last modified: 2025-06-05T03:14:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749088806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749092406 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6142,6 +6142,8 @@ camsexgirls.club CNAME .
 *.camsexgirls.club CNAME .
 camsfinder.com CNAME .
 *.camsfinder.com CNAME .
+camsho.ws CNAME .
+*.camsho.ws CNAME .
 camshowdownload.com CNAME .
 *.camshowdownload.com CNAME .
 camshowrecord.net CNAME .
@@ -10166,6 +10168,8 @@ escortboard.de CNAME .
 *.escortboard.de CNAME .
 escortbodrum.org CNAME .
 *.escortbodrum.org CNAME .
+escortbook.com CNAME .
+*.escortbook.com CNAME .
 escortdex.com CNAME .
 *.escortdex.com CNAME .
 escortdimension.net CNAME .
