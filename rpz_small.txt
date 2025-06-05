@@ -1,16 +1,16 @@
-; Version: 202506050208
+; Version: 202506050309
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 83680
-; Last modified: 2025-06-05T02:08:14+0000
+; Entries: 83650
+; Last modified: 2025-06-05T03:09:14+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749088806 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749092406 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -636,8 +636,6 @@ $TTL 30
 *.1835.url25fatm.com CNAME .
 184c4i95p.de CNAME .
 *.184c4i95p.de CNAME .
-1860793711.rsc.cdn77.org CNAME .
-*.1860793711.rsc.cdn77.org CNAME .
 1873083787.rsc.cdn77.org CNAME .
 *.1873083787.rsc.cdn77.org CNAME .
 18744.com CNAME .
@@ -694,8 +692,6 @@ $TTL 30
 *.1aqi93ml4.de CNAME .
 1asb.com CNAME .
 *.1asb.com CNAME .
-1astrjasr.ru CNAME .
-*.1astrjasr.ru CNAME .
 1b32caa655.com CNAME .
 *.1b32caa655.com CNAME .
 1b384556ae.com CNAME .
@@ -7472,8 +7468,6 @@ ads.zunia.vn CNAME .
 *.ads.zunia.vn CNAME .
 ads1-adnow.com CNAME .
 *.ads1-adnow.com CNAME .
-ads1-adqva.com CNAME .
-*.ads1-adqva.com CNAME .
 ads1.canoe.ca CNAME .
 *.ads1.canoe.ca CNAME .
 ads1.mediacapital.pt CNAME .
@@ -9530,10 +9524,10 @@ akdbr.com CNAME .
 *.akdbr.com CNAME .
 akdigolema.com CNAME .
 *.akdigolema.com CNAME .
-akeedser.com CNAME .
-*.akeedser.com CNAME .
 akentaspectsof.com CNAME .
 *.akentaspectsof.com CNAME .
+aker.ajjkmozrreov.top CNAME .
+*.aker.ajjkmozrreov.top CNAME .
 akfteothobqbk.space CNAME .
 *.akfteothobqbk.space CNAME .
 akftfiam.com CNAME .
@@ -17012,8 +17006,6 @@ boa.nolongerset.com CNAME .
 *.boa.nolongerset.com CNAME .
 boacheeb.com CNAME .
 *.boacheeb.com CNAME .
-boagleetsurvey.space CNAME .
-*.boagleetsurvey.space CNAME .
 boanaptaike.com CNAME .
 *.boanaptaike.com CNAME .
 boannre.com CNAME .
@@ -27460,8 +27452,6 @@ dcv4p460uqa46.cloudfront.net CNAME .
 *.dcv4p460uqa46.cloudfront.net CNAME .
 dczhbhtz52fpi.cloudfront.net CNAME .
 *.dczhbhtz52fpi.cloudfront.net CNAME .
-dd1.diymianmo.com CNAME .
-*.dd1.diymianmo.com CNAME .
 dd1xbevqx.com CNAME .
 *.dd1xbevqx.com CNAME .
 dd47055762.df6733029c.com CNAME .
@@ -31036,8 +31026,6 @@ edmasskin.live CNAME .
 *.edmasskin.live CNAME .
 ednewsbd.com CNAME .
 *.ednewsbd.com CNAME .
-edoumeph.com CNAME .
-*.edoumeph.com CNAME .
 edpl9v.pro CNAME .
 *.edpl9v.pro CNAME .
 edprivatedqualize.org CNAME .
@@ -34360,8 +34348,6 @@ finnan2you.com CNAME .
 *.finnan2you.com CNAME .
 finnan2you.net CNAME .
 *.finnan2you.net CNAME .
-finnan2you.org CNAME .
-*.finnan2you.org CNAME .
 finnierazotine.top CNAME .
 *.finnierazotine.top CNAME .
 finreporter.net CNAME .
@@ -36444,8 +36430,6 @@ getsthis.com CNAME .
 *.getsthis.com CNAME .
 getsurv2you.com CNAME .
 *.getsurv2you.com CNAME .
-getsurv2youu.com CNAME .
-*.getsurv2youu.com CNAME .
 gettingtoe.com CNAME .
 *.gettingtoe.com CNAME .
 gettraffnews.com CNAME .
@@ -37464,8 +37448,6 @@ gorebusters.shop CNAME .
 *.gorebusters.shop CNAME .
 goredi.com CNAME .
 *.goredi.com CNAME .
-gorgeousirreparable.com CNAME .
-*.gorgeousirreparable.com CNAME .
 gorgon.youdao.com CNAME .
 *.gorgon.youdao.com CNAME .
 gorilla.celcyon.com CNAME .
@@ -37822,8 +37804,6 @@ grignetheronry.shop CNAME .
 *.grignetheronry.shop CNAME .
 grigsreshown.top CNAME .
 *.grigsreshown.top CNAME .
-griksoud.net CNAME .
-*.griksoud.net CNAME .
 grillcheekunfinished.com CNAME .
 *.grillcheekunfinished.com CNAME .
 grimlycask.com CNAME .
@@ -44450,8 +44430,6 @@ knfeiikyojdib.life CNAME .
 *.knfeiikyojdib.life CNAME .
 knicks.jd.com CNAME .
 *.knicks.jd.com CNAME .
-knifebackfiretraveller.com CNAME .
-*.knifebackfiretraveller.com CNAME .
 knitfuseactor.com CNAME .
 *.knitfuseactor.com CNAME .
 knittedcourthouse.com CNAME .
@@ -50666,8 +50644,6 @@ mouse.seekingtv.com CNAME .
 *.mouse.seekingtv.com CNAME .
 mouseflow.com CNAME .
 *.mouseflow.com CNAME .
-mouseforgerycondition.com CNAME .
-*.mouseforgerycondition.com CNAME .
 mousheen.net CNAME .
 *.mousheen.net CNAME .
 moustacheoverloadwar.com CNAME .
@@ -62734,8 +62710,6 @@ rochestertrend.com CNAME .
 *.rochestertrend.com CNAME .
 rockersbaalize.com CNAME .
 *.rockersbaalize.com CNAME .
-rocketplaintiff.com CNAME .
-*.rocketplaintiff.com CNAME .
 rocketyield.com CNAME .
 *.rocketyield.com CNAME .
 rockiertaar.com CNAME .
@@ -71760,8 +71734,6 @@ tbpot.com CNAME .
 *.tbpot.com CNAME .
 tbsxkmwsmksjj.buzz CNAME .
 *.tbsxkmwsmksjj.buzz CNAME .
-tbudz.co.in CNAME .
-*.tbudz.co.in CNAME .
 tbxyuwctmt.com CNAME .
 *.tbxyuwctmt.com CNAME .
 tc-clicks.com CNAME .
@@ -72506,8 +72478,6 @@ thoroughlyhoraceclip.com CNAME .
 *.thoroughlyhoraceclip.com CNAME .
 thoroughlypantry.com CNAME .
 *.thoroughlypantry.com CNAME .
-thorperepresentation.com CNAME .
-*.thorperepresentation.com CNAME .
 thorpeseriouslybabysitting.com CNAME .
 *.thorpeseriouslybabysitting.com CNAME .
 thoughtfulbill.pro CNAME .
@@ -76458,8 +76428,6 @@ unequaledchair.com CNAME .
 *.unequaledchair.com CNAME .
 unfairgenelullaby.com CNAME .
 *.unfairgenelullaby.com CNAME .
-unforgivableado.com CNAME .
-*.unforgivableado.com CNAME .
 unfortunatelydroopinglying.com CNAME .
 *.unfortunatelydroopinglying.com CNAME .
 unframebullish.top CNAME .
@@ -76878,6 +76846,8 @@ uretalzonated.com CNAME .
 *.uretalzonated.com CNAME .
 urgentlyrightypast.com CNAME .
 *.urgentlyrightypast.com CNAME .
+urgerrebasis.com CNAME .
+*.urgerrebasis.com CNAME .
 urgxnorjluhwl.online CNAME .
 *.urgxnorjluhwl.online CNAME .
 urimnugocfr.com CNAME .
