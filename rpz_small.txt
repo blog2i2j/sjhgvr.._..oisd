@@ -1,16 +1,16 @@
-; Version: 202506042309
+; Version: 202506050008
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 83774
-; Last modified: 2025-06-04T23:09:36+0000
+; Entries: 83742
+; Last modified: 2025-06-05T00:08:42+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749078017 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749081611 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1868,8 +1868,6 @@ $TTL 30
 *.487ed86ea3.com CNAME .
 4885e2e6f7.com CNAME .
 *.4885e2e6f7.com CNAME .
-48a16802.site CNAME .
-*.48a16802.site CNAME .
 49333767.xyz CNAME .
 *.49333767.xyz CNAME .
 49706204.xyz CNAME .
@@ -8120,8 +8118,6 @@ adtima-static.zascdn.me CNAME .
 *.adtima-static.zascdn.me CNAME .
 adtima-video.zadn.vn CNAME .
 *.adtima-video.zadn.vn CNAME .
-adtima-video.zascdn.me CNAME .
-*.adtima-video.zascdn.me CNAME .
 adtima.net.vn CNAME .
 *.adtima.net.vn CNAME .
 adtima.org CNAME .
@@ -16992,8 +16988,6 @@ bnmjjwinf292.com CNAME .
 *.bnmjjwinf292.com CNAME .
 bnmkl.com CNAME .
 *.bnmkl.com CNAME .
-bnmnkib.com CNAME .
-*.bnmnkib.com CNAME .
 bnmqtggqjoqic.buzz CNAME .
 *.bnmqtggqjoqic.buzz CNAME .
 bnmtgboouf.com CNAME .
@@ -19912,8 +19906,6 @@ ced843cd18.com CNAME .
 *.ced843cd18.com CNAME .
 cedeimprovise.com CNAME .
 *.cedeimprovise.com CNAME .
-cedhoinle.com CNAME .
-*.cedhoinle.com CNAME .
 cedricfaces.shop CNAME .
 *.cedricfaces.shop CNAME .
 cedrt6.pro CNAME .
@@ -20838,8 +20830,6 @@ clambakefreenessunclasp.com CNAME .
 *.clambakefreenessunclasp.com CNAME .
 clammyendearedkeg.com CNAME .
 *.clammyendearedkeg.com CNAME .
-clampalarmlightning.com CNAME .
-*.clampalarmlightning.com CNAME .
 clanker-events.squarespace.com CNAME .
 *.clanker-events.squarespace.com CNAME .
 clankexpelledidentification.com CNAME .
@@ -22914,8 +22904,6 @@ cosponsorgarnetmorphing.com CNAME .
 *.cosponsorgarnetmorphing.com CNAME .
 costco-adbutler.com CNAME .
 *.costco-adbutler.com CNAME .
-costranchill.com CNAME .
-*.costranchill.com CNAME .
 costumefilmimport.com CNAME .
 *.costumefilmimport.com CNAME .
 cotchaug.com CNAME .
@@ -27536,8 +27524,6 @@ ddns.info CNAME .
 *.ddns.info CNAME .
 ddns.name CNAME .
 *.ddns.name CNAME .
-ddodvlbtbgf.com CNAME .
-*.ddodvlbtbgf.com CNAME .
 ddqmlfu.icu CNAME .
 *.ddqmlfu.icu CNAME .
 ddrsemxv.com CNAME .
@@ -27834,8 +27820,6 @@ deliman.net CNAME .
 *.deliman.net CNAME .
 deliriousglowing.com CNAME .
 *.deliriousglowing.com CNAME .
-deliriumalbumretreat.com CNAME .
-*.deliriumalbumretreat.com CNAME .
 deliriumswarthybeginner.com CNAME .
 *.deliriumswarthybeginner.com CNAME .
 deliv12.com CNAME .
@@ -28470,8 +28454,6 @@ dimmosit.live CNAME .
 *.dimmosit.live CNAME .
 dimnaamebous.com CNAME .
 *.dimnaamebous.com CNAME .
-dimnessinvokecorridor.com CNAME .
-*.dimnessinvokecorridor.com CNAME .
 dimufywhy.com CNAME .
 *.dimufywhy.com CNAME .
 dindeedtheriver.com CNAME .
@@ -33198,8 +33180,6 @@ f95nkry2nf8o.com CNAME .
 *.f95nkry2nf8o.com CNAME .
 f97c68bed0.0a10a1bb7b.com CNAME .
 *.f97c68bed0.0a10a1bb7b.com CNAME .
-f983cf2155.com CNAME .
-*.f983cf2155.com CNAME .
 f9d3dca725.b291310c77.com CNAME .
 *.f9d3dca725.b291310c77.com CNAME .
 f9f62da9a0.com CNAME .
@@ -42460,8 +42440,6 @@ italianforesee.com CNAME .
 *.italianforesee.com CNAME .
 italianhackwary.com CNAME .
 *.italianhackwary.com CNAME .
-italianout.com CNAME .
-*.italianout.com CNAME .
 itblisseyer.com CNAME .
 *.itblisseyer.com CNAME .
 itcameruptr.com CNAME .
@@ -51626,8 +51604,6 @@ nalraughaksie.net CNAME .
 *.nalraughaksie.net CNAME .
 nalyticaframeofm.com CNAME .
 *.nalyticaframeofm.com CNAME .
-nalyxg.top CNAME .
-*.nalyxg.top CNAME .
 nameads.com CNAME .
 *.nameads.com CNAME .
 namel.net CNAME .
@@ -52626,8 +52602,6 @@ noblelevityconcrete.com CNAME .
 *.noblelevityconcrete.com CNAME .
 nobleypanacea.shop CNAME .
 *.nobleypanacea.shop CNAME .
-nobodylightenacquaintance.com CNAME .
-*.nobodylightenacquaintance.com CNAME .
 noconversationh.com CNAME .
 *.noconversationh.com CNAME .
 node.aibeacon.jp CNAME .
@@ -56506,8 +56480,6 @@ peer39.net CNAME .
 *.peer39.net CNAME .
 peeredplanned.com CNAME .
 *.peeredplanned.com CNAME .
-peeringinvasion.com CNAME .
-*.peeringinvasion.com CNAME .
 peerlesshallucinate.com CNAME .
 *.peerlesshallucinate.com CNAME .
 peethobo.com CNAME .
@@ -67102,8 +67074,6 @@ smallerfords.com CNAME .
 *.smallerfords.com CNAME .
 smallestexpectedspecialty.com CNAME .
 *.smallestexpectedspecialty.com CNAME .
-smallestspoutmuffled.com CNAME .
-*.smallestspoutmuffled.com CNAME .
 smallfunnybears.com CNAME .
 *.smallfunnybears.com CNAME .
 smapp.work CNAME .
@@ -74312,8 +74282,6 @@ tracker.sqreemtech.com CNAME .
 *.tracker.sqreemtech.com CNAME .
 tracker.srta.spectrum.com CNAME .
 *.tracker.srta.spectrum.com CNAME .
-tracker.ssl0d.com CNAME .
-*.tracker.ssl0d.com CNAME .
 tracker.stats.in.th CNAME .
 *.tracker.stats.in.th CNAME .
 tracker.str-nrg.com CNAME .
