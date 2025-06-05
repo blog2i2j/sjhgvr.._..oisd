@@ -1,16 +1,16 @@
-; Version: 202506050955
+; Version: 202506051110
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84018
-; Last modified: 2025-06-05T09:55:09+0000
+; Entries: 83998
+; Last modified: 2025-06-05T11:10:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749114011 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749121210 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3286,8 +3286,6 @@ $TTL 30
 *.9eb10b7a3d04a.com CNAME .
 9eeb47afec.678aea51c0.com CNAME .
 *.9eeb47afec.678aea51c0.com CNAME .
-9f0e7c5370.com CNAME .
-*.9f0e7c5370.com CNAME .
 9f5d8401a2.9b35b3d653.com CNAME .
 *.9f5d8401a2.9b35b3d653.com CNAME .
 9fa67c2dc3.54a73dbcb6.com CNAME .
@@ -13726,8 +13724,6 @@ atpawniarda.com CNAME .
 *.atpawniarda.com CNAME .
 atraff.com CNAME .
 *.atraff.com CNAME .
-atrem.site CNAME .
-*.atrem.site CNAME .
 atriahatband.com CNAME .
 *.atriahatband.com CNAME .
 atris.xyz CNAME .
@@ -13830,8 +13826,6 @@ atzekromchan.com CNAME .
 *.atzekromchan.com CNAME .
 aubpcunw.com CNAME .
 *.aubpcunw.com CNAME .
-aubrommaiv.com CNAME .
-*.aubrommaiv.com CNAME .
 auburn9819.com CNAME .
 *.auburn9819.com CNAME .
 auchoahy.net CNAME .
@@ -42046,8 +42040,6 @@ instructoroccurrencebag.com CNAME .
 *.instructoroccurrencebag.com CNAME .
 instrumenttactics.com CNAME .
 *.instrumenttactics.com CNAME .
-instrvinea.com CNAME .
-*.instrvinea.com CNAME .
 insultingvaultinherited.com CNAME .
 *.insultingvaultinherited.com CNAME .
 insultresignation.com CNAME .
@@ -44716,8 +44708,6 @@ kombr.ru CNAME .
 *.kombr.ru CNAME .
 komoona.com CNAME .
 *.komoona.com CNAME .
-konelg.click CNAME .
-*.konelg.click CNAME .
 konradsheriff.com CNAME .
 *.konradsheriff.com CNAME .
 kontera.com CNAME .
@@ -60314,8 +60304,6 @@ qadserve.com CNAME .
 *.qadserve.com CNAME .
 qadservice.com CNAME .
 *.qadservice.com CNAME .
-qaebaywwzvybv.top CNAME .
-*.qaebaywwzvybv.top CNAME .
 qaflyqanumeji.online CNAME .
 *.qaflyqanumeji.online CNAME .
 qahmipatkmaj.com CNAME .
@@ -60914,8 +60902,6 @@ qvjqbtbt.com CNAME .
 *.qvjqbtbt.com CNAME .
 qvonje.cn CNAME .
 *.qvonje.cn CNAME .
-qvzabbhovve.com CNAME .
-*.qvzabbhovve.com CNAME .
 qwcpme.icu CNAME .
 *.qwcpme.icu CNAME .
 qwe0231141.bj.bcebos.com CNAME .
@@ -62892,8 +62878,6 @@ rmaticalacycurated.info CNAME .
 *.rmaticalacycurated.info CNAME .
 rmedia.boston.com CNAME .
 *.rmedia.boston.com CNAME .
-rmervvomrowwy.top CNAME .
-*.rmervvomrowwy.top CNAME .
 rmgdapfnccsharpprd.azurewebsites.net CNAME .
 *.rmgdapfnccsharpprd.azurewebsites.net CNAME .
 rmgujvailde.com CNAME .
@@ -79976,8 +79960,6 @@ whitepark9.com CNAME .
 *.whitepark9.com CNAME .
 whitepinaforesho.org CNAME .
 *.whitepinaforesho.org CNAME .
-whityyowler.com CNAME .
-*.whityyowler.com CNAME .
 whkbqnkscmnwo.global CNAME .
 *.whkbqnkscmnwo.global CNAME .
 whoalinseed.shop CNAME .
@@ -83778,8 +83760,6 @@ zog.link CNAME .
 *.zog.link CNAME .
 zogrepsili.com CNAME .
 *.zogrepsili.com CNAME .
-zokqlomemmzbw.top CNAME .
-*.zokqlomemmzbw.top CNAME .
 zolivexo.store CNAME .
 *.zolivexo.store CNAME .
 zollzunis.top CNAME .
