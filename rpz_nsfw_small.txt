@@ -1,16 +1,16 @@
-; Version: 202506061417
+; Version: 202506061517
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 43392
-; Last modified: 2025-06-06T14:17:19+0000
+; Last modified: 2025-06-06T15:17:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749218407 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749222009 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3278,8 +3278,6 @@ avdonna.com CNAME .
 *.avdonna.com CNAME .
 avelip.com CNAME .
 *.avelip.com CNAME .
-avemmy.net CNAME .
-*.avemmy.net CNAME .
 avfhd.com CNAME .
 *.avfhd.com CNAME .
 avgle.com CNAME .
@@ -23454,6 +23452,8 @@ myvideo.ge CNAME .
 *.myvideo.ge CNAME .
 myvideos.club CNAME .
 *.myvideos.club CNAME .
+myvideos.pro CNAME .
+*.myvideos.pro CNAME .
 myvidster.com CNAME .
 *.myvidster.com CNAME .
 mywape.com CNAME .
