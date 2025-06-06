@@ -1,16 +1,16 @@
-; Version: 202506061411
+; Version: 202506061811
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84212
-; Last modified: 2025-06-06T14:11:17+0000
+; Entries: 84208
+; Last modified: 2025-06-06T18:11:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749218407 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749232806 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -43142,8 +43142,6 @@ jennyunfit.com CNAME .
 *.jennyunfit.com CNAME .
 jenonaw.com CNAME .
 *.jenonaw.com CNAME .
-jeoawamqybkjj.top CNAME .
-*.jeoawamqybkjj.top CNAME .
 jeoway.com CNAME .
 *.jeoway.com CNAME .
 jepsauveel.net CNAME .
@@ -73872,8 +73870,6 @@ tour.brazzers.com CNAME .
 *.tour.brazzers.com CNAME .
 tournamentdouble.com CNAME .
 *.tournamentdouble.com CNAME .
-tourneecoef.com CNAME .
-*.tourneecoef.com CNAME .
 touroumu.com CNAME .
 *.touroumu.com CNAME .
 tourpowouro.shop CNAME .
