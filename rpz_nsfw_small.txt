@@ -1,16 +1,16 @@
-; Version: 202506061057
+; Version: 202506061118
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43384
-; Last modified: 2025-06-06T10:57:51+0000
+; Entries: 43388
+; Last modified: 2025-06-06T11:18:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749204009 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749207614 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -15896,6 +15896,8 @@ hornyjerk.com CNAME .
 *.hornyjerk.com CNAME .
 hornyjourney.com CNAME .
 *.hornyjourney.com CNAME .
+hornyleak.tv CNAME .
+*.hornyleak.tv CNAME .
 hornylines.com CNAME .
 *.hornylines.com CNAME .
 hornylips.com CNAME .
@@ -22428,6 +22430,8 @@ mkiska.name CNAME .
 *.mkiska.name CNAME .
 mkiska.xyz CNAME .
 *.mkiska.xyz CNAME .
+mkt1340.com CNAME .
+*.mkt1340.com CNAME .
 mkt61.net CNAME .
 *.mkt61.net CNAME .
 mkt932.com CNAME .
