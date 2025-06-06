@@ -1,16 +1,16 @@
-; Version: 202506061051
+; Version: 202506061111
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84230
-; Last modified: 2025-06-06T10:51:26+0000
+; Entries: 84220
+; Last modified: 2025-06-06T11:11:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749204009 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749207614 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18542,8 +18542,6 @@ c1595223cf.com CNAME .
 *.c1595223cf.com CNAME .
 c172a66e69.com CNAME .
 *.c172a66e69.com CNAME .
-c19ef6cf49.com CNAME .
-*.c19ef6cf49.com CNAME .
 c1exchange.com CNAME .
 *.c1exchange.com CNAME .
 c2-eu.piano.io CNAME .
@@ -34578,8 +34576,6 @@ fisheyeskimmed.click CNAME .
 *.fisheyeskimmed.click CNAME .
 fishmenkabbala.com CNAME .
 *.fishmenkabbala.com CNAME .
-fisnogaferine.com CNAME .
-*.fisnogaferine.com CNAME .
 fistevasionjoint.com CNAME .
 *.fistevasionjoint.com CNAME .
 fistofzeus.com CNAME .
@@ -39440,6 +39436,8 @@ hf5rbejvpwds.com CNAME .
 *.hf5rbejvpwds.com CNAME .
 hfdfyrqj-ws.club CNAME .
 *.hfdfyrqj-ws.club CNAME .
+hfdhrtca.com CNAME .
+*.hfdhrtca.com CNAME .
 hfeoveukrn.info CNAME .
 *.hfeoveukrn.info CNAME .
 hffxc.com CNAME .
@@ -39488,8 +39486,6 @@ hghit.com CNAME .
 *.hghit.com CNAME .
 hgo06060uyi.com CNAME .
 *.hgo06060uyi.com CNAME .
-hgo06061uyi.com CNAME .
-*.hgo06061uyi.com CNAME .
 hgub2polye.com CNAME .
 *.hgub2polye.com CNAME .
 hh.jiankang.com CNAME .
@@ -52446,6 +52442,8 @@ newsforyourmood.com CNAME .
 *.newsforyourmood.com CNAME .
 newsfrompluto.com CNAME .
 *.newsfrompluto.com CNAME .
+newshentux.shop CNAME .
+*.newshentux.shop CNAME .
 newsiesherbose.top CNAME .
 *.newsiesherbose.top CNAME .
 newsignites.com CNAME .
@@ -60476,8 +60474,6 @@ qavgacsmegav.com CNAME .
 *.qavgacsmegav.com CNAME .
 qavhivvcex.com CNAME .
 *.qavhivvcex.com CNAME .
-qawzwkvqayelw.top CNAME .
-*.qawzwkvqayelw.top CNAME .
 qazjpdzhatxaw.vip CNAME .
 *.qazjpdzhatxaw.vip CNAME .
 qazrvobkmqvmr.top CNAME .
@@ -60550,8 +60546,6 @@ qdrmui.com CNAME .
 *.qdrmui.com CNAME .
 qdvkgjfculfmr.site CNAME .
 *.qdvkgjfculfmr.site CNAME .
-qdwmdikzudq.com CNAME .
-*.qdwmdikzudq.com CNAME .
 qdxpid-bxcy.today CNAME .
 *.qdxpid-bxcy.today CNAME .
 qdzyspjx.com CNAME .
@@ -79050,8 +79044,6 @@ vvadz.cc CNAME .
 *.vvadz.cc CNAME .
 vvdrhe.win CNAME .
 *.vvdrhe.win CNAME .
-vvewkblbvezmq.top CNAME .
-*.vvewkblbvezmq.top CNAME .
 vvprcztaw.com CNAME .
 *.vvprcztaw.com CNAME .
 vvttpn.xyz CNAME .
@@ -80614,8 +80606,6 @@ wkoocuweg.com CNAME .
 *.wkoocuweg.com CNAME .
 wktyyxtvwthxp.one CNAME .
 *.wktyyxtvwthxp.one CNAME .
-wkwqljwjvkooz.top CNAME .
-*.wkwqljwjvkooz.top CNAME .
 wkzw.me CNAME .
 *.wkzw.me CNAME .
 wl-analytics.tsp.li CNAME .
