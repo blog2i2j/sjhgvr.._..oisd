@@ -1,16 +1,16 @@
-; Version: 202506060829
+; Version: 202506061051
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
 ; Entries: 84230
-; Last modified: 2025-06-06T08:29:44+0000
+; Last modified: 2025-06-06T10:51:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749196808 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749204009 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -52148,6 +52148,8 @@ needyscarcasserole.com CNAME .
 *.needyscarcasserole.com CNAME .
 neegreez.com CNAME .
 *.neegreez.com CNAME .
+neekstore.com CNAME .
+*.neekstore.com CNAME .
 neephougroo.net CNAME .
 *.neephougroo.net CNAME .
 negateacted.com CNAME .
@@ -65186,8 +65188,6 @@ satisfactorymetalrub.com CNAME .
 *.satisfactorymetalrub.com CNAME .
 satlockspa.live CNAME .
 *.satlockspa.live CNAME .
-satmon.neekstore.com CNAME .
-*.satmon.neekstore.com CNAME .
 sattiostiounper.com CNAME .
 *.sattiostiounper.com CNAME .
 saturatemadman.com CNAME .
