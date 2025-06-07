@@ -1,9 +1,9 @@
-# Version: 202506071728
+# Version: 202506071827
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21766
-# Last modified: 2025-06-07T17:28:08+0000
+# Entries: 21767
+# Last modified: 2025-06-07T18:27:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5398,6 +5398,7 @@ local-zone: "fansly.com." always_null
 local-zone: "fansmetrics.com." always_null
 local-zone: "fansmine.com." always_null
 local-zone: "fansone.co." always_null
+local-zone: "fansshare.com." always_null
 local-zone: "fansyme.com." always_null
 local-zone: "fansymodels.com." always_null
 local-zone: "fantasticbombastic.net." always_null
