@@ -1,16 +1,16 @@
-; Version: 202506071627
+; Version: 202506071728
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43526
-; Last modified: 2025-06-07T16:27:25+0000
+; Entries: 43532
+; Last modified: 2025-06-07T17:28:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749312721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749316321 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -5388,6 +5388,8 @@ boocam.tv CNAME .
 *.boocam.tv CNAME .
 book18.org CNAME .
 *.book18.org CNAME .
+booklikes.com CNAME .
+*.booklikes.com CNAME .
 bookmark.xxx CNAME .
 *.bookmark.xxx CNAME .
 bookofp.com CNAME .
@@ -8726,6 +8728,8 @@ dirtyships.net CNAME .
 *.dirtyships.net CNAME .
 dirtytube.com CNAME .
 *.dirtytube.com CNAME .
+dirtyxxxclips.com CNAME .
+*.dirtyxxxclips.com CNAME .
 dirtyyoungbitches.com CNAME .
 *.dirtyyoungbitches.com CNAME .
 disc-net.org CNAME .
@@ -16962,6 +16966,8 @@ imgsrc.ru CNAME .
 *.imgsrc.ru CNAME .
 imgtraffic.com CNAME .
 *.imgtraffic.com CNAME .
+imgvc.com CNAME .
+*.imgvc.com CNAME .
 imgxxxbold24.site CNAME .
 *.imgxxxbold24.site CNAME .
 imhentai.to CNAME .
