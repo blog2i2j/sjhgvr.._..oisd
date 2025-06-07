@@ -1,16 +1,16 @@
-; Version: 202506070008
+; Version: 202506070409
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84364
-; Last modified: 2025-06-07T00:08:55+0000
+; Entries: 84360
+; Last modified: 2025-06-07T04:09:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749254409 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749268803 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -43840,8 +43840,6 @@ jtracking-gate.lulusoft.com CNAME .
 *.jtracking-gate.lulusoft.com CNAME .
 jtracking.lulusoft.com CNAME .
 *.jtracking.lulusoft.com CNAME .
-jtren.site CNAME .
-*.jtren.site CNAME .
 jubacasziel.shop CNAME .
 *.jubacasziel.shop CNAME .
 jubbie.de CNAME .
@@ -80738,8 +80736,6 @@ wkctj.baidu.com CNAME .
 *.wkctj.baidu.com CNAME .
 wkjvzljmxdzni.top CNAME .
 *.wkjvzljmxdzni.top CNAME .
-wkmorvzawmbjw.top CNAME .
-*.wkmorvzawmbjw.top CNAME .
 wkoocuweg.com CNAME .
 *.wkoocuweg.com CNAME .
 wktyyxtvwthxp.one CNAME .
