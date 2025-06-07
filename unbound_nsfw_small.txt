@@ -1,9 +1,9 @@
-# Version: 202506070313
+# Version: 202506070843
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21750
-# Last modified: 2025-06-07T03:13:59+0000
+# Entries: 21751
+# Last modified: 2025-06-07T08:43:49+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15376,6 +15376,7 @@ local-zone: "relaxkharkiv.com." always_null
 local-zone: "relaxlviv.com." always_null
 local-zone: "relaxmovs.com." always_null
 local-zone: "relaxmsk.com." always_null
+local-zone: "relaxodessa.com." always_null
 local-zone: "relaxportal.biz." always_null
 local-zone: "relayblog.com." always_null
 local-zone: "remaxhd.homes." always_null
