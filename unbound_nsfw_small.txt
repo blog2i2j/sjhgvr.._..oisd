@@ -1,9 +1,9 @@
-# Version: 202506071107
+# Version: 202506071128
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21758
-# Last modified: 2025-06-07T11:07:50+0000
+# Entries: 21760
+# Last modified: 2025-06-07T11:28:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14365,6 +14365,7 @@ local-zone: "pornosveta.vip." always_null
 local-zone: "pornosveta112.com." always_null
 local-zone: "pornosvid.com." always_null
 local-zone: "pornotag.com." always_null
+local-zone: "pornotagir.com." always_null
 local-zone: "pornotales.net." always_null
 local-zone: "pornotales.ru." always_null
 local-zone: "pornotane.net." always_null
@@ -20958,6 +20959,7 @@ local-zone: "xxx-stop.com." always_null
 local-zone: "xxx-torrent.net." always_null
 local-zone: "xxx-tube-list.com." always_null
 local-zone: "xxx-tube-movie.com." always_null
+local-zone: "xxx-vid.ink." always_null
 local-zone: "xxx-video.cc." always_null
 local-zone: "xxx-video.live." always_null
 local-zone: "xxx-videos.blog." always_null
