@@ -1,16 +1,16 @@
-; Version: 202506081827
+; Version: 202506081927
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43562
-; Last modified: 2025-06-08T18:27:34+0000
+; Entries: 43564
+; Last modified: 2025-06-08T19:27:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749406322 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749409922 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -7680,6 +7680,8 @@ crot.cam CNAME .
 *.crot.cam CNAME .
 crouchserf.com CNAME .
 *.crouchserf.com CNAME .
+croxy.red CNAME .
+*.croxy.red CNAME .
 crsspxl.com CNAME .
 *.crsspxl.com CNAME .
 crueldommes.com CNAME .
@@ -34300,6 +34302,8 @@ sisurl.com CNAME .
 *.sisurl.com CNAME .
 sisurl.net CNAME .
 *.sisurl.net CNAME .
+site123.me CNAME .
+*.site123.me CNAME .
 sitedesex.com CNAME .
 *.sitedesex.com CNAME .
 siterips.org CNAME .
@@ -42778,8 +42782,6 @@ xyouxxx.com CNAME .
 *.xyouxxx.com CNAME .
 xyzcomics.com CNAME .
 *.xyzcomics.com CNAME .
-xyzpic.cyou CNAME .
-*.xyzpic.cyou CNAME .
 xyzporncomics.com CNAME .
 *.xyzporncomics.com CNAME .
 xzhentai.net CNAME .
