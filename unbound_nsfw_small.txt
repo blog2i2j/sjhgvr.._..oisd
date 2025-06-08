@@ -1,9 +1,9 @@
-# Version: 202506080526
+# Version: 202506080625
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21773
-# Last modified: 2025-06-08T05:26:11+0000
+# Entries: 21774
+# Last modified: 2025-06-08T06:25:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9628,6 +9628,7 @@ local-zone: "kasidie.com." always_null
 local-zone: "kasualapp.com." always_null
 local-zone: "kasurbokep.com." always_null
 local-zone: "kasut.org." always_null
+local-zone: "kat.cr." always_null
 local-zone: "kat40.ru." always_null
 local-zone: "katawa-shoujo.com." always_null
 local-zone: "katestube.com." always_null
