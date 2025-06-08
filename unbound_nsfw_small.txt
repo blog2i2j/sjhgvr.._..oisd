@@ -1,9 +1,9 @@
-# Version: 202506081727
+# Version: 202506081827
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21780
-# Last modified: 2025-06-08T17:27:43+0000
+# Entries: 21781
+# Last modified: 2025-06-08T18:27:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8946,6 +8946,7 @@ local-zone: "iwara.tv." always_null
 local-zone: "iwexxx.com." always_null
 local-zone: "iwillcum.com." always_null
 local-zone: "ixiporn.foo." always_null
+local-zone: "ixiporn.fyi." always_null
 local-zone: "ixiporn.info." always_null
 local-zone: "ixiporn8.com." always_null
 local-zone: "ixspublic.com." always_null
