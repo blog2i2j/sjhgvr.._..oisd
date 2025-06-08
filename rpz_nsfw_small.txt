@@ -1,16 +1,16 @@
-; Version: 202506080326
+; Version: 202506080425
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43542
-; Last modified: 2025-06-08T03:26:57+0000
+; Entries: 43544
+; Last modified: 2025-06-08T04:25:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749352321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749355921 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -37724,6 +37724,8 @@ turkeyescortgirls.com CNAME .
 *.turkeyescortgirls.com CNAME .
 turkifsatube.com CNAME .
 *.turkifsatube.com CNAME .
+turkifsatube.pro CNAME .
+*.turkifsatube.pro CNAME .
 turnosweb.app CNAME .
 *.turnosweb.app CNAME .
 tuscl.net CNAME .
