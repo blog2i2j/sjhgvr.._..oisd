@@ -1,16 +1,16 @@
-; Version: 202506092027
+; Version: 202506092126
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43550
-; Last modified: 2025-06-09T20:27:55+0000
+; Entries: 43552
+; Last modified: 2025-06-09T21:26:51+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749499921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749503522 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -1554,6 +1554,8 @@ ahegao.online CNAME .
 *.ahegao.online CNAME .
 ahentaitv.com CNAME .
 *.ahentaitv.com CNAME .
+ahh.az CNAME .
+*.ahh.az CNAME .
 ahindian.com CNAME .
 *.ahindian.com CNAME .
 ahlamontada.com CNAME .
@@ -17894,8 +17896,6 @@ isotope.com CNAME .
 *.isotope.com CNAME .
 israel-lady.co.il CNAME .
 *.israel-lady.co.il CNAME .
-israelnightclub.com CNAME .
-*.israelnightclub.com CNAME .
 israelxclub.co.il CNAME .
 *.israelxclub.co.il CNAME .
 isratv.ru CNAME .
@@ -20422,8 +20422,6 @@ letspostit.com CNAME .
 *.letspostit.com CNAME .
 letsxnxx.com CNAME .
 *.letsxnxx.com CNAME .
-letzte-chance.link CNAME .
-*.letzte-chance.link CNAME .
 levelsex.com CNAME .
 *.levelsex.com CNAME .
 lewd.ninja CNAME .
@@ -22160,8 +22158,6 @@ melapelogays.com CNAME .
 *.melapelogays.com CNAME .
 melayupanas.com CNAME .
 *.melayupanas.com CNAME .
-melayuseksvideo.org CNAME .
-*.melayuseksvideo.org CNAME .
 melkormancin.com CNAME .
 *.melkormancin.com CNAME .
 meloncams.com CNAME .
@@ -31480,6 +31476,10 @@ rusvideos.pro CNAME .
 *.rusvideos.pro CNAME .
 rusxy.com CNAME .
 *.rusxy.com CNAME .
+rutor.info CNAME .
+*.rutor.info CNAME .
+rutor.is CNAME .
+*.rutor.is CNAME .
 rutubet.info CNAME .
 *.rutubet.info CNAME .
 ruvideos.net CNAME .
@@ -36100,6 +36100,8 @@ thaihotmodels.com CNAME .
 *.thaihotmodels.com CNAME .
 thaihubx.tv CNAME .
 *.thaihubx.tv CNAME .
+thailandredcat.com CNAME .
+*.thailandredcat.com CNAME .
 thaimassagejasmine.com CNAME .
 *.thaimassagejasmine.com CNAME .
 thaipornhd.com CNAME .
