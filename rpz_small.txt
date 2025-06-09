@@ -1,16 +1,16 @@
-; Version: 202506090120
+; Version: 202506090219
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84602
-; Last modified: 2025-06-09T01:20:04+0000
+; Entries: 84600
+; Last modified: 2025-06-09T02:19:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749431521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749435121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -84242,8 +84242,6 @@ zippercontinual.com CNAME .
 *.zippercontinual.com CNAME .
 zipup.click CNAME .
 *.zipup.click CNAME .
-zirconscuculle.com CNAME .
-*.zirconscuculle.com CNAME .
 zirdough.net CNAME .
 *.zirdough.net CNAME .
 zireemilsoude.net CNAME .
