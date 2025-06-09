@@ -1,16 +1,16 @@
-; Version: 202506091428
+; Version: 202506091527
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43802
-; Last modified: 2025-06-09T14:28:37+0000
+; Entries: 43806
+; Last modified: 2025-06-09T15:27:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749478321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749481922 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -8344,6 +8344,8 @@ demonia.com CNAME .
 *.demonia.com CNAME .
 demplon.com CNAME .
 *.demplon.com CNAME .
+dendenden.com CNAME .
+*.dendenden.com CNAME .
 denpasoft.com CNAME .
 *.denpasoft.com CNAME .
 densa.info CNAME .
@@ -10226,8 +10228,6 @@ erotikfilme24.net CNAME .
 *.erotikfilme24.net CNAME .
 erotikfilmizle.bar CNAME .
 *.erotikfilmizle.bar CNAME .
-erotikfilmizle.cx CNAME .
-*.erotikfilmizle.cx CNAME .
 erotikfilmizle2.cc CNAME .
 *.erotikfilmizle2.cc CNAME .
 erotikfilmkeyfi.net CNAME .
@@ -11262,8 +11262,6 @@ favcomics.com CNAME .
 *.favcomics.com CNAME .
 favepornmovs.com CNAME .
 *.favepornmovs.com CNAME .
-favepornvids.com CNAME .
-*.favepornvids.com CNAME .
 favgayporn.com CNAME .
 *.favgayporn.com CNAME .
 favorietje.nl CNAME .
@@ -17976,6 +17974,8 @@ ismporno.com CNAME .
 *.ismporno.com CNAME .
 ismygirl.com CNAME .
 *.ismygirl.com CNAME .
+isotope.com CNAME .
+*.isotope.com CNAME .
 israel-lady.co.il CNAME .
 *.israel-lady.co.il CNAME .
 israelnightclub.com CNAME .
@@ -21526,8 +21526,6 @@ mangaforfree.net CNAME .
 *.mangaforfree.net CNAME .
 mangafox.me CNAME .
 *.mangafox.me CNAME .
-mangago.me CNAME .
-*.mangago.me CNAME .
 mangahasu.se CNAME .
 *.mangahasu.se CNAME .
 mangahentai.io CNAME .
@@ -21630,6 +21628,8 @@ manhwas.men CNAME .
 *.manhwas.men CNAME .
 manhwas.net CNAME .
 *.manhwas.net CNAME .
+manhwasex.net CNAME .
+*.manhwasex.net CNAME .
 manhwavn.com CNAME .
 *.manhwavn.com CNAME .
 maniacpass.com CNAME .
@@ -21868,6 +21868,8 @@ matureattract.com CNAME .
 *.matureattract.com CNAME .
 maturebigass.com CNAME .
 *.maturebigass.com CNAME .
+maturecats.com CNAME .
+*.maturecats.com CNAME .
 maturecharm.com CNAME .
 *.maturecharm.com CNAME .
 maturecherry.net CNAME .
@@ -23144,6 +23146,8 @@ mothers.red CNAME .
 *.mothers.red CNAME .
 motorsxxx.com CNAME .
 *.motorsxxx.com CNAME .
+motv.app CNAME .
+*.motv.app CNAME .
 mousouzoku-av.com CNAME .
 *.mousouzoku-av.com CNAME .
 mouthporn.net CNAME .
@@ -30626,8 +30630,6 @@ rapexxx.net CNAME .
 *.rapexxx.net CNAME .
 rapidporngator.com CNAME .
 *.rapidporngator.com CNAME .
-rapidrame.com CNAME .
-*.rapidrame.com CNAME .
 rapidtai.com CNAME .
 *.rapidtai.com CNAME .
 rapidzona.tv CNAME .
@@ -32106,6 +32108,8 @@ semyana.club CNAME .
 *.semyana.club CNAME .
 semyana.com CNAME .
 *.semyana.com CNAME .
+semyana.website CNAME .
+*.semyana.website CNAME .
 sendnudeselfie.com CNAME .
 *.sendnudeselfie.com CNAME .
 seneporno.com CNAME .
