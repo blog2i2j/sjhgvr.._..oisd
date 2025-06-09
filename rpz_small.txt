@@ -1,16 +1,16 @@
-; Version: 202506092121
+; Version: 202506092220
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84672
-; Last modified: 2025-06-09T21:21:12+0000
+; Entries: 84658
+; Last modified: 2025-06-09T22:20:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749503522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749507121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3058,8 +3058,6 @@ $TTL 30
 *.90b8ae1064.com CNAME .
 90f6059129.8c0afb75cd.com CNAME .
 *.90f6059129.8c0afb75cd.com CNAME .
-910de7044f.com CNAME .
-*.910de7044f.com CNAME .
 91301246.xyz CNAME .
 *.91301246.xyz CNAME .
 9130ec9212.com CNAME .
@@ -13214,8 +13212,6 @@ asdasdad.net CNAME .
 *.asdasdad.net CNAME .
 asdf.eldos.xyz CNAME .
 *.asdf.eldos.xyz CNAME .
-asdfdr.cfd CNAME .
-*.asdfdr.cfd CNAME .
 asdfix.com CNAME .
 *.asdfix.com CNAME .
 asdidmakingby.info CNAME .
@@ -18136,8 +18132,6 @@ bulyiel.com CNAME .
 *.bulyiel.com CNAME .
 bumaqblyqviw.fun CNAME .
 *.bumaqblyqviw.fun CNAME .
-bumbeeamoral.com CNAME .
-*.bumbeeamoral.com CNAME .
 bumblecash.com CNAME .
 *.bumblecash.com CNAME .
 bumhuetony.live CNAME .
@@ -37972,8 +37966,6 @@ grandparentsfortunes.com CNAME .
 *.grandparentsfortunes.com CNAME .
 grandsupple.com CNAME .
 *.grandsupple.com CNAME .
-grandwatchesnaive.com CNAME .
-*.grandwatchesnaive.com CNAME .
 grantedpigsunborn.com CNAME .
 *.grantedpigsunborn.com CNAME .
 granular-reflection.com CNAME .
@@ -43514,8 +43506,6 @@ jjmrmeovo.world CNAME .
 *.jjmrmeovo.world CNAME .
 jjpp.lmtjapi.com CNAME .
 *.jjpp.lmtjapi.com CNAME .
-jjthmis.com CNAME .
-*.jjthmis.com CNAME .
 jk4lmrf2.de CNAME .
 *.jk4lmrf2.de CNAME .
 jkha742.xyz CNAME .
@@ -46130,8 +46120,6 @@ level.18huhu.com CNAME .
 *.level.18huhu.com CNAME .
 levelerlatosol.shop CNAME .
 *.levelerlatosol.shop CNAME .
-levelrunningunpadded.com CNAME .
-*.levelrunningunpadded.com CNAME .
 leverpolesaw.click CNAME .
 *.leverpolesaw.click CNAME .
 lewd.ws CNAME .
@@ -56878,8 +56866,6 @@ pb.plat.services CNAME .
 *.pb.plat.services CNAME .
 pb.s3wfg.com CNAME .
 *.pb.s3wfg.com CNAME .
-pbbgvnctf.com CNAME .
-*.pbbgvnctf.com CNAME .
 pbc.realtor.com CNAME .
 *.pbc.realtor.com CNAME .
 pbc.wsj.com CNAME .
