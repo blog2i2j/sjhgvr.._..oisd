@@ -1,16 +1,16 @@
-; Version: 202506092220
+; Version: 202506092320
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84658
-; Last modified: 2025-06-09T22:20:50+0000
+; Entries: 84634
+; Last modified: 2025-06-09T23:20:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749507121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749510721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1130,8 +1130,6 @@ $TTL 30
 *.26fc4b0b38.com CNAME .
 26q4nn691.de CNAME .
 *.26q4nn691.de CNAME .
-275a93755c.com CNAME .
-*.275a93755c.com CNAME .
 27714296.xyz CNAME .
 *.27714296.xyz CNAME .
 27c83c607f.40aa881a9f.com CNAME .
@@ -28414,8 +28412,6 @@ dfwbfr2blhmr5.cloudfront.net CNAME .
 *.dfwbfr2blhmr5.cloudfront.net CNAME .
 dfwp6qatulz0p.cloudfront.net CNAME .
 *.dfwp6qatulz0p.cloudfront.net CNAME .
-dfyui8r5rs.click CNAME .
-*.dfyui8r5rs.click CNAME .
 dfyvcihusajf.com CNAME .
 *.dfyvcihusajf.com CNAME .
 dg0hrtzcus4q4.cloudfront.net CNAME .
@@ -31694,8 +31690,6 @@ ellipticaltrack.com CNAME .
 *.ellipticaltrack.com CNAME .
 elonreptiloid.com CNAME .
 *.elonreptiloid.com CNAME .
-elonvgjcn.com CNAME .
-*.elonvgjcn.com CNAME .
 eloquentvaluation.com CNAME .
 *.eloquentvaluation.com CNAME .
 elpex.site CNAME .
@@ -32408,8 +32402,6 @@ ethereum-pocket.com CNAME .
 *.ethereum-pocket.com CNAME .
 ethfw0370q.com CNAME .
 *.ethfw0370q.com CNAME .
-ethicbecamecarbonate.com CNAME .
-*.ethicbecamecarbonate.com CNAME .
 ethicel.com CNAME .
 *.ethicel.com CNAME .
 ethikuma.link CNAME .
@@ -38452,8 +38444,6 @@ gtusaexrlpab.world CNAME .
 *.gtusaexrlpab.world CNAME .
 gtuy6el1hd.com CNAME .
 *.gtuy6el1hd.com CNAME .
-gtvigtuqqsxdv.com CNAME .
-*.gtvigtuqqsxdv.com CNAME .
 gtxkze.cn CNAME .
 *.gtxkze.cn CNAME .
 gtyjpiobza.com CNAME .
@@ -39460,8 +39450,6 @@ hentaicounter.com CNAME .
 *.hentaicounter.com CNAME .
 hentaigold.net CNAME .
 *.hentaigold.net CNAME .
-hentaionline.net CNAME .
-*.hentaionline.net CNAME .
 hentent.stre4mplay.one CNAME .
 *.hentent.stre4mplay.one CNAME .
 henwilkson.com CNAME .
@@ -52864,8 +52852,6 @@ niersfohiplaceof.info CNAME .
 *.niersfohiplaceof.info CNAME .
 nieveni.com CNAME .
 *.nieveni.com CNAME .
-nifracomtra.com CNAME .
-*.nifracomtra.com CNAME .
 nifty-pie.com CNAME .
 *.nifty-pie.com CNAME .
 nighhioqr.com CNAME .
@@ -56482,8 +56468,6 @@ pantoumcausers.click CNAME .
 *.pantoumcausers.click CNAME .
 pantraidgeometry.com CNAME .
 *.pantraidgeometry.com CNAME .
-pantuz.xyz CNAME .
-*.pantuz.xyz CNAME .
 panwakeave.live CNAME .
 *.panwakeave.live CNAME .
 panyh123456.cn CNAME .
@@ -64674,8 +64658,6 @@ rustycleartariff.com CNAME .
 *.rustycleartariff.com CNAME .
 rustyexquisite.com CNAME .
 *.rustyexquisite.com CNAME .
-rustyurishoes.com CNAME .
-*.rustyurishoes.com CNAME .
 rutatmosphericdetriment.com CNAME .
 *.rutatmosphericdetriment.com CNAME .
 ruthwoof.com CNAME .
@@ -78300,8 +78282,6 @@ vazticlkivi.com CNAME .
 *.vazticlkivi.com CNAME .
 vazypteke.pro CNAME .
 *.vazypteke.pro CNAME .
-vbjzdl.top CNAME .
-*.vbjzdl.top CNAME .
 vbmjlevwwvyzj.top CNAME .
 *.vbmjlevwwvyzj.top CNAME .
 vbptgoyketwhv.global CNAME .
@@ -80246,8 +80226,6 @@ weeewow.com CNAME .
 *.weeewow.com CNAME .
 week1time.com CNAME .
 *.week1time.com CNAME .
-weekdayrazzing.com CNAME .
-*.weekdayrazzing.com CNAME .
 weenieshotcake.top CNAME .
 *.weenieshotcake.top CNAME .
 weensnandow.com CNAME .
@@ -83856,8 +83834,6 @@ yudvl.org CNAME .
 *.yudvl.org CNAME .
 yuearanceofam.info CNAME .
 *.yuearanceofam.info CNAME .
-yufyrslrjmb.com CNAME .
-*.yufyrslrjmb.com CNAME .
 yugqqqq.icu CNAME .
 *.yugqqqq.icu CNAME .
 yuhuads.com CNAME .
