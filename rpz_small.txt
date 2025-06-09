@@ -1,16 +1,16 @@
-; Version: 202506090219
+; Version: 202506090520
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84600
-; Last modified: 2025-06-09T02:19:30+0000
+; Entries: 84598
+; Last modified: 2025-06-09T05:20:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749435121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749445922 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -81342,8 +81342,6 @@ wqzqoobqpubx.com CNAME .
 *.wqzqoobqpubx.com CNAME .
 wqzyxxrrep.com CNAME .
 *.wqzyxxrrep.com CNAME .
-wr.brandonketting.com CNAME .
-*.wr.brandonketting.com CNAME .
 wr.yiyouliao.com CNAME .
 *.wr.yiyouliao.com CNAME .
 wrappedhalfwayfunction.com CNAME .
