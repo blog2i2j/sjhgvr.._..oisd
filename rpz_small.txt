@@ -1,16 +1,16 @@
-; Version: 202506100920
+; Version: 202506101020
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84922
-; Last modified: 2025-06-10T09:20:23+0000
+; Entries: 84910
+; Last modified: 2025-06-10T10:20:48+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749546721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749550321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -11724,8 +11724,6 @@ anentsyshrug.com CNAME .
 *.anentsyshrug.com CNAME .
 anewfeedliberty.com CNAME .
 *.anewfeedliberty.com CNAME .
-anewgallondevious.com CNAME .
-*.anewgallondevious.com CNAME .
 anews7.nvwu.com CNAME .
 *.anews7.nvwu.com CNAME .
 anewyoufitness.com CNAME .
@@ -22434,8 +22432,6 @@ compareproprietary.com CNAME .
 *.compareproprietary.com CNAME .
 compassenergyservices.com CNAME .
 *.compassenergyservices.com CNAME .
-compassionatecheek.com CNAME .
-*.compassionatecheek.com CNAME .
 compatriotelephant.com CNAME .
 *.compatriotelephant.com CNAME .
 compellingtremblegenial.com CNAME .
@@ -28244,8 +28240,6 @@ depechearshine.com CNAME .
 *.depechearshine.com CNAME .
 dependablemountain.com CNAME .
 *.dependablemountain.com CNAME .
-dependentdetachmentblossom.com CNAME .
-*.dependentdetachmentblossom.com CNAME .
 dephasevittate.com CNAME .
 *.dephasevittate.com CNAME .
 deplorablefaintest.com CNAME .
@@ -45828,8 +45822,6 @@ lassampy.com CNAME .
 *.lassampy.com CNAME .
 last0nef1le.com CNAME .
 *.last0nef1le.com CNAME .
-lastlyseaweedgoose.com CNAME .
-*.lastlyseaweedgoose.com CNAME .
 lastwelcome.pro CNAME .
 *.lastwelcome.pro CNAME .
 lastwise.com CNAME .
@@ -57592,8 +57584,6 @@ pheegoab.click CNAME .
 *.pheegoab.click CNAME .
 pheersie.com CNAME .
 *.pheersie.com CNAME .
-pheftoud.com CNAME .
-*.pheftoud.com CNAME .
 pheghunibam.com CNAME .
 *.pheghunibam.com CNAME .
 phegnauxoudsez.xyz CNAME .
@@ -73224,8 +73214,6 @@ tghrfv.icu CNAME .
 *.tghrfv.icu CNAME .
 tgingleagaineda.org CNAME .
 *.tgingleagaineda.org CNAME .
-tgjxzf.top CNAME .
-*.tgjxzf.top CNAME .
 tgw.gmx.net CNAME .
 *.tgw.gmx.net CNAME .
 th.milftube.mobi CNAME .
