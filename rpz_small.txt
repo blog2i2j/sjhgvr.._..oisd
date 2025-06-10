@@ -1,16 +1,16 @@
-; Version: 202506092320
+; Version: 202506100029
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84634
-; Last modified: 2025-06-09T23:20:39+0000
+; Entries: 84624
+; Last modified: 2025-06-10T00:29:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749510721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749514321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -53010,8 +53010,6 @@ nld0jsg9s9p8.com CNAME .
 *.nld0jsg9s9p8.com CNAME .
 nljyjt.icu CNAME .
 *.nljyjt.icu CNAME .
-nlkikzzvtzo.com CNAME .
-*.nlkikzzvtzo.com CNAME .
 nlkli.com CNAME .
 *.nlkli.com CNAME .
 nlnlrn.top CNAME .
@@ -58420,8 +58418,6 @@ poasotha.com CNAME .
 *.poasotha.com CNAME .
 poavoabe.net CNAME .
 *.poavoabe.net CNAME .
-pocketenvironmental.com CNAME .
-*.pocketenvironmental.com CNAME .
 pocrd.cc CNAME .
 *.pocrd.cc CNAME .
 pod.xpress.com CNAME .
@@ -62988,8 +62984,6 @@ revenuewasadirect.com CNAME .
 *.revenuewasadirect.com CNAME .
 reverbstomptusk.com CNAME .
 *.reverbstomptusk.com CNAME .
-reversiondisplay.com CNAME .
-*.reversiondisplay.com CNAME .
 revfusion.net CNAME .
 *.revfusion.net CNAME .
 revi.rcs.it CNAME .
@@ -72928,8 +72922,6 @@ textads.biz CNAME .
 *.textads.biz CNAME .
 textbookfilamentguidance.com CNAME .
 *.textbookfilamentguidance.com CNAME .
-textilewhine.com CNAME .
-*.textilewhine.com CNAME .
 textlinks.com CNAME .
 *.textlinks.com CNAME .
 tezlpl.icu CNAME .
@@ -76610,8 +76602,6 @@ tyfqjbuk.one CNAME .
 *.tyfqjbuk.one CNAME .
 tyfuufdp-xbd.top CNAME .
 *.tyfuufdp-xbd.top CNAME .
-tyintxwkjmkm.com CNAME .
-*.tyintxwkjmkm.com CNAME .
 tyjttinacorners.info CNAME .
 *.tyjttinacorners.info CNAME .
 tylosischewer.com CNAME .
