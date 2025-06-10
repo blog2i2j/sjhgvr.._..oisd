@@ -1,16 +1,16 @@
-; Version: 202506101521
+; Version: 202506101621
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84948
-; Last modified: 2025-06-10T15:21:19+0000
+; Entries: 84932
+; Last modified: 2025-06-10T16:21:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749568322 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749571921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6450,8 +6450,6 @@ adpakmduxapm.com CNAME .
 *.adpakmduxapm.com CNAME .
 adpalladium.com CNAME .
 *.adpalladium.com CNAME .
-adpartner.pro CNAME .
-*.adpartner.pro CNAME .
 adpass.co.uk CNAME .
 *.adpass.co.uk CNAME .
 adpatrof.com CNAME .
@@ -30616,8 +30614,6 @@ dyodrs1kxvg6o.cloudfront.net CNAME .
 *.dyodrs1kxvg6o.cloudfront.net CNAME .
 dyogndyfpctbo.xyz CNAME .
 *.dyogndyfpctbo.xyz CNAME .
-dyohhjowhbtlc.site CNAME .
-*.dyohhjowhbtlc.site CNAME .
 dyoixbyp.xyz CNAME .
 *.dyoixbyp.xyz CNAME .
 dyp2p-ali.douyucdn.cn CNAME .
@@ -44210,8 +44206,6 @@ jyzkut.com CNAME .
 *.jyzkut.com CNAME .
 jz4u1.icu CNAME .
 *.jz4u1.icu CNAME .
-jzbvwqeowwvob.top CNAME .
-*.jzbvwqeowwvob.top CNAME .
 jzplabcvvy.com CNAME .
 *.jzplabcvvy.com CNAME .
 jzqbyykbrrbkq.top CNAME .
@@ -53502,8 +53496,6 @@ npetropicalnorma.com CNAME .
 *.npetropicalnorma.com CNAME .
 npetropicalnormati.org CNAME .
 *.npetropicalnormati.org CNAME .
-npgfachpg.com CNAME .
-*.npgfachpg.com CNAME .
 npiqpynunahs.com CNAME .
 *.npiqpynunahs.com CNAME .
 nplvdodbja.com CNAME .
@@ -62726,8 +62718,6 @@ reluctantlygracefulcabinet.com CNAME .
 *.reluctantlygracefulcabinet.com CNAME .
 reluctantturpentine.com CNAME .
 *.reluctantturpentine.com CNAME .
-relwnriokscgt.com CNAME .
-*.relwnriokscgt.com CNAME .
 remain.appcpi.net CNAME .
 *.remain.appcpi.net CNAME .
 remainderskins.com CNAME .
@@ -63934,8 +63924,6 @@ rqwel.com CNAME .
 *.rqwel.com CNAME .
 rqwlvvkoqmkma.top CNAME .
 *.rqwlvvkoqmkma.top CNAME .
-rrayqhqxmybn.com CNAME .
-*.rrayqhqxmybn.com CNAME .
 rreftyonkak.com CNAME .
 *.rreftyonkak.com CNAME .
 rregahfuk.com CNAME .
@@ -76218,8 +76206,6 @@ trk2-wtb.swaven.com CNAME .
 *.trk2-wtb.swaven.com CNAME .
 trk2.pinterest.com CNAME .
 *.trk2.pinterest.com CNAME .
-trk72.com CNAME .
-*.trk72.com CNAME .
 trkdefbmedia.eu CNAME .
 *.trkdefbmedia.eu CNAME .
 trkerupper.com CNAME .
@@ -78342,8 +78328,6 @@ vacaneedasap.com CNAME .
 *.vacaneedasap.com CNAME .
 vacationmonday.com CNAME .
 *.vacationmonday.com CNAME .
-vaccinationwear.com CNAME .
-*.vaccinationwear.com CNAME .
 vaccineconvictedseafood.com CNAME .
 *.vaccineconvictedseafood.com CNAME .
 vachoumpuh.net CNAME .
