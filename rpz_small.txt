@@ -1,16 +1,16 @@
-; Version: 202506100820
+; Version: 202506100920
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84934
-; Last modified: 2025-06-10T08:20:32+0000
+; Entries: 84922
+; Last modified: 2025-06-10T09:20:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749543121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749546721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2094,8 +2094,6 @@ $TTL 30
 *.548f23e472.com CNAME .
 54e4e31106.6e10268cd2.com CNAME .
 *.54e4e31106.6e10268cd2.com CNAME .
-5500a1052e.com CNAME .
-*.5500a1052e.com CNAME .
 550a.com CNAME .
 *.550a.com CNAME .
 551ba6c442.com CNAME .
@@ -16310,8 +16308,6 @@ bettentacruela.com CNAME .
 *.bettentacruela.com CNAME .
 betteradsystem.com CNAME .
 *.betteradsystem.com CNAME .
-bettercontentservice.top CNAME .
-*.bettercontentservice.top CNAME .
 betterdirectit.com CNAME .
 *.betterdirectit.com CNAME .
 bettin2you.com CNAME .
@@ -40040,8 +40036,6 @@ hitbox.com CNAME .
 *.hitbox.com CNAME .
 hitcents.com CNAME .
 *.hitcents.com CNAME .
-hitchelunspun.com CNAME .
-*.hitchelunspun.com CNAME .
 hitchimmerse.com CNAME .
 *.hitchimmerse.com CNAME .
 hitchprivilege.com CNAME .
@@ -40536,8 +40530,6 @@ hourglassinedible.com CNAME .
 *.hourglassinedible.com CNAME .
 hoursencirclepeel.com CNAME .
 *.hoursencirclepeel.com CNAME .
-hourstreeadjoining.com CNAME .
-*.hourstreeadjoining.com CNAME .
 houseads-prod.elasticbeanstalk.com CNAME .
 *.houseads-prod.elasticbeanstalk.com CNAME .
 householdlieutenant.com CNAME .
@@ -51678,8 +51670,6 @@ mule.caddyserver.com CNAME .
 *.mule.caddyserver.com CNAME .
 mule.pricelessai.com CNAME .
 *.mule.pricelessai.com CNAME .
-mulecleared.com CNAME .
-*.mulecleared.com CNAME .
 muletatyphic.com CNAME .
 *.muletatyphic.com CNAME .
 multiculturalcakelimited.com CNAME .
@@ -73924,8 +73914,6 @@ tkrecorder.aotter.net CNAME .
 *.tkrecorder.aotter.net CNAME .
 tktracker.aotter.net CNAME .
 *.tktracker.aotter.net CNAME .
-tkyoblcksma.site CNAME .
-*.tkyoblcksma.site CNAME .
 tl.tradetracker.net CNAME .
 *.tl.tradetracker.net CNAME .
 tl2go.com CNAME .
