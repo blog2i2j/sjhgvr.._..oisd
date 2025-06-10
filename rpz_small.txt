@@ -1,16 +1,16 @@
-; Version: 202506100520
+; Version: 202506100620
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84976
-; Last modified: 2025-06-10T05:20:58+0000
+; Entries: 84962
+; Last modified: 2025-06-10T06:20:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749532322 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749535921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -10686,8 +10686,6 @@ anadissolvedless.com CNAME .
 *.anadissolvedless.com CNAME .
 anadistil.com CNAME .
 *.anadistil.com CNAME .
-anaemiaperceivedverge.com CNAME .
-*.anaemiaperceivedverge.com CNAME .
 anahtars.com CNAME .
 *.anahtars.com CNAME .
 anal-acrobats.com CNAME .
@@ -21114,8 +21112,6 @@ cleanmediaads.com CNAME .
 *.cleanmediaads.com CNAME .
 cleanplentifulnomad.com CNAME .
 *.cleanplentifulnomad.com CNAME .
-cleanresound.com CNAME .
-*.cleanresound.com CNAME .
 cleantrafficrotate.com CNAME .
 *.cleantrafficrotate.com CNAME .
 clear-request.com CNAME .
@@ -35094,8 +35090,6 @@ fluffytracing.com CNAME .
 *.fluffytracing.com CNAME .
 fluingdulotic.com CNAME .
 *.fluingdulotic.com CNAME .
-flungsnibble.com CNAME .
-*.flungsnibble.com CNAME .
 flurry.cachefly.net CNAME .
 *.flurry.cachefly.net CNAME .
 flurry.com CNAME .
@@ -37174,8 +37168,6 @@ gkbpmrtixkzui.one CNAME .
 *.gkbpmrtixkzui.one CNAME .
 gkeolwi.icu CNAME .
 *.gkeolwi.icu CNAME .
-gkramjalsrrune.com CNAME .
-*.gkramjalsrrune.com CNAME .
 gkxlfdxlbi.com CNAME .
 *.gkxlfdxlbi.com CNAME .
 gkyju.space CNAME .
@@ -45162,8 +45154,6 @@ kooappslogs.com CNAME .
 *.kooappslogs.com CNAME .
 koocash.com CNAME .
 *.koocash.com CNAME .
-koocoofy.com CNAME .
-*.koocoofy.com CNAME .
 koogreep.com CNAME .
 *.koogreep.com CNAME .
 kookypeach.com CNAME .
@@ -58736,8 +58726,6 @@ poledgrenier.top CNAME .
 *.poledgrenier.top CNAME .
 policeair.com CNAME .
 *.policeair.com CNAME .
-policesportsman.com CNAME .
-*.policesportsman.com CNAME .
 policy.video.ptqy.gitv.tv CNAME .
 *.policy.video.ptqy.gitv.tv CNAME .
 polished-family.pro CNAME .
@@ -62078,8 +62066,6 @@ rbnt.org CNAME .
 *.rbnt.org CNAME .
 rbone.link CNAME .
 *.rbone.link CNAME .
-rboyqkyojrelk.top CNAME .
-*.rboyqkyojrelk.top CNAME .
 rboyqkyrwrvkq.top CNAME .
 *.rboyqkyrwrvkq.top CNAME .
 rbqcg6g.de CNAME .
