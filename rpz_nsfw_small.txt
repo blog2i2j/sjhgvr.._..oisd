@@ -1,16 +1,16 @@
-; Version: 202506092326
+; Version: 202506100035
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43548
-; Last modified: 2025-06-09T23:26:15+0000
+; Entries: 43546
+; Last modified: 2025-06-10T00:35:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749510721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749514321 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -16158,6 +16158,8 @@ hostfree.pw CNAME .
 *.hostfree.pw CNAME .
 hosting4iran.com CNAME .
 *.hosting4iran.com CNAME .
+hostry.host CNAME .
+*.hostry.host CNAME .
 hot-cartoon.com CNAME .
 *.hot-cartoon.com CNAME .
 hot-girls-fuck.com CNAME .
@@ -23596,8 +23598,6 @@ mypornstarblogs.com CNAME .
 *.mypornstarblogs.com CNAME .
 mypornstarbook.net CNAME .
 *.mypornstarbook.net CNAME .
-myporntape.com CNAME .
-*.myporntape.com CNAME .
 mypovcams.com CNAME .
 *.mypovcams.com CNAME .
 myprivatefling.com CNAME .
@@ -32578,8 +32578,6 @@ sexfullmovies.net CNAME .
 *.sexfullmovies.net CNAME .
 sexfun.nl CNAME .
 *.sexfun.nl CNAME .
-sexgai9x.pro CNAME .
-*.sexgai9x.pro CNAME .
 sexgaigoi.cc CNAME .
 *.sexgaigoi.cc CNAME .
 sexgaivn.net CNAME .
@@ -35588,6 +35586,8 @@ tamilsex.pink CNAME .
 *.tamilsex.pink CNAME .
 tamilsexkathai.net CNAME .
 *.tamilsexkathai.net CNAME .
+tamilsexstories.blog CNAME .
+*.tamilsexstories.blog CNAME .
 tamilsexstories.info CNAME .
 *.tamilsexstories.info CNAME .
 tamilsexstories.me CNAME .
@@ -38900,8 +38900,6 @@ vintagepornq.com CNAME .
 *.vintagepornq.com CNAME .
 vintagepornv.com CNAME .
 *.vintagepornv.com CNAME .
-vintagepornvideos.sexy CNAME .
-*.vintagepornvideos.sexy CNAME .
 vintagepplanet.com CNAME .
 *.vintagepplanet.com CNAME .
 vintagepreality.com CNAME .
