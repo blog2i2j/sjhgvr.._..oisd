@@ -1,16 +1,16 @@
-; Version: 202506100720
+; Version: 202506100820
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84946
-; Last modified: 2025-06-10T07:20:32+0000
+; Entries: 84934
+; Last modified: 2025-06-10T08:20:32+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749539521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749543121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -28066,8 +28066,6 @@ delascalles.com CNAME .
 *.delascalles.com CNAME .
 delawhorsely.shop CNAME .
 *.delawhorsely.shop CNAME .
-delayedmall.pro CNAME .
-*.delayedmall.pro CNAME .
 delete05032026.shop CNAME .
 *.delete05032026.shop CNAME .
 delicateomissionarched.com CNAME .
@@ -45044,8 +45042,6 @@ knowingsignificance.com CNAME .
 *.knowingsignificance.com CNAME .
 knowledgeable-tree.com CNAME .
 *.knowledgeable-tree.com CNAME .
-knowmakeshalfmoon.com CNAME .
-*.knowmakeshalfmoon.com CNAME .
 known-table.pro CNAME .
 *.known-table.pro CNAME .
 knownamount.com CNAME .
@@ -59466,8 +59462,6 @@ prfectnewoffer.net CNAME .
 *.prfectnewoffer.net CNAME .
 prfwhite.com CNAME .
 *.prfwhite.com CNAME .
-pricklyachetongs.com CNAME .
-*.pricklyachetongs.com CNAME .
 pricklymine.com CNAME .
 *.pricklymine.com CNAME .
 priestboundsay.com CNAME .
@@ -73620,8 +73614,6 @@ ti4la.icu CNAME .
 *.ti4la.icu CNAME .
 tianji.flowgpt.com CNAME .
 *.tianji.flowgpt.com CNAME .
-tiaoap.xyz CNAME .
-*.tiaoap.xyz CNAME .
 tibacta.com CNAME .
 *.tibacta.com CNAME .
 tiboha.top CNAME .
@@ -73942,8 +73934,6 @@ tlads.midtc.com CNAME .
 *.tlads.midtc.com CNAME .
 tljrvn.icu CNAME .
 *.tljrvn.icu CNAME .
-tlkbfilacsw.com CNAME .
-*.tlkbfilacsw.com CNAME .
 tlklwtqqewceq.world CNAME .
 *.tlklwtqqewceq.world CNAME .
 tlmtr.org CNAME .
@@ -82280,8 +82270,6 @@ xjrwxfdphc.com CNAME .
 *.xjrwxfdphc.com CNAME .
 xjtosdof.icu CNAME .
 *.xjtosdof.icu CNAME .
-xjvunf.top CNAME .
-*.xjvunf.top CNAME .
 xjwhtz10.com CNAME .
 *.xjwhtz10.com CNAME .
 xjwhtz2.com CNAME .
