@@ -1,16 +1,16 @@
-; Version: 202506100035
+; Version: 202506100126
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43546
-; Last modified: 2025-06-10T00:35:13+0000
+; Entries: 43550
+; Last modified: 2025-06-10T01:26:30+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749514321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749517921 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -10180,8 +10180,6 @@ eroticzone.it CNAME .
 *.eroticzone.it CNAME .
 eroticzoom.info CNAME .
 *.eroticzoom.info CNAME .
-eroticzoom.top CNAME .
-*.eroticzoom.top CNAME .
 eroticzoom.xyz CNAME .
 *.eroticzoom.xyz CNAME .
 erotik-von-nebenan.com CNAME .
@@ -15416,6 +15414,8 @@ hentaiputa.com CNAME .
 *.hentaiputa.com CNAME .
 hentaiqueens.com CNAME .
 *.hentaiqueens.com CNAME .
+hentairabbit.com CNAME .
+*.hentairabbit.com CNAME .
 hentaird.tv CNAME .
 *.hentaird.tv CNAME .
 hentairead.com CNAME .
@@ -23632,6 +23632,8 @@ mysensualmatch.com CNAME .
 *.mysensualmatch.com CNAME .
 mysex.video CNAME .
 *.mysex.video CNAME .
+mysex.win CNAME .
+*.mysex.win CNAME .
 mysexcam.org CNAME .
 *.mysexcam.org CNAME .
 mysexgamer.com CNAME .
@@ -39012,6 +39014,8 @@ visitxnxx.com CNAME .
 *.visitxnxx.com CNAME .
 vitoporno.com CNAME .
 *.vitoporno.com CNAME .
+viva-av.net CNAME .
+*.viva-av.net CNAME .
 vivagals.com CNAME .
 *.vivagals.com CNAME .
 vivalapornoifsavip.com CNAME .
