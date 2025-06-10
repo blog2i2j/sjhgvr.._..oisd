@@ -1,16 +1,16 @@
-; Version: 202506100126
+; Version: 202506100225
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 43550
-; Last modified: 2025-06-10T01:26:30+0000
+; Entries: 43558
+; Last modified: 2025-06-10T02:25:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749517921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749521521 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -550,6 +550,8 @@ $TTL 30
 *.3prn.com CNAME .
 3rab-naar.com CNAME .
 *.3rab-naar.com CNAME .
+3rabnaar.com CNAME .
+*.3rabnaar.com CNAME .
 3rabxn.com CNAME .
 *.3rabxn.com CNAME .
 3seksuals.com CNAME .
@@ -1250,8 +1252,6 @@ adultchat.pro CNAME .
 *.adultchat.pro CNAME .
 adultchatdatingsites.com CNAME .
 *.adultchatdatingsites.com CNAME .
-adultcomfinderfriend.com CNAME .
-*.adultcomfinderfriend.com CNAME .
 adultcomixxx.com CNAME .
 *.adultcomixxx.com CNAME .
 adultcrush.com CNAME .
@@ -4352,6 +4352,8 @@ best-pornos.com CNAME .
 *.best-pornos.com CNAME .
 best-sex-clips.com CNAME .
 *.best-sex-clips.com CNAME .
+best-sexy-brides.com CNAME .
+*.best-sexy-brides.com CNAME .
 best-xxx.video CNAME .
 *.best-xxx.video CNAME .
 best18porn.com CNAME .
@@ -5262,6 +5264,8 @@ bolatino.com CNAME .
 *.bolatino.com CNAME .
 bolly-tube.com CNAME .
 *.bolly-tube.com CNAME .
+bollywoodlife.com CNAME .
+*.bollywoodlife.com CNAME .
 bollywoodmaal.com CNAME .
 *.bollywoodmaal.com CNAME .
 bollywoodporn.pro CNAME .
@@ -36358,6 +36362,8 @@ thepornbuzz.com CNAME .
 *.thepornbuzz.com CNAME .
 theporndude.com CNAME .
 *.theporndude.com CNAME .
+theporndude.onl CNAME .
+*.theporndude.onl CNAME .
 theporndude.vip CNAME .
 *.theporndude.vip CNAME .
 thepornfree.me CNAME .
@@ -39348,6 +39354,8 @@ wa9k.com CNAME .
 *.wa9k.com CNAME .
 waehlmich.com CNAME .
 *.waehlmich.com CNAME .
+wahedsex.com CNAME .
+*.wahedsex.com CNAME .
 wahmbahm.com CNAME .
 *.wahmbahm.com CNAME .
 waifu.pics CNAME .
