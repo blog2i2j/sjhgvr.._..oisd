@@ -1,16 +1,16 @@
-; Version: 202506101145
+; Version: 202506101221
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84920
-; Last modified: 2025-06-10T11:45:59+0000
+; Entries: 84914
+; Last modified: 2025-06-10T12:21:08+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749553921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749557521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -28154,8 +28154,6 @@ denudeobarni.com CNAME .
 *.denudeobarni.com CNAME .
 denydrughim.live CNAME .
 *.denydrughim.live CNAME .
-deobp.com CNAME .
-*.deobp.com CNAME .
 deostr.com CNAME .
 *.deostr.com CNAME .
 dep.hmgroup.com CNAME .
@@ -39616,8 +39614,6 @@ heukmsactivator.com CNAME .
 *.heukmsactivator.com CNAME .
 heukpiroot.com CNAME .
 *.heukpiroot.com CNAME .
-hewomenentail.com CNAME .
-*.hewomenentail.com CNAME .
 hexagon-analytics.com CNAME .
 *.hexagon-analytics.com CNAME .
 hexarchotto.shop CNAME .
@@ -79230,8 +79226,6 @@ visitpipe.com CNAME .
 *.visitpipe.com CNAME .
 visitstats.com CNAME .
 *.visitstats.com CNAME .
-visitswigspittle.com CNAME .
-*.visitswigspittle.com CNAME .
 visitweb.com CNAME .
 *.visitweb.com CNAME .
 visor.sberbank.ru CNAME .
