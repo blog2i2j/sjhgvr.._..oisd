@@ -1,16 +1,16 @@
-; Version: 202506112020
+; Version: 202506112120
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84918
-; Last modified: 2025-06-11T20:20:57+0000
+; Entries: 84902
+; Last modified: 2025-06-11T21:20:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749672722 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749676322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1352,8 +1352,6 @@ $TTL 30
 *.2wink.com.au CNAME .
 2wu0m0ms098w7148.xyz CNAME .
 *.2wu0m0ms098w7148.xyz CNAME .
-2xs4eumlc.com CNAME .
-*.2xs4eumlc.com CNAME .
 2ydian.com CNAME .
 *.2ydian.com CNAME .
 3.5646.cn CNAME .
@@ -46602,8 +46600,6 @@ lispaircraftcraziness.com CNAME .
 *.lispaircraftcraziness.com CNAME .
 listenedarsonproceedings.com CNAME .
 *.listenedarsonproceedings.com CNAME .
-listenedmusician.com CNAME .
-*.listenedmusician.com CNAME .
 listenerhooter.com CNAME .
 *.listenerhooter.com CNAME .
 listhugdab.live CNAME .
@@ -47044,8 +47040,6 @@ locusflourishgarlic.com CNAME .
 *.locusflourishgarlic.com CNAME .
 locust.ausrebellion.earth CNAME .
 *.locust.ausrebellion.earth CNAME .
-lodgesweet.com CNAME .
-*.lodgesweet.com CNAME .
 lofqvl.icu CNAME .
 *.lofqvl.icu CNAME .
 loftsbaacad.com CNAME .
@@ -50144,8 +50138,6 @@ mfbvgcjkqpxup.xyz CNAME .
 *.mfbvgcjkqpxup.xyz CNAME .
 mfkfkhfhmfkfkhfh.top CNAME .
 *.mfkfkhfhmfkfkhfh.top CNAME .
-mfrgfuaq.com CNAME .
-*.mfrgfuaq.com CNAME .
 mfuodmpu.com CNAME .
 *.mfuodmpu.com CNAME .
 mfyavsmiha.com CNAME .
@@ -57304,8 +57296,6 @@ perigshfnon.com CNAME .
 *.perigshfnon.com CNAME .
 perilastronaut.com CNAME .
 *.perilastronaut.com CNAME .
-periodspoppyrefuge.com CNAME .
-*.periodspoppyrefuge.com CNAME .
 perksyringefiring.com CNAME .
 *.perksyringefiring.com CNAME .
 perky-method.com CNAME .
@@ -60216,8 +60206,6 @@ pubfruitlesswording.com CNAME .
 *.pubfruitlesswording.com CNAME .
 pubfuture-ad.com CNAME .
 *.pubfuture-ad.com CNAME .
-pubfutureads.com CNAME .
-*.pubfutureads.com CNAME .
 pubgalaxy.com CNAME .
 *.pubgalaxy.com CNAME .
 pubguru.net CNAME .
@@ -62236,8 +62224,6 @@ receptivity.io CNAME .
 *.receptivity.io CNAME .
 recessionspeaksanybody.com CNAME .
 *.recessionspeaksanybody.com CNAME .
-rechanque.com CNAME .
-*.rechanque.com CNAME .
 recharsemiarc.com CNAME .
 *.recharsemiarc.com CNAME .
 recipientmuseumdismissed.com CNAME .
@@ -65834,8 +65820,6 @@ scavelbuntine.life CNAME .
 *.scavelbuntine.life CNAME .
 scenbe.com CNAME .
 *.scenbe.com CNAME .
-scendho.com CNAME .
-*.scendho.com CNAME .
 scenedaybreakpatronize.com CNAME .
 *.scenedaybreakpatronize.com CNAME .
 scenegaitlawn.com CNAME .
