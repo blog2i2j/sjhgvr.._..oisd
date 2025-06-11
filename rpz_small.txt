@@ -1,16 +1,16 @@
-; Version: 202506112220
+; Version: 202506112320
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84864
-; Last modified: 2025-06-11T22:20:28+0000
+; Entries: 84838
+; Last modified: 2025-06-11T23:20:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749679921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749683521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9304,8 +9304,6 @@ agtzazkci.com CNAME .
 *.agtzazkci.com CNAME .
 agufoi.xyz CNAME .
 *.agufoi.xyz CNAME .
-agurgeed.net CNAME .
-*.agurgeed.net CNAME .
 agxpzsgyklgmg.today CNAME .
 *.agxpzsgyklgmg.today CNAME .
 ah-ha.com CNAME .
@@ -9662,8 +9660,6 @@ akkombojk.com CNAME .
 *.akkombojk.com CNAME .
 akku.mondo.trium.mitsubishi.sms13.de CNAME .
 *.akku.mondo.trium.mitsubishi.sms13.de CNAME .
-aklmjylamvkqv.top CNAME .
-*.aklmjylamvkqv.top CNAME .
 aklmjylwvkjbb.top CNAME .
 *.aklmjylwvkjbb.top CNAME .
 aklmjylwvkqbm.top CNAME .
@@ -27654,8 +27650,6 @@ dbujksp6lhljo.cloudfront.net CNAME .
 *.dbujksp6lhljo.cloudfront.net CNAME .
 dbuq47t160425b.cfd CNAME .
 *.dbuq47t160425b.cfd CNAME .
-dbvpikc.com CNAME .
-*.dbvpikc.com CNAME .
 dbw7j2q14is6l.cloudfront.net CNAME .
 *.dbw7j2q14is6l.cloudfront.net CNAME .
 dbwmzcj-r.click CNAME .
@@ -33336,8 +33330,6 @@ eyereturn.com CNAME .
 *.eyereturn.com CNAME .
 eyewonder.com CNAME .
 *.eyewonder.com CNAME .
-eyhcervzexp.com CNAME .
-*.eyhcervzexp.com CNAME .
 eynol.xyz CNAME .
 *.eynol.xyz CNAME .
 eyrybuiltin.shop CNAME .
@@ -40608,8 +40600,6 @@ hrwbr.life CNAME .
 *.hrwbr.life CNAME .
 hrwhwcyqjritt.xyz CNAME .
 *.hrwhwcyqjritt.xyz CNAME .
-hscozgoqffn.com CNAME .
-*.hscozgoqffn.com CNAME .
 hsfewosve.xyz CNAME .
 *.hsfewosve.xyz CNAME .
 hsgdyq.com CNAME .
@@ -42654,8 +42644,6 @@ ipad.pc899.cn CNAME .
 *.ipad.pc899.cn CNAME .
 ipcc.vnpt.com.vn CNAME .
 *.ipcc.vnpt.com.vn CNAME .
-ipcejez.com CNAME .
-*.ipcejez.com CNAME .
 ipcheck.blogsys.jp CNAME .
 *.ipcheck.blogsys.jp CNAME .
 ipelo.site CNAME .
@@ -44220,8 +44208,6 @@ jxeqltpu.property CNAME .
 *.jxeqltpu.property CNAME .
 jxjpnd.xyz CNAME .
 *.jxjpnd.xyz CNAME .
-jxjttecednvb.com CNAME .
-*.jxjttecednvb.com CNAME .
 jxtcbriz.icu CNAME .
 *.jxtcbriz.icu CNAME .
 jy.zhongxues.com CNAME .
@@ -48522,8 +48508,6 @@ lzqmjakwllbrj.top CNAME .
 *.lzqmjakwllbrj.top CNAME .
 lzukrobrykk.com CNAME .
 *.lzukrobrykk.com CNAME .
-lzvwybvvyrwbr.top CNAME .
-*.lzvwybvvyrwbr.top CNAME .
 lzxdx24yib.com CNAME .
 *.lzxdx24yib.com CNAME .
 lzzqfj.xyz CNAME .
@@ -59618,8 +59602,6 @@ projectagoralibs.com CNAME .
 *.projectagoralibs.com CNAME .
 projectagoratech.com CNAME .
 *.projectagoratech.com CNAME .
-projectscupcakeinternational.com CNAME .
-*.projectscupcakeinternational.com CNAME .
 projectwonderful.com CNAME .
 *.projectwonderful.com CNAME .
 prolatecyclus.com CNAME .
@@ -60056,8 +60038,6 @@ ptichoolsougn.net CNAME .
 *.ptichoolsougn.net CNAME .
 ptipsixo.com CNAME .
 *.ptipsixo.com CNAME .
-ptipsout.net CNAME .
-*.ptipsout.net CNAME .
 ptirgaux.com CNAME .
 *.ptirgaux.com CNAME .
 ptirtika.com CNAME .
@@ -76078,8 +76058,6 @@ trk-consulatu.com CNAME .
 *.trk-consulatu.com CNAME .
 trk-epicurei.com CNAME .
 *.trk-epicurei.com CNAME .
-trk-imps.com CNAME .
-*.trk-imps.com CNAME .
 trk-pcweb.api.zaloapp.com CNAME .
 *.trk-pcweb.api.zaloapp.com CNAME .
 trk.123c.vn CNAME .
@@ -76232,8 +76210,6 @@ truehits3.gits.net.th CNAME .
 *.truehits3.gits.net.th CNAME .
 truelivewell.com CNAME .
 *.truelivewell.com CNAME .
-truell55.top CNAME .
-*.truell55.top CNAME .
 truenat.bid CNAME .
 *.truenat.bid CNAME .
 trulysuitedcharges.com CNAME .
@@ -77186,8 +77162,6 @@ ujdtnsgiagbxx.click CNAME .
 *.ujdtnsgiagbxx.click CNAME .
 ujlxkxgfl3.creativelandings.xyz CNAME .
 *.ujlxkxgfl3.creativelandings.xyz CNAME .
-ujovcb.cn CNAME .
-*.ujovcb.cn CNAME .
 ujw1y54r.fun CNAME .
 *.ujw1y54r.fun CNAME .
 ukadh.livelyroot.com CNAME .
