@@ -1,16 +1,16 @@
-; Version: 202506110019
+; Version: 202506110119
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84772
-; Last modified: 2025-06-11T00:19:16+0000
+; Entries: 84758
+; Last modified: 2025-06-11T01:19:35+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749600721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749604321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21546,8 +21546,6 @@ clodsplit.com CNAME .
 *.clodsplit.com CNAME .
 cloffdigeny.click CNAME .
 *.cloffdigeny.click CNAME .
-clog.geniex.com CNAME .
-*.clog.geniex.com CNAME .
 clog.go.com CNAME .
 *.clog.go.com CNAME .
 clog.lghv.net CNAME .
@@ -31356,8 +31354,6 @@ eepjhvlyzlred.icu CNAME .
 *.eepjhvlyzlred.icu CNAME .
 eepsoumt.com CNAME .
 *.eepsoumt.com CNAME .
-eergortu.net CNAME .
-*.eergortu.net CNAME .
 eeriemediocre.com CNAME .
 *.eeriemediocre.com CNAME .
 eertoamogn.net CNAME .
@@ -32132,8 +32128,6 @@ equides.pro CNAME .
 *.equides.pro CNAME .
 equilibriumfestive.com CNAME .
 *.equilibriumfestive.com CNAME .
-equipmentapes.com CNAME .
-*.equipmentapes.com CNAME .
 equipmentselfemployed.com CNAME .
 *.equipmentselfemployed.com CNAME .
 equippeddetachmentabberant.com CNAME .
@@ -41226,8 +41220,6 @@ idreamed.com CNAME .
 *.idreamed.com CNAME .
 idregie.com CNAME .
 *.idregie.com CNAME .
-idrfvtcl.com CNAME .
-*.idrfvtcl.com CNAME .
 idrylgibbled.top CNAME .
 *.idrylgibbled.top CNAME .
 idsrscpzgpgzw.rocks CNAME .
@@ -52554,8 +52546,6 @@ newbiquge.org CNAME .
 *.newbiquge.org CNAME .
 newbluetrue.xyz CNAME .
 *.newbluetrue.xyz CNAME .
-newbornprayerseagle.com CNAME .
-*.newbornprayerseagle.com CNAME .
 newcategory.pro CNAME .
 *.newcategory.pro CNAME .
 newdisplayformats.com CNAME .
@@ -67278,8 +67268,6 @@ sid.nordstrom.com CNAME .
 *.sid.nordstrom.com CNAME .
 sidanarchy.net CNAME .
 *.sidanarchy.net CNAME .
-sidebar.angelfire.com CNAME .
-*.sidebar.angelfire.com CNAME .
 sidebiologyretirement.com CNAME .
 *.sidebiologyretirement.com CNAME .
 sidebyx.com CNAME .
@@ -71244,8 +71232,6 @@ sunriseholler.com CNAME .
 *.sunriseholler.com CNAME .
 sunstrokeload.com CNAME .
 *.sunstrokeload.com CNAME .
-suodxskgjynlu.store CNAME .
-*.suodxskgjynlu.store CNAME .
 suozmtcc.com CNAME .
 *.suozmtcc.com CNAME .
 sup.srvtax.com CNAME .
