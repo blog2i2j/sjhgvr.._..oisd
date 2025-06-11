@@ -1,16 +1,16 @@
-; Version: 202506111320
+; Version: 202506111459
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 85082
-; Last modified: 2025-06-11T13:20:41+0000
+; Entries: 85052
+; Last modified: 2025-06-11T14:59:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749647521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749651121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -7094,8 +7094,6 @@ ads.imgdesu.art CNAME .
 *.ads.imgdesu.art CNAME .
 ads.imgur.com CNAME .
 *.ads.imgur.com CNAME .
-ads.imovideo.ru CNAME .
-*.ads.imovideo.ru CNAME .
 ads.impulsosocial.online CNAME .
 *.ads.impulsosocial.online CNAME .
 ads.inegolonline.com CNAME .
@@ -8612,10 +8610,6 @@ adx-exchange.toast.com CNAME .
 *.adx-exchange.toast.com CNAME .
 adx-open-service.youku.com CNAME .
 *.adx-open-service.youku.com CNAME .
-adx-os.bridgeoos.com CNAME .
-*.adx-os.bridgeoos.com CNAME .
-adx-sg-req.bridgeoos.com CNAME .
-*.adx-sg-req.bridgeoos.com CNAME .
 adx.36kr.com CNAME .
 *.adx.36kr.com CNAME .
 adx.ads.heytapmobi.com CNAME .
@@ -12308,8 +12302,6 @@ api.bluerunningshadow.com CNAME .
 *.api.bluerunningshadow.com CNAME .
 api.boclinkads.com CNAME .
 *.api.boclinkads.com CNAME .
-api.bridgeoos.com CNAME .
-*.api.bridgeoos.com CNAME .
 api.brs.intl.miui.com CNAME .
 *.api.brs.intl.miui.com CNAME .
 api.bugsnag.com CNAME .
@@ -17804,6 +17796,8 @@ bridegaspjustification.com CNAME .
 *.bridegaspjustification.com CNAME .
 bridgearchly.com CNAME .
 *.bridgearchly.com CNAME .
+bridgeoos.com CNAME .
+*.bridgeoos.com CNAME .
 bridlealacrityleak.com CNAME .
 *.bridlealacrityleak.com CNAME .
 brief-secret.com CNAME .
@@ -27576,8 +27570,6 @@ datingvr.ru CNAME .
 *.datingvr.ru CNAME .
 datjwuqifa.com CNAME .
 *.datjwuqifa.com CNAME .
-datk.bridgeoos.com CNAME .
-*.datk.bridgeoos.com CNAME .
 datlngllfes.net CNAME .
 *.datlngllfes.net CNAME .
 datqagdkurce.com CNAME .
@@ -33798,8 +33790,6 @@ fasfsv-sli.love CNAME .
 *.fasfsv-sli.love CNAME .
 fasgazazxvi.com CNAME .
 *.fasgazazxvi.com CNAME .
-fashionablegangsterexplosion.com CNAME .
-*.fashionablegangsterexplosion.com CNAME .
 fastad.beepworld.de CNAME .
 *.fastad.beepworld.de CNAME .
 fastapi.net CNAME .
@@ -44756,8 +44746,6 @@ kiklazopnqce.com CNAME .
 *.kiklazopnqce.com CNAME .
 kikmpahfaj.com CNAME .
 *.kikmpahfaj.com CNAME .
-kikoucuy.net CNAME .
-*.kikoucuy.net CNAME .
 killconvincing.com CNAME .
 *.killconvincing.com CNAME .
 kiloh.ovh CNAME .
@@ -45044,8 +45032,6 @@ knittedcourthouse.com CNAME .
 *.knittedcourthouse.com CNAME .
 knivesprincessbitterness.com CNAME .
 *.knivesprincessbitterness.com CNAME .
-knivessimulatorherein.com CNAME .
-*.knivessimulatorherein.com CNAME .
 knkkpmtdesg.com CNAME .
 *.knkkpmtdesg.com CNAME .
 knlympeye.com CNAME .
@@ -45484,8 +45470,6 @@ kyyfsw.xyz CNAME .
 *.kyyfsw.xyz CNAME .
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes CNAME .
 *.kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes CNAME .
-kzcxpsgytvfy.com CNAME .
-*.kzcxpsgytvfy.com CNAME .
 kzfslblsahnou.life CNAME .
 *.kzfslblsahnou.life CNAME .
 kzgwhioswkztt.one CNAME .
@@ -50546,8 +50530,6 @@ miserable-physical.com CNAME .
 *.miserable-physical.com CNAME .
 miserable-thing.pro CNAME .
 *.miserable-thing.pro CNAME .
-miserly-phone.com CNAME .
-*.miserly-phone.com CNAME .
 miseryclevernessusage.com CNAME .
 *.miseryclevernessusage.com CNAME .
 miskenish.com CNAME .
@@ -51810,8 +51792,6 @@ mutsjeamenism.com CNAME .
 *.mutsjeamenism.com CNAME .
 mutteredadisa.com CNAME .
 *.mutteredadisa.com CNAME .
-muwgqcms.com CNAME .
-*.muwgqcms.com CNAME .
 muwmedia.com CNAME .
 *.muwmedia.com CNAME .
 muzarabeponym.website CNAME .
@@ -54082,8 +54062,6 @@ oainternetservices.com CNAME .
 *.oainternetservices.com CNAME .
 oainzuo.xyz CNAME .
 *.oainzuo.xyz CNAME .
-oakapsot.com CNAME .
-*.oakapsot.com CNAME .
 oakbustrp.com CNAME .
 *.oakbustrp.com CNAME .
 oakchokerfumes.com CNAME .
@@ -54528,8 +54506,6 @@ offfurreton.com CNAME .
 *.offfurreton.com CNAME .
 office1266.fun CNAME .
 *.office1266.fun CNAME .
-officerdiscontentedalley.com CNAME .
-*.officerdiscontentedalley.com CNAME .
 officetablntry.org CNAME .
 *.officetablntry.org CNAME .
 officialkmspico.com CNAME .
@@ -60726,8 +60702,6 @@ pushqwer.com CNAME .
 *.pushqwer.com CNAME .
 pushrase.com CNAME .
 *.pushrase.com CNAME .
-pushrb.pro CNAME .
-*.pushrb.pro CNAME .
 pushsar.com CNAME .
 *.pushsar.com CNAME .
 pushserve.xyz CNAME .
@@ -63582,8 +63556,6 @@ rixibe.xyz CNAME .
 *.rixibe.xyz CNAME .
 rjmjflkndiqxw.site CNAME .
 *.rjmjflkndiqxw.site CNAME .
-rjokawzwvryra.top CNAME .
-*.rjokawzwvryra.top CNAME .
 rjowzlkaz.today CNAME .
 *.rjowzlkaz.today CNAME .
 rjvzjn.top CNAME .
@@ -80196,8 +80168,6 @@ waterboa.midu.dev CNAME .
 *.waterboa.midu.dev CNAME .
 waterboa.nighttrain.co CNAME .
 *.waterboa.nighttrain.co CNAME .
-waterfallchequeomnipotent.com CNAME .
-*.waterfallchequeomnipotent.com CNAME .
 waterfrontdisgustingvest.com CNAME .
 *.waterfrontdisgustingvest.com CNAME .
 waterfrontfewersuccessive.com CNAME .
