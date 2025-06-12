@@ -1,16 +1,16 @@
-; Version: 202506120019
+; Version: 202506120119
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84798
-; Last modified: 2025-06-12T00:19:55+0000
+; Entries: 84776
+; Last modified: 2025-06-12T01:19:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749687121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749690721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1412,8 +1412,6 @@ $TTL 30
 *.30pk41r1i.de CNAME .
 30se9p8a0.de CNAME .
 *.30se9p8a0.de CNAME .
-30sec.info CNAME .
-*.30sec.info CNAME .
 30tgh64jp.de CNAME .
 *.30tgh64jp.de CNAME .
 3103cf02ec.com CNAME .
@@ -3750,8 +3748,6 @@ a2.xinhuanet.com CNAME .
 *.a2.xinhuanet.com CNAME .
 a25c71de26.62cf6d39c1.com CNAME .
 *.a25c71de26.62cf6d39c1.com CNAME .
-a272118d17.com CNAME .
-*.a272118d17.com CNAME .
 a2b219c0ce.com CNAME .
 *.a2b219c0ce.com CNAME .
 a2da0f64.xyz CNAME .
@@ -13112,8 +13108,6 @@ aromaexplode.com CNAME .
 *.aromaexplode.com CNAME .
 aromamidland.com CNAME .
 *.aromamidland.com CNAME .
-aromaticunderstanding.pro CNAME .
-*.aromaticunderstanding.pro CNAME .
 aroseexploit.com CNAME .
 *.aroseexploit.com CNAME .
 arosefairfaxadditional.com CNAME .
@@ -45752,8 +45746,6 @@ latest-news.pro CNAME .
 *.latest-news.pro CNAME .
 latestsocial.com CNAME .
 *.latestsocial.com CNAME .
-latexestetrane.top CNAME .
-*.latexestetrane.top CNAME .
 lathamnovel.shop CNAME .
 *.lathamnovel.shop CNAME .
 latinwayy.com CNAME .
@@ -48166,8 +48158,6 @@ ltapsxz.xyz CNAME .
 *.ltapsxz.xyz CNAME .
 ltassrv.com.s3.amazonaws.com CNAME .
 *.ltassrv.com.s3.amazonaws.com CNAME .
-ltengronsa.com CNAME .
-*.ltengronsa.com CNAME .
 ltetrailwaysint.org CNAME .
 *.ltetrailwaysint.org CNAME .
 ltewtuwushec.xyz CNAME .
@@ -49694,8 +49684,6 @@ meet-romanceconnects.com CNAME .
 *.meet-romanceconnects.com CNAME .
 meet-womanhere.com CNAME .
 *.meet-womanhere.com CNAME .
-meet4youu.com CNAME .
-*.meet4youu.com CNAME .
 meetaffiliate.com CNAME .
 *.meetaffiliate.com CNAME .
 meetingrailroad.com CNAME .
@@ -60784,8 +60772,6 @@ qaflyqanumeji.online CNAME .
 *.qaflyqanumeji.online CNAME .
 qahmipatkmaj.com CNAME .
 *.qahmipatkmaj.com CNAME .
-qainfcnvfensl.site CNAME .
-*.qainfcnvfensl.site CNAME .
 qakbajatfa.com CNAME .
 *.qakbajatfa.com CNAME .
 qaklbrqevbzqz.top CNAME .
@@ -61434,8 +61420,6 @@ qxwoiv.com CNAME .
 *.qxwoiv.com CNAME .
 qybnxoylbgukf.website CNAME .
 *.qybnxoylbgukf.website CNAME .
-qyjarheipi.com CNAME .
-*.qyjarheipi.com CNAME .
 qylyknxkeep.com CNAME .
 *.qylyknxkeep.com CNAME .
 qymkbmjssadw.top CNAME .
@@ -65648,8 +65632,6 @@ sayac.tmgrup.com.tr CNAME .
 *.sayac.tmgrup.com.tr CNAME .
 sayelo.xyz CNAME .
 *.sayelo.xyz CNAME .
-sayingconvicted.com CNAME .
-*.sayingconvicted.com CNAME .
 saylnk.com CNAME .
 *.saylnk.com CNAME .
 saymedia.com CNAME .
@@ -78478,8 +78460,6 @@ veepteero.com CNAME .
 *.veepteero.com CNAME .
 veeqlly.com CNAME .
 *.veeqlly.com CNAME .
-vegetationartcocoa.com CNAME .
-*.vegetationartcocoa.com CNAME .
 vehiclepatsyacacia.com CNAME .
 *.vehiclepatsyacacia.com CNAME .
 vehosw.com CNAME .
@@ -83928,8 +83908,6 @@ yshfyhfhzvcik.club CNAME .
 *.yshfyhfhzvcik.club CNAME .
 ysm.yahoo.com CNAME .
 *.ysm.yahoo.com CNAME .
-yssryr.cn CNAME .
-*.yssryr.cn CNAME .
 yt-adp.nosdn.127.net CNAME .
 *.yt-adp.nosdn.127.net CNAME .
 yt-adp.ws.126.net CNAME .
