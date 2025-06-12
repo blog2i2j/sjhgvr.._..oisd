@@ -1,16 +1,16 @@
-; Version: 202506121921
+; Version: 202506122021
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84722
-; Last modified: 2025-06-12T19:21:50+0000
+; Entries: 84702
+; Last modified: 2025-06-12T20:21:15+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749755521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749759121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -706,8 +706,6 @@ $TTL 30
 *.1buo.icu CNAME .
 1c0c3fde9d.com CNAME .
 *.1c0c3fde9d.com CNAME .
-1c7cf19baa.com CNAME .
-*.1c7cf19baa.com CNAME .
 1ca6e3e357.a8ca394de0.com CNAME .
 *.1ca6e3e357.a8ca394de0.com CNAME .
 1cbd637d10.2c8eb505eb.com CNAME .
@@ -33162,8 +33160,6 @@ experienceabdomen.com CNAME .
 *.experienceabdomen.com CNAME .
 experiencesunny.com CNAME .
 *.experiencesunny.com CNAME .
-experimentalpersecute.com CNAME .
-*.experimentalpersecute.com CNAME .
 experiments.sparanoid.net CNAME .
 *.experiments.sparanoid.net CNAME .
 expertnifg.com CNAME .
@@ -34208,8 +34204,6 @@ fidelity-media.com CNAME .
 *.fidelity-media.com CNAME .
 fidhkhqccgqkh.website CNAME .
 *.fidhkhqccgqkh.website CNAME .
-fidk.cn CNAME .
-*.fidk.cn CNAME .
 fidtaswiw.com CNAME .
 *.fidtaswiw.com CNAME .
 fiefsgnarled.top CNAME .
@@ -55150,8 +55144,6 @@ openad.travelnow.com CNAME .
 *.openad.travelnow.com CNAME .
 openads.friendfinder.com CNAME .
 *.openads.friendfinder.com CNAME .
-openerkey.com CNAME .
-*.openerkey.com CNAME .
 openersbens.com CNAME .
 *.openersbens.com CNAME .
 openfpcdn.io CNAME .
@@ -57806,8 +57798,6 @@ pityneedsdads.com CNAME .
 *.pityneedsdads.com CNAME .
 pitysuffix.com CNAME .
 *.pitysuffix.com CNAME .
-piumligjgm.com CNAME .
-*.piumligjgm.com CNAME .
 piuyt.com CNAME .
 *.piuyt.com CNAME .
 pivotrunner.com CNAME .
@@ -60980,8 +60970,6 @@ qjoges.xyz CNAME .
 *.qjoges.xyz CNAME .
 qjvksieybn.vip CNAME .
 *.qjvksieybn.vip CNAME .
-qjvsrmfoybyt.com CNAME .
-*.qjvsrmfoybyt.com CNAME .
 qjwvwu.xyz CNAME .
 *.qjwvwu.xyz CNAME .
 qkbjclwirtotj.vip CNAME .
@@ -68352,8 +68340,6 @@ souvenirsconsist.com CNAME .
 *.souvenirsconsist.com CNAME .
 sovietcontaminate.com CNAME .
 *.sovietcontaminate.com CNAME .
-sovietransom.com CNAME .
-*.sovietransom.com CNAME .
 soviettreasures.com CNAME .
 *.soviettreasures.com CNAME .
 sowfootsolent.com CNAME .
@@ -71100,8 +71086,6 @@ suchasricew.info CNAME .
 *.suchasricew.info CNAME .
 suckae.xyz CNAME .
 *.suckae.xyz CNAME .
-suckfaintlybooking.com CNAME .
-*.suckfaintlybooking.com CNAME .
 sucnaegzvbrhu.site CNAME .
 *.sucnaegzvbrhu.site CNAME .
 sucocune.com CNAME .
@@ -75918,8 +75902,6 @@ tripl3a.com CNAME .
 *.tripl3a.com CNAME .
 tripledeliveryinstance.com CNAME .
 *.tripledeliveryinstance.com CNAME .
-triplescrubjenny.com CNAME .
-*.triplescrubjenny.com CNAME .
 triplewhale-pixel.web.app CNAME .
 *.triplewhale-pixel.web.app CNAME .
 tripsthorpelemonade.com CNAME .
@@ -84464,8 +84446,6 @@ zoagajethathoo.net CNAME .
 *.zoagajethathoo.net CNAME .
 zoagremo.net CNAME .
 *.zoagremo.net CNAME .
-zoaheeth.com CNAME .
-*.zoaheeth.com CNAME .
 zoawufoy.net CNAME .
 *.zoawufoy.net CNAME .
 zodiacdinner.com CNAME .
