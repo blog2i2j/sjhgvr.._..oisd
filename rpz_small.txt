@@ -1,16 +1,16 @@
-; Version: 202506120219
+; Version: 202506120319
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84764
-; Last modified: 2025-06-12T02:19:40+0000
+; Entries: 84742
+; Last modified: 2025-06-12T03:19:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749694321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749697921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2728,8 +2728,6 @@ $TTL 30
 *.7fc0966988.com CNAME .
 7fc6635248.24ccdb8c44.com CNAME .
 *.7fc6635248.24ccdb8c44.com CNAME .
-7fc8.site CNAME .
-*.7fc8.site CNAME .
 7fkm2r4pzi.com CNAME .
 *.7fkm2r4pzi.com CNAME .
 7fva8algp45k.com CNAME .
@@ -29102,8 +29100,6 @@ djm080u34wfc5.cloudfront.net CNAME .
 *.djm080u34wfc5.cloudfront.net CNAME .
 djnaivalj34ub.cloudfront.net CNAME .
 *.djnaivalj34ub.cloudfront.net CNAME .
-djquevquroth.com CNAME .
-*.djquevquroth.com CNAME .
 djr4k68f8n55o.cloudfront.net CNAME .
 *.djr4k68f8n55o.cloudfront.net CNAME .
 djs.baomihua.com CNAME .
@@ -29210,8 +29206,6 @@ dlmr7hpb2buud.cloudfront.net CNAME .
 *.dlmr7hpb2buud.cloudfront.net CNAME .
 dlne6myudrxi1.cloudfront.net CNAME .
 *.dlne6myudrxi1.cloudfront.net CNAME .
-dlngzx.top CNAME .
-*.dlngzx.top CNAME .
 dlogs.bwton.com CNAME .
 *.dlogs.bwton.com CNAME .
 dlooqrhebkjoh.cloudfront.net CNAME .
@@ -32296,8 +32290,6 @@ ergonomicparadeupstroke.com CNAME .
 *.ergonomicparadeupstroke.com CNAME .
 eriavended.click CNAME .
 *.eriavended.click CNAME .
-eringosdye.com CNAME .
-*.eringosdye.com CNAME .
 eriverwasquitefu.com CNAME .
 *.eriverwasquitefu.com CNAME .
 eriverwasquitefullo.com CNAME .
@@ -34752,8 +34744,6 @@ fistofzeus.com CNAME .
 *.fistofzeus.com CNAME .
 fitbiomie.com CNAME .
 *.fitbiomie.com CNAME .
-fitcenterz.com CNAME .
-*.fitcenterz.com CNAME .
 fithocmeetho.com CNAME .
 *.fithocmeetho.com CNAME .
 fitsazx.xyz CNAME .
@@ -39736,8 +39726,6 @@ hibids10.com CNAME .
 *.hibids10.com CNAME .
 hibiki-track.logica.bz CNAME .
 *.hibiki-track.logica.bz CNAME .
-hicksjaga.top CNAME .
-*.hicksjaga.top CNAME .
 hidden.gogoceleb.com CNAME .
 *.hidden.gogoceleb.com CNAME .
 hiddenparking.pro CNAME .
@@ -48960,8 +48948,6 @@ mankinddemocrat.com CNAME .
 *.mankinddemocrat.com CNAME .
 mannerthiscommissioner.com CNAME .
 *.mannerthiscommissioner.com CNAME .
-manoeuvrestretchingpeer.com CNAME .
-*.manoeuvrestretchingpeer.com CNAME .
 manoirshrine.com CNAME .
 *.manoirshrine.com CNAME .
 manomincasaque.com CNAME .
@@ -64746,8 +64732,6 @@ rva.outbrain.com CNAME .
 *.rva.outbrain.com CNAME .
 rvardsusyseinp.org CNAME .
 *.rvardsusyseinp.org CNAME .
-rvcchbpedltxm.store CNAME .
-*.rvcchbpedltxm.store CNAME .
 rvetreyu.net CNAME .
 *.rvetreyu.net CNAME .
 rvfrm2005.com CNAME .
@@ -65458,8 +65442,6 @@ sancontr.com CNAME .
 *.sancontr.com CNAME .
 sandcomemunica.com CNAME .
 *.sandcomemunica.com CNAME .
-sandedlexicog.shop CNAME .
-*.sandedlexicog.shop CNAME .
 sandelf.com CNAME .
 *.sandelf.com CNAME .
 sandmakingsilver.info CNAME .
@@ -75954,8 +75936,6 @@ trigsfrisky.shop CNAME .
 *.trigsfrisky.shop CNAME .
 trijetsables.shop CNAME .
 *.trijetsables.shop CNAME .
-trikerboughs.com CNAME .
-*.trikerboughs.com CNAME .
 trimpagkygg.com CNAME .
 *.trimpagkygg.com CNAME .
 trimpur.com CNAME .
@@ -83950,8 +83930,6 @@ yuhuads.com CNAME .
 *.yuhuads.com CNAME .
 yuintbradshed.com CNAME .
 *.yuintbradshed.com CNAME .
-yulpgynhusbbret.com CNAME .
-*.yulpgynhusbbret.com CNAME .
 yumenetworks.com CNAME .
 *.yumenetworks.com CNAME .
 yummy-status.pro CNAME .
