@@ -1,16 +1,16 @@
-; Version: 202506121345
+; Version: 202506121421
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84822
-; Last modified: 2025-06-12T13:45:34+0000
+; Entries: 84812
+; Last modified: 2025-06-12T14:21:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749733921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749737521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2878,8 +2878,6 @@ $TTL 30
 *.88129513.xyz CNAME .
 88362zubo95838.com CNAME .
 *.88362zubo95838.com CNAME .
-884de19f2b.com CNAME .
-*.884de19f2b.com CNAME .
 88545539.xyz CNAME .
 *.88545539.xyz CNAME .
 8878tp.com CNAME .
@@ -21914,8 +21912,6 @@ coawashoty.com CNAME .
 *.coawashoty.com CNAME .
 coaxwrote.com CNAME .
 *.coaxwrote.com CNAME .
-cobalten.com CNAME .
-*.cobalten.com CNAME .
 cobaltsanctionyodel.com CNAME .
 *.cobaltsanctionyodel.com CNAME .
 cobblercohog.com CNAME .
@@ -44242,8 +44238,6 @@ jzqscvqlgasxh.buzz CNAME .
 *.jzqscvqlgasxh.buzz CNAME .
 jztwidpixa.icu CNAME .
 *.jztwidpixa.icu CNAME .
-jzvwawvwkwawj.top CNAME .
-*.jzvwawvwkwawj.top CNAME .
 jzxouwszeyhrq.online CNAME .
 *.jzxouwszeyhrq.online CNAME .
 jzykizla.com CNAME .
@@ -46276,8 +46270,6 @@ lhpuvnqyecvkd.icu CNAME .
 *.lhpuvnqyecvkd.icu CNAME .
 lhqmmqmbqtezs.space CNAME .
 *.lhqmmqmbqtezs.space CNAME .
-lhrjmbnkyj.com CNAME .
-*.lhrjmbnkyj.com CNAME .
 lhuwawhcxtltx.space CNAME .
 *.lhuwawhcxtltx.space CNAME .
 lhwimdpdjajfx.rocks CNAME .
@@ -63842,8 +63834,6 @@ rqvrbf.icu CNAME .
 *.rqvrbf.icu CNAME .
 rqwel.com CNAME .
 *.rqwel.com CNAME .
-rqwlvvkoqmkma.top CNAME .
-*.rqwlvvkoqmkma.top CNAME .
 rqyebojzwaywq.top CNAME .
 *.rqyebojzwaywq.top CNAME .
 rqzolelelmayy.top CNAME .
