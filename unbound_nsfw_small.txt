@@ -1,9 +1,9 @@
-# Version: 202506121607
+# Version: 202506121629
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20808
-# Last modified: 2025-06-12T16:07:32+0000
+# Entries: 20811
+# Last modified: 2025-06-12T16:29:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2005,6 +2005,7 @@ local-zone: "beeg.party." always_null
 local-zone: "beeg.porn." always_null
 local-zone: "beeg.tv." always_null
 local-zone: "beeg.works." always_null
+local-zone: "beeg.world." always_null
 local-zone: "beeg1.net." always_null
 local-zone: "beeg24.org." always_null
 local-zone: "beegcom.pro." always_null
@@ -6992,6 +6993,7 @@ local-zone: "hatchresources.com." always_null
 local-zone: "hath.network." always_null
 local-zone: "hayat-schutz.de." always_null
 local-zone: "hayav.com." always_null
+local-zone: "haylinkgame.com." always_null
 local-zone: "haysex.ai." always_null
 local-zone: "haysex.day." always_null
 local-zone: "haysex.us." always_null
@@ -15623,6 +15625,7 @@ local-zone: "sexkontakty.com." always_null
 local-zone: "sexkontakty.cz." always_null
 local-zone: "sexkras.club." always_null
 local-zone: "sexkrd.love." always_null
+local-zone: "sexkupon.com." always_null
 local-zone: "sexkursk.club." always_null
 local-zone: "sexkzn.love." always_null
 local-zone: "sexlaguna.eu." always_null
