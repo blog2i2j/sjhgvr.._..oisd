@@ -1,16 +1,16 @@
-; Version: 202506132027
+; Version: 202506132126
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41986
-; Last modified: 2025-06-13T20:27:14+0000
+; Entries: 41998
+; Last modified: 2025-06-13T21:26:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749845521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749849121 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -3508,6 +3508,8 @@ bad.news CNAME .
 *.bad.news CNAME .
 badanga.org CNAME .
 *.badanga.org CNAME .
+badassdownloader.com CNAME .
+*.badassdownloader.com CNAME .
 badclick.co CNAME .
 *.badclick.co CNAME .
 baddiehub.com CNAME .
@@ -8110,6 +8112,8 @@ desigays.live CNAME .
 *.desigays.live CNAME .
 desigayz.com CNAME .
 *.desigayz.com CNAME .
+desigirl.cc CNAME .
+*.desigirl.cc CNAME .
 desigirlsfuckvidz.com CNAME .
 *.desigirlsfuckvidz.com CNAME .
 desigirlxx.net CNAME .
@@ -11864,6 +11868,8 @@ freescatporn.com CNAME .
 *.freescatporn.com CNAME .
 freescatporntube.com CNAME .
 *.freescatporntube.com CNAME .
+freeservers.com CNAME .
+*.freeservers.com CNAME .
 freesex.pro CNAME .
 *.freesex.pro CNAME .
 freesexarab.com CNAME .
@@ -13478,6 +13484,8 @@ gogonu.com CNAME .
 *.gogonu.com CNAME .
 goindian.net CNAME .
 *.goindian.net CNAME .
+goit.global CNAME .
+*.goit.global CNAME .
 gojav-hd.com CNAME .
 *.gojav-hd.com CNAME .
 goladivka.com CNAME .
@@ -15386,6 +15394,8 @@ honeyteens.biz CNAME .
 *.honeyteens.biz CNAME .
 hoodamateurs.com CNAME .
 *.hoodamateurs.com CNAME .
+hookup.net CNAME .
+*.hookup.net CNAME .
 hookupapp.org CNAME .
 *.hookupapp.org CNAME .
 hookupdaddy.net CNAME .
@@ -38034,6 +38044,8 @@ webcamjackers.com CNAME .
 *.webcamjackers.com CNAME .
 webcampornoxxx.net CNAME .
 *.webcampornoxxx.net CNAME .
+webcamrecs.com CNAME .
+*.webcamrecs.com CNAME .
 webcamrips.to CNAME .
 *.webcamrips.to CNAME .
 webcamsex.nl CNAME .
