@@ -1,16 +1,16 @@
-; Version: 202506131447
+; Version: 202506131527
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41952
-; Last modified: 2025-06-13T14:47:38+0000
+; Entries: 41964
+; Last modified: 2025-06-13T15:27:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749823922 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749827521 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -13772,6 +13772,8 @@ grometsplaza.net CNAME .
 *.grometsplaza.net CNAME .
 grooby.com CNAME .
 *.grooby.com CNAME .
+groobyforum.com CNAME .
+*.groobyforum.com CNAME .
 groobygirls.com CNAME .
 *.groobygirls.com CNAME .
 groupsexxx.com CNAME .
@@ -17294,6 +17296,8 @@ ivenue.com CNAME .
 *.ivenue.com CNAME .
 ivfree.asia CNAME .
 *.ivfree.asia CNAME .
+ivseek.com CNAME .
+*.ivseek.com CNAME .
 ivworld.net CNAME .
 *.ivworld.net CNAME .
 ivx.gallery CNAME .
@@ -22260,6 +22264,8 @@ mshago.com CNAME .
 *.mshago.com CNAME .
 msk-prostitutok.net CNAME .
 *.msk-prostitutok.net CNAME .
+mskgirls.sex CNAME .
+*.mskgirls.sex CNAME .
 mskprostitutok.net CNAME .
 *.mskprostitutok.net CNAME .
 msktelki.net CNAME .
@@ -22316,6 +22322,8 @@ multiporn.me CNAME .
 *.multiporn.me CNAME .
 multivitaminaid.com CNAME .
 *.multivitaminaid.com CNAME .
+multporn.com CNAME .
+*.multporn.com CNAME .
 multporn.net CNAME .
 *.multporn.net CNAME .
 multporn.xxx CNAME .
@@ -33534,6 +33542,8 @@ steamyloves.com CNAME .
 *.steamyloves.com CNAME .
 steamymatches.com CNAME .
 *.steamymatches.com CNAME .
+steamyplay.com CNAME .
+*.steamyplay.com CNAME .
 steezylist.com CNAME .
 *.steezylist.com CNAME .
 stellaplus.xyz CNAME .
@@ -34524,6 +34534,8 @@ telochki.org CNAME .
 *.telochki.org CNAME .
 telrock.net CNAME .
 *.telrock.net CNAME .
+telrock.org CNAME .
+*.telrock.org CNAME .
 telugu-xxx.com CNAME .
 *.telugu-xxx.com CNAME .
 telugu.cyou CNAME .
