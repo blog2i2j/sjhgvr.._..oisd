@@ -1,16 +1,16 @@
-; Version: 202506130424
+; Version: 202506130525
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41764
-; Last modified: 2025-06-13T04:24:56+0000
+; Entries: 41776
+; Last modified: 2025-06-13T05:25:26+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749787921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749791521 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -298,6 +298,8 @@ $TTL 30
 *.1vag.com CNAME .
 1wum.ru CNAME .
 *.1wum.ru CNAME .
+1xbet.com CNAME .
+*.1xbet.com CNAME .
 1xnxx.net CNAME .
 *.1xnxx.net CNAME .
 1xxx.tv CNAME .
@@ -11198,6 +11200,8 @@ findmeadultdates.co.uk CNAME .
 *.findmeadultdates.co.uk CNAME .
 findmyflings.com CNAME .
 *.findmyflings.com CNAME .
+findsav.com CNAME .
+*.findsav.com CNAME .
 findtubes.com CNAME .
 *.findtubes.com CNAME .
 fineporn.net CNAME .
@@ -12600,6 +12604,8 @@ gaycowboydating.com CNAME .
 *.gaycowboydating.com CNAME .
 gaydaddy.com CNAME .
 *.gaydaddy.com CNAME .
+gaydar.net CNAME .
+*.gaydar.net CNAME .
 gaydatingireland.com CNAME .
 *.gaydatingireland.com CNAME .
 gaydatingsites.com.au CNAME .
@@ -16866,6 +16872,8 @@ indoporn.pro CNAME .
 *.indoporn.pro CNAME .
 indosex21.com CNAME .
 *.indosex21.com CNAME .
+indosex21.net CNAME .
+*.indosex21.net CNAME .
 indoxvideos.com CNAME .
 *.indoxvideos.com CNAME .
 indsex.in CNAME .
@@ -19022,6 +19030,8 @@ kumppaniaetsin.com CNAME .
 *.kumppaniaetsin.com CNAME .
 kundun1069.com CNAME .
 *.kundun1069.com CNAME .
+kunmanga.com CNAME .
+*.kunmanga.com CNAME .
 kupid.ai CNAME .
 *.kupid.ai CNAME .
 kupujemprodajem.com CNAME .
@@ -25522,6 +25532,8 @@ playa-games.com CNAME .
 *.playa-games.com CNAME .
 playav.xyz CNAME .
 *.playav.xyz CNAME .
+playblog.ws CNAME .
+*.playblog.ws CNAME .
 playblue.ie CNAME .
 *.playblue.ie CNAME .
 playbokep.ltd CNAME .
@@ -32772,6 +32784,8 @@ singleflirt.com CNAME .
 *.singleflirt.com CNAME .
 singlelogin.re CNAME .
 *.singlelogin.re CNAME .
+singlesmokers.co.uk CNAME .
+*.singlesmokers.co.uk CNAME .
 sinkkuseuraa.com CNAME .
 *.sinkkuseuraa.com CNAME .
 sinnesfeuer.de CNAME .
@@ -37426,8 +37440,6 @@ vn26phimsexhay.com CNAME .
 *.vn26phimsexhay.com CNAME .
 vn6phimsexhay.com CNAME .
 *.vn6phimsexhay.com CNAME .
-vn6phimsexviet.com CNAME .
-*.vn6phimsexviet.com CNAME .
 vn8phimsexhay.com CNAME .
 *.vn8phimsexhay.com CNAME .
 vn8phimsexviet.com CNAME .
