@@ -1,16 +1,16 @@
-; Version: 202506131827
+; Version: 202506131927
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 41994
-; Last modified: 2025-06-13T18:27:30+0000
+; Entries: 42002
+; Last modified: 2025-06-13T19:27:36+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749838321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749841921 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -12794,6 +12794,8 @@ gaymobile.fr CNAME .
 *.gaymobile.fr CNAME .
 gaymovievids.com CNAME .
 *.gaymovievids.com CNAME .
+gaynsk.club CNAME .
+*.gaynsk.club CNAME .
 gaynsk1.xyz CNAME .
 *.gaynsk1.xyz CNAME .
 gayoglasi.com CNAME .
@@ -21990,6 +21992,8 @@ mommysgirl.net CNAME .
 *.mommysgirl.net CNAME .
 mommywhore.com CNAME .
 *.mommywhore.com CNAME .
+momoiro-ch.com CNAME .
+*.momoiro-ch.com CNAME .
 momoiroadult.com CNAME .
 *.momoiroadult.com CNAME .
 momon-ga.com CNAME .
@@ -23314,6 +23318,8 @@ newestxnxx.com CNAME .
 *.newestxnxx.com CNAME .
 newfaceporn.com CNAME .
 *.newfaceporn.com CNAME .
+newhalf.net CNAME .
+*.newhalf.net CNAME .
 newhdxxx.com CNAME .
 *.newhdxxx.com CNAME .
 newindiantube.mobi CNAME .
@@ -27634,6 +27640,8 @@ pornond.biz CNAME .
 *.pornond.biz CNAME .
 pornond.info CNAME .
 *.pornond.info CNAME .
+pornond.name CNAME .
+*.pornond.name CNAME .
 pornond.net CNAME .
 *.pornond.net CNAME .
 pornone.com CNAME .
@@ -31178,8 +31186,6 @@ sexcartoontube.com CNAME .
 *.sexcartoontube.com CNAME .
 sexcash.com CNAME .
 *.sexcash.com CNAME .
-sexcelebrity.ai CNAME .
-*.sexcelebrity.ai CNAME .
 sexcelebrity.net CNAME .
 *.sexcelebrity.net CNAME .
 sexcelebrity.tv CNAME .
@@ -41998,6 +42004,8 @@ zzgays.com CNAME .
 *.zzgays.com CNAME .
 zzhentai.com CNAME .
 *.zzhentai.com CNAME .
+zzpornozz.xyz CNAME .
+*.zzpornozz.xyz CNAME .
 zzup.com CNAME .
 *.zzup.com CNAME .
 zzxxtra.com CNAME .
