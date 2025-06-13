@@ -1,16 +1,16 @@
-; Version: 202506131019
+; Version: 202506131120
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84406
-; Last modified: 2025-06-13T10:19:48+0000
+; Entries: 84364
+; Last modified: 2025-06-13T11:20:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749809521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749813122 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3040,8 +3040,6 @@ $TTL 30
 *.9135fec6cb.f026a8e109.com CNAME .
 9179ef7ec3.6778056ac3.com CNAME .
 *.9179ef7ec3.6778056ac3.com CNAME .
-917c626609.com CNAME .
-*.917c626609.com CNAME .
 918000.xyz CNAME .
 *.918000.xyz CNAME .
 91cd3khn.de CNAME .
@@ -4818,8 +4816,6 @@ actuanius.com CNAME .
 *.actuanius.com CNAME .
 actulite.com CNAME .
 *.actulite.com CNAME .
-acuchiunquert.com CNAME .
-*.acuchiunquert.com CNAME .
 acuityads.com CNAME .
 *.acuityads.com CNAME .
 acuityplatform.com CNAME .
@@ -8784,8 +8780,6 @@ affablelabel.com CNAME .
 *.affablelabel.com CNAME .
 affairrocket.com CNAME .
 *.affairrocket.com CNAME .
-affairsthin.com CNAME .
-*.affairsthin.com CNAME .
 affbot1.com CNAME .
 *.affbot1.com CNAME .
 affbot3.com CNAME .
@@ -13014,8 +13008,6 @@ arjokas.com CNAME .
 *.arjokas.com CNAME .
 arjunbeatee.shop CNAME .
 *.arjunbeatee.shop CNAME .
-arkabstoppit.com CNAME .
-*.arkabstoppit.com CNAME .
 arkcalamity.com CNAME .
 *.arkcalamity.com CNAME .
 arkdcz.com CNAME .
@@ -14566,8 +14558,6 @@ azzmachhomri.com CNAME .
 *.azzmachhomri.com CNAME .
 b-1st.com CNAME .
 *.b-1st.com CNAME .
-b-5-shield.com CNAME .
-*.b-5-shield.com CNAME .
 b-aws.aol.com CNAME .
 *.b-aws.aol.com CNAME .
 b-m.xyz CNAME .
@@ -15792,8 +15782,6 @@ beardkingcup.top CNAME .
 *.beardkingcup.top CNAME .
 beardyapii.com CNAME .
 *.beardyapii.com CNAME .
-bearerdarkfiscal.com CNAME .
-*.bearerdarkfiscal.com CNAME .
 bearinggall.com CNAME .
 *.bearinggall.com CNAME .
 bearscutte.com CNAME .
@@ -19112,8 +19100,6 @@ captchafine.live CNAME .
 *.captchafine.live CNAME .
 captionconjecture.com CNAME .
 *.captionconjecture.com CNAME .
-captivatepestilentstormy.com CNAME .
-*.captivatepestilentstormy.com CNAME .
 captiveatmospheric.com CNAME .
 *.captiveatmospheric.com CNAME .
 captiveimpossibleimport.com CNAME .
@@ -19944,8 +19930,6 @@ cdnappicons.appsflyer.com CNAME .
 *.cdnappicons.appsflyer.com CNAME .
 cdnativ.com CNAME .
 *.cdnativ.com CNAME .
-cdnativepush.com CNAME .
-*.cdnativepush.com CNAME .
 cdnboostcache.com CNAME .
 *.cdnboostcache.com CNAME .
 cdnfimgs.com CNAME .
@@ -21002,8 +20986,6 @@ classic-bonus.com CNAME .
 *.classic-bonus.com CNAME .
 classic.39health.com CNAME .
 *.classic.39health.com CNAME .
-classickalunti.com CNAME .
-*.classickalunti.com CNAME .
 classicnumeralsascertained.com CNAME .
 *.classicnumeralsascertained.com CNAME .
 clauseemploy.com CNAME .
@@ -32988,8 +32970,6 @@ exe.bid CNAME .
 *.exe.bid CNAME .
 executeabattoir.com CNAME .
 *.executeabattoir.com CNAME .
-executionago.com CNAME .
-*.executionago.com CNAME .
 exejfbqkavbst.rocks CNAME .
 *.exejfbqkavbst.rocks CNAME .
 exelator.com CNAME .
@@ -44852,8 +44832,6 @@ koiaripolymny.com CNAME .
 *.koiaripolymny.com CNAME .
 koindut.com CNAME .
 *.koindut.com CNAME .
-koipatolipper.com CNAME .
-*.koipatolipper.com CNAME .
 kok.eroterest.net CNAME .
 *.kok.eroterest.net CNAME .
 kokflrflwarlx.today CNAME .
@@ -48626,8 +48604,6 @@ mailderef.mail.com CNAME .
 *.mailderef.mail.com CNAME .
 mailmunch.s3.amazonaws.com CNAME .
 *.mailmunch.s3.amazonaws.com CNAME .
-maimspeller.com CNAME .
-*.maimspeller.com CNAME .
 main-ti-cod.com CNAME .
 *.main-ti-cod.com CNAME .
 main.jiukang.org CNAME .
@@ -54200,8 +54176,6 @@ ofhappinyer.com CNAME .
 *.ofhappinyer.com CNAME .
 ofhisladyloveheh.com CNAME .
 *.ofhisladyloveheh.com CNAME .
-ofhunch.com CNAME .
-*.ofhunch.com CNAME .
 ofhypnoer.com CNAME .
 *.ofhypnoer.com CNAME .
 ofklefkian.com CNAME .
@@ -60608,8 +60582,6 @@ qc.japo.vn CNAME .
 *.qc.japo.vn CNAME .
 qc.kqbd88.com CNAME .
 *.qc.kqbd88.com CNAME .
-qc.ultraviewer.net CNAME .
-*.qc.ultraviewer.net CNAME .
 qc.violet.vn CNAME .
 *.qc.violet.vn CNAME .
 qc1.cheshipin.com CNAME .
@@ -65508,8 +65480,6 @@ scholarsslate.com CNAME .
 *.scholarsslate.com CNAME .
 schoolhangoverearlier.com CNAME .
 *.schoolhangoverearlier.com CNAME .
-schoolmasterconveyedladies.com CNAME .
-*.schoolmasterconveyedladies.com CNAME .
 sciadopi5tysverticil1lata.com CNAME .
 *.sciadopi5tysverticil1lata.com CNAME .
 scidationgly.com CNAME .
@@ -67410,8 +67380,6 @@ slashstar.net CNAME .
 *.slashstar.net CNAME .
 slatecharm.co CNAME .
 *.slatecharm.co CNAME .
-slaughterscholaroblique.com CNAME .
-*.slaughterscholaroblique.com CNAME .
 slavesubmarinebribery.com CNAME .
 *.slavesubmarinebribery.com CNAME .
 slb-p2p.vcloud.ks-live.com CNAME .
@@ -67680,8 +67648,6 @@ smkezc.com CNAME .
 *.smkezc.com CNAME .
 smlypotr.net CNAME .
 *.smlypotr.net CNAME .
-smokecreaseunpack.com CNAME .
-*.smokecreaseunpack.com CNAME .
 smooth-marriage.com CNAME .
 *.smooth-marriage.com CNAME .
 smotherpeppermint.com CNAME .
@@ -73042,8 +73008,6 @@ thongke.bookingcare.vn CNAME .
 *.thongke.bookingcare.vn CNAME .
 thongke.opencps.vn CNAME .
 *.thongke.opencps.vn CNAME .
-thongke.tcdulichtphcm.vn CNAME .
-*.thongke.tcdulichtphcm.vn CNAME .
 thongke.thethaovanhoa.vn CNAME .
 *.thongke.thethaovanhoa.vn CNAME .
 thongke99.baogiaothong.vn CNAME .
@@ -78148,8 +78112,6 @@ velti.com CNAME .
 *.velti.com CNAME .
 velvetdock.com CNAME .
 *.velvetdock.com CNAME .
-velvzzjayrklq.top CNAME .
-*.velvzzjayrklq.top CNAME .
 vempeeda.com CNAME .
 *.vempeeda.com CNAME .
 vemtoutcheeg.com CNAME .
@@ -83916,8 +83878,6 @@ zeratys.com CNAME .
 *.zeratys.com CNAME .
 zercenius.com CNAME .
 *.zercenius.com CNAME .
-zerg.pro CNAME .
-*.zerg.pro CNAME .
 zestfulpate.click CNAME .
 *.zestfulpate.click CNAME .
 zestpocosin.com CNAME .
@@ -84128,8 +84088,6 @@ zmysashrep.com CNAME .
 *.zmysashrep.com CNAME .
 zmytkaoh.com CNAME .
 *.zmytkaoh.com CNAME .
-zmzwloelrajaj.top CNAME .
-*.zmzwloelrajaj.top CNAME .
 zng.com CNAME .
 *.zng.com CNAME .
 zniwiarz.topagrar.pl CNAME .
