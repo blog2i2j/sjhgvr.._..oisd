@@ -1,16 +1,16 @@
-; Version: 202506131441
+; Version: 202506131520
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84394
-; Last modified: 2025-06-13T14:41:40+0000
+; Entries: 84388
+; Last modified: 2025-06-13T15:20:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749823922 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749827521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15430,8 +15430,6 @@ battle1266.fun CNAME .
 *.battle1266.fun CNAME .
 battleautomobile.com CNAME .
 *.battleautomobile.com CNAME .
-baubogla.com CNAME .
-*.baubogla.com CNAME .
 bauchleredries.com CNAME .
 *.bauchleredries.com CNAME .
 baumtvndvncob.rocks CNAME .
@@ -28934,8 +28932,6 @@ divekcl7q9fxi.cloudfront.net CNAME .
 *.divekcl7q9fxi.cloudfront.net CNAME .
 diverhaul.com CNAME .
 *.diverhaul.com CNAME .
-divetroubledloud.com CNAME .
-*.divetroubledloud.com CNAME .
 dividedkidblur.com CNAME .
 *.dividedkidblur.com CNAME .
 dividedscientific.com CNAME .
@@ -67754,8 +67750,6 @@ snoopundesirable.com CNAME .
 *.snoopundesirable.com CNAME .
 snoopy-incident.com CNAME .
 *.snoopy-incident.com CNAME .
-snorefamiliarsiege.com CNAME .
-*.snorefamiliarsiege.com CNAME .
 snortedbingo.com CNAME .
 *.snortedbingo.com CNAME .
 snotabilit.live CNAME .
