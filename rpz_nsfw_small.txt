@@ -1,16 +1,16 @@
-; Version: 202506132227
+; Version: 202506132326
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42014
-; Last modified: 2025-06-13T22:27:05+0000
+; Entries: 42020
+; Last modified: 2025-06-13T23:26:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749852721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749856321 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -7316,6 +7316,8 @@ coroagostosa.club CNAME .
 *.coroagostosa.club CNAME .
 coroascaseiras.com CNAME .
 *.coroascaseiras.com CNAME .
+corona.com CNAME .
+*.corona.com CNAME .
 corporal.com CNAME .
 *.corporal.com CNAME .
 cosblay.com CNAME .
@@ -8358,6 +8360,8 @@ dezyred.com CNAME .
 *.dezyred.com CNAME .
 dfamosas.net CNAME .
 *.dfamosas.net CNAME .
+dfans.xyz CNAME .
+*.dfans.xyz CNAME .
 dfdude.com CNAME .
 *.dfdude.com CNAME .
 dfxtra.com CNAME .
@@ -8826,8 +8830,6 @@ dougle.one CNAME .
 *.dougle.one CNAME .
 doujin-eiku.com CNAME .
 *.doujin-eiku.com CNAME .
-doujin-freee.com CNAME .
-*.doujin-freee.com CNAME .
 doujin-new.com CNAME .
 *.doujin-new.com CNAME .
 doujin-th.com CNAME .
@@ -11242,6 +11244,8 @@ findgaytube.com CNAME .
 *.findgaytube.com CNAME .
 findhername.net CNAME .
 *.findhername.net CNAME .
+findhussies.com CNAME .
+*.findhussies.com CNAME .
 findlocalhookup.com CNAME .
 *.findlocalhookup.com CNAME .
 findmate.app CNAME .
@@ -18578,8 +18582,6 @@ kaldata.com CNAME .
 *.kaldata.com CNAME .
 kalite18.net CNAME .
 *.kalite18.net CNAME .
-kalp-escort.com CNAME .
-*.kalp-escort.com CNAME .
 kalporn.com CNAME .
 *.kalporn.com CNAME .
 kalyteroporno.com CNAME .
@@ -22480,6 +22482,8 @@ mybdsmchat.com CNAME .
 *.mybdsmchat.com CNAME .
 mybeegsex.com CNAME .
 *.mybeegsex.com CNAME .
+mybestgigolo.com CNAME .
+*.mybestgigolo.com CNAME .
 mybestxtube.com CNAME .
 *.mybestxtube.com CNAME .
 mybigtitsbabes.com CNAME .
@@ -32746,6 +32750,8 @@ shemaletube.tv CNAME .
 *.shemaletube.tv CNAME .
 shemaletubes.tv CNAME .
 *.shemaletubes.tv CNAME .
+shemaletubesite.com CNAME .
+*.shemaletubesite.com CNAME .
 shemaletubevideos.com CNAME .
 *.shemaletubevideos.com CNAME .
 shemaleup.net CNAME .
