@@ -1,16 +1,16 @@
-; Version: 202506141535
+; Version: 202506141626
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42200
-; Last modified: 2025-06-14T15:35:30+0000
+; Entries: 42212
+; Last modified: 2025-06-14T16:26:34+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749913921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749917521 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -13650,6 +13650,8 @@ goodav17.com CNAME .
 *.goodav17.com CNAME .
 goodcum.com CNAME .
 *.goodcum.com CNAME .
+gooddata.com CNAME .
+*.gooddata.com CNAME .
 goodgayporn.com CNAME .
 *.goodgayporn.com CNAME .
 goodindianporn.net CNAME .
@@ -20896,6 +20898,8 @@ manytoon.me CNAME .
 *.manytoon.me CNAME .
 manyvids.com CNAME .
 *.manyvids.com CNAME .
+maomiav.one CNAME .
+*.maomiav.one CNAME .
 maqola.ru CNAME .
 *.maqola.ru CNAME .
 maqolalar.ru CNAME .
@@ -28532,6 +28536,8 @@ pornworldtv.com CNAME .
 *.pornworldtv.com CNAME .
 pornworms.com CNAME .
 *.pornworms.com CNAME .
+pornx.co CNAME .
+*.pornx.co CNAME .
 pornx.rip CNAME .
 *.pornx.rip CNAME .
 pornx.to CNAME .
@@ -30336,6 +30342,8 @@ rusdevka.pro CNAME .
 *.rusdevka.pro CNAME .
 rusdosug.click CNAME .
 *.rusdosug.click CNAME .
+rusescorto.com CNAME .
+*.rusescorto.com CNAME .
 rusexvideo.com CNAME .
 *.rusexvideo.com CNAME .
 rusmillion.ru CNAME .
@@ -31356,6 +31364,8 @@ sexchat.hu CNAME .
 *.sexchat.hu CNAME .
 sexchat.me CNAME .
 *.sexchat.me CNAME .
+sexchat.onl CNAME .
+*.sexchat.onl CNAME .
 sexchat.sk CNAME .
 *.sexchat.sk CNAME .
 sexchats.ru CNAME .
@@ -31680,6 +31690,8 @@ sexlauxanh.art CNAME .
 *.sexlauxanh.art CNAME .
 sexlauxanh.wiki CNAME .
 *.sexlauxanh.wiki CNAME .
+sexleave.com CNAME .
+*.sexleave.com CNAME .
 sexlek.nl CNAME .
 *.sexlek.nl CNAME .
 sexlikereal.com CNAME .
