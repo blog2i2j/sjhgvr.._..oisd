@@ -1,16 +1,16 @@
-; Version: 202506140524
+; Version: 202506140625
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42080
-; Last modified: 2025-06-14T05:24:25+0000
+; Entries: 42088
+; Last modified: 2025-06-14T06:25:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749877921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749881521 86400 3600 604800 30
  NS localhost.
 01tube.com CNAME .
 *.01tube.com CNAME .
@@ -13470,6 +13470,8 @@ gntai.net CNAME .
 *.gntai.net CNAME .
 gnula.nu CNAME .
 *.gnula.nu CNAME .
+gnulahd.nu CNAME .
+*.gnulahd.nu CNAME .
 gnulaseries.nu CNAME .
 *.gnulaseries.nu CNAME .
 go-gaytube.com CNAME .
@@ -19308,6 +19310,8 @@ langtrees.com CNAME .
 *.langtrees.com CNAME .
 lankasri.com CNAME .
 *.lankasri.com CNAME .
+lap.hu CNAME .
+*.lap.hu CNAME .
 lapkjogos.com CNAME .
 *.lapkjogos.com CNAME .
 lapkzone.com CNAME .
@@ -22270,6 +22274,8 @@ movzer.com CNAME .
 *.movzer.com CNAME .
 mozaka.com CNAME .
 *.mozaka.com CNAME .
+mp4.center CNAME .
+*.mp4.center CNAME .
 mp4hentai.com CNAME .
 *.mp4hentai.com CNAME .
 mp4porn.rip CNAME .
@@ -27268,6 +27274,8 @@ pornobolt.vip CNAME .
 *.pornobolt.vip CNAME .
 pornobomba.club CNAME .
 *.pornobomba.club CNAME .
+pornobomba.co CNAME .
+*.pornobomba.co CNAME .
 pornobomba.in CNAME .
 *.pornobomba.in CNAME .
 pornobomba.link CNAME .
