@@ -1,9 +1,9 @@
-# Version: 202506132326
+# Version: 202506140025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21010
-# Last modified: 2025-06-13T23:26:25+0000
+# Entries: 21011
+# Last modified: 2025-06-14T00:25:01+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8532,6 +8532,7 @@ local-zone: "insta-sex.com." always_null
 local-zone: "instabang.com." always_null
 local-zone: "instahentai.com." always_null
 local-zone: "instahookups.com." always_null
+local-zone: "instahookups.org." always_null
 local-zone: "instakink.com." always_null
 local-zone: "instant-hookups.com." always_null
 local-zone: "instantcum.com." always_null
