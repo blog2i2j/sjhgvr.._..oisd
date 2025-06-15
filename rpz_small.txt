@@ -1,16 +1,16 @@
-; Version: 202506150920
+; Version: 202506151020
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84724
-; Last modified: 2025-06-15T09:20:24+0000
+; Entries: 84720
+; Last modified: 2025-06-15T10:20:21+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749978721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749982321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13986,8 +13986,6 @@ aubpcunw.com CNAME .
 *.aubpcunw.com CNAME .
 auburn9819.com CNAME .
 *.auburn9819.com CNAME .
-aubxktrpbesh.com CNAME .
-*.aubxktrpbesh.com CNAME .
 auchoahy.net CNAME .
 *.auchoahy.net CNAME .
 aucmoartoas.com CNAME .
@@ -31876,8 +31874,6 @@ embankmentbrand.com CNAME .
 *.embankmentbrand.com CNAME .
 embarkvision.top CNAME .
 *.embarkvision.top CNAME .
-embarrassment2.fun CNAME .
-*.embarrassment2.fun CNAME .
 embeamratline.top CNAME .
 *.embeamratline.top CNAME .
 embedx.name CNAME .
