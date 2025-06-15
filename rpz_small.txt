@@ -1,16 +1,16 @@
-; Version: 202506151320
+; Version: 202506151420
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84702
-; Last modified: 2025-06-15T13:20:12+0000
+; Entries: 84692
+; Last modified: 2025-06-15T14:20:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749993122 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749996722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33648,8 +33648,6 @@ fairmonks.com CNAME .
 *.fairmonks.com CNAME .
 fairnessels.com CNAME .
 *.fairnessels.com CNAME .
-faisaphoofa.net CNAME .
-*.faisaphoofa.net CNAME .
 faishoar.com CNAME .
 *.faishoar.com CNAME .
 faithaiy.com CNAME .
@@ -40672,8 +40670,6 @@ httpool.com CNAME .
 *.httpool.com CNAME .
 htxwzp.xyz CNAME .
 *.htxwzp.xyz CNAME .
-huafcptjxkzn.com CNAME .
-*.huafcptjxkzn.com CNAME .
 huapydce.xyz CNAME .
 *.huapydce.xyz CNAME .
 huawoyjmdtyag.love CNAME .
@@ -56502,8 +56498,6 @@ palliwaklgz.com CNAME .
 *.palliwaklgz.com CNAME .
 pallorirony.com CNAME .
 *.pallorirony.com CNAME .
-palmkindnesspee.com CNAME .
-*.palmkindnesspee.com CNAME .
 palmmalice.com CNAME .
 *.palmmalice.com CNAME .
 palofvqp.com CNAME .
@@ -71456,8 +71450,6 @@ swan.visualma.com CNAME .
 *.swan.visualma.com CNAME .
 swanbxca.com CNAME .
 *.swanbxca.com CNAME .
-swansinksnow.com CNAME .
-*.swansinksnow.com CNAME .
 swardflawed.click CNAME .
 *.swardflawed.click CNAME .
 swarfamlikar.com CNAME .
@@ -73590,8 +73582,6 @@ tirepoliticsspeedometer.com CNAME .
 *.tirepoliticsspeedometer.com CNAME .
 tiresomemarkstwelve.com CNAME .
 *.tiresomemarkstwelve.com CNAME .
-tiresomereluctantlydistinctly.com CNAME .
-*.tiresomereluctantlydistinctly.com CNAME .
 tissualfrosted.top CNAME .
 *.tissualfrosted.top CNAME .
 tissueinstitution.com CNAME .
