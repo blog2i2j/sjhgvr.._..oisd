@@ -1,16 +1,16 @@
-; Version: 202506150520
+; Version: 202506150619
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84662
-; Last modified: 2025-06-15T05:20:04+0000
+; Entries: 84656
+; Last modified: 2025-06-15T06:19:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749964321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749967922 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -33084,8 +33084,6 @@ exaltationinsufficientintentional.com CNAME .
 *.exaltationinsufficientintentional.com CNAME .
 exaltedsleep.com CNAME .
 *.exaltedsleep.com CNAME .
-examsupdatesupple.com CNAME .
-*.examsupdatesupple.com CNAME .
 exasperationincorporate.com CNAME .
 *.exasperationincorporate.com CNAME .
 exasrv.com CNAME .
@@ -43040,8 +43038,6 @@ izlok.xyz CNAME .
 *.izlok.xyz CNAME .
 izrnvo.com CNAME .
 *.izrnvo.com CNAME .
-izvtmrynby.com CNAME .
-*.izvtmrynby.com CNAME .
 j-mxponyz.love CNAME .
 *.j-mxponyz.love CNAME .
 j.baminw.cn CNAME .
@@ -44358,8 +44354,6 @@ kantiwl.com CNAME .
 *.kantiwl.com CNAME .
 kaolinoleous.com CNAME .
 *.kaolinoleous.com CNAME .
-kaorpyqtjjld.com CNAME .
-*.kaorpyqtjjld.com CNAME .
 kapetracking.com CNAME .
 *.kapetracking.com CNAME .
 kapitalrus.ru CNAME .
