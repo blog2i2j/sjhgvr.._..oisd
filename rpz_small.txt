@@ -1,16 +1,16 @@
-; Version: 202506151721
+; Version: 202506151855
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84856
-; Last modified: 2025-06-15T17:21:22+0000
+; Entries: 84852
+; Last modified: 2025-06-15T18:55:48+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1750007521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1750011121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -50622,8 +50622,6 @@ mjfcv.club CNAME .
 *.mjfcv.club CNAME .
 mjibyihlwjsww.com CNAME .
 *.mjibyihlwjsww.com CNAME .
-mjmirkbsaf.com CNAME .
-*.mjmirkbsaf.com CNAME .
 mjpvukdc.com CNAME .
 *.mjpvukdc.com CNAME .
 mjxlfwvirjmt.com CNAME .
@@ -62584,8 +62582,6 @@ reguid.com CNAME .
 *.reguid.com CNAME .
 regulationprivilegescan.top CNAME .
 *.regulationprivilegescan.top CNAME .
-regulushamal.top CNAME .
-*.regulushamal.top CNAME .
 rehauljasmine.com CNAME .
 *.rehauljasmine.com CNAME .
 rehearsejuniorloaded.com CNAME .
