@@ -1,16 +1,16 @@
-; Version: 202506151220
+; Version: 202506151320
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 84710
-; Last modified: 2025-06-15T12:20:23+0000
+; Entries: 84702
+; Last modified: 2025-06-15T13:20:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749989521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1749993122 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3832,8 +3832,6 @@ a5bdd2e40a.5e782aa4c4.com CNAME .
 *.a5bdd2e40a.5e782aa4c4.com CNAME .
 a5d2d040.xyz CNAME .
 *.a5d2d040.xyz CNAME .
-a5ddb5cd30.com CNAME .
-*.a5ddb5cd30.com CNAME .
 a5game.win CNAME .
 *.a5game.win CNAME .
 a5jogo.biz CNAME .
@@ -17952,8 +17950,6 @@ bronze-leather.com CNAME .
 *.bronze-leather.com CNAME .
 bronzecedarleaf.com CNAME .
 *.bronzecedarleaf.com CNAME .
-bronzeinside.com CNAME .
-*.bronzeinside.com CNAME .
 bronzerkevil.com CNAME .
 *.bronzerkevil.com CNAME .
 broredir1s.site CNAME .
@@ -55784,8 +55780,6 @@ otvnwagpia.com CNAME .
 *.otvnwagpia.com CNAME .
 otvovcossru.com CNAME .
 *.otvovcossru.com CNAME .
-otwqvqla.com CNAME .
-*.otwqvqla.com CNAME .
 otzo.com CNAME .
 *.otzo.com CNAME .
 oubqwkmhrcpat.fun CNAME .
@@ -77150,8 +77144,6 @@ ulogs2.ksapisrv.com CNAME .
 *.ulogs2.ksapisrv.com CNAME .
 ultimateclixx.com CNAME .
 *.ultimateclixx.com CNAME .
-ultimatefatiguehistorical.com CNAME .
-*.ultimatefatiguehistorical.com CNAME .
 ultimatelydiscourse.com CNAME .
 *.ultimatelydiscourse.com CNAME .
 ultoftheplansaimtit.org CNAME .
